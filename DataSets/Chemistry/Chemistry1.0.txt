@@ -1,0 +1,179 @@
+Chemistry is the science of matter, especially its properties, structure, composition, behavior, reactions, interactions and the changes it undergoes.	Ẹ̀kọ́ Ẹlà jẹ́ ẹ̀kọ́ ìmọ̀-jinlẹ̀ ti ẹ̀dá, pápàá, ti ìṣesí, ètò-inú, ohun-inú, ìṣèwàhù, àsè, ìbáraṣepọ̀ àti àwọn ìyípadà tó má nní.
+Chemistry is sometimes called the central science because it connects physics with other natural sciences.	A máa npè ẹ̀kọ́-ẹlà ní ìmọ̀-jinlẹ̀ t'àárín nítorí òun ló ṣe àsopọ̀ àwọn ẹ̀kọ́-ẹ̀dá pẹ̀lú àwọn ìmọ̀-jinlẹ̀ míràn.
+Chemistry is the study of matter and energy and the interactions between them.	Ẹ̀kọ́ ẹlà jẹ́ ẹ̀kọ́ àwọn ẹ̀dá, agbára àti àwọn ìbáraṣepọ̀ tó wà láarín wọn.
+A chemical reaction is a process that leads to the transformation of one set of chemical substances to another.	Àsè ẹlà jẹ́ ìlànà bí àwọn ìjọ ẹ̀dá kan ṣe nparadà sí àwọn ìjọ ẹ̀dá miran.
+A chemical equation is the symbolic representation of a chemical reaction.	Ọ̀mì ẹlà jẹ́ àmì àpẹrẹ àsè ẹlà.
+In a chemical equation, the reactant entities are given on the left hand side and the product entities on the right hand side.	Ní ọ̀mì ẹlà, a fi àwọn èsè-àsè sí apá òsì tí a sì fi àwọn ẹ̀sún-àsè sí apá ọ̀tún.
+Chemical composition refers to the arrangement, type and ratio of atoms in molecules of substances.	Ètò Ohun-inú ẹlà túmọ̀ sí ètò, oríṣi àti ìbùpín àwọn átọ̀mù tó wà nínu mólékù àwọn ẹ̀dá.
+Chemical synthesis is purposeful execution of chemical reactions to get a product, or several products.	Ìṣẹ̀dá ẹlà jẹ́ ìlànà tí a mọ̀ọ́mọ̀ gbà se àsè láti ní ẹ̀sún tàbí àwọn ẹ̀sún tí a nfẹ́.
+Acids have a sour taste and can turn litmus paper red.	Àwọn ẹ̀kan ní adùn kíkorò wọn sì lè sọ ìwé lítmọ́ọ̀sì di pupa.
+Bases have a bitter taste and can turn litmus paper blue.	Àwọn ègbo ní adùn kíkorò wọn sì lè sọ ìwé lítmọ́ọ̀sì di àwọ̀ àyìnrín.
+A solution is formed when a solute dissolves in a solvent.	Àpòpọ̀ jẹ́ ohun tí a ní nígbàtí gbẹrẹfun bá yọ́ sínú èpò.
+The concentration of a solution indicates how much solute is dissolved in a specific amount of solvent.	Ìdọ̀ti àpòpọ̀ fi hàn bí gbẹrẹfun ṣe pọ̀ tó ní inú iye èpò kan.
+Mixtures contain two or more substances that are not chemically combined.	Àwọn àkópọ̀ ní méjì tàbí jù bẹ́ẹ̀ lọ nínú àwọn ẹ̀dá tí kò papọ̀ ní ọ̀nà ẹlà.
+Compounds are substances made up of two or more elements that are chemically combined.	Àwọn àsèpọ̀ jẹ́ àwọn ẹ̀dá tí a ṣe pẹ̀lú méjì tàbí jù bẹ́ẹ̀ lọ nínú àwọn ìṣù-átọ̀mù tí wọ́n papọ̀ ní ọ̀nà ẹlà.
+An element is a substance that cannot be broken down into simpler substances.	Ìṣù-átọ̀mù jẹ́ ẹ̀dá tí a kò lè fọ́ sí àwọn ẹ̀dá tí ó rọrùn ju.
+The periodic table organizes all the known elements based on their properties.	Tábìlì àyíká́ to gbogbo àwọn ìṣù-átọ̀mù tí a mọ̀ dá lórí àwọn ìṣesí wọn.
+Atoms are the basic units of matter and consist of a nucleus surrounded by electrons.	Àwọn átọ̀mù jẹ́ àwọn ẹyọ ìpilẹ̀ ẹ̀dá, wọ́n sì ní àgọ́ tí àwọn ẹlẹ́ktrọ́nù yí ká.
+The nucleus of an atom contains protons and neutrons.	Àgọ́ átọ̀mù ní àwọn pírótọ̀nù àti niútírọ̀nù.
+Electrons orbit around the nucleus of an atom.	Àwọn ẹlẹ́ktrọ́nù yí àgọ́ átọ̀mù ká.
+Protons carry a positive charge.	Àwọn pírótọ̀nù gbe àmì ìdájúdá.
+Neutrons have no electrical charge.	Àwọn niútírọ̀nù kò ní àmì okun-àrá kankan.
+Electrons carry a negative charge.	Àwọn ẹlẹ́ktrọ́nù gbe àmì ìdájúrò.
+The atomic number of an element is the number of protons in its nucleus.	Nọ́mbà átọ̀mù ìṣù-átọ̀mù kan jẹ́ iye àwọn pírótọ̀nù nínú àgọ́ rẹ̀.
+The mass number of an atom is the sum of the number of protons and neutrons in its nucleus.	Nọ́mbà ìwọ̀n-okun átọ̀mù kan jẹ́ àpapọ̀ iye àwọn pírótọ̀nù àti niútírọ̀nù nínú àgọ́ rẹ̀.
+Isotopes are atoms of the same element with different numbers of neutrons.	Àwọn ísótópù jẹ́ àwọn átọ̀mù ìṣù-átọ̀mù kannáà pẹ̀lú oríṣiríṣi iye àwọn niútírọ̀nù.
+Molecules are formed when two or more atoms join together.	Àwọn mólékù jẹ́ èyí tí a ní nígbàtí méjì tàbí jù bẹ́ẹ̀ lọ nínú àwọn átọ̀mù bá papọ̀.
+A covalent bond is formed when atoms share electrons.	Ìsopọ̀ ìfipínhàn jẹ́ èyí tí a ní nígbàtí àwọn átọ̀mù bá ńpín àwọn ẹlẹ́ktrọ́nù.
+An ionic bond is formed when electrons are transferred from one atom to another.	Ìsopọ̀ áyọ́nìkì jẹ́ èyí tí a ní nígbàtí àwọn ẹlẹ́ktrọ́nù bá ńgbé láti átọ̀mù kan sí òmíràn.
+A metallic bond is formed between metal atoms.	Ìsopọ̀ àlùrọ jẹ́ èyí tí a ní láàrín àwọn átọ̀mù àlùrọ.
+Acids and bases react together to form a salt and water.	Àwọn ẹ̀kan àti ègbo ṣe àsè papọ̀ láti ṣe iyọ̀ àti omi.
+Oxidation is the loss of electrons by a molecule, atom or ion.	Ìfóksídù jẹ́ pípò àwọn ẹlẹ́ktrọ́nù lọ́wọ́ mólékù, átọ̀mù tàbí áyọ́nù.
+Reduction is the gain of electrons by a molecule, atom or ion.	Ìdínkù jẹ́ gbígba àwọn ẹlẹ́ktrọ́nù lọ́wọ́ mólékù, átọ̀mù tàbí áyọ́nù.
+Oxidation and reduction always occur together in a reaction.	Ìfóksídù àti ìdínkù máa nwáyé papọ̀ nígbà gbogbo nínú àsè kan.
+A redox reaction involves the transfer of electrons between two species.	Àsè ìfóksídù-ìdínkù ní ṣíṣe pẹ̀lú ṣíṣe ìgbé àwọn ẹlẹ́ktrọ́nù láàrín àwọn ẹ̀yà méjì.
+A catalyst is a substance that increases the rate of a chemical reaction without being consumed.	Àyásè jẹ́ ẹ̀dá tí ó nmu ìyásí àsè ẹlà sókè láìjẹ́ pé a nlò ó.
+Exothermic reactions release energy to the surroundings.	Àwọn àsè afaná túsílẹ̀ agbára sí àyíká.
+Endothermic reactions absorb energy from the surroundings.	Àwọn àsè aloná fa agbára mú láti àyíká.
+The pH scale measures the acidity or alkalinity of a solution.	Ìpẹ̀kan wọn rírun tàbí ríṣe ègbo àpòpọ̀ kan.
+A solution with a pH less than 7 is acidic.	Àpòpọ̀ pẹ̀lú ìpẹ̀kan tí ó kéré ju 7 lọ jẹ́ elẹ̀kan.
+A solution with a pH greater than 7 is basic (alkaline).	Àpòpọ̀ pẹ̀lú ìpẹ̀kan tí ó pọ̀ ju 7 lọ jẹ́ elègbo.
+A solution with a pH of 7 is neutral.	Àpòpọ̀ pẹ̀lú ìpẹ̀kan 7 jẹ́ àìsí apá kan.
+The rate of a chemical reaction is influenced by temperature, concentration, surface area, and the presence of catalysts.	Ìyásí àsè ẹlà gba ipa láti ọwọ́ ìgbóná, ìdọ̀ti, òrò ojú, àti ìwà àwọn àyásè.
+Organic chemistry is the study of carbon compounds.	Ẹ̀kọ́ ẹlà-eléedú jẹ́ ẹ̀kọ́ àwọn àsèpọ̀ kábónì.
+Inorganic chemistry is the study of compounds that do not contain carbon-hydrogen bonds.	Ẹ̀kọ́ ẹlà-aláìléedú jẹ́ ẹ̀kọ́ àwọn àsèpọ̀ tí kò ní ìsopọ̀ kábónì-hádírójẹ̀nì.
+Physical chemistry is the study of the physical properties of chemical systems.	Ẹ̀kọ́-ẹlà t'ìṣeṣí-ẹ̀dá jẹ́ ẹ̀kọ́ àwọn ìṣesí ìmọ̀-jìnlẹ̀ àwọn ètò ẹlà.
+Analytical chemistry is the study of the separation, identification, and quantification of chemical compounds.	Ẹ̀kọ́ (nípa) Ìtúpalẹ̀ Ẹ̀la jẹ́ ẹ̀kọ́ ìpín, ìdámọ̀, àti ìṣètó àwọn àsèpọ̀ ẹlà.
+Biochemistry is the study of chemical processes within living organisms.	Ẹ̀kọ́ ẹlà-ìyè jẹ́ ẹ̀kọ́ àwọn ìlànà ẹlà nínú àwọn ẹ̀dá oníyè.
+Electrochemistry is the study of chemical processes that cause electrons to move.	Ẹ̀kọ́ ẹlà-àrá jẹ́ ẹ̀kọ́ àwọn ìlànà ẹlà tí ó mú kí àwọn ẹlẹ́ktrọ́nù ṣí ipò.
+Chemical equilibrium is the state in which the reactants and products have no net change over time.	Agbede ẹlà jẹ́ ipò tí àwọn èsè-àsè àti àwọn ẹ̀sún-àsè kò ní àyípadà sókè nígbà kan.
+The equilibrium constant is a value that indicates the ratio of products to reactants at equilibrium.	Òòkà-àìyẹ̀ ibi-agbede jẹ́ iye tí ó ntọ́ka sí ìbùpín àwọn ẹ̀sún-àsè sí àwọn èsè-àsè ní agbede.
+Le Chatelier's principle states that if a system at equilibrium is subjected to a change, the system will readjust to counteract that change.	Òfin Le Chatelier sọ pé tí èto kan ní agbede bá gba àyípadà, ètò náà yóò ṣe àtúnṣètó láti takò àyípadà náà.
+Thermodynamics is the study of heat and energy and their conversion from one form to another.	Ẹ̀kọ́ ẹlà-òkun-iná jẹ́ ẹ̀kọ́ okun-iná àti agbára àti ìyípadà wọn láti ìrí kan sí òmíràn.
+The first law of thermodynamics states that energy cannot be created or destroyed, only transferred or converted.	Òfin àkọ́kọ́ ẹ̀kọ́ ẹlà-òkun-iná sọ pé a kò lè ṣẹ̀dá tàbí pa agbára run, ṣùgbọ́n a lè gbé e lọ tàbí yí i padà.
+The second law of thermodynamics states that the entropy of an isolated system always increases.	Òfin kejì ẹ̀kọ́ ẹlà-òkun-iná sọ pé ìdàrú ètò tí a yà sọ́tọ̀ máa npọ̀ síi.
+Entropy is a measure of disorder or randomness in a system.	Ìdàrú jẹ́ ìwọ̀n àìlétò tàbí àìdarapọ̀ nínú ètò kan.
+Chemical reactions can be classified as synthesis, decomposition, single replacement, or double replacement reactions.	A lè pín àwọn àsè ẹlà sí àwọn àsè ìṣẹ̀dá, ìdànù, ìrọ́pò ẹyọ, tàbí ìrọ́pò ẹ̀ẹ́méjì.
+A synthesis reaction is when two or more substances combine to form a new compound.	Àsè ìṣẹ̀dá jẹ́ nígbàtí méjì tàbí jù bẹ́ẹ̀ lọ nínú àwọn ẹ̀dá bá papọ̀ láti ṣẹ̀dá àsèpọ̀ tuntun.
+A decomposition reaction is when a compound breaks down into two or more simpler substances.	Àsè ìdànù jẹ́ nígbàtí àsèpọ̀ kan bá fọ́ sí méjì tàbí jù bẹ́ẹ̀ lọ nínú àwọn ẹ̀dá tí ó rọrùn ju.
+A single replacement reaction is when one element replaces another element in a compound.	Àsè ìrọ́pò ẹyọ jẹ́ nígbàtí ìṣù-átọ̀mù kan bá rọ́pò ìṣù-átọ̀mù mìíràn nínú àsèpọ̀ kan.
+A double replacement reaction is when the positive and negative ions of two compounds exchange places.	Àsè ìrọ́pò ẹ̀ẹ́méjì jẹ́ nígbàtí àwọn áyọ́nù ìdájúdá àti ìdájúrò méjì àsèpọ̀ bá pààrọ̀ ipò.
+A combustion reaction is a type of redox reaction in which a fuel reacts with oxygen to produce energy and products.	Àsè jíjóná jẹ́ irú àsè ìfóksídù-ìdínkù tí idáná ṣe àsè pẹ̀lú ọ́síjẹ̀nì láti ṣẹ̀dá agbára àti àwọn ẹ̀sún.
+A neutralization reaction occurs when an acid and a base react to form water and a salt.	Àsè ìsọdàìní jẹ́ nígbàtí ẹ̀kan àti ègbo bá ṣe àsè láti ṣẹ̀dá omi àti iyọ̀.
+Precipitation reactions occur when two soluble substances react to form an insoluble product called a precipitate.	Àwọn àsè ìrẹ̀sílẹ̀ nwáyé nígbàtí méjì àwọn ẹ̀dá tí ńyọ́ bá ṣe àsè láti ṣẹ̀dá ẹ̀sún tí kò yọ́ tí a npè ní ìrẹ̀sílẹ̀.
+The periodic table is organized by atomic number, with elements having similar properties placed in the same column.	A to tábìlì àyíká́ gẹ́gẹ́bí nọ́mbà átọ̀mù, pẹ̀lú àwọn ìṣù-átọ̀mù tí ó ní ìṣesí báramu sí dúró ní ọ̀wọ́n kannáà.
+Metals are typically good conductors of heat and electricity.	Àwọn àlùrọ máa jẹ́ olùdarí dáradára fún okun-iná àti okun-àrá.
+Nonmetals are typically poor conductors of heat and electricity.	Àwọn àdàrọ máa jẹ́ olùdarí àìdára fún okun-iná àti okun-àrá.
+Metalloids have properties of both metals and nonmetals.	Àwọn àrínrọdàrọ ní ìṣesí àwọn àlùrọ àti àdàrọ.
+Noble gases are extremely unreactive and exist as single atoms.	Àwọn òyì iyebiye jẹ́ àìṣàsè gan-an wọ́n sì wà gẹ́gẹ́bí ẹyọ átọ̀mù.
+Transition metals have multiple oxidation states.	Àwọn àlùrọ àyípadà ní ogunlọ́gọ̀ àwọn ipò ìfóksídù.
+Halogens are highly reactive nonmetals.	Àwọn hálójẹ̀nì jẹ́ àwọn àdàrọ tí ó ṣàsè gan-an.
+The alkali metals are highly reactive and form compounds with oxidation state +1.	Àwọn àlùrọ aṣọṣẹ jẹ́ àwọn tí ó ṣàsè gan-an wọ́n sì ńṣẹ̀dá àwọn àsèpọ̀ pẹ̀lú ipò ìfóksídù +1.
+The alkaline earth metals form compounds with oxidation state +2.	Àwọn àlùrọ ilẹ̀ aṣọṣẹ ṣẹ̀dá àwọn àsèpọ̀ pẹ̀lú ipò ìfóksídù +2.
+Solubility is the ability of a substance to dissolve in a solvent.	Ìlèyọ́ jẹ́ agbára ẹ̀dá kan láti yọ́ sínú èpò.
+Alloys are mixtures of a metal with one or more other elements.	Àwọn àyọ́pọ̀ jẹ́ àwọn àkópọ̀ àlùrọ pẹ̀lú ọ̀kan tàbí jù bẹ́ẹ̀ lọ nínú àwọn ìṣù-átọ̀mù mìíràn.
+Polymers are large molecules made up of repeating units called monomers.	Àwọn pólímà jẹ́ àwọn mólékù nlá tí a ṣe pẹ̀lú àwọn ẹyọ tí ńtún ara wọn ṣẹ tí a npè ní mónómà.
+Isomers are compounds with the same molecular formula but different structural arrangements.	Àwọn ísómà jẹ́ àwọn àsèpọ̀ pẹ̀lú àkọsílẹ̀ mólékù kannáà ṣùgbọ́n oríṣiríṣi ètò ìfẹ̀dí.
+Hydrocarbons are compounds composed only of carbon and hydrogen.	Àwọn hádírókábónì jẹ́ àwọn àsèpọ̀ tí a ṣe pẹ̀lú kábónì àti hádírójẹ̀nì nìkan.
+Alkanes are hydrocarbons with single bonds.	Àwọn álkánì jẹ́ àwọn hádírókábónì pẹ̀lú ìsopọ̀ ẹyọ.
+Alkenes are hydrocarbons with at least one double bond.	Àwọn álkínì jẹ́ àwọn hádírókábónì pẹ̀lú ó kéré jù ìsopọ̀ ẹ̀ẹ́méjì kan.
+Alkynes are hydrocarbons with at least one triple bond.	Àwọn álkáínì jẹ́ àwọn hádírókábónì pẹ̀lú ó kéré jù ìsopọ̀ ẹ̀ẹ́mẹ́ta kan.
+Aromatic hydrocarbons contain benzene rings.	Àwọn hádírókábónì olóòórùn ní àwọn òrùka bẹ́ńsínì.
+Functional groups are specific groups of atoms within a molecule that give the molecule its characteristic properties.	Àwọn ẹgbẹ́ iṣẹ́ jẹ́ àwọn ẹgbẹ́ pàtó àwọn átọ̀mù nínú mólékù tí ó nfún mólékù náà ní àwọn ìṣesí àkànṣe rẹ̀.
+Alcohols contain the hydroxyl (-OH) functional group.	Àwọn ẹmun ní ẹgbẹ́ iṣẹ́ háídírọ́síìlì (-OH).
+Carboxylic acids contain the carboxyl (-COOH) functional group.	Àwọn ẹkan kábọ́síìlìkì ní ẹgbẹ́ iṣẹ́ kábọ́síìlì (-COOH).
+Aldehydes contain the formyl (-CHO) functional group.	Àwọn áldẹ́háídì ní ẹgbẹ́ iṣẹ́ fọ́mílì (-CHO).
+Ketones contain the carbonyl (C=O) functional group.	Àwọn kẹ́tónì ní ẹgbẹ́ iṣẹ́ kábónílì (C=O).
+Ethers contain the ether (-O-) functional group.	Àwọn ítà ní ẹgbẹ́ iṣẹ́ ítà (-O-).
+Esters contain the ester (-COO-) functional group.	Àwọn ẹ́stà ní ẹgbẹ́ iṣẹ́ ẹ́stà (-COO-).
+Amines contain one or more nitrogen atoms with a lone pair of electrons.	Àwọn ámínì ní ọ̀kan tàbí jù bẹ́ẹ̀ lọ nínú àwọn átọ̀mù náítírójẹ̀nì pẹ̀lú àkánpọ̀ lọ́nà kan àwọn ẹlẹ́ktrọ́nù.
+Amides contain the amide (-CONH2) functional group.	Àwọn ámídì ní ẹgbẹ́ iṣẹ́ ámídì (-CONH2).
+Phenols contain a hydroxyl group bonded directly to an aromatic ring.	Àwọn fẹ́nọ́lì ní ẹgbẹ́ háídírọ́síìlì tí a sopọ̀ tààrà sí òrùka olóòórùn.
+Carbohydrates are biological molecules composed of carbon, hydrogen, and oxygen, typically with the formula Cx(H2O)y.	Àwọn ẹlà-okun jẹ́ àwọn mólékù jẹ́mọ́ ẹ̀mí tí a ṣe pẹ̀lú kábónì, hádírójẹ̀nì, àti ọ́síjẹ̀nì, pẹ̀lú àkọsílẹ̀ Cx(H2O)y ní ọ̀pọ̀lọpọ̀ ìgbà.
+Proteins are large biomolecules consisting of chains of amino acids.	Àwọn ọ̀jẹ̀ jẹ́ àwọn mólékù jẹ́mọ́ ẹ̀mí nlá tí ó jẹ́ pípọ̀ àwọn ẹ̀yọ àsìdì ámínọ́.
+Lipids are a diverse group of hydrophobic or amphiphilic compounds that include fats, oils, and waxes.	Àwọn ọ̀rá jẹ́ àkójọpọ̀ oríṣiríṣi àwọn àsèpọ̀ hydrofóbìkì tàbí àmfífílìkì tí ó ní àwọn ọ̀rá, epo, àti ìda.
+Nucleic acids are biological polymers that store and transmit genetic information.	Àwọn àsìdì nukléìkì jẹ́ àwọn pólímà jẹ́mọ́ ẹ̀mí tí ó ntọ́jú àti gbé ìmọ̀ jẹ́mọ́ ìjogún.
+DNA (deoxyribonucleic acid) and RNA (ribonucleic acid) are the two main types of nucleic acids.	DNA (àsìdì dẹ́ọ́síríbónukléìkì) àti RNA (àsìdì ríbónukléìkì) ni àwọn oriṣi méjì pàtàkì àwọn àsìdì nukléìkì.
+Enzymes are proteins that catalyze biochemical reactions.	Àwọn ẹ́ńsáìmù jẹ́ àwọn ọ̀jẹ̀ tí ó ńṣe àyásè fún àwọn àsè jẹ́mọ́ ẹ̀mí.
+Fermentation is the conversion of carbohydrates to alcohol or organic acids using yeasts or bacteria under anaerobic conditions.	Ìdíbà jẹ́ ìyípadà àwọn ẹlà-okun sí ẹmu tàbí àwọn àsìdì jẹ́mọ́ ẹ̀mí pẹ̀lú àwọn osùn-ìdíbà tàbí àwọn alámọ̀ ní àbẹ́ ipò láìsí atẹ́gùn.
+A chemical indicator changes color when exposed to different pH levels or other chemical conditions.	Olùdámọ̀ ẹlà yí àwọ̀ padà nígbàtí a bá fi hàn àwọn ìpele ìpẹ̀kan oríṣiríṣi tàbí àwọn ipò ẹlà mìíràn.
+Chromatography is a technique used to separate mixtures based on different rates at which the components move through a stationary phase.	Krómátọ́gráfì jẹ́ ọ̀nà tí a lò láti ya àwọn àkópọ̀ sọ́tọ̀ dá lórí àwọn ìyásí oríṣiríṣi tí àwọn ohun inú rẹ̀ fi ńrìn kọjá ipò dúró.
+Distillation is a method of separating mixtures based on differences in the boiling points of the components.	Ìfẹ́dídà jẹ́ ọ̀nà láti ya àwọn àkópọ̀ sọ́tọ̀ dá lórí ìyàtọ̀ nínú àwọn ìwọ̀ngbóná ibi-ìhó àwọn ohun inú rẹ̀.
+Filtration is a technique used to separate solids from liquids or gases.	Àsẹ́ jẹ́ ọ̀nà tí a lò láti ya àwọn adì kúrò nínú àwọn aṣàn tàbí òyì.
+Crystallization is the process of forming a solid crystal structure from a solution or melt.	Ìdákrístálì jẹ́ ìlànà pífinlẹ̀ ètò krístálì adì láti àpòpọ̀ tàbí ìyọ́.
+Sublimation is the transition of a substance directly from the solid to the gas phase without passing through the liquid phase.	Ìfẹ́dògbéwálẹ̀ jẹ́ ìgbéra ẹ̀dá kan tààrà láti ipò adì sí ipò òyì láìla ipò aṣàn kọjá.
+A titration is used to determine the concentration of an acid or base by adding a known concentration of the other until neutralization occurs.	A ń lo ìtítírẹ́ṣọ̀n láti pinnu ìdọ̀ti ẹ̀kan tàbí ègbo nípa fífi ìdọ̀ti tí a mọ̀ ti èkejì kún un títí ìsọdàìní fi ṣẹlẹ̀.
+A buffer solution resists changes in pH when acids or bases are added.	Àpòpọ̀ aláàbò kọ àwọn ìyípadà nínú ìpẹ̀kan nígbàtí a bá fi àwọn ẹ̀kan tàbí ègbo kún un.
+Stoichiometry is the calculation of the quantities of reactants and products in chemical reactions.	Stọ́ìkiọ́mẹ́trì jẹ́ ìṣirò àwọn iye àwọn èsè-àsè àti àwọn ẹ̀sún-àsè nínú àwọn àsè ẹlà.
+The mole is the SI unit of amount of substance, representing approximately 6.022 × 10^23 elementary entities.	Móòlù jẹ́ ẹyọ ìdíwọ̀n SI fún iye ẹ̀dá, tí ó dúró fún bí 6.022 × 10^23 àwọn ẹyọ ìpilẹ̀.
+Gas laws describe the behavior of gases under various conditions of temperature, pressure, and volume.	Àwọn òfin òyì ṣe àpèjúwe ìṣèwàhù àwọn òyì lábẹ́ oríṣiríṣi ipò ìgbóná, èéfún, àti àyè.
+Boyle's law states that the pressure of a gas is inversely proportional to its volume at constant temperature.	Òfin Boyle sọ pé èéfún òyì kan jẹ́ ìdọ́gba ìdàkejì sí àyè rẹ̀ ní ìgbóná àìyípadà.
+Charles's law states that the volume of a gas is directly proportional to its absolute temperature at constant pressure.	Òfin Charles sọ pé àyè òyì kan jẹ́ ìdọ́gba tààrà sí ìgbóná pípé rẹ̀ ní èéfún àìyípadà.
+The Ideal Gas Law (PV = nRT) relates the pressure, volume, temperature, and amount of a gas.	Òfin Òyì Pípé (PV = nRT) ṣe àlàyé ìbáṣepọ̀ èéfún, àyè, ìgbóná, àti iye òyì.
+Avogadro's law states that equal volumes of gases at the same temperature and pressure contain equal numbers of molecules.	Òfin Avogadro sọ pé àwọn àyè dọ́gba ti àwọn òyì ní ìgbóná àti èéfún kannáà ní àwọn nọ́mbà dọ́gba ti àwọn mólékù.
+Dalton's law of partial pressures states that the total pressure of a gas mixture equals the sum of the partial pressures of each gas.	Òfin Dalton ti àwọn èéfún apá sọ pé èéfún àpapọ̀ àkópọ̀ òyì jẹ́ àpapọ̀ àwọn èéfún apá ti òyì kọ̀ọ̀kan.
+The kinetic theory of gases explains the behavior of gases at the molecular level.	Ìlànà àyíkà ti àwọn òyì ṣe àlàyé ìṣèwàhù àwọn òyì ní ipele mólékù.
+Chemical bonds are the forces that hold atoms together in molecules and compounds.	Àwọn ìsopọ̀ ẹlà jẹ́ àwọn ipá tí ó ṣe àgbẹ́ àwọn átọ̀mù papọ̀ nínú àwọn mólékù àti àsèpọ̀.
+Electronegativity is a measure of an atom's ability to attract shared electrons in a chemical bond.	Ẹlẹ́ktrónẹ́gátífítì jẹ́ ìwọ̀n agbára átọ̀mù láti fa àwọn ẹlẹ́ktrọ́nù tí wọ́n pín nínú ìsopọ̀ ẹlà.
+Hydrogen bonding is a type of dipole-dipole interaction between a hydrogen atom and an electronegative atom.	Ìsopọ̀ hádírójẹ̀nì jẹ́ irú iṣẹ́pọ̀ dáìpólù-dáìpólù láàrín átọ̀mù hádírójẹ̀nì àti átọ̀mù ẹlẹ́ktrónẹ́gátífù.
+Van der Waals forces are weak attractions between molecules.	Àwọn ipá Van der Waals jẹ́ àwọn ìfàmọ́ra tí kò lágbára láàrín àwọn mólékù.
+Nuclear chemistry is the study of the processes and properties of radioactive materials.	Ẹ̀kọ́ ẹlà-àgọ́ jẹ́ ẹ̀kọ́ àwọn ìlànà àti ìṣesí àwọn ohun àgọ́.
+Radioactivity is the spontaneous emission of radiation from unstable atomic nuclei.	Ìfẹ́àgọ́ jẹ́ ìtúsílẹ̀ afẹ́tàn láìròtẹ́lẹ̀ láti àwọn àgọ́ átọ̀mù àìlàgbára.
+Alpha radiation consists of helium nuclei and has the least penetrating power.	Afẹ́tàn álfà jẹ́ pípọ̀ àwọn àgọ́ hílíọ́mù ó sì ní agbára iwọnú kéréjùlọ.
+Beta radiation consists of electrons or positrons and has moderate penetrating power.	Afẹ́tàn bẹ́tà jẹ́ pípọ̀ àwọn ẹlẹ́ktrọ́nù tàbí pọ́sìtrọ́nù ó sì ní agbára iwọnú àárín.
+Gamma radiation consists of high-energy photons and has the greatest penetrating power.	Afẹ́tàn gámà jẹ́ pípọ̀ àwọn fótọ́nù agbára-gíga ó sì ní agbára iwọnú púpọ̀jùlọ.
+Half-life is the time required for half of a radioactive substance to decay.	Ìdá-ayé jẹ́ àkókò tí ó nílò fún ìdajì ohun àgọ́ láti bàjẹ́.
+Nuclear fission is the splitting of a large atomic nucleus into smaller parts.	Ìyà-àgọ́ jẹ́ pípa àgọ́ átọ̀mù nlá sí àwọn apá kékeré.
+Nuclear fusion is the combining of small atomic nuclei to form a larger nucleus.	Ìdàpọ̀-àgọ́ jẹ́ dídàpọ̀ àwọn àgọ́ átọ̀mù kékeré láti ṣẹ̀dá àgọ́ tó tóbi ju.
+A spectrophotometer measures the intensity of light as a function of wavelength.	Òṣùwọ̀n-aádi wọn déédé ìtànná gẹ́gẹ́bí iṣẹ́ ìgbọ̀n agbọ̀n.
+Mass spectrometry is an analytical technique that measures the mass-to-charge ratio of ions.	Ìwọ̀n ìwọ̀n-okun jẹ́ ọ̀nà ìtúpalẹ̀ tí ó wọn ìbùpín ìwọ̀n-okun-sí-àmì àwọn áyọ́nù.
+Infrared spectroscopy identifies chemical bonds based on the vibrations of atoms.	Ìwọn-aádi ìnfírárẹ́dì ṣe ìdámọ̀ àwọn ìsopọ̀ ẹlà dá lórí àwọn mímì àwọn átọ̀mù.
+Nuclear magnetic resonance (NMR) spectroscopy uses the magnetic properties of certain atomic nuclei to provide information about the structure of molecules.	Ìwọn-aádi ìfẹsẹmúra òòfà-àgọ́ (NMR) ń lo àwọn ìṣesí òòfà àwọn àgọ́ átọ̀mù kan láti pèsè ìmọ̀ nípa ètò àwọn mólékù.
+X-ray crystallography is a technique used to determine the atomic and molecular structure of a crystal.	Ìdákrístálì X-ray jẹ́ ọ̀nà tí a lò láti pinnu ètò átọ̀mù àti mólékù krístálì.
+A solution is a homogeneous mixture of two or more substances.	Àpòpọ̀ jẹ́ àkópọ̀ ìṣọ̀kan méjì tàbí jù bẹ́ẹ̀ lọ nínú àwọn ẹ̀dá.
+A saturated solution contains the maximum amount of solute that can be dissolved at a given temperature.	Àpòpọ̀ pọ́njúdọ̀tí ní iye púpọ̀jùlọ ti gbẹrẹfun tí ó lè yọ́ ní ìgbóná tí a fún.
+A supersaturated solution contains more solute than can ordinarily be dissolved at a given temperature.	Àpòpọ̀ pọ́njúdọ̀tíjọbalọ ní gbẹrẹfun tó pọ̀ ju èyí tí ó lè yọ́ déédé ní ìgbóná tí a fún.
+A colloid is a mixture where particles of one substance are dispersed evenly throughout another but are not dissolved.	Kólóídì jẹ́ àkópọ̀ níbi tí àwọn ẹ̀wẹ́ ẹ̀dá kan túka déédé káàkiri òmíràn ṣùgbọ́n wọn kò yọ́.
+A suspension is a mixture where solid particles are suspended in a fluid.	Afẹ́dìsókè jẹ́ àkópọ̀ níbi tí àwọn ẹ̀wẹ́ adì fẹ́ dìsókè nínú aṣàn.
+Molarity is the number of moles of solute per liter of solution.	Mólárítì jẹ́ iye àwọn móòlù gbẹrẹfun fún lítà kan ti àpòpọ̀.
+Molality is the number of moles of solute per kilogram of solvent.	Mólálítì jẹ́ iye àwọn móòlù gbẹrẹfun fún kílógrámù kan ti èpò.
+Mole fraction is the ratio of the number of moles of one component to the total number of moles in a mixture.	Ìbùpín móòlù jẹ́ ìbùpín iye àwọn móòlù ẹ̀yà kan sí iye àpapọ̀ àwọn móòlù nínú àkópọ̀.
+The freezing point of a solution is lower than the freezing point of the pure solvent.	Ìwọ̀ngbóná ìdidi àpòpọ̀ kéré ju ìwọ̀ngbóná ìdidi èpò àìlẹ̀gbin lọ.
+The boiling point of a solution is higher than the boiling point of the pure solvent.	Ìwọ̀ngbóná ìhó àpòpọ̀ ga ju ìwọ̀ngbóná ìhó èpò àìlẹ̀gbin lọ.
+Surface tension is the tendency of liquid surfaces to shrink into the minimum surface area possible.	Èéfún ojú jẹ́ ìfarajì àwọn ojú aṣàn láti fara pọ́ sí òrò ojú kéréjùlọ tí ó ṣeéṣe.
+Capillary action is the ability of a liquid to flow against gravity in a narrow space.	Iṣẹ́ òpó-tinrin jẹ́ agbára aṣàn láti ṣàn dojú òòfà-ilẹ̀ kọ nínú àyè tóóró.
+Viscosity is a measure of a fluid's resistance to flow.	Ojúìdí jẹ́ ìwọ̀n ìtakò aṣàn láti ṣàn.
+Vapor pressure is the pressure exerted by a vapor in equilibrium with its liquid or solid phase.	Èéfún òyì jẹ́ èéfún tí a fún papọ̀ láti òyì ní agbede pẹ̀lú ipò aṣàn tàbí adì rẹ̀.
+The boiling point is the temperature at which the vapor pressure of the liquid equals the pressure of the surrounding atmosphere.	Ìwọ̀ngbóná ìhó jẹ́ ìgbóná tí èéfún òyì aṣàn bá fi jẹ́ déédé èéfún àjọ-òyì tí ó yí i ká.
+The freezing point is the temperature at which the liquid and solid phases of a substance are in equilibrium at a specified pressure.	Ìwọ̀ngbóná ìdidi jẹ́ ìgbóná tí ipò aṣàn àti adì ẹ̀dá wà ní agbede ní èéfún tí a nàkasẹ.
+Diffusion is the movement of particles from a region of high concentration to a region of low concentration.	Ìfẹ́tàn jẹ́ ìṣísí àwọn ẹ̀wẹ́ láti agbègbè ìdọ̀ti gíga sí agbègbè ìdọ̀ti kéré.
+Osmosis is the diffusion of water through a semipermeable membrane.	Ìfẹ́tàn omi jẹ́ ìfẹ́tàn omi láti àìdá afẹ́dífọ̀.
+Dialysis is the separation of particles in a liquid based on differing rates of diffusion through a semipermeable membrane.	Ìfẹ́yàwọnú jẹ́ ìyà àwọn ẹ̀wẹ́ sọ́tọ̀ nínú aṣàn dá lórí ìyàtọ̀ ìyásí ìfẹ́tàn láti àìdá afẹ́dífọ̀.
+Electrolysis is the process of using electrical energy to drive an otherwise non-spontaneous chemical reaction.	Ìfẹ́àrádà jẹ́ ìlànà lílo agbára okun-àrá láti lé àsè ẹlà tí kò ní ìbẹ̀rẹ̀ ara rẹ̀ síwájú.
+Catalysis is the increase in the rate of a chemical reaction due to the presence of a catalyst.	Ìfẹ́yàse jẹ́ ìgbèrú nínú ìyásí àsè ẹlà nítorí ìwà àyásè.
+Heterogeneous catalysis occurs when the catalyst is in a different phase from the reactants.	Ìfẹ́yàse àjọra nwáyé nígbàtí àyásè wà ní ipò tí ó yàtọ̀ sí àwọn èsè-àsè.
+Homogeneous catalysis occurs when the catalyst is in the same phase as the reactants.	Ìfẹ́yàse ìṣọ̀kan nwáyé nígbàtí àyásè wà ní ipò kannáà bí àwọn èsè-àsè.
+Catalytic converters in cars use catalysts to convert harmful exhaust gases into less harmful emissions.	Àwọn ìyípadà àyásè nínú àwọn ọkọ̀ ń lo àwọn àyásè láti yí àwọn òyì èédú tí ó léwu padà sí àwọn túsílẹ̀ tí ó kéré ní ewu.
+An acid-base indicator is a substance that changes color as the pH of the solution changes.	Olùdámọ̀ ẹ̀kan-ègbo jẹ́ ẹ̀dá tí ó nyí àwọ̀ padà bí ìpẹ̀kan àpòpọ̀ ṣe nyí padà.
+The pH scale ranges from 0 to 14, with 7 being neutral.	Ìwọ̀nkà ìpẹ̀kan gbòòrò láti 0 sí 14, pẹ̀lú 7 jẹ́ àìsí apá kan.
+Strong acids completely dissociate in water.	Àwọn ẹ̀kan líle túka pátápátá nínú omi.
+Weak acids partially dissociate in water.	Àwọn ẹ̀kan kúkúrú túka díẹ̀díẹ̀ nínú omi.
+Strong bases completely dissociate in water.	Àwọn ègbo líle túka pátápátá nínú omi.
+Weak bases partially dissociate in water.	Àwọn ègbo kúkúrú túka díẹ̀díẹ̀ nínú omi.
+A salt is an ionic compound formed by the neutralization reaction between an acid and a base.	Iyọ̀ jẹ́ àsèpọ̀ áyọ́nìkì tí a ṣẹ̀dá nípa àsè ìsọdàìní láàrín ẹ̀kan àti ègbo.
+Combustion is a chemical reaction between a fuel and an oxidant that produces heat and light.	Jíjóná jẹ́ àsè ẹlà láàrín idáná àti afóksídù tí ó ṣẹ̀dá okun-iná àti ìtànná.
+The activation energy is the minimum energy required for a reaction to occur.	Agbára ìgbéra jẹ́ agbára kéréjùlọ tí ó nílò fún àsè láti wáyé.
+The reaction rate is the speed at which reactants are converted into products.	Ìyásí àsè jẹ́ ìyárawọn tí a fi ńyí àwọn èsè-àsè padà sí àwọn ẹ̀sún-àsè.
+The rate law expresses the relationship between the reaction rate and the concentrations of the reactants.	Òfin ìyásí ṣe àlàyé ìbáṣepọ̀ láàrín ìyásí àsè àti àwọn ìdọ̀ti àwọn èsè-àsè.
+The rate constant is a proportionality constant in the rate law equation.	Òòkà-àìyẹ̀ ìyásí jẹ́ òòkà-àìyẹ̀ ìdọ́gba nínú ọ̀mì òfin ìyásí.
+The order of a reaction with respect to a reactant is the power to which the concentration of that reactant is raised in the rate law.	Ètò àsè ní ìtẹ̀lé èsè-àsè jẹ́ agbára tí a gbe ìdọ̀ti èsè-àsè náà sí nínú òfin ìyásí.
+A zero-order reaction has a rate that is independent of the concentration of the reactants.	Àsè ètò-òdo ní ìyásí tí kò dá lórí ìdọ̀ti àwọn èsè-àsè.
+A first-order reaction has a rate that is directly proportional to the concentration of one reactant.	Àsè ètò-àkọ́kọ́ ní ìyásí tí ó jẹ́ ìdọ́gba tààrà sí ìdọ̀ti èsè-àsè kan.
+A second-order reaction has a rate that is proportional to the square of the concentration of one reactant or the product of the concentrations of two reactants.	Àsè ètò-èkejì ní ìyásí tí ó jẹ́ ìdọ́gba sí onírìnméjì ìdọ̀ti èsè-àsè kan tàbí ẹ̀sún ìdọ̀ti àwọn èsè-àsè méjì.
+The Arrhenius equation relates the rate constant to the activation energy and temperature.	Ọ̀mì Arrhenius ṣe àlàyé ìbáṣepọ̀ òòkà-àìyẹ̀ ìyásí sí agbára ìgbéra àti ìgbóná.
+A reaction mechanism is the step-by-step sequence of elementary reactions by which an overall chemical reaction occurs.	Ète àsè jẹ́ ìtẹ̀lé ìṣẹ̀sẹ̀ àwọn àsè ìpìlẹ̀ nípa èyí tí àkójọpọ̀ àsè ẹlà fi ṣẹlẹ̀.
+The rate-determining step is the slowest step in a reaction mechanism.	Ìgbèsẹ̀ ìpinnu-ìyásí jẹ́ ìgbèsẹ̀ tí ó lọ́ra jùlọ nínú ète àsè.
+Photochemistry is the study of chemical reactions that are triggered by light.	Ẹ̀kọ́ ẹlà-ìtànná jẹ́ ẹ̀kọ́ àwọn àsè ẹlà tí ìtànná ti ṣe àkànmọ́lẹ̀.
+Photosynthesis is a photochemical process by which plants convert light energy into chemical energy.	Àsè-ìtànná jẹ́ ìlànà ẹlà-ìtànná nípa èyí tí àwọn ọ̀gbìn fi ńyí agbára ìtànná padà sí agbára ẹlà.
+A free radical is an atom, molecule, or ion with an unpaired electron.	Àdáradà jẹ́ átọ̀mù, mólékù, tàbí áyọ́nù pẹ̀lú ẹlẹ́ktrọ́nù àìní ẹnìkejì.
+A chain reaction is a sequence of reactions where a reactive product or by-product causes additional reactions to take place.	Àsè òkè-òkúta jẹ́ ìtẹ̀lé àwọn àsè níbi tí ẹ̀sún-àsè tí ó ṣàsè tàbí ẹ̀sún-àsè abẹ̀-ìgbẹ́ mú kí àwọn àsè àfikún wáyé.

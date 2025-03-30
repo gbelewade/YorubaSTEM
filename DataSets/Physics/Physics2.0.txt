@@ -1,0 +1,1476 @@
+Sound energy is energy produced by sound vibrations. It is a wave that is an oscillation of pressure transmitted through a solid, liquid or gas, and composed of frequencies within the range of hearing	Agbára Ìró jẹ́ agbára tó ṣẹ wá láti gbígbọn àwọn nkan tó ndún. Ó jẹ́ irú agbọn tó ṣẹ wá nípa mímì àwọn èúfún, tí ó sì tàn káàkiri inú àwọn adì, aṣọn tàbí àwọn òyì. Ó sì ní àwọn ìyásí-ìyípo tí a lè fi etí gbọ
+Longitudinal waves: waves of alternating pressure deviations from the equilibrium pressure	Àwọn Agbọn olóòró: Àwọn agbọn tó nṣe ìyẹnà lọtunlósì kúrò ní ibi agbede èéfun
+Transverse waves: waves of alternating shear stress at right angle to the direction of	Àwọn agbọn onibu: àwọn agbon tó ntan nipa
+Acoustics: science that deals with the study of all mechatisi: Ìdíwọn ìyásí-ìyípo tó jẹ́ ìyípo kan ní ìṣísẹ kann agbọn, yálà èyí tí ó tàn káàkiri àwọn adì, àwọn aṣọn tàbí àwọn òyì.
+Hertz: a unit of frequency equal to one cycle per second	atisi: Ìdíwọn ìyásí-ìyípo tó jẹ́ ìyípo kan ní ìṣísẹ kan.
+Physics is a natural science	Èḳó ̣nípa èḍá jé ̣èḳó ̣ìmò-̣jinlẹ̀ ayébáyé
+Physics studies matter and its motion	Èḳó ̣nípa èḍá ńkó ̣nípa èḍá àti ìpapòdà rẹ̀
+Energy is the capacity to perform work	Agbára jé ̣okun fún ètò èḍá kan láti le ṣe iṣé ̣
+Heat energy transfers among particles	Agbára okun-iná máa ń ṣí ní ipò láarín àwọn átòṃù
+Light is a form of radiant energy	Agbára ìtànná jé ̣irú agbára atàn kan
+Mechanical energy includes potential and kinetic energy	Agbára èṛọ jé ̣àpapò agbára nípa ìpò àti agbára nípa ìmira
+Force causes objects to change motion	Ipá máa ń mú kí èḍá kan pa eré dà
+Force has direction	Ipá ní ipa
+Potential energy depends on position	Agbára nípa ìpò dá lórí ipò tí nkan wà
+Kinetic energy relates to motion	Agbára nípa ìmira jẹ mọ́ ìmira
+Work is a scalar quantity	Iṣé ̣jé ̣oun àìnípa
+Power measures how quickly work is done	Ìgbóra wọn ìyásí bí iṣé ̣ṣe ńṣe
+Sound travels through matter	Ìró máa ń tàn káàkiri inú èḍá
+Sound energy comes from vibrations	Agbára ìró ṣẹ̀ wá láti gbígbòṇ
+Magnetic energy creates magnetic fields	Agbára òòfà máa ń ṣẹ̀dá ìté-̣òòfà
+Electrical energy flows through conductors	Agbára okun-àrá máa ń ṣàn káàkiri inú àwọn onípa
+Temperature measures hotness	Ìgbóná wọn ìwọ̀n gbígbóná
+Temperature scales include Celsius and Fahrenheit	Àwọn ìdíwòṇ ìgbóná ni ti Sélsí ̣òsị̀ àti ti Fárínháìtì
+Solids have definite shape	Adì ní ìrí tí ó dúró
+Liquids flow to fill containers	Aṣàn máa ń ṣàn láti kún ohun èlò
+Gases expand to fill available space	Òyì máa ń tẹ̀ láti kún àyè tó wà
+Mass measures the amount of matter	Ìwòṇ-okun wọn iye èḍá
+Weight is affected by gravity	Ìwòṇ-ìwúwo gba ipa láti ọwọ́ ipá òòfà-ilẹ̀
+Gravity pulls objects toward Earth	Ipá òòfà-ilẹ̀ máa ń fa àwọn èḍá sí ilẹ̀
+Friction opposes motion	Ìmúlẹ̀ máa ń tako ìṣí
+Heat transfers from hot to cold	Okun-iná máa ń ṣí ní ipò láti ibi gbígbóná sí ibi tútù
+Light can be reflected	Ìtànná lè jẹ́ fífàsẹ́yìn
+Sound waves can be longitudinal	Agbòṇ ìró lè jẹ́ olóòró
+Magnets attract iron	Òòfà máa ń fa irin
+Electric current flows in circuits	Ìsán-àrá máa ń ṣàn nínú ìrìnpo
+Resistance opposes current	Atako máa ń tako ìsán-àrá
+Voltage drives current	Ìgbóra-àrá máa ń le ìsán-àrá lọ
+The sun is a source of energy	Oòrùn jẹ́ ìṣẹ̀dá agbára
+Water can be a source of energy	Omi lè jẹ́ ìṣẹ̀dá agbára
+Wind is a source of energy	Afẹ́fẹ́ jẹ́ ìṣẹ̀dá agbára
+Chemicals store energy	Ẹlà máa ń tọ́jú agbára
+Simple machines make work easier	Àwọn èṛọ àtilẹ̀wá máa ń mú iṣẹ́ rọrùn
+A lever uses a fulcrum	Egbé máa ń lo àtàrí
+A pulley changes direction of force	Afàwòṇ máa ń pa ipò ipá dà
+An inclined plane reduces effort	Pẹpẹ dídà máa ń dín agbára ipá kù
+A wedge is a double-inclined plane	Òòlà jẹ́ onípẹpẹ dídà méjì
+A screw is an inclined plane wrapped around a cylinder	Ìdè jẹ́ pẹpẹ dídà tó yí òpá kiri
+Wavelength is distance between wave crests	Ìgbòn agbòṇ jẹ́ ìjìn láàrín àwọn gegele agbòṇ
+Frequency counts waves per second	Ìyásí jẹ́ ìka agbòṇ ní ìṣẹ́jú kan
+Amplitude measures wave energy	Ìjì agbòṇ wọn agbára agbòṇ
+Light has wavelike properties	Ìtànná ní ìwà bí agbòṇ
+Light has particle-like properties	Ìtànná ní ìwà bí átòṃù
+Sound needs a medium	Ìró nílò àyè láti gbòn
+Light can travel through vacuum	Ìtànná lè tàn káàkiri inú òfìfo
+Atoms contain protons and neutrons	Átòṃù ní pírótónù àti nútírónù
+Electrons orbit the nucleus	Èlẹ́kìtírónù máa ń yí àárín kiri
+Atoms combine to form molecules	Átòṃù máa ń dapọ̀ láti ṣẹ̀dá mólékù
+Chemical bonds store energy	Ìsopọ̀ ẹlà máa ń tọ́jú agbára
+Nuclear energy comes from atom cores	Agbára àgó-̣átòṃù máa ń wá láti inú àárín átòṃù
+Reflection bounces light	Ìfàsẹ́yìn máa ń ta ìtànná padà
+Refraction bends light	Ìṣẹ́-ìtànná máa ń tẹ ìtànná
+White light contains all colors	Ìtànná funfun ní gbogbo àwọ̀
+Prisms separate colors of light	Prísì máa ń pín àwọn àwọ̀ ìtànná
+Color spectrum includes ROYGBIV	Àwọn àwọ̀ àádi-ìtànná ni pupa, ọsàn, èsè, ewé, àyìnrín, èlú, àti aró
+Convex lenses converge light	Awòye oníkùn máa ń so ìtànná pọ̀
+Concave lenses diverge light	Awòye onínú máa ń tú ìtànná ká
+Mirrors reflect light	Awòji máa ń fà ìtànná sẹ́yìn
+Concave mirrors can focus light	Awòji onínú lè so ìtànná pọ̀
+Convex mirrors spread light	Awòji oníkùn máa ń tú ìtànná ká
+Electrical circuits must be complete	Ìrìnpo okun-àrá gbọ́dọ̀ jẹ́ pípé
+Switches control current flow	Ṣíwọ́ọ̀ṣí máa ń darí ìsán-àrá
+Batteries provide electrical energy	Bátìrì máa ń pèsè agbára okun-àrá
+Electromagnets use electricity to create magnetism	Àrá-òòfà máa ń lo okun-àrá láti ṣẹ̀dá òòfà
+Sound can be high or low pitch	Ìró lè jẹ́ gíga tàbí ìsàlẹ̀ ohùn
+Volume measures sound loudness	Ariwo jẹ́ ìwọ̀n kíkún ìró
+Velocity includes speed and direction	Ìdà-ipò ní ìyára àti àkọsí
+Acceleration is change in velocity	Ìdà-eré jẹ́ ìyípadà nínú ìdà-ipò
+Momentum depends on mass and velocity	Ipáàlọ dá lórí ìwọ̀n-okun àti ìdà-ipò
+Air has pressure	Afẹ́fẹ́ ní èéfún
+Pressure depends on force and area	Èéfún dá lórí ipá àti òrò
+Buoyancy is an upward force in fluids	Ipá àtẹ́lẹ́ jẹ́ ipá sókè nínú aṣàn
+Density relates mass to volume	Kíkítẹ́ jẹ mọ́ ìwọ̀n-okun sí àyè
+Specific heat varies between substances	Okun-iná ìwònkan yàtọ̀ láàrín àwọn èḍá
+Latent heat relates to state changes	Okun-iná wíwàba jẹ mọ́ ìyípadà ipò
+Thermal expansion occurs with heating	Ìtẹ̀wọ̀n ooru ṣẹlẹ̀ pẹ̀lú gbígbóná
+Sound energy can transform to other energy	Agbára ìró lè yípadà sí agbára mìíràn
+Light energy can become electrical energy	Agbára ìtànná lè di agbára okun-àrá
+Chemical energy can produce heat energy	Agbára ẹlà lè ṣẹ̀dá agbára okun-iná
+Energy can be stored and released	Agbára lè jẹ́ títọ́jú àti títúsílẹ̀
+Energy cannot be created or destroyed	Agbára kò lè jẹ́ dídá tàbí píparun
+Energy can change forms	Agbára lè yí ìrí padà
+Heat moves by conduction	Okun-iná máa ń ṣí nípa ìtànsí 
+Heat moves by convection	Okun-iná máa ń ṣí nípa àjògúnfà
+Heat moves by radiation	Okun-iná máa ń ṣí nípa atànná
+Insulators resist heat flow	Adísí máa ń tako ìṣí okun-iná
+Conductors allow heat flow	Onípa máa ń fàyè gba ìṣí okun-iná
+Metals are good conductors	Àwọn irin jẹ́ onípa tó dára
+Wood is a poor conductor	Igi jẹ́ onípa tí kò dára
+Electric motors convert electrical energy to mechanical energy	Èṛọ ìdáàrá máa ń yí agbára okun-àrá padà sí agbára èṛọ
+Generators convert mechanical energy to electrical energy	Olùṣẹ̀dá máa ń yí agbára èṛọ padà sí agbára okun-àrá
+Solar panels convert light to electricity	Àwo-oòrùn máa ń yí ìtànná padà sí okun-àrá
+Friction creates heat	Ìmúlẹ̀ máa ń ṣẹ̀dá okun-iná
+Electric current produces magnetic fields	Ìsán-àrá máa ń ṣẹ̀dá ìté-̣òòfà
+Changing magnetic fields produce electric current	Ìyípadà ìté-̣òòfà máa ń ṣẹ̀dá ìsán-àrá
+Gravity depends on mass	Ipá òòfà-ilẹ̀ dá lórí ìwọ̀n-okun
+Forces can be balanced or unbalanced	Ipá lè jẹ́ ìbámu tàbí àìbámu
+Balanced forces do not cause acceleration	Ipá ìbámu kì í ṣẹ̀dá ìdà-eré
+Unbalanced forces cause acceleration	Ipá àìbámu máa ń ṣẹ̀dá ìdà-eré
+Inertia resists changes in motion	Àìfàgbára máa ń tako ìyípadà nínú ìṣí
+Every action has an equal and opposite reaction	Ìgbéṣe kọ̀ọ̀kan ní èsì tí ó dọ́gba tí ó sì lòdì
+Heat flows from hot to cold	Okun-iná máa ń ṣàn láti ibi gbígbóná sí ibi tútù
+Pressure in a fluid increases with depth	Èéfún nínú aṣàn máa ń pọ̀ pẹ̀lú jíjìn
+Light rays converge at a focal point	Àwọn ìtànná máa ń pàdé ní ojú àkójọpọ̀
+Lenses bend light rays	Àwọn awòye máa ń tẹ àwọn ìtànná
+Electric circuits require a complete path	Ìrìnpo okun-àrá nílò ipa tí ó pé
+Resistors reduce current flow	Àwọn atako máa ń dín ìsán-àrá kù
+Capacitors store electric charge	Àwọn apamọ́yẹàrá máa ń tọ́jú ìyẹ-àrá
+Magnets have north and south poles	Àwọn òòfà ní àríwá àti gúúsù
+Opposite poles attract	Àwọn ìgún tí ó lòdì sí ara wọn máa ń fa ara wọn
+Similar poles repel	Àwọn ìgún tí ó jọra máa ń tì ara wọn
+Sound waves create compression and rarefaction	Agbòṇ ìró máa ń ṣẹ̀dá ìfúnpọ̀ àti ìtúká
+Fluids exert pressure in all directions	Àwọn aṣàn máa ń fi èéfún ṣiṣẹ́ ní gbogbo ìhà
+Fluids transmit pressure equally	Àwọn aṣàn máa ń gbé èéfún dọ́gba
+Objects float when buoyancy exceeds weight	Àwọn èḍá máa ń léfòó nígbàtí ipá àtẹ́lẹ́ bá ju ìwọ̀n-ìwúwo lọ
+Objects sink when weight exceeds buoyancy	Àwọn èḍá máa ń rì nígbàtí ìwọ̀n-ìwúwo bá ju ipá àtẹ́lẹ́ lọ
+Energy comes in many forms	Agbára wá ní oríṣi púpọ̀
+Work equals force times distance	Iṣẹ́ jẹ́ dọ́gba ipá lọ́nà ìjìn
+Power equals work divided by time	Ìgbóra jẹ́ dọ́gba iṣẹ́ pín fún àkókò
+Vibration causes sound	Gbígbòṇ máa ń fa ìró
+Echoes are reflected sound waves	Ìjìhìn jẹ́ agbòṇ ìró tí a fà sẹ́yìn
+Earthquakes produce seismic waves	Ìṣẹ̀mí-ilẹ̀ máa ń ṣẹ̀dá agbòṇ ìṣẹ̀mímí
+Light can be polarized	Ìtànná lè jẹ́ ìfíjúdènà
+Pressure varies with altitude	Èéfún máa ń yàtọ̀ pẹ̀lú gíga
+Gases can be compressed	Àwọn òyì lè jẹ́ ìfúnpọ̀
+Liquids are nearly incompressible	Àwọn aṣàn fẹ́rẹ̀ jẹ́ àìlèfúnpọ̀
+Solids resist compression	Àwọn adì máa ń tako ìfúnpọ̀
+Temperature affects volume	Ìgbóná máa ń ní ipa lórí àyè
+Mass does not depend on gravity	Ìwọ̀n-okun kò dá lórí ipá òòfà-ilẹ̀
+Weight depends on gravity	Ìwọ̀n-ìwúwo dá lórí ipá òòfà-ilẹ̀
+Air has weight	Afẹ́fẹ́ ní ìwọ̀n-ìwúwo
+Motors use electromagnets	Àwọn èṛọ ìdáàrá máa ń lo àrá-òòfà
+Generators use magnets	Àwọn olùṣẹ̀dá máa ń lo òòfà
+Solar energy comes from the sun	Agbára ìtàn-oòrùn wá láti ọ̀dọ̀ oòrùn
+Wind energy comes from moving air	Agbára afẹ́fẹ́ wá láti afẹ́fẹ́ tí ń ṣí
+Hydroelectric energy comes from falling water	Agbára ìṣán-omi wá láti omi tí ń ṣàn
+Nuclear energy comes from atom splitting	Agbára àgó-̣átòṃù wá láti píntọ́ átòṃù
+Fossil fuels store chemical energy	Àwọn epo-ìsàlẹ̀ màa ń tọ́jú agbára ẹlà
+Batteries convert chemical energy to electrical energy	Bátìrì máa ń yí agbára ẹlà padà sí agbára okun-àrá
+Electric motors convert electrical energy to mechanical energy	Àwọn èṛọ ìdáàrá máa ń yí agbára okun-àrá padà sí agbára èṛọ
+Gas laws describe behavior of gases	Àwọn ofì-òyì ṣàlàyé ìṣesí àwọn òyì
+Matter consists of atoms	Èḍá ní átòṃù
+Nuclei contain protons and neutrons	Àárín ní pírótónù àti nútírónù
+Chemical reactions rearrange atoms	Àwọn ìdárapọ̀ ẹlà máa ń tún átòṃù ṣe
+Energy levels in atoms are quantized	Àwọn ìpele agbára nínú átòṃù jẹ́ onínípìntọ́
+Light travels at constant speed in vacuum	Ìtànná máa ń gbòn ní ìyára dídúró nínú òfìfo
+Sound speed depends on the medium	Ìyára ìró dá lórí àyè tó ń gbòn káàkiri
+Waves can undergo interference	Àwọn agbòṇ lè kọjú ìdíbàjẹ́
+Waves can be diffracted	Àwọn agbòṇ lè jẹ́ títẹ́
+Light waves can be polarized	Agbòṇ ìtànná lè jẹ́ ìfíjúdènà
+Magnetic fields surround magnets	Ìté-̣òòfà máa ń yí òòfà ká
+Electric fields surround charges	Ìté-̣àrá máa ń yí àyè àrá ká
+Lenses correct vision problems	Àwọn awòye máa ń ṣàtúnṣe àwọn ìṣòro ìríran
+Telescopes magnify distant objects	Àwọn jínjínrìn máa ń tóbi àwọn èḍá tí ó jìnnà
+Microscopes magnify tiny objects	Àwọn kékerìn máa ń tóbi àwọn èḍá tí ó kéré
+Protons have positive charge	Pírótónù ní àyè àrá gbòóṣì
+Neutrons have no charge	Nútírónù kò ní àyè àrá
+Opposite charges attract	Àwọn àyè àrá tí ó lòdì máa ń fa ara wọn
+Like charges repel	Àwọn àyè àrá tí ó jọra máa ń tì ara wọn
+Electric current produces heat	Ìsán-àrá máa ń ṣẹ̀dá ooru
+Electric current can create light	Ìsán-àrá lè ṣẹ̀dá ìtànná
+Electromagnetic induction creates current	Àgbàsíwájú àrá-òòfà máa ń ṣẹ̀dá ìsán-àrá
+Transformers use electromagnetic induction	Àwọn afagbára-àrá padà máa ń lo àgbàsíwájú àrá-òòfà
+Semiconductors conduct electricity partially	Àwọn alábòsípa máa ń gbé okun-àrá ní ààbọ̀
+Transistors control electric current	Àwọn atórinú máa ń darí ìsán-àrá
+Diodes allow current in one direction	Àwọn olóòṇàkan máa ń fàyè gba ìsán-àrá lọ́nà kan
+Sound travels faster in solids than in air	Ìró máa ń tàn káàkiri ní ìyára jù nínú adì ju inú afẹ́fẹ́ lọ
+Light travels faster than sound	Ìtànná máa ń tàn káàkiri ní ìyára ju ìró lọ
+Energy can be converted between forms	Agbára lè jẹ́ yíyípadà láàrín àwọn orí
+Mass and energy are related	Ìwọ̀n-okun àti agbára jẹ mọ́ ara wọn
+Light behaves as both wave and particle	Ìtànná máa ń hùwà bí agbòṇ àti átòṃù
+Magnetic poles cannot be isolated	Àwọn ìgún òòfà kò lè jẹ́ ìyàsọ́tọ̀
+Electric circuits require a complete path	Ìrìnpo okun-àrá nílò ojú ọ̀nà tí ó pé
+Resistance converts electrical energy to heat	Atako máa ń yí agbára okun-àrá padà sí okun-iná
+Friction opposes motion between surfaces	Ìmúlẹ̀ máa ń tako ìṣí láàrín àwọn ojú èḍá
+Acceleration is caused by unbalanced forces	Ìdà-eré wá láti ipá àìbámu
+Objects in motion stay in motion without forces	Àwọn èḍá nínú ìṣí máa ń dúró nínú ìṣí láìsí ipá
+Objects at rest stay at rest without forces	Àwọn èḍá ní ìsinmi máa ń dúró ní ìsinmi láìsí ipá
+For every action, there is an equal reaction	Fún ìgbéṣe kọ̀ọ̀kan, èsì tí ó dọ́gba wà
+Momentum is conserved in closed systems	Ipáàlọ jẹ́ títọ́jú nínú ètò tí ó ti pipé
+Energy is conserved in closed systems	Agbára jẹ́ títọ́jú nínú ètò tí ó ti pipé
+Heat flows spontaneously from hot to cold	Okun-iná máa ń ṣàn fúnrararẹ̀ láti ibi gbígbóná sí ibi tútù
+Entropy increases in natural processes	Ìdágbére máa ń pọ̀ nínú àwọn ìlànà adáyébá
+Light can be absorbed by matter	Ìtànná lè jẹ́ mímú mọ́ra nípasẹ̀ èḍá
+Reflection occurs at the same angle as incidence	Ìfàsẹ́yìn ṣẹlẹ̀ ní ẹ̀gbẹ́ kannáà bí ìtànkálẹ̀
+Refraction occurs when light changes medium	Ìṣẹ́-ìtànná ṣẹlẹ̀ nígbàtí ìtànná bá yí àyè padà
+Diffraction occurs around obstacles	Ìtẹ́ ṣẹlẹ̀ yí àwọn ìdènà ká
+Interference creates patterns of light and dark	Ìdíbàjẹ́ máa ń ṣẹ̀dá àwọn àpẹẹrẹ ìtànná àti òkùnkùn
+Pressure is force per unit area	Èéfún jẹ́ ipá fún ẹyọ òrò
+Buoyancy equals the weight of displaced fluid	Ipá àtẹ́lẹ́ dọ́gba ìwọ̀n-ìwúwo aṣàn tí ó ti kúrò
+Density equals mass divided by volume	Kíkítẹ́ dọ́gba ìwọ̀n-okun pín fún àyè
+Work equals force times displacement	Iṣẹ́ dọ́gba ipá lọ́nà ìyípòdà
+Power equals work divided by time	Ìgbóra dọ́gba iṣẹ́ pín fún àkókò
+Kinetic energy equals half mass times velocity squared	Agbára nípa ìmira dọ́gba ààbọ̀ ìwọ̀n-okun lọ́nà ìdà-ipò ilọ̀ àtọ́
+Heat capacity measures energy needed for temperature change	Agbára okun-iná wọn agbára tí a nílò fún ìyípadà ìgbóná
+Specific heat capacity is per unit mass	Agbára okun-iná pàtàkì jẹ́ fún ẹyọ ìwọ̀n-okun
+Latent heat is absorbed during phase changes	Okun-iná wíwàba jẹ́ mímúmọ́ra nígbàtí ipò bá ń yípadà
+Gas pressure depends on volume and temperature	Èéfún òyì dá lórí àyè àti ìgbóná
+Voltage equals current times resistance	Ìgbóra-àrá dọ́gba ìsán-àrá lọ́nà atako
+Series circuits have one path for current	Ìrìnpo òjóòní ní ojú ọ̀nà kan fún ìsán-àrá
+Parallel circuits have multiple paths for current	Ìrìnpo aṣíṣáájú ní ojú ọ̀nà púpọ̀ fún ìsán-àrá
+Electric power equals voltage times current	Agbára okun-àrá dọ́gba ìgbóra-àrá lọ́nà ìsán-àrá
+Magnetic field strength decreases with distance	Ipá ìté-̣òòfà máa ń dínkù pẹ̀lú jíjìnnà
+Electromagnetic waves travel at the speed of light	Agbòṇ àrá-òòfà máa ń rin ní ìyára ìtànná
+Frequency times wavelength equals wave speed	Ìyásí lọ́nà ìgbòn agbòṇ dọ́gba ìyára agbòṇ
+Sound intensity decreases with distance	Ipá ìró máa ń dínkù pẹ̀lú jíjìnnà
+Lenses focus light rays to create images	Àwọn awòye máa ń so àwọn ìtànná pọ̀ láti ṣẹ̀dá àwọn àwòrán
+Mirrors reflect light rays to create images	Àwọn awòji máa ń fà àwọn ìtànná sẹ́yìn láti ṣẹ̀dá àwọn àwòrán
+Telescopes magnify distant objects	Àwọn jínjínrìn máa ń tóbi àwọn èḍá tí ó jìnnà
+Microscopes magnify tiny objects	Àwọn kékerìn máa ń tóbi àwọn èḍá tí ó kéré
+Atoms combine to form molecules	Àwọn átòṃù dapọ̀ láti ṣẹ̀dá mólékù
+Molecules combine to form compounds	Àwọn mólékù dapọ̀ láti ṣẹ̀dá àdàpọ̀
+Energy levels in atoms are quantized	Àwọn ìpele agbára nínú átòṃù jẹ́ onínípìntọ́
+Electrons occupy energy levels in atoms	Èlẹ́kìtírónù máa ń gba àwọn ìpele agbára nínú átòṃù
+Photons are particles of light	Fótónù jẹ́ àwọn ẹ̀yọ ìtànná
+Nuclear reactions release energy	Àwọn ìdárapọ̀ ojúìnú máa ń tú agbára sílẹ̀
+Radioactive decay emits particles	Ìbàjẹ́ amórayínlẹ̀ máa ń tú àwọn ẹ̀yọ jáde
+Gravitational force depends on mass and distance	Ipá òòfà-ilẹ̀ dá lórí ìwọ̀n-okun àti jíjìnnà
+Electric force depends on charge and distance	Ipá àrá dá lórí àyè àrá àti jíjìnnà
+Magnetic force depends on pole strength and distance	Ipá òòfà dá lórí ipá ìgún àti jíjìnnà
+Electromagnetic induction creates electric current	Àgbàsíwájú àrá-òòfà máa ń ṣẹ̀dá ìsán-àrá
+Electric motors use magnetic force	Àwọn èṛọ ìdáàrá máa ń lo ipá òòfà
+Generators use electromagnetic induction	Àwọn olùṣẹ̀dá máa ń lo àgbàsíwájú àrá-òòfà
+Transformers change voltage levels	Àwọn afagbára-àrá padà máa ń yí àwọn ìpele ìgbóra-àrá padà
+Semiconductors conduct under certain conditions	Àwọn alábòsípa máa ń gbé okun-àrá lábẹ́ àwọn ipò kan
+Transistors amplify electric signals	Àwọn atórinú máa ń gbé àwọn àmì okun-àrá ga
+Diodes allow current in only one direction	Àwọn olóòṇàkan máa ń fàyè gba ìsán-àrá ní òṇà kan ṣoṣo
+Sound waves transfer energy through matter	Agbòṇ ìró máa ń gbé agbára la èḍá kọjá
+Light waves can travel through vacuum	Agbòṇ ìtànná lè tàn káàkiri nínú òfìfo
+Thermodynamics studies heat and energy	Èḳó ̣nípa okun-ooru máa ń kọ́ nípa okun-iná àti agbára
+Quantum mechanics studies atomic behavior	Èḳó ̣nípa ìṣeátómù máa ń kọ́ nípa ìwà átòṃù
+Relativity relates space and time	Ìbájẹpọ̀ máa ń ṣe àlàjẹpọ̀ àyé àti àkókò
+Classical mechanics predicts motion of objects	Èḳó ̣nípa ìṣeáyébáyé máa ń sọ àsọtẹ́lẹ̀ ìṣí àwọn èḍá
+Fluid mechanics studies behavior of liquids and gases	Èḳó ̣nípa ìṣeaṣàn máa ń kọ́ nípa ìwà àwọn aṣàn àti òyì
+Optics studies light behavior	Èḳó ̣nípa ìríran máa ń kọ́ nípa ìwà ìtànná
+Acoustics studies sound behavior	Èḳó ̣nípa ìró máa ń kọ́ nípa ìwà ìró
+Electricity studies electric charges and currents	Èḳó ̣nípa okun-àrá máa ń kọ́ nípa àwọn àyè àrá àti ìsán-àrá
+Magnetism studies magnetic fields and forces	Èḳó ̣nípa òòfà máa ń kọ́ nípa àwọn ìté-̣òòfà àti àwọn ipá
+Thermometers measure temperature	Àwọn awòngbóná máa ń wọn ìgbóná
+Barometers measure air pressure	Àwọn awòndéẹ́fùn máa ń wọn èéfún afẹ́fẹ́
+Voltmeters measure electric potential	Àwọn awònípáàrá máa ń wọn agbára àrá
+Ammeters measure electric current	Àwọn awònsánàrá máa ń wọn ìsán-àrá
+Spectrometers analyze light spectra	Àwọn awòntanná máa ń ṣàtúpalẹ̀ àwọn àádiìtànná
+Seismometers detect earthquakes	Àwọn awònṣẹ̀mílẹ̀ máa ń ṣàwárí àwọn ìṣẹ̀mí-ilẹ̀
+Telescopes observe distant objects	Àwọn jínjínrìn máa ń wo àwọn èḍá tí ó jìnnà
+Microscopes observe tiny objects	Àwọn kékerìn máa ń wo àwọn èḍá tí ó kéré
+Electric motors convert electrical to mechanical energy	Àwọn èṛọ ìdáàrá máa ń yí agbára okun-àrá padà sí agbára èṛọ
+Heat engines convert heat to mechanical energy	Àwọn èṛọ okun-iná máa ń yí okun-iná padà sí agbára èṛọ
+Solar panels convert light to electrical energy	Àwọn àwo-oòrùn máa ń yí ìtànná padà sí agbára okun-àrá
+Fuel cells convert chemical to electrical energy	Àwọn hóró epo máa ń yí agbára ẹlà padà sí agbára okun-àrá
+Nuclear reactors use nuclear fission	Àwọn olùṣètò ojúìnú máa ń lo píntọ́ ojúìnú
+Batteries store chemical energy	Àwọn bátìrì máa ń tọ́jú agbára ẹlà
+Capacitors store electric energy	Àwọn apamọ́yẹàrá máa ń tọ́jú agbára okun-àrá
+Flywheels store mechanical energy	Àwọn kẹ́kẹ́fò máa ń tọ́jú agbára èṛọ
+Springs store elastic energy	Àwọn tíńrín máa ń tọ́jú agbára ìfarayọ
+Heat can transfer by conduction	Okun-iná lè ṣí nípa ìtànsí
+Heat can transfer by convection	Okun-iná lè ṣí nípa àjògúnfà
+Heat can transfer by radiation	Okun-iná lè ṣí nípa atànná
+Pressure increases with depth in fluids	Èéfún máa ń pọ̀ pẹ̀lú jíjìn nínú àwọn aṣàn
+Gases expand when heated	Àwọn òyì máa ń tẹ̀ nígbàtí wọ́n bá gbóná
+Liquids expand less than gases when heated	Àwọn aṣàn kì í tẹ̀ bí àwọn òyì nígbàtí wọ́n bá gbóná
+Solids expand least when heated	Àwọn adì kì í tẹ̀ púpọ̀ nígbàtí wọ́n bá gbóná
+Materials have characteristic melting points	Àwọn ohun èlò ní àwọn ojú ooru ìyọ́ tí ó ṣe pàtàkì
+Materials have characteristic boiling points	Àwọn ohun èlò ní àwọn ojú ooru ìhó tí ó ṣe pàtàkì
+Phase changes absorb or release energy	Àwọn ìyípadà ipò máa ń mú agbára mọ́ra tàbí tú agbára sílẹ̀
+Electric current produces magnetic field	Ìsán-àrá máa ń ṣẹ̀dá ìté-̣òòfà
+Moving magnetic field produces electric current	Ìté-̣òòfà tí ń ṣí máa ń ṣẹ̀dá ìsán-àrá
+Electromagnetic waves have electric and magnetic components	Agbòṇ àrá-òòfà ní ẹ̀yà àrá àti òòfà
+Microwaves are electromagnetic waves	Agbòṇ maikroweefu jẹ́ agbòṇ àrá-òòfà
+Infrared waves are electromagnetic waves	Agbòṇ abẹ́-pupa jẹ́ agbòṇ àrá-òòfà
+Ultraviolet waves are electromagnetic waves	Agbòṇ òkè-pupa jẹ́ agbòṇ àrá-òòfà
+X-rays are electromagnetic waves	Agbòṇ ẹ̀ro-X jẹ́ agbòṇ àrá-òòfà
+Gamma rays are electromagnetic waves	Agbòṇ ẹ̀ro-gama jẹ́ agbòṇ àrá-òòfà
+Temperature measures average kinetic energy	Ìgbóná máa ń wọn agbára ìmira àpapọ̀
+Absolute zero is lowest possible temperature	Òdo pípéye jẹ́ ìgbóná tí ó kéré jùlọ tí ó ṣeéṣe
+Heat always flows from hot to cold	Okun-iná máa ń ṣàn láti ibi gbígbóná sí ibi tútù
+Entropy tends to increase	Ìdágbére máa ń ní ìfẹ̀ láti pọ̀
+Energy is conserved in isolated systems	Agbára jẹ́ títọ́jú nínú àwọn ètò tí a ti yà sọ́tọ̀
+Mass is conserved in chemical reactions	Ìwọ̀n-okun jẹ́ títọ́jú nínú àwọn ìdárapọ̀ ẹlà
+Charge is conserved in isolated systems	Àyè àrá jẹ́ títọ́jú nínú àwọn ètò tí a ti yà sọ́tọ̀
+Momentum is conserved in collisions	Ipáàlọ jẹ́ títọ́jú nínú àwọn ìkọlù
+Objects accelerate when forces are unbalanced	Àwọn èḍá máa ń ṣe ìdà-eré nígbàtí àwọn ipá bá jẹ́ àìbámu
+Gravity accelerates objects toward Earth	Ipá òòfà-ilẹ̀ máa ń mú àwọn èḍá ṣe ìdà-eré sí ilẹ̀
+Electric charges exert forces on each other	Àwọn àyè àrá máa ń fi ipá ṣiṣẹ́ lórí ara wọn
+Magnetic poles exert forces on each other	Àwọn ìgún òòfà máa ń fi ipá ṣiṣẹ́ lórí ara wọn
+Light can be reflected, refracted, or absorbed	Ìtànná lè jẹ́ fífàsẹ́yìn, fíṣẹ́, tàbí mímúmọ́ra
+Sound can be reflected, refracted, or absorbed	Ìró lè jẹ́ fífàsẹ́yìn, fíṣẹ́, tàbí mímúmọ́ra
+Work is done when force causes displacement	Iṣẹ́ jẹ́ ṣíṣe nígbàtí ipá bá fa ìyípòdà
+Power measures rate of energy transfer	Ìgbóra wọn ìyásí ìṣíragbára
+Heat causes thermal expansion	Okun-iná máa ń fa ìtẹ̀wọ̀n ooru
+Pressure is force per unit area	Èéfún jẹ́ ipá fún ẹyọ òrò
+Buoyancy depends on fluid density	Ipá àtẹ́lẹ́ dá lórí kíkítẹ́ aṣàn
+Friction converts kinetic energy to heat	Ìmúlẹ̀ máa ń yí agbára ìmira padà sí okun-iná
+Sound needs medium to travel	Ìró nílò àyè láti tàn káàkiri
+Light can travel through vacuum	Ìtànná lè tàn káàkiri nínú òfìfo
+Lenses bend light rays	Àwọn awòye máa ń tẹ àwọn ìtànná
+Prisms separate white light into colors	Àwọn prísì máa ń ya ìtànná funfun sí àwọn àwọ̀
+Magnetic fields form around electric currents	Àwọn ìté-̣òòfà máa ń ṣẹ̀dá yí àwọn ìsán-àrá ká
+Electric currents form around changing magnetic fields	Àwọn ìsán-àrá máa ń ṣẹ̀dá yí àwọn ìté-̣òòfà tí ń yípadà ká
+Electric motors use magnetic force to rotate	Àwọn èṛọ ìdáàrá máa ń lo ipá òòfà láti yí
+Generators use motion to create electricity	Àwọn olùṣẹ̀dá máa ń lo ìṣí láti ṣẹ̀dá okun-àrá
+Transformers transfer energy between circuits	Àwọn afagbára-àrá padà máa ń gbé agbára láàrín àwọn ìrìnpo
+Capacitors store and release electric charge	Àwọn apamọ́yẹàrá máa ń tọ́jú àti tú ìyẹ-àrá sílẹ̀
+Resistors convert electrical energy to heat	Àwọn atako máa ń yí agbára okun-àrá padà sí okun-iná
+Transistors control electric current flow	Àwọn atórinú máa ń darí ìṣàn ìsán-àrá
+Diodes allow current in only one direction	Àwọn olóòṇàkan máa ń fàyè gba ìsán-àrá ní òṇà kan ṣoṣo
+Circuits require complete conducting paths	Àwọn ìrìnpo nílò ojú ọ̀nà tí ó pé
+Switches control circuit connections	Àwọn ṣíwọ́ọ̀ṣí máa ń darí ìsopọ̀ ìrìnpo
+Fuses protect circuits from excess current	Àwọn ìdínà máa ń dáàbòbò àwọn ìrìnpo kúrò nínú ìsán-àrá tí ó pọ̀jù
+Series circuits have one path for current	Àwọn ìrìnpo òjóòní ní ojú ọ̀nà kan fún ìsán-àrá
+Parallel circuits have multiple paths for current	Àwọn ìrìnpo aṣíṣáájú ní ojú ọ̀nà púpọ̀ fún ìsán-àrá
+Voltage is electric potential difference	Ìgbóra-àrá jẹ́ ìyàtọ̀ agbára àrá
+Current is flow of electric charge	Ìsán-àrá jẹ́ ìṣàn ìyẹ-àrá
+Resistance opposes electric current	Atako ṣoròdodo sí ìsán-àrá
+Power equals voltage times current	Ìgbóra jẹ́ dọ́gba ìgbóra-àrá lọ́nà ìsán-àrá
+Atoms consist of protons, neutrons, and electrons	Átòṃù ní pírótónù, nútírónù, àti èlẹ́kìtírónù
+Atoms combine to form molecules	Àwọn átòṃù dapọ̀ láti ṣẹ̀dá mólékù
+Chemical bonds store energy	Àwọn ìsopọ̀ ẹlà máa ń tọ́jú agbára
+Chemical reactions rearrange atoms	Àwọn ìdárapọ̀ ẹlà máa ń tún àwọn átòṃù ṣe
+Energy is released or absorbed in reactions	Agbára jẹ́ títúsílẹ̀ tàbí mímúmọ́ra nínú àwọn ìdárapọ̀
+Radioactive elements decay spontaneously	Àwọn ẹ̀yà amórayínlẹ̀ máa ń bàjẹ́ fúnrararẹ̀
+Nuclear reactions involve atomic nuclei	Àwọn ìdárapọ̀ ojúìnú jẹ mọ́ àwọn àárín átòṃù
+Nuclear fission splits heavy atoms	Píntọ́ ojúìnú máa ń ya àwọn átòṃù wúwo
+Nuclear fusion combines light atoms	Ìdàpọ̀ ojúìnú máa ń dá àwọn átòṃù fẹ́rẹ̀ pọ̀
+Nuclear reactions release enormous energy	Àwọn ìdárapọ̀ ojúìnú máa ń tú agbára ńlá sílẹ̀
+Solar energy comes from nuclear fusion	Agbára ìtàn-oòrùn wá láti ìdàpọ̀ ojúìnú
+Fossil fuels contain stored chemical energy	Àwọn epo-ìsàlẹ̀ ní agbára ẹlà tí a ti tọ́jú
+Renewable energy sources are replenished naturally	Àwọn orísun agbára àtúnṣẹ̀dá jẹ́ àtúndá nípa ti adáyébá
+Wind turbines convert kinetic energy to electricity	Àwọn èṛọ afẹ́fẹ́ máa ń yí agbára ìmira padà sí okun-àrá
+Solar panels convert light energy to electricity	Àwọn àwo-oòrùn máa ń yí agbára ìtànná padà sí okun-àrá
+Hydroelectric dams convert potential energy to electricity	Àwọn àdìmọ́-omi máa ń yí agbára ìpò padà sí okun-àrá
+Geothermal plants use heat from Earth	Àwọn ilé-agbára ilẹ̀-ooru máa ń lo okun-iná láti ilẹ̀
+Biomass contains stored chemical energy	Àgbékalẹ̀ ní agbára ẹlà tí a ti tọ́jú
+Energy efficiency reduces energy waste	Ìṣepé agbára máa ń dín ìdànù agbára kù
+Conservation of energy is a fundamental law	Ìtọ́jú agbára jẹ́ òfin pàtàkì
+Conservation of momentum applies to collisions	Ìtọ́jú ipáàlọ jẹ mọ́ àwọn ìkọlù
+Conservation of charge applies to all processes	Ìtọ́jú àyè àrá jẹ mọ́ gbogbo àwọn ìlànà
+The first law of thermodynamics is energy conservation	Òfin kìíní okun-ooru jẹ́ ìtọ́jú agbára
+The second law of thermodynamics involves entropy	Òfin kejì okun-ooru jẹ mọ́ ìdágbére
+The third law of thermodynamics involves absolute zero	Òfin kẹta okun-ooru jẹ mọ́ òdo pípéye
+Newton's second law relates force to acceleration	Òfin kejì ti Newton ṣe àlàjẹpọ̀ ipá sí ìdà-eré
+Newton's third law involves action and reaction	Òfin kẹta ti Newton jẹ mọ́ ìgbéṣe àti èsì
+Coulomb's law describes electric forces	Òfin ti Coulomb ṣàlàyé àwọn ipá àrá
+Ampere's law relates current to magnetic field	Òfin ti Ampere ṣe àlàjẹpọ̀ ìsán-àrá sí ìté-̣òòfà
+Faraday's law describes electromagnetic induction	Òfin ti Faraday ṣàlàyé àgbàsíwájú àrá-òòfà
+Ohm's law relates voltage, current, and resistance	Òfin ti Ohm ṣe àlàjẹpọ̀ ìgbóra-àrá, ìsán-àrá, àti atako
+Snell's law describes light refraction	Òfin ti Snell ṣàlàyé ìṣẹ́-ìtànná
+The Doppler effect explains frequency shifts	Ipa ti Doppler ṣàlàyé ìyípadà ìyásí
+Pascal's principle describes pressure in fluids	Ìlànà ti Pascal ṣàlàyé èéfún nínú àwọn aṣàn
+Hooke's law relates force to spring extension	Òfin ti Hooke ṣe àlàjẹpọ̀ ipá sí ìnàsílẹ̀ tíńrín
+Relativity describes space, time, and gravity	Ìbájẹpọ̀ ṣàlàyé àyé, àkókò, àti ipá òòfà-ilẹ̀
+Quantum mechanics describes atomic behavior	Ìṣeátómù ṣàlàyé ìwà átòṃù
+Wave-particle duality applies to light and matter	Méjèèjì agbòṇ-átòṃù jẹ mọ́ ìtànná àti èḍá
+Heisenberg uncertainty principle limits precision	Ìlànà àìdájú ti Heisenberg dá opin sí pípeye
+Pauli exclusion principle governs electron arrangement	Ìlànà ìyàsọ́tọ̀ ti Pauli ṣàkóso ètò èlẹ́kìtírónù
+Planck's constant relates energy to frequency	Ìdúró ti Planck ṣe àlàjẹpọ̀ agbára sí ìyásí
+Einstein's energy equation relates mass to energy	Òṣùwọ̀n agbára ti Einstein ṣe àlàjẹpọ̀ ìwọ̀n-okun sí agbára
+The speed of light is constant in vacuum	Ìyára ìtànná jẹ́ dídúró nínú òfìfo
+Electric fields surround electric charges	Àwọn ìté-̣àrá yí àwọn àyè àrá ká
+Magnetic fields surround magnets	Àwọn ìté-̣òòfà yí àwọn òòfà ká
+Electromagnetic waves have perpendicular fields	Àwọn agbòṇ àrá-òòfà ní àwọn ìté onírú
+Sound waves need a medium for propagation	Àwọn agbòṇ ìró nílò àyè fún ìtànkálẹ̀
+Wave interference can be constructive or destructive	Ìdíbàjẹ́ agbòṇ lè jẹ́ olùkọ́ tàbí olùparun
+Diffraction occurs when waves bend around objects	Ìtẹ́ ṣẹlẹ̀ nígbàtí àwọn agbòṇ bá tẹ yí àwọn èḍá ká
+Reflection occurs when waves bounce off surfaces	Ìfàsẹ́yìn ṣẹlẹ̀ nígbàtí àwọn agbòṇ bá ta ojú èḍá pa
+Refraction occurs when waves change speed	Ìṣẹ́ ṣẹlẹ̀ nígbàtí àwọn agbòṇ bá yí ìyára padà
+Polarization affects wave orientation	Ìfíjúdènà ní ipa lórí ìdojúkọ agbòṇ
+Resonance occurs at natural frequencies	Ìdóhùn ṣẹlẹ̀ ní àwọn ìyásí adáyébá
+Standing waves have nodes and antinodes	Àwọn agbòṇ dídúró ní àwọn ìjókó àti àìjókó
+Harmonics are multiples of fundamental frequency	Àwọn ìwúwọn jẹ́ oníìlọ́po ìyásí àpilẹ̀
+Musical instruments produce standing waves	Àwọn ohun èlò orin máa ń ṣẹ̀dá àwọn agbòṇ dídúró
+Sound quality depends on harmonics	Ìwà ìró dá lórí àwọn ìwúwọn
+Pitch depends on frequency	Ohùn dá lórí ìyásí
+Volume depends on amplitude	Ariwo dá lórí ìjì
+Timbre depends on harmonic content	Ìró dá lórí àkóónú ìwúwọn
+Electromagnetic spectrum includes radio to gamma rays	Àádiàrá-òòfà ní rédíò dé àwọn ẹ̀ro-gama
+Radio waves have longest wavelength	Àwọn agbòṇ rédíò ní ìgbòn agbòṇ tí ó gùn jùlọ
+Gamma rays have shortest wavelength	Àwọn agbòṇ ẹ̀ro-gama ní ìgbòn agbòṇ tí ó kúrú jùlọ
+Visible light is a small part of the spectrum	Ìtànná àfojúrí jẹ́ apá kékeré ti àádi
+Infrared radiation carries heat	Atànná abẹ́-pupa máa ń gbé okun-iná
+Ultraviolet radiation can damage cells	Atànná òkè-pupa lè ṣe àbàjẹ́ hóró
+X-rays can penetrate soft tissues	Àwọn ẹ̀ro-X lè wọ àwọn ẹran fẹ́lẹ́fẹ́lẹ́
+Gamma rays are highly penetrating	Àwọn ẹ̀ro-gama ní agbára wíwọnú púpọ̀
+Microwaves excite water molecules	Àwọn maikroweefu máa ń mú àwọn mólékù omi gbóná
+Optical fibers guide light waves	Àwọn ọ̀pá-ìríran máa ń darí àwọn agbòṇ ìtànná
+Lasers produce coherent light	Àwọn alásé máa ń ṣẹ̀dá ìtànná alájọpọ̀
+Conductors have free electrons	Àwọn onípa ní àwọn èlẹ́kìtírónù òmìnira
+Insulators restrict electron flow	Àwọn adísí dín ìṣàn èlẹ́kìtírónù kù
+Semiconductors have variable conductivity	Àwọn alábòsípa ní ìgbéṣàn tí ó ń yípadà
+Superconductors have zero resistance	Àwọn aláìséatako kò ní atako
+Magnets have north and south poles	Àwọn òòfà ní àríwá àti gúúsù
+Magnetic fields follow closed loops	Àwọn ìté-̣òòfà máa ń tẹ̀lé àwọn òòna tí ó ti
+Electromagnetic induction creates current	Àgbàsíwájú àrá-òòfà máa ń ṣẹ̀dá ìsán-àrá
+Generators convert motion to electricity	Àwọn olùṣẹ̀dá máa ń yí ìṣí padà sí okun-àrá
+Transformers change voltage levels	Àwọn afagbára-àrá padà máa ń yí àwọn ìpele ìgbóra-àrá padà
+Simple machines reduce effort	Àwọn èṛọ àtilẹ̀wá máa ń dín agbára kù
+Levers use fulcrums for advantage	Àwọn egbé máa ń lo àwọn àtàrí fún ànfàní
+Pulleys change direction of force	Àwọn afàwòṇ máa ń pa ipò ipá dà
+Wheels reduce friction	Àwọn kẹ́kẹ́ máa ń dín ìmúlẹ̀ kù
+Inclined planes reduce effort	Àwọn pẹpẹ dídà máa ń dín agbára kù
+Wedges convert force direction	Àwọn òòlà máa ń pa ipò ipá dà
+Screws are inclined planes wrapped around cylinders	Àwọn ìdè jẹ́ àwọn pẹpẹ dídà tí ó yí àwọn òpá kiri
+Gears transmit rotational motion	Àwọn ẹyọ-yíyí máa ń gbé ìṣí ìyípo kọjá
+Pendulums demonstrate periodic motion	Àwọn òkè-ìsàlẹ̀ máa ń fi ìṣí àdéédéé hàn
+Springs demonstrate elastic behavior	Àwọn tíńrín máa ń fi ìwà ìfarayọ hàn
+Hydraulic systems transmit pressure	Àwọn ètò omiara máa ń gbé èéfún kọjá
+Pneumatic systems use compressed air	Àwọn ètò afẹ́fẹ́ara máa ń lo afẹ́fẹ́ ìfúnpọ̀
+Thermal expansion affects materials	Ìtẹ̀wọ̀n ooru ní ipa lórí àwọn ohun èlò
+Thermal contraction occurs with cooling	Ìfapọ̀ ooru ṣẹlẹ̀ pẹ̀lú títútù
+Materials have thermal conductivity	Àwọn ohun èlò ní ìgbéṣàn ooru
+Specific heat capacity varies by material	Agbára okun-iná pàtàkì yàtọ̀ nípa ohun èlò
+Latent heat relates to phase changes	Okun-iná wíwàba jẹ mọ́ àwọn ìyípadà ipò
+Melting absorbs heat energy	Ìyọ́ máa ń mú agbára okun-iná mọ́ra
+Freezing releases heat energy	Dídì máa ń tú agbára okun-iná sílẹ̀
+Evaporation absorbs heat energy	Ìgbóṣe máa ń mú agbára okun-iná mọ́ra
+Condensation releases heat energy	Ìsẹ́dì máa ń tú agbára okun-iná sílẹ̀
+Sublimation bypasses liquid phase	Ìyọ́òyì máa ń re ipò aṣàn kọjá
+Gas laws describe gas behavior	Àwọn ofì-òyì ṣàlàyé ìwà òyì
+Pressure varies with volume and temperature	Èéfún máa ń yàtọ̀ pẹ̀lú àyè àti ìgbóná
+Heat capacity measures energy storage	Agbára okun-iná wọn ìtọ́jú agbára
+Thermal radiation transfers heat without medium	Atànná ooru gbé okun-iná kọjá láìsí àárín
+Black bodies absorb and emit radiation efficiently	Àwọn ara dúdú máa ń mú àti tú atànná sílẹ̀ ní ọgbọ́n
+Materials have refractive index	Àwọn ohun èlò ní àmì ìṣẹ́
+Lenses focus or disperse light rays	Àwọn awòye máa ń so tàbí tú àwọn ìtànná ká
+Mirrors reflect light rays	Àwọn awòji máa ń fà àwọn ìtànná sẹ́yìn
+Prisms separate light into colors	Àwọn prísì máa ń ya ìtànná sí àwọn àwọ̀
+Color results from selective absorption	Àwọ̀ jẹ́ èsì ìmúmọ́ra àṣàyàn
+Blue objects absorb non-blue light	Àwọn èḍá àyìnrín máa ń mú ìtànná àìjẹ́-àyìnrín mọ́ra
+Red objects absorb non-red light	Àwọn èḍá pupa máa ń mú ìtànná àìjẹ́-pupa mọ́ra
+White objects reflect all visible light	Àwọn èḍá funfun máa ń fà gbogbo ìtànná àfojúrí sẹ́yìn
+Black objects absorb all visible light	Àwọn èḍá dúdú máa ń mú gbogbo ìtànná àfojúrí mọ́ra
+Opaque materials block light	Àwọn ohun èlò aláìfojúrí máa ń dènà ìtànná
+Transparent materials transmit light	Àwọn ohun èlò afojúrí máa ń gbé ìtànná kọjá
+Translucent materials partially transmit light	Àwọn ohun èlò aláàbọ̀fojúrí máa ń gbé ìtànná kọjá ní ààbọ̀
+Shadows form when light is blocked	Àwọn òjìji ṣẹ̀dá nígbàtí ìtànná bá jẹ́ dídènà
+Eclipses occur when celestial bodies align	Àwọn ìṣúbaà ṣẹlẹ̀ nígbàtí àwọn ara ọ̀run bá tẹ̀lé òṇà kan
+Solar eclipses occur when moon blocks sun	Àwọn ìṣúbaà oòrùn ṣẹlẹ̀ nígbàtí òṣùpá bá dènà oòrùn
+Lunar eclipses occur when Earth shadows moon	Àwọn ìṣúbaà òṣùpá ṣẹlẹ̀ nígbàtí ilẹ̀ ayé bá ṣẹ̀dá òjìji lórí òṣùpá
+Sound waves carry energy	Àwọn agbòṇ ìró máa ń gbé agbára
+Sound frequency determines pitch	Ìyásí ìró pinnu ohùn
+Sound amplitude determines volume	Ìjì ìró pinnu ariwo
+Sound travels faster through denser media	Ìró máa ń tàn káàkiri ní ìyára jù nínú àwọn àyè tí ó kítẹ́ jù
+Echoes are reflected sound waves	Àwọn ìjìhìn jẹ́ àwọn agbòṇ ìró tí a fà sẹ́yìn
+Doppler effect shifts frequency	Ipa Doppler máa ń yí ìyásí padà
+Sonic booms occur at supersonic speeds	Àwọn ariwo jaganba ṣẹlẹ̀ ní àwọn ìyára tí ó ju ti ariwo lọ
+Acoustics studies sound behavior	Èḳó ̣nípa ìró kọ́ nípa ìwà ìró
+Musical instruments produce harmonics	Àwọn ohun èlò orin máa ń ṣẹ̀dá àwọn ìwúwọn
+Resonance amplifies sound	Ìdóhùn máa ń gbé ìró ga
+Gravity pulls objects toward each other	Ipá òòfà-ilẹ̀ máa ń fa àwọn èḍá sí ara wọn
+Gravitational force depends on mass	Ipá òòfà-ilẹ̀ dá lórí ìwọ̀n-okun
+Gravitational force decreases with distance	Ipá òòfà-ilẹ̀ máa ń dínkù pẹ̀lú jíjìnnà
+Weight is gravitational force on mass	Ìwọ̀n-ìwúwo jẹ́ ipá òòfà-ilẹ̀ lórí ìwọ̀n-okun
+Orbital motion balances gravitational pull	Ìṣí àyíká máa ń ṣe ìbámu fà ipá òòfà-ilẹ̀
+Tides result from gravitational forces	Àwọn ìṣa àti ìyọ jẹ́ èsì àwọn ipá òòfà-ilẹ̀
+Satellites orbit due to gravity	Àwọn àyíká máa ń yí nítorí ipá òòfà-ilẹ̀
+Escape velocity overcomes gravitational pull	Ìyára ìbọ́sílẹ̀ máa ń borí fífà ipá òòfà-ilẹ̀
+Friction opposes sliding motion	Ìmúlẹ̀ máa ń tako ìṣí jíjìn
+Friction generates heat	Ìmúlẹ̀ máa ń ṣẹ̀dá ooru
+Coefficient of friction varies by materials	Òṣùwọ̀n ìmúlẹ̀ yàtọ̀ nípa àwọn ohun èlò
+Static friction exceeds kinetic friction	Ìmúlẹ̀ dídúró ju ìmúlẹ̀ ìṣí lọ
+Rolling friction is less than sliding friction	Ìmúlẹ̀ yíyí kéré ju ìmúlẹ̀ jíjìn lọ
+Lubricants reduce friction	Àwọn ẹ̀kún máa ń dín ìmúlẹ̀ kù
+Air resistance increases with speed	Àtakò afẹ́fẹ́ máa ń pọ̀ pẹ̀lú ìyára
+Terminal velocity balances gravity and drag	Ìyára ìparí máa ń ṣe ìbámu ipá òòfà-ilẹ̀ àti ìfà
+Center of mass is balance point	Àárín ìwọ̀n-okun jẹ́ ojú ìbámu
+Center of gravity affects stability	Àárín ipá òòfà-ilẹ̀ ní ipa lórí ìdúró
+Torque causes rotational acceleration	Ipá-ẹ̀lọ́ máa ń fa ìdà-eré ìyípo
+Torque equals force times lever arm	Ipá-ẹ̀lọ́ dọ́gba ipá lọ́nà apá egbé
+Angular momentum is conserved	Ipáàlọ olóríkèé jẹ́ títọ́jú
+Moment of inertia affects rotation	Ìṣẹ́jú àìfàgbára ní ipa lórí ìyípo
+Gyroscopes demonstrate angular momentum	Àwọn èṛọ ìdìde máa ń fi ipáàlọ olóríkèé hàn
+Fluids exert pressure in all directions	Àwọn aṣàn máa ń fi èéfún ṣiṣẹ́ ní gbogbo ìhà
+Pressure increases with depth	Èéfún máa ń pọ̀ pẹ̀lú jíjìn
+Buoyancy equals weight of displaced fluid	Ipá àtẹ́lẹ́ dọ́gba ìwọ̀n-ìwúwo aṣàn tí ó ti kúrò
+Floating objects displace their weight	Àwọn èḍá tí ń léfòó máa ń lé ìwọ̀n-ìwúwo wọn kúrò
+Sinking objects have greater density	Àwọn èḍá tí ń rì ní kíkítẹ́ tí ó pọ̀jù
+Fluid flow follows conservation principles	Ìṣàn aṣàn máa ń tẹ̀lé àwọn ìlànà ìtọ́jú
+Viscosity resists fluid flow	Ìkítẹ́lẹ̀jẹpẹ máa ń tako ìṣàn aṣàn
+Laminar flow is smooth and orderly	Ìṣàn pẹlẹ́bẹ jẹ́ fífẹ́lẹ́ àti lẹ́tọ̀ọ́
+Turbulent flow is chaotic	Ìṣàn rúdurùdu jẹ́ àìlẹ́tọ̀ọ́
+Surface tension creates skin-like surface	Ìfàlára ojú máa ń ṣẹ̀dá ojú bí awọ
+Capillary action draws liquids into narrow spaces	Ìṣe ọ̀kẹ́ máa ń fa àwọn aṣàn sínú àwọn àyè tósóró
+Diffusion moves particles from high to low concentration	Ìtànká máa ń ṣí àwọn ẹ̀yọ láti ibi ìsọdipọ̀ gíga sí ibi ìsọdipọ̀ kéré
+Osmosis moves water across semipermeable membranes	Ìtànjẹ máa ń ṣí omi la àwọn ẹ̀gbẹ́ aláàbọ̀pọ̀
+Brownian motion shows random particle movement	Ìṣí Brown fi ìṣí àìlétò àwọn ẹ̀yọ hàn
+Matter exists as solid, liquid, gas, or plasma	Èḍá wà bí adì, aṣàn, òyì, tàbí agbọkunnáá
+Phase changes occur at specific temperatures	Àwọn ìyípadà ipò ṣẹlẹ̀ ní àwọn ìgbóná pàtó
+Melting changes solid to liquid	Ìyọ́ máa ń yí adì padà sí aṣàn
+Freezing changes liquid to solid	Dídì máa ń yí aṣàn padà sí adì
+Evaporation changes liquid to gas	Ìgbóṣe máa ń yí aṣàn padà sí òyì
+Condensation changes gas to liquid	Ìsẹ́dì máa ń yí òyì padà sí aṣàn
+Sublimation changes solid directly to gas	Ìyọ́òyì máa ń yí adì taara padà sí òyì
+Deposition changes gas directly to solid	Ìfidì máa ń yí òyì taara padà sí adì
+Boiling occurs throughout liquid volume	Ìhó ṣẹlẹ̀ káàkiri àyè aṣàn
+Evaporation occurs at liquid surface	Ìgbóṣe ṣẹlẹ̀ ní ojú aṣàn
+Critical point marks end of liquid-gas distinction	Ojú pàtàkì ṣe àmì opin ìyàtọ̀ aṣàn-òyì
+Triple point has three phases coexisting	Ojú mẹ́ta ní ipò mẹ́ta tí ń ṣàjọwípò
+Plasma is ionized gas	Agbọkunnáá jẹ́ òyì àyègbàrá
+Crystals have ordered atomic structure	Àwọn kírístálì ní ètò átòṃù alẹ́tọ̀ọ́
+Amorphous solids lack ordered structure	Àwọn adì àìnírí ṣe aláìní ètò alẹ́tọ̀ọ́
+Elasticity allows shape recovery	Ìfarayọ fàyè gba ìpadàbọ̀sípò ìrí
+Plasticity allows permanent deformation	Ìrọ̀wẹ́sẹ̀ fàyè gba àìpadàbọ̀sípò ìrí
+Ductility allows stretching without breaking	Ìfanasílẹ̀ fàyè gba fífà láìfọ́
+Malleability allows shaping without breaking	Ìlurọ fàyè gba dídá láìfọ́
+Brittleness leads to sudden fracture	Ìrọ̀bọ máa ń fa ìfọ́ lójijì
+Hardness resists surface deformation	Líle máa ń tako ìyípòdà ojú
+Toughness resists fracture propagation	Lílágbára máa ń tako ìtànká ìfọ́
+Materials have stress-strain relationships	Àwọn ohun èlò ní àwọn àjọpọ̀ wíwọ̀n-fífà
+Hooke's law applies to elastic deformation	Òfin Hooke jẹ mọ́ ìyípòdà ìfarayọ
+Young's modulus measures stiffness	Òṣùwọ̀n Young wọn ìnira
+Thermal expansion affects dimensions	Ìtẹ̀wọ̀n ooru ní ipa lórí àwọn ìwọ̀n
+Thermal stress results from constrained expansion	Wíwọ̀n ooru jẹ́ èsì ìtẹ̀wọ̀n tí a dènà
+Isotopes have same protons, different neutrons	Àwọn ẹlẹgbẹ́-ẹ̀yà ní pírótónù kannáà, nútírónù tí ó yàtọ̀
+Ions have unequal protons and electrons	Àwọn ayọgbẹ́ ní pírótónù àti èlẹ́kìtírónù tí kò dọ́gba
+Chemical bonds form by sharing electrons	Àwọn ìsopọ̀ ẹlà ṣẹ̀dá nípa pínpín èlẹ́kìtírónù
+Covalent bonds share electrons	Àwọn ìsopọ̀ ìpínhán máa ń pín èlẹ́kìtírónù
+Ionic bonds transfer electrons	Àwọn ìsopọ̀ ayọgbẹ́ máa ń gbé èlẹ́kìtírónù kọjá
+Metallic bonds have electron sea	Àwọn ìsopọ̀ irin ní òkun èlẹ́kìtírónù
+Hydrogen bonds are intermolecular forces	Àwọn ìsopọ̀ háídírójìn jẹ́ àwọn ipá láàrín-mólékù
+Van der Waals forces are weak attractions	Àwọn ipá Van der Waals jẹ́ àwọn ìfàmọ́ra aláìlágbára
+Chemical reactions rearrange bonds	Àwọn ìdárapọ̀ ẹlà máa ń tún àwọn ìsopọ̀ ṣe
+Endothermic reactions absorb heat	Àwọn ìdárapọ̀ alámúoorunwọlé máa ń mú ooru wọlé
+Exothermic reactions release heat	Àwọn ìdárapọ̀ alátúoorusílẹ̀ máa ń tú ooru sílẹ̀
+Catalysts speed up reactions	Àwọn alágbára máa ń mú àwọn ìdárapọ̀ yára
+Inhibitors slow down reactions	Àwọn adínkù máa ń mú àwọn ìdárapọ̀ lọra
+Equilibrium balances forward and reverse reactions	Ìbámu ṣe ìbámu àwọn ìdárapọ̀ sí wájú àti ṣẹ́yìn
+Radioactive elements decay spontaneously	Àwọn ẹ̀yà amórayínlẹ̀ máa ń bàjẹ́ fúnrararẹ̀
+Alpha decay emits helium nuclei	Ìbàjẹ́ áfà máa ń tú àwọn àárín hílíọ̀mù jáde
+Beta decay emits electrons	Ìbàjẹ́ bẹ́tà máa ń tú àwọn èlẹ́kìtírónù jáde
+Gamma decay emits high-energy photons	Ìbàjẹ́ gáḿà máa ń tú àwọn fótónù agbára-gíga jáde
+Half-life measures decay rate	Ààbọ̀-ẹ̀mí wọn ìyásí ìbàjẹ́
+Fission splits heavy nuclei	Píntọ́ máa ń ya àwọn àárín wíwúwo
+Fusion combines light nuclei	Ìdàpọ̀ máa ń dá àwọn àárín fẹ́rẹ̀ pọ̀
+Nuclear reactions release enormous energy	Àwọn ìdárapọ̀ ojúìnú máa ń tú agbára ńlá sílẹ̀
+Radioactive dating determines age	Ìṣefilà amórayínlẹ̀ pinnu ọjọ́ orí
+Particle accelerators boost particle energy	Àwọn àgbáyààrá-ẹ̀yọ máa ń gbé agbára ẹ̀yọ ga
+Subatomic particles include quarks and leptons	Àwọn ẹ̀yọ abẹ́-átòṃù ní kuákì àti lẹ́pítónù
+Antimatter has opposite properties to matter	Èḍá-òdì ní àwọn ìwà tí ó lòdì sí èḍá
+Quantum mechanics describes atomic behavior	Ìṣeátómù ṣàlàyé ìwà átòṃù
+Wave-particle duality applies to matter	Méjèèjì agbòṇ-átòṃù jẹ mọ́ èḍá
+Heisenberg uncertainty principle limits precision	Ìlànà àìdájú Heisenberg dá opin sí pípeye
+Pauli exclusion principle governs electron arrangements	Ìlànà ìyàsọ́tọ̀ Pauli ṣàkóso àwọn ètò èlẹ́kìtírónù
+Energy levels in atoms are quantized	Àwọn ìpele agbára nínú átòṃù jẹ́ onínípìntọ́
+Quantum tunneling allows barrier penetration	Ìfarakù iye-ipele fàyè gba wíwọnú àbàtà
+Quantum entanglement links particle states	Ìsopọ̀mọ́ra iye-ipele so àwọn ipò ẹ̀yọ pọ̀
+Special relativity relates space and time	Ìbájẹpọ̀ àkànṣe ṣe àlàjẹpọ̀ àyé àti àkókò
+General relativity describes gravity as spacetime curvature	Ìbájẹpọ̀ gbogbogbò ṣàlàyé ipá òòfà-ilẹ̀ gẹ́gẹ́ bí ìṣíwọ́ àyé-àkókò
+Time dilation occurs at high speeds	Ìnàsílẹ̀ àkókò ṣẹlẹ̀ ní àwọn ìyára gíga
+Length contraction occurs at high speeds	Ìfapọ̀ gígùn ṣẹlẹ̀ ní àwọn ìyára gíga
+Mass increases at high speeds	Ìwọ̀n-okun máa ń pọ̀ ní àwọn ìyára gíga
+Mass and energy are equivalent	Ìwọ̀n-okun àti agbára jẹ́ bákannáà
+Speed of light is constant in vacuum	Ìyára ìtànná jẹ́ dídúró nínú òfìfo
+Nothing can exceed light speed	Kò sí ohun tí ó lè ju ìyára ìtànná lọ
+Black holes have extreme gravity	Àwọn ihò dúdú ní ipá òòfà-ilẹ̀ àlàjẹ
+Event horizons surround black holes	Àwọn òpin ìṣẹ̀lẹ̀ yí àwọn ihò dúdú ká
+Gravitational waves ripple through spacetime	Àwọn agbòṇ ipá òòfà-ilẹ̀ máa ń ní ìrìn nínú àyé-àkókò
+Dark matter affects galaxy rotation	Èḍá òkùnkùn ní ipa lórí ìyípo àwọ̀n àlàlá
+Dark energy drives cosmic expansion	Agbára òkùnkùn máa ń darí ìnàsílẹ̀ òṣonká
+Fundamental forces include gravity and electromagnetism	Àwọn ipá àpilẹ̀ ní ipá òòfà-ilẹ̀ àti àrá-òòfà
+Strong nuclear force binds nuclei	Ipá ojúìnú lágbára so àwọn àárín pọ̀
+Weak nuclear force causes decay	Ipá ojúìnú aláìlágbára fa ìbàjẹ́
+Electromagnetism acts between charges	Àrá-òòfà máa ń ṣiṣẹ́ láàrín àwọn àyè àrá
+Gravity acts between masses	Ipá òòfà-ilẹ̀ máa ń ṣiṣẹ́ láàrín àwọn ìwọ̀n-okun
+Unified theories combine fundamental forces	Àwọn ìlànà àsopọ̀ dá àwọn ipá àpilẹ̀ pọ̀
+Standard model describes particle physics	Àpẹẹrẹ déédéé ṣàlàyé èḳó ̣nípa ẹ̀yọ
+String theory proposes fundamental strings	Ìlànà okùn dábàá àwọn okùn àpilẹ̀
+Conservation laws govern physical processes	Àwọn òfin ìtọ́jú ṣàkóso àwọn ìlànà èḍá
+Energy cannot be created or destroyed	Agbára kò lè jẹ́ dídá tàbí píparun
+Mass-energy is conserved	Ìwọ̀n-okun-agbára jẹ́ títọ́jú
+Momentum is conserved in closed systems	Ipáàlọ jẹ́ títọ́jú nínú àwọn ètò tí ó ti pipé
+Angular momentum is conserved	Ipáàlọ olóríkèé jẹ́ títọ́jú
+Electric charge is conserved	Àyè àrá jẹ́ títọ́jú
+Thermodynamics describes energy relationships	Èḳó ̣nípa okun-ooru ṣàlàyé àwọn àjọpọ̀ agbára
+First law states energy is conserved	Òfin kìíní sọ pé agbára jẹ́ títọ́jú
+Second law involves entropy increase	Òfin kejì jẹ mọ́ ìpọ̀si ìdágbére
+Third law involves absolute zero	Òfin kẹta jẹ mọ́ òdo pípéye
+Heat flows from hot to cold	Okun-iná máa ń ṣàn láti ibi gbígbóná sí ibi tútù
+Entropy measures disorder	Ìdágbére wọn àìlẹ́tọ̀
+Work converts between energy forms	Iṣẹ́ máa ń yí láàrín àwọn orí agbára
+Efficiency measures useful work output	Ìṣepé wọn iṣẹ́ wúlò jáde
+Heat engines convert heat to work	Àwọn èṛọ okun-iná máa ń yí okun-iná padà sí iṣẹ́
+Refrigerators move heat against gradient	Àwọn ẹ̀rọọjẹ̀ máa ń ṣí okun-iná lòdì sí onígbọ̀ngbọ́
+Carnot efficiency limits heat engines	Ìṣepé Carnot dá opin sí àwọn èṛọ okun-iná
+Temperature is average kinetic energy	Ìgbóná jẹ́ agbára ìmira àpapọ̀
+Absolute zero has minimum molecular motion	Òdo pípéye ní ìṣí mólékù kéréjùlọ
+Classical mechanics describes macroscopic motion	Èḳó ̣nípa ìṣeáyébáyé ṣàlàyé ìṣí afojúrí
+Quantum mechanics describes microscopic behavior	Èḳó ̣nípa ìṣeátómù ṣàlàyé ìwà aláìfojúrí
+Newton's laws describe motion and forces	Àwọn òfin Newton ṣàlàyé ìṣí àti àwọn ipá
+First law describes inertia	Òfin kìíní ṣàlàyé àìfàgbára
+Second law relates force and acceleration	Òfin kejì ṣe àlàjẹpọ̀ ipá àti ìdà-eré
+Third law describes action-reaction pairs	Òfin kẹta ṣàlàyé àwọn àbáwáṣe ìgbéṣe-èsì
+Circular motion requires centripetal force	Ìṣí àyíká nílò ipá ìfààárín
+Orbital motion balances centripetal force	Ìṣí àyíká ṣe ìbámu ipá ìfààárín
+Harmonic motion is repetitive oscillation	Ìṣí ìwúwọn jẹ́ ìmì àtúnṣe
+Pendulums demonstrate harmonic motion	Àwọn òkè-ìsàlẹ̀ máa ń fi ìṣí ìwúwọn hàn
+Resonance occurs at natural frequencies	Ìdóhùn ṣẹlẹ̀ ní àwọn ìyásí adáyébá
+Waves transfer energy without matter	Àwọn agbòṇ máa ń gbé agbára kọjá láìsí èḍá
+Wavelength is distance between crests	Ìgbòn agbòṇ jẹ́ ìjìn láàrín àwọn gegele
+Frequency is oscillations per second	Ìyásí jẹ́ ìmì ní ìṣẹ́jú kan
+Amplitude determines wave energy	Ìjì pinnu agbára agbòṇ
+Wave speed equals frequency times wavelength	Ìyára agbòṇ dọ́gba ìyásí lọ́nà ìgbòn agbòṇ
+Interference occurs when waves overlap	Ìdíbàjẹ́ ṣẹlẹ̀ nígbàtí àwọn agbòṇ bá bojúpọ̀
+Diffraction occurs at edges and openings	Ìtẹ́ ṣẹlẹ̀ ní àwọn etí àti àwọn ìṣí
+Standing waves have fixed nodes	Àwọn agbòṇ dídúró ní àwọn ìjókó tí ó dúró
+Sound waves are longitudinal	Àwọn agbòṇ ìró jẹ́ olóòró
+Light waves are transverse	Àwọn agbòṇ ìtànná jẹ́ oníbu
+Electromagnetic spectrum has many types	Àádiàrá-òòfà ní oríṣi púpọ̀
+Radio waves have longest wavelength	Àwọn agbòṇ rédíò ní ìgbòn agbòṇ tí ó gùn jùlọ
+Microwaves heat water molecules	Àwọn maikroweefu máa ń mú àwọn mólékù omi gbóná
+Infrared radiation carries heat	Atànná abẹ́-pupa máa ń gbé okun-iná
+Visible light allows vision	Ìtànná àfojúrí fàyè gba ìríran
+Ultraviolet light can damage skin	Ìtànná òkè-pupa lè ṣe àbàjẹ́ awọ
+X-rays penetrate soft tissues	Àwọn ẹ̀ro-X máa ń wọ àwọn ẹran fẹ́lẹ́fẹ́lẹ́
+Gamma rays have highest energy	Àwọn ẹ̀ro-gama ní agbára tí ó ga jùlọ
+Optics studies light behavior	Èḳó ̣nípa ìríran kọ́ nípa ìwà ìtànná
+Reflection bounces light	Ìfàsẹ́yìn máa ń ta ìtànná padà
+Refraction bends light	Ìṣẹ́ máa ń tẹ ìtànná
+Dispersion separates light by wavelength	Ìtúká máa ń ya ìtànná nípa ìgbòn agbòṇ
+Lenses focus light by refraction	Àwọn awòye máa ń so ìtànná pọ̀ nípa ìṣẹ́
+Mirrors reflect light from surfaces	Àwọn awòji máa ń fà ìtànná sẹ́yìn láti ojú
+Optical instruments use lenses and mirrors	Àwọn ohun èlò ìríran máa ń lo àwọn awòye àti awòji
+Telescopes magnify distant objects	Àwọn jínjínrìn máa ń tóbi àwọn èḍá tí ó jìnnà
+Microscopes magnify tiny objects	Àwọn kékerìn máa ń tóbi àwọn èḍá tí ó kéré
+Cameras record light images	Àwọn kámérà máa ń gbà àwọn àwòrán ìtànná sílẹ̀
+Color results from selective absorption	Àwọ̀ jẹ́ èsì ìmúmọ́ra àṣàyàn
+Primary colors of light are red, green, and blue	Àwọn àwọ̀ àkọ́kọ́ ìtànná ni pupa, ewé, àti àyìnrín
+Primary colors of pigment are cyan, magenta, and yellow	Àwọn àwọ̀ àkọ́kọ́ àwọ̀dà ni síyánì, májẹ́ńtà, àti èsè
+Electricity involves electric charges	Okun-àrá jẹ mọ́ àwọn àyè àrá
+Static electricity has stationary charges	Okun-àrá dídúró ní àwọn àyè àrá tí ó dúró
+Current electricity has flowing charges	Okun-àrá ìsán ní àwọn àyè àrá tí ń ṣàn
+Conductors allow charge flow	Àwọn onípa fàyè gba ìṣàn àyè àrá
+Insulators restrict charge flow	Àwọn adísí dín ìṣàn àyè àrá kù
+Semiconductors have intermediate properties	Àwọn alábòsípa ní àwọn ìwà àárín
+Electric fields surround charges	Àwọn ìté-̣àrá yí àwọn àyè àrá ká
+Electric potential is stored energy per charge	Agbára àrá jẹ́ agbára títọ́jú fún àyè àrá kan
+Voltage is electric potential difference	Ìgbóra-àrá jẹ́ ìyàtọ̀ agbára àrá
+Current is flow of electric charge	Ìsán-àrá jẹ́ ìṣàn àyè àrá
+Resistance opposes current flow	Atako ṣoròdodo sí ìṣàn ìsán-àrá
+Ohm's law relates voltage, current, and resistance	Òfin Ohm ṣe àlàjẹpọ̀ ìgbóra-àrá, ìsán-àrá, àti atako
+Circuits provide paths for current	Àwọn ìrìnpo pèsè àwọn ojú ọ̀nà fún ìsán-àrá
+Series circuits have one path	Àwọn ìrìnpo òjóòní ní ojú ọ̀nà kan
+Parallel circuits have multiple paths	Àwọn ìrìnpo aṣíṣáájú ní ojú ọ̀nà púpọ̀
+Switches control circuit connections	Àwọn ṣíwọ́ọ̀ṣí darí àwọn ìsopọ̀ ìrìnpo
+Fuses protect against excessive current	Àwọn ìdínà dáàbòbò lòdì sí ìsán-àrá àjélọ
+Capacitors store electric charge	Àwọn apamọ́yẹàrá tọ́jú àyè àrá
+Inductors store magnetic fields	Àwọn apamọ́tééòòfà tọ́jú àwọn ìté-̣òòfà
+Transformers change voltage levels	Àwọn afagbára-àrá padà yí àwọn ìpele ìgbóra-àrá padà
+Generators convert mechanical to electrical energy	Àwọn olùṣẹ̀dá yí agbára èṛọ padà sí agbára okun-àrá
+Electric motors convert electrical to mechanical energy	Àwọn èṛọ ìdáàrá yí agbára okun-àrá padà sí agbára èṛọ
+Electromagnetic induction creates voltage	Àgbàsíwájú àrá-òòfà ṣẹ̀dá ìgbóra-àrá
+Electromagnetism links electricity and magnetism	Àrá-òòfà so okun-àrá àti òòfà pọ̀
+Magnetism involves magnetic fields	Èḳó ̣nípa òòfà jẹ mọ́ àwọn ìté-̣òòfà
+Magnetic fields surround magnets	Àwọn ìté-̣òòfà yí àwọn òòfà ká
+Magnetic poles exert forces	Àwọn ìgún òòfà fi ipá ṣiṣẹ́
+Like poles repel each other	Àwọn ìgún tí ó jọra máa ń tì ara wọn
+Unlike poles attract each other	Àwọn ìgún tí kò jọra máa ń fa ara wọn
+Moving charges create magnetic fields	Àwọn àyè àrá tí ń ṣí máa ń ṣẹ̀dá àwọn ìté-̣òòfà
+Changing magnetic fields induce electric current	Àwọn ìté-̣òòfà tí ń yípadà máa ń ṣẹ̀dá ìsán-àrá
+Electromagnets use electric current	Àwọn àrá-òòfà máa ń lo ìsán-àrá
+Solenoids concentrate magnetic fields	Àwọn olówólóòpó máa ń kojọ àwọn ìté-̣òòfà
+Electric motors use magnetic force	Àwọn èṛọ ìdáàrá máa ń lo ipá òòfà
+Generators use electromagnetic induction	Àwọn olùṣẹ̀dá máa ń lo àgbàsíwájú àrá-òòfà
+Transformers use changing magnetic fields	Àwọn afagbára-àrá padà máa ń lo àwọn ìté-̣òòfà tí ń yípadà
+Electronics controls electric current	Èḳó ̣nípa ẹ̀rọàrá darí ìsán-àrá
+Semiconductors have controllable conductivity	Àwọn alábòsípa ní ìgbéṣàn tí ó ṣeé dáàkóso
+Diodes allow current in one direction	Àwọn olóòṇàkan fàyè gba ìsán-àrá ní òṇà kan
+Transistors amplify and switch current	Àwọn atórinú gbé ìsán-àrá ga àti yí ìsán-àrá padà
+Integrated circuits combine components	Àwọn ìrìnpo àdàpọ̀ dá àwọn ẹ̀yà pọ̀
+Logic gates perform digital operations	Àwọn ìlẹ̀kùn ìṣirò ṣe àwọn iṣẹ́ onínọ́mbà
+Digital systems use binary values	Àwọn ètò onínọ́mbà máa ń lo àwọn iye ẹyọ-méjì
+Computers process digital information	Àwọn kọ̀npútà máa ń ṣe ìgbésẹ̀ ìmọ̀ onínọ́mbà
+Superconductors have zero resistance	Àwọn aláìséatako kò ní atako
+Thermodynamics studies heat and energy	Èḳó ̣nípa okun-ooru kọ́ nípa okun-iná àti agbára
+Temperature measures molecular motion	Ìgbóná wọn ìṣí mólékù
+Heat is energy transfer due to temperature	Okun-iná jẹ́ ìṣíragbára nítorí ìgbóná
+Thermal equilibrium has equal temperatures	Ìbámu ooru ní àwọn ìgbóná tí ó dọ́gba
+Thermal expansion increases volume	Ìtẹ̀wọ̀n ooru máa ń pọ̀ àyè
+Specific heat varies by material	Okun-iná pàtàkì yàtọ̀ nípa ohun èlò
+Heat capacity measures energy storage	Agbára okun-iná wọn ìtọ́jú agbára
+Latent heat relates to phase changes	Okun-iná wíwàba jẹ mọ́ àwọn ìyípadà ipò
+Heat engines convert heat to work	Àwọn èṛọ okun-iná yí okun-iná padà sí iṣẹ́
+Carnot efficiency limits heat engines	Ìṣepé Carnot dá opin sí àwọn èṛọ okun-iná
+Refrigerators move heat against gradient	Àwọn ẹ̀rọọjẹ̀ ṣí okun-iná lòdì sí onígbọ̀ngbọ́
+Heat pumps move heat between environments	Àwọn pompuooru ṣí okun-iná láàrín àwọn àyíká
+Entropy measures system disorder	Ìdágbére wọn àìlẹ́tọ̀ètò
+Entropy increases in natural processes	Ìdágbére máa ń pọ̀ nínú àwọn ìlànà adáyébá
+Mechanics studies motion and forces	Èḳó ̣nípa ìṣemẹ́kà kọ́ nípa ìṣí àti àwọn ipá
+Kinematics describes motion without forces	Èḳó ̣nípa ìṣí ṣàlàyé ìṣí láìsí àwọn ipá
+Dynamics relates forces to motion	Èḳó ̣nípa ipá ṣe àlàjẹpọ̀ àwọn ipá sí ìṣí
+Statics studies objects at rest	Èḳó ̣nípa dídúró kọ́ nípa àwọn èḍá ní ìsinmi
+Projectile motion combines horizontal and vertical	Ìṣí ìgbọnwá dá ìtasọ́nà àti ìtagbòrò pọ̀
+Uniform motion has constant velocity	Ìṣí dọ́gba ní ìdà-ipò tí ó dúró
+Accelerated motion has changing velocity	Ìṣí ìdà-eré ní ìdà-ipò tí ń yípadà
+Momentum equals mass times velocity	Ipáàlọ dọ́gba ìwọ̀n-okun lọ́nà ìdà-ipò
+Impulse changes momentum	Ìtẹ̀yìn máa ń yí ipáàlọ padà
+Work equals force times displacement	Iṣẹ́ dọ́gba ipá lọ́nà ìyípòdà
+Power equals work divided by time	Ìgbóra dọ́gba iṣẹ́ pín fún àkókò
+Energy is the capacity to do work	Agbára jẹ́ okun fún lílo iṣẹ́
+Potential energy depends on position	Agbára ìpò dá lórí ipò
+Kinetic energy relates to motion	Agbára ìmira jẹ mọ́ ìṣí
+Mechanical energy combines potential and kinetic	Agbára èṛọ dá agbára ìpò àti ìmira pọ̀
+Friction converts kinetic to heat energy	Ìmúlẹ̀ yí agbára ìmira padà sí agbára okun-iná
+Conservation of energy is fundamental	Ìtọ́jú agbára jẹ́ pàtàkì
+Fluid mechanics studies liquids and gases	Èḳó ̣nípa ìṣeaṣàn kọ́ nípa àwọn aṣàn àti òyì
+Pressure equals force per unit area	Èéfún dọ́gba ipá fún ẹyọ òrò
+Buoyancy equals displaced fluid weight	Ipá àtẹ́lẹ́ dọ́gba ìwọ̀n-ìwúwo aṣàn kúrò
+Archimedes principle explains buoyancy	Ìlànà Archimedes ṣàlàyé ipá àtẹ́lẹ́
+Pascal's principle describes pressure in fluids	Ìlànà Pascal ṣàlàyé èéfún nínú àwọn aṣàn
+Bernoulli's principle relates pressure to speed	Ìlànà Bernoulli ṣe àlàjẹpọ̀ èéfún sí ìyára
+Fluid flow can be laminar or turbulent	Ìṣàn aṣàn lè jẹ́ pẹlẹ́bẹ tàbí rúdurùdu
+Viscosity resists fluid flow	Ìkítẹ́lẹ̀jẹpẹ tako ìṣàn aṣàn
+Surface tension creates skin-like surfaces	Ìfàlára ojú ṣẹ̀dá àwọn ojú bí awọ
+Capillary action draws liquids into narrow spaces	Ìṣe ọ̀kẹ́ fa àwọn aṣàn sínú àwọn àyè híhá
+Plasma physics studies ionized gases	Èḳó ̣nípa agbọkunnáá kọ́ nípa àwọn òyì àyègbàrá
+Nuclear physics studies atomic nuclei	Èḳó ̣nípa ojúìnú kọ́ nípa àwọn àárín átòṃù
+Particle physics studies subatomic particles	Èḳó ̣nípa ẹ̀yọ kọ́ nípa àwọn ẹ̀yọ abẹ́-átòṃù
+Quantum physics studies atomic scale	Èḳó ̣nípa ìṣeàṣìmú kọ́ nípa ìwọ̀n átòṃù
+Relativity studies high speeds and gravity	Èḳó ̣nípa ìbájẹpọ̀ kọ́ nípa àwọn ìyára gíga àti ipá òòfà-ilẹ̀
+Astrophysics applies physics to astronomy	Èḳó ̣nípa ẹ̀dáọ̀run lo èḳó ̣nípa èḍá fún ìwádìí ọ̀run
+Biophysics applies physics to biology	Èḳó ̣nípa ẹ̀dáara lo èḳó ̣nípa èḍá fún ìwádìí ẹ̀dá alááyè
+Geophysics applies physics to Earth	Èḳó ̣nípa ẹ̀dáilẹ̀ lo èḳó ̣nípa èḍá fún ìwádìí ilẹ̀
+Medical physics applies physics to medicine	Èḳó ̣nípa ẹ̀dáògùn lo èḳó ̣nípa èḍá fún ìwádìí ìṣègùn
+Engineering applies physics to practical problems	Ìṣèṛọ lo èḳó ̣nípa èḍá fún àwọn ìṣòro ìṣèṣe
+Acoustics studies sound behavior	Èḳó ̣nípa ìró kọ́ nípa ìwà ìró
+Optics studies light behavior	Èḳó ̣nípa ìríran kọ́ nípa ìwà ìtànná
+Electromagnetism studies electricity and magnetism	Èḳó ̣nípa àrá-òòfà kọ́ nípa okun-àrá àti òòfà
+Materials science studies material properties	Èḳó ̣nípa ohun èlò kọ́ nípa àwọn ìwà ohun èlò
+Spectroscopy analyzes light spectra	Èḳó ̣nípa àyẹ̀wò-ìtànná ṣe àtúpalẹ̀ àwọn àádi-ìtànná
+Microscopy uses microscopes for imaging	Èḳó ̣nípa aṣàwò-kékerè lo àwọn kékerìn fún ìṣàwòrán
+Telescopy uses telescopes for imaging	Èḳó ̣nípa aṣàwò-jínjìn lo àwọn jínjínrìn fún ìṣàwòrán
+Metrology studies measurement	Èḳó ̣nípa ìṣewọ̀n kọ́ nípa ìwọ̀n
+Radiometry measures electromagnetic radiation	Èḳó ̣nípa ìwọ̀natànná wọn atànná àrá-òòfà
+Physical constants have fixed values	Àwọn ìdúró èḍá ní àwọn iye tí ó dúró
+Speed of light is a physical constant	Ìyára ìtànná jẹ́ ìdúró èḍá
+Planck's constant relates energy to frequency	Ìdúró Planck ṣe àlàjẹpọ̀ agbára sí ìyásí
+Gravitational constant relates gravity to mass	Ìdúró ipá òòfà-ilẹ̀ ṣe àlàjẹpọ̀ ipá òòfà-ilẹ̀ sí ìwọ̀n-okun
+Boltzmann constant relates energy to temperature	Ìdúró Boltzmann ṣe àlàjẹpọ̀ agbára sí ìgbóná
+Avogadro's number counts atoms in a mole	Nọ́mbà Avogadro ka àwọn átòṃù nínú móòlù
+Elementary charge is electron charge magnitude	Àyè àrá ẹlẹ́yọ jẹ́ ìwọ̀n àyè àrá èlẹ́kìtírónù
+Fine structure constant relates electromagnetic forces	Ìdúró ètò kékeré ṣe àlàjẹpọ̀ àwọn ipá àrá-òòfà
+Measurement requires standards and instruments	Ìṣèwọ̀n nílò àwọn ìgbìmọ̀ àti ohun èlò
+SI units form standard measurement system	Àwọn ìwọ̀n SI ṣẹ̀dá ètò ìwọ̀n ìgbìmọ̀
+Meter measures length	Mítà wọn gígùn
+Kilogram measures mass	Kílógrámù wọn ìwọ̀n-okun
+Second measures time	Ìṣẹ́jú wọn àkókò
+Ampere measures electric current	Ámpẹ̀yà wọn ìsán-àrá
+Kelvin measures temperature	Kẹ́lifìn wọn ìgbóná
+Mole measures amount of substance	Móòlù wọn iye èḍá
+Candela measures luminous intensity	Kándélà wọn ipá ìmọ́lẹ̀
+Derived units combine base units	Àwọn ìwọ̀n àyétorí dá àwọn ìwọ̀n ìpìlẹ̀ pọ̀
+Newton measures force	Nítín wọn ipá
+Joule measures energy	Júlì wọn agbára
+Watt measures power	Wátì wọn ìgbóra
+Pascal measures pressure	Pásíkálì wọn èéfún
+Volt measures electric potential	Fóòlìtì wọn agbára àrá
+Ohm measures electric resistance	Óòmù wọn atako-àrá
+Hertz measures frequency	Háàtìsì wọn ìyásí
+Measurement has uncertainty	Ìṣèwọ̀n ní àìdájú
+Precision measures consistency	Pípeye wọn ìbámu
+Accuracy measures correctness	Òtítọ́ wọn ìṣedéédé
+Calibration ensures measurement accuracy	Ìṣètúnṣe dá ìṣedéédé ìṣèwọ̀n lójú
+Instruments extend human senses	Àwọn ohun èlò gbé àwọn ìmọ̀lára ènìyàn ga
+Transducers convert between energy forms	Àwọn ayípadàgbára yí láàrín àwọn orí agbára
+Technology applies physics principles	Ìmọ̀-ẹ̀rọ lo àwọn ìlànà èḳó ̣nípa èḍá
+Engineering designs practical solutions	Ìṣèṛọ ṣe àwọn ojútùú ìṣèṣe
+Scientific method guides physics research	Ọ̀nà ìmọ̀-jinlẹ̀ ṣàmójútó ìwádìí èḳó ̣nípa èḍá
+Experiments test hypotheses	Àwọn ìdánwò dán àwọn ìdábàá wò
+Theories explain observations	Àwọn ìlànà ṣàlàyé àwọn àkíyèsí
+Models simplify complex systems	Àwọn àpẹẹrẹ mú àwọn ètò lílapọ̀ rọrùn
+Simulations predict system behavior	Àwọn àfàyàfì sọ àsọtẹ́lẹ̀ ìwà ètò
+Data analysis interprets experimental results	Àtúpalẹ̀ dátà túmọ̀ àwọn èsì ìdánwò
+Physics advances human understanding	Èḳó ̣nípa èḍá gbé òye ènìyàn ga
+Newtonian mechanics describes everyday motion	Èḳó ̣nípa ìṣemẹ́kà ti Newton ṣàlàyé ìṣí ojóojúmọ́
+Quantum mechanics describes atomic behavior	Èḳó ̣nípa ìṣeátómù ṣàlàyé ìwà átòṃù
+Relativity describes high-speed motion	Èḳó ̣nípa ìbájẹpọ̀ ṣàlàyé ìṣí ìyára-gíga
+Electromagnetic theory describes fields and waves	Ìlànà àrá-òòfà ṣàlàyé àwọn ìté ̣àti agbòṇ
+Thermodynamics describes heat and energy	Èḳó ̣nípa okun-ooru ṣàlàyé okun-iná àti agbára
+String theory proposes fundamental strings	Ìlànà okùn dábàá àwọn okùn ìpìlẹ̀
+Quantum field theory combines quantum and fields	Ìlànà iye-ipele ìté ̣dá iye-ipele àti àwọn ìté ̣pọ̀
+Standard model describes fundamental particles	Àpẹẹrẹ déédéé ṣàlàyé àwọn ẹ̀yọ ìpìlẹ̀
+Cosmology studies universe structure and evolution	Èḳó ̣nípa ẹ̀dákejì kọ́ nípa ètò àti ìdàgbàsókè àgbáyé
+Dark matter affects galaxy rotation	Èḍá òkùnkùn ní ipa lórí ìyípo àlàlá
+Dark energy drives cosmic expansion	Agbára òkùnkùn ń darí ìnàsílẹ̀ òṣonká
+Big Bang theory explains universe origin	Ìlànà Ìbọ́ Ńlá ṣàlàyé ìbẹ̀rẹ̀ àgbáyé
+Stellar evolution describes star life cycles	Ìdàgbàsókè ìràwọ̀ ṣàlàyé àwọn àyíká ẹ̀mí ìràwọ̀
+Black holes have extreme gravity	Àwọn ihò dúdú ní ipá òòfà-ilẹ̀ àlàjẹ
+Gravity bends spacetime	Ipá òòfà-ilẹ̀ tẹ àyé-àkókò
+Matter tells space how to curve	Èḍá sọ fún àyé bí ó ṣe lè ṣíwọ́
+Space tells matter how to move	Àyé sọ fún èḍá bí ó ṣe lè ṣí
+Light follows curved spacetime	Ìtànná tẹ̀lé àyé-àkókò tí ó ṣíwọ́
+Weak force causes radioactive decay	Ipá aláìlágbára fa ìbàjẹ́ amórayínlẹ̀
+Electromagnetic force acts between charges	Ipá àrá-òòfà ṣiṣẹ́ láàrín àwọn àyè àrá
+Gravitational force attracts masses	Ipá òòfà-ilẹ̀ fa àwọn ìwọ̀n-okun
+Unified theories combine forces	Àwọn ìlànà àsopọ̀ dá àwọn ipá pọ̀
+Solar system orbits galactic center	Ètò òòrùn yí àárín àlàlá ká
+Earth orbits sun	Ilẹ̀ ayé yí oòrùn ká
+Moon orbits Earth	Òṣùpá yí ilẹ̀ ayé ká
+Solar energy powers Earth	Agbára ìtàn-oòrùn fún ilẹ̀ ayé ní agbára
+Weather results from solar heating	Ojúọjọ́ jẹ́ èsì gbígbóná ìtàn-oòrùn
+Seasons result from Earth's tilt	Àwọn ìgbà jẹ́ èsì ìsisẹ́ ilẹ̀ ayé
+Tides result from gravitational pull	Àwọn ìṣa àti ìyọ jẹ́ èsì fífà ipá òòfà-ilẹ̀
+Earthquakes release stored energy	Àwọn ìṣẹ̀mí-ilẹ̀ tú agbára títọ́jú sílẹ̀
+Volcanoes release internal heat	Àwọn òkè-ìṣomi tú okun-iná inú sílẹ̀
+Plate tectonics explains crustal movement	Ìṣí-pẹ́pẹ̀lẹ́ ṣàlàyé ìṣí ìpárá
+Erosion shapes Earth's surface	Ìbàjẹ́ dá ojú ilẹ̀ ayé
+Magnetosphere protects Earth	Àyíká-tééòòfà dáàbòbò ilẹ̀ ayé
+Atmosphere has multiple layers	Òfurufú ní àwọn ìpele púpọ̀
+Wind results from pressure differences	Afẹ́fẹ́ jẹ́ èsì àwọn ìyàtọ̀ èéfún
+Weather models predict conditions	Àwọn àpẹẹrẹ ojúọjọ́ sọ àsọtẹ́lẹ̀ àwọn ipò
+Climate describes long-term patterns	Àìtàn ṣàlàyé àwọn àpẹẹrẹ gbígbà-pẹ́
+Greenhouse effect traps heat	Ipa ọgbà-tútù dè okun-iná mọ́lẹ̀
+Carbon cycle moves carbon through systems	Àyíká kábónì ṣí kábónì la àwọn ètò kọjá
+Hydrologic cycle moves water through systems	Àyíká omi ṣí omi la àwọn ètò kọjá
+Crystallography studies crystal structure	Èḳó ̣nípa ẹ̀dákírístálì kọ́ nípa ètò kírístálì
+Ultrasonics studies high-frequency sound	Èḳó ̣nípa òkè-ìró kọ́ nípa ìró ìyásí-gíga
+Photonics studies light generation and control	Èḳó ̣nípa ẹ̀dáìtànná kọ́ nípa ìṣẹ̀dá àti ìdarí ìtànná
+Nanotechnology manipulates nanoscale materials	Ìmọ̀-ẹ̀rọ kékeréjù lo àwọn ohun èlò ìwọ̀n-kékeréjù
+Cryogenics studies very low temperatures	Èḳó ̣nípa tútùgbáńgbá kọ́ nípa àwọn ìgbóná tí ó tútù gbáńgbá
+Vacuum technology creates and uses vacuums	Ìmọ̀-ẹ̀rọ òfìfo ṣẹ̀dá àti lo àwọn òfìfo
+Holography creates three-dimensional images	Èḳó ̣nípa àwòrán-kíkún ṣẹ̀dá àwọn àwòrán oníbù-mẹ́ta
+Interferometry uses wave interference patterns	Èḳó ̣nípa àṣeyege-ìdíbàjẹ́ lo àwọn àpẹẹrẹ ìdíbàjẹ́ agbòṇ
+Radiometry measures electromagnetic radiation	Èḳó ̣nípa ìwọ̀natànná wọn atànná àrá-òòfà
+Spectrometry analyzes wavelengths	Èḳó ̣nípa ìwọ̀n-àádi ṣe àtúpalẹ̀ àwọn ìgbòn agbòṇ
+Calorimetry measures heat exchange	Èḳó ̣nípa ìwọ̀n-ooru wọn pàṣípàrọ̀ okun-iná
+Dosimetry measures radiation exposure	Èḳó ̣nípa ìwọ̀n-atànná wọn ìfaramọ́ atànná
+Photometry measures light intensity	Èḳó ̣nípa ìwọ̀n-ìtànná wọn ipá ìtànná
+Barometry measures atmospheric pressure	Èḳó ̣nípa ìwọ̀n-èéfún wọn èéfún òfurufú
+Viscometry measures fluid viscosity	Èḳó ̣nípa ìwọ̀n-ìkítẹ́lẹ̀jẹpẹ wọn ìkítẹ́lẹ̀jẹpẹ aṣàn
+Densitometry measures density	Èḳó ̣nípa ìwọ̀n-kíkítẹ́ wọn kíkítẹ́
+Polarimetry measures polarization	Èḳó ̣nípa ìwọ̀n-ìfíjúdènà wọn ìfíjúdènà
+Magnetometry measures magnetic fields	Èḳó ̣nípa ìwọ̀n-tééòòfà wọn àwọn ìté-̣òòfà
+Accelerometry measures acceleration	Èḳó ̣nípa ìwọ̀n-ìdàeré wọn ìdà-eré
+Tachometry measures speed	Èḳó ̣nípa ìwọ̀n-ìyára wọn ìyára
+Sound waves transfer energy through matter	Àwọn agbòṇ ìró gbé agbára la èḍá kọjá
+Sound requires a medium	Ìró nílò àyè
+Sound travels faster through denser materials	Ìró tàn káàkiri ní ìyára jù nínú àwọn ohun èlò tí ó kítẹ́ jù
+Sound waves can be reflected and refracted	Àwọn agbòṇ ìró lè jẹ́ fífàsẹ́yìn àti fíṣẹ́
+Sound intensity decreases with distance	Ipá ìró dínkù pẹ̀lú jíjìnnà
+Sound can be focused and dispersed	Ìró lè jẹ́ sísopọ̀ àti títúká
+Sound frequency determines pitch	Ìyásí ìró pinnu ohùn
+Human hearing has limited frequency range	Ìgbọ́rọ ènìyàn ní àlà ìbẹ̀wò ìyásí
+Sound waves show interference patterns	Àwọn agbòṇ ìró fi àwọn àpẹẹrẹ ìdíbàjẹ́ hàn
+Sound undergoes Doppler shift	Ìró gba ìyípadà Doppler
+Sound waves can be longitudinal or transverse	Àwọn agbòṇ ìró lè jẹ́ olóòró tàbí oníbu
+Sound can cause resonance	Ìró lè fa ìdóhùn
+Sound can transmit information	Ìró lè gbé ìmọ̀ kọjá
+Sound waves have wavelength and amplitude	Àwọn agbòṇ ìró ní ìgbòn agbòṇ àti ìjì
+Acoustic impedance affects sound transmission	Ìdínà ìró ní ipa lórí ìgbékọjá ìró
+Sound can be described by wave equation	Ìró lè jẹ́ ṣíṣàlàyé nípa òṣùwọ̀n agbòṇ
+Sound waves can be polarized	Àwọn agbòṇ ìró lè jẹ́ fífíjúdènà
+Sound can be recorded and reproduced	Ìró lè jẹ́ gbígbà sílẹ̀ àti ṣíṣatúndá
+Sound waves can cause vibration	Àwọn agbòṇ ìró lè fa ìgbòṇ
+Sound can exert pressure	Ìró lè fi èéfún ṣiṣẹ́
+Sound has both frequency and wavelength	Ìró ní ìyásí àti ìgbòn agbòṇ
+Sound propagation depends on temperature	Ìtànká ìró dá lórí ìgbóná
+Sound waves transfer energy and momentum	Àwọn agbòṇ ìró gbé agbára àti ipáàlọ kọjá
+Sound waves can be focused by acoustic lenses	Àwọn agbòṇ ìró lè jẹ́ sísopọ̀ nípa àwọn awòye ìró
+Sound can be absorbed by materials	Ìró lè jẹ́ mímúmọ́ra nípa àwọn ohun èlò
+Sound reflection depends on surface properties	Ìfàsẹ́yìn ìró dá lórí àwọn ìwà ojú
+Sound transmission crosses material boundaries	Ìgbékọjá ìró la àwọn àlà ohun èlò kọjá
+Sound velocity depends on medium elasticity	Ìdà-ipò ìró dá lórí ìfarayọ àyè
+Sound waves can be diffracted	Àwọn agbòṇ ìró lè jẹ́ títẹ́
+Sound waves can be modulated	Àwọn agbòṇ ìró lè jẹ́ dídọ̀ṣẹ
+Sound resonance amplifies specific frequencies	Ìdóhùn ìró gbé àwọn ìyásí pàtàkì ga
+Sound absorption converts sound to heat	Ìmúmọ́ra ìró yí ìró padà sí okun-iná
+Sound scattering redirects sound waves	Ìtúká ìró tún àwọn agbòṇ ìró darí
+Sound diffusion distributes sound evenly	Ìtànká ìró pín ìró dọ́gba
+Sound insulation prevents sound transmission	Ìpadé ìró dínà ìgbékọjá ìró
+Sound reverberation prolongs sound	Ìdàgbàsókè ìró fa ìró gùn
+Sound harmonics include overtones	Àwọn ìwúwọn ìró ní àwọn òkèohùn
+Sound harmonics determine timbre	Àwọn ìwúwọn ìró pinnu ìró
+Sound can be filtered by frequency	Ìró lè jẹ́ àṣàlọ nípa ìyásí
+Sound pressure level measures loudness	Ìpele èéfún ìró wọn kíkun
+Sound waves have phase and amplitude	Àwọn agbòṇ ìró ní ipò àti ìjì
+Sound frequency spectrum shows component frequencies	Àádi ìyásí ìró fi àwọn ìyásí ẹ̀yà hàn
+Sound signals can be analyzed by Fourier transform	Àwọn àmì ìró lè jẹ́ títúpalẹ̀ nípa àyípadà Fourier
+Sound can be attenuated by distance	Ìró lè jẹ́ dídínkù nípa jíjìnnà
+Sound can be refracted by temperature gradients	Ìró lè jẹ́ fíṣẹ́ nípa àwọn onígbọ̀ngbọ́ ìgbóná
+Sound can be reflected by density changes	Ìró lè jẹ́ fífàsẹ́yìn nípa àwọn ìyípadà kíkítẹ́
+Sound can be produced by mechanical vibration	Ìró lè jẹ́ ṣíṣẹ̀dá nípa ìgbòṇ èṛọ
+Sound can be produced by air compression	Ìró lè jẹ́ ṣíṣẹ̀dá nípa ìfúnpọ̀ afẹ́fẹ́
+Sound can be produced by electrical means	Ìró lè jẹ́ ṣíṣẹ̀dá nípa àwọn ọ̀nà okun-àrá
+Sound waves can construct interference patterns	Àwọn agbòṇ ìró lè kọ́ àwọn àpẹẹrẹ ìdíbàjẹ́
+Sound resonance occurs at natural frequencies	Ìdóhùn ìró ṣẹlẹ̀ ní àwọn ìyásí adáyébá
+Sound can be focused by parabolic reflectors	Ìró lè jẹ́ sísopọ̀ nípa àwọn afàsẹ́yìn onípoo
+Sound can create standing waves	Ìró lè ṣẹ̀dá àwọn agbòṇ dídúró
+Sound velocity is affected by medium density	Ìdà-ipò ìró gba ipa láti kíkítẹ́ àyè
+Sound can propagate as compression waves	Ìró lè tàn káàkiri bí àwọn agbòṇ ìfúnpọ̀
+Sound can demonstrate acoustic impedance	Ìró lè fi ìdínà ìró hàn
+Sound reflections create echoes	Àwọn ìfàsẹ́yìn ìró ṣẹ̀dá àwọn ìjìhìn
+Sound can be used for echolocation	Ìró lè jẹ́ lílò fún ìdámọ̀-ìjìhìn
+Sound waves can penetrate some materials	Àwọn agbòṇ ìró lè wọ àwọn ohun èlò kan
+Sound frequency can exceed human hearing range	Ìyásí ìró lè ju ìbẹ̀wò ìgbọ́rọ ènìyàn lọ
+Sound can be ultrasonic or infrasonic	Ìró lè jẹ́ òkè-ìgbọ́ tàbí ìsàlẹ̀-ìgbọ́
+Sound can be amplified electronically	Ìró lè jẹ́ gbígbéga nípa ẹ̀rọàrá
+Sound can be affected by temperature gradients	Ìró lè gba ipa láti àwọn onígbọ̀ngbọ́ ìgbóná
+Sound waves follow superposition principle	Àwọn agbòṇ ìró tẹ̀lé ìlànà àgbékàjọra
+Sound can be described by wave function	Ìró lè jẹ́ ṣíṣàlàyé nípa ìṣe agbòṇ
+Sound tone depends on harmonic content	Ohùn ìró dá lórí àkóónú ìwúwọn
+Sound can exhibit interference and diffraction	Ìró lè fi ìdíbàjẹ́ àti ìtẹ́ hàn
+Sound experiences attenuation in media	Ìró ní ìrírí ìdínkù nínú àwọn àyè
+Sound can propagate as transverse waves in solids	Ìró lè tàn káàkiri bí àwọn agbòṇ oníbu nínú àwọn adì
+Light travels in straight lines	Ìtànná rìn ní òṇà tààrà
+Light shows wave-particle duality	Ìtànná fi méjèèjì agbòṇ-átòṃù hàn
+Light waves are electromagnetic	Àwọn agbòṇ ìtànná jẹ́ àrá-òòfà
+Light has both frequency and wavelength	Ìtànná ní ìyásí àti ìgbòn agbòṇ
+Light exhibits interference patterns	Ìtànná fi àwọn àpẹẹrẹ ìdíbàjẹ́ hàn
+Light can be reflected and refracted	Ìtànná lè jẹ́ fífàsẹ́yìn àti fíṣẹ́
+Light can be polarized	Ìtànná lè jẹ́ fífíjúdènà
+Light can be diffracted	Ìtànná lè jẹ́ títẹ́
+Light can be absorbed and emitted	Ìtànná lè jẹ́ mímúmọ́ra àti títújáde
+Light can be scattered	Ìtànná lè jẹ́ títúká
+Light intensity decreases with distance	Ipá ìtànná dínkù pẹ̀lú jíjìnnà
+Light consists of photons	Ìtànná ní àwọn fótónù
+Light can interact with matter	Ìtànná lè bára èḍá sọ̀rọ̀
+Light can exert pressure	Ìtànná lè fi èéfún ṣiṣẹ́
+Light velocity is constant in vacuum	Ìdà-ipò ìtànná jẹ́ dídúró nínú òfìfo
+Light undergoes dispersion in prisms	Ìtànná gba ìtúká nínú àwọn prísì
+Light can be focused by lenses	Ìtànná lè jẹ́ sísopọ̀ nípa àwọn awòye
+Light can be reflected by mirrors	Ìtànná lè jẹ́ fífàsẹ́yìn nípa àwọn awòji
+Light can form images	Ìtànná lè ṣẹ̀dá àwọn àwòrán
+Light can be visible or invisible	Ìtànná lè jẹ́ àfojúrí tàbí àìfojúrí
+Light can be monochromatic or polychromatic	Ìtànná lè jẹ́ oníkanàwọ̀ tàbí oníkìíkíàwọ̀
+Light experiences diffraction at edges	Ìtànná ní ìrírí ìtẹ́ ní àwọn etí
+Light shows Doppler effect	Ìtànná fi ipa Doppler hàn
+Light can exhibit interference	Ìtànná lè fi ìdíbàjẹ́ hàn
+Light has both electric and magnetic components	Ìtànná ní ẹ̀yà àrá àti òòfà
+Light can be modulated	Ìtànná lè jẹ́ dídọ̀ṣẹ
+Light can transmit information	Ìtànná lè gbé ìmọ̀ kọjá
+Light can be coherent or incoherent	Ìtànná lè jẹ́ alájọpọ̀ tàbí aláìjọpọ̀
+Light can be generated by various sources	Ìtànná lè jẹ́ ṣíṣẹ̀dá nípa àwọn orísun oníkìíkí
+Light can be affected by gravity	Ìtànná lè gba ipa láti ipá òòfà-ilẹ̀
+Light can be described by Maxwell's equations	Ìtànná lè jẹ́ ṣíṣàlàyé nípa àwọn òṣùwọ̀n Maxwell
+Light can be filtered by wavelength	Ìtànná lè jẹ́ àṣàlọ nípa ìgbòn agbòṇ
+Light can be described by quantum theory	Ìtànná lè jẹ́ ṣíṣàlàyé nípa ìlànà iye-ipele
+Light can exhibit photoelectric effect	Ìtànná lè fi ipa ìtànná-àrá hàn
+Light can cause photochemical reactions	Ìtànná lè fa àwọn ìdárapọ̀ ìtànná-ẹlà
+Light can be amplified by stimulated emission	Ìtànná lè jẹ́ gbígbéga nípa títújáde atímùdáninípa
+Light can form holograms	Ìtànná lè ṣẹ̀dá àwọn àwòrán-kíkún
+Light can show polarization rotation	Ìtànná lè fi ìyípo ìfíjúdènà hàn
+Light can undergo total internal reflection	Ìtànná lè gba ìfàsẹ́yìn inú pípé
+Light can be guided by optical fibers	Ìtànná lè jẹ́ títọ́sọ́nà nípa àwọn ọ̀pá-ìríran
+Light intensity follows inverse square law	Ipá ìtànná tẹ̀lé òfin òdìwọ̀n alámúdìméjì
+Light can be attenuated by absorption	Ìtànná lè jẹ́ dídínkù nípa ìmúmọ́ra
+Light can be quantized	Ìtànná lè jẹ́ onínípìntọ́
+Light can follow Fermat's principle	Ìtànná lè tẹ̀lé ìlànà Fermat
+Light can exhibit nonlinear effects	Ìtànná lè fi àwọn ipa aláìlẹ́gbẹ́ hàn
+Light can be used in spectroscopy	Ìtànná lè jẹ́ lílò nínú ìtànná-àyẹ̀wò
+Light can be described by Snell's law	Ìtànná lè jẹ́ ṣíṣàlàyé nípa òfin Snell
+Light shows color dispersion	Ìtànná fi ìtúká àwọ̀ hàn
+Light can be coherent in lasers	Ìtànná lè jẹ́ alájọpọ̀ nínú àwọn alásé
+Light can be used for imaging	Ìtànná lè jẹ́ lílò fún ìṣàwòrán
+Light can be used in photometry	Ìtànná lè jẹ́ lílò nínú ìwọ̀n-ìtànná
+Light can cause fluorescence and phosphorescence	Ìtànná lè fa àfunnílánàá àti ìtànsí-pẹ́ẹ́
+Light can show birefringence in some crystals	Ìtànná lè fi ìṣẹ́-méjì hàn nínú àwọn kírístálì kan
+Light can be described by ray tracing	Ìtànná lè jẹ́ ṣíṣàlàyé nípa títọ-àtànná
+Electricity involves electric charges	Okun-àrá jẹ mọ́ àwọn àyè àrá
+Electricity follows conservation of charge	Okun-àrá tẹ̀lé ìtọ́jú àyè àrá
+Electricity involves electric potential	Okun-àrá jẹ mọ́ agbára àrá
+Electricity creates magnetic fields	Okun-àrá ṣẹ̀dá àwọn ìté-̣òòfà
+Electricity can be direct or alternating current	Okun-àrá lè jẹ́ ìsán tààrà tàbí ìsán onípààrọ̀
+Electricity follows Ohm's law	Okun-àrá tẹ̀lé òfin Ohm
+Electricity requires complete circuits	Okun-àrá nílò àwọn ìrìnpo pípé
+Electricity follows path of least resistance	Okun-àrá tẹ̀lé ojú ọ̀nà atako kéréjùlọ
+Electricity can be stored in capacitors	Okun-àrá lè jẹ́ títọ́jú nínú àwọn apamọ́yẹàrá
+Electricity can be induced by magnetism	Okun-àrá lè jẹ́ fífàdání nípa òòfà
+Electricity can be generated by various means	Okun-àrá lè jẹ́ ṣíṣẹ̀dá nípa àwọn ọ̀nà oníkìíkí
+Electricity follows Kirchhoff's laws	Okun-àrá tẹ̀lé àwọn òfin Kirchhoff
+Electricity travels at nearly light speed	Okun-àrá rìn ní fẹ́rẹ̀ ìyára ìtànná
+Electricity can be conducted or insulated	Okun-àrá lè jẹ́ gbígbé tàbí dídísí
+Electricity can produce heat	Okun-àrá lè ṣẹ̀dá ooru
+Electricity can produce light	Okun-àrá lè ṣẹ̀dá ìtànná
+Electricity can produce mechanical motion	Okun-àrá lè ṣẹ̀dá ìṣí èṛọ
+Electricity can be measured in volts and amperes	Okun-àrá lè jẹ́ wíwọ̀n ní fóòlìtì àti ámpẹ̀yà
+Electricity can be affected by temperature	Okun-àrá lè gba ipa láti ìgbóná
+Electricity shows resistance effects	Okun-àrá fi àwọn ipa atako hàn
+Electricity can create electrolysis	Okun-àrá lè ṣẹ̀dá ìdáàrápínpin
+Electricity can produce electromagnetic waves	Okun-àrá lè ṣẹ̀dá àwọn agbòṇ àrá-òòfà
+Electricity can be controlled by switches	Okun-àrá lè jẹ́ dídáàkóso nípa àwọn ṣíwọ́ọ̀ṣí
+Electricity can be transformed between voltages	Okun-àrá lè jẹ́ yíyípadà láàrín àwọn ìgbóra-àrá
+Electricity follows electric field lines	Okun-àrá tẹ̀lé àwọn ìlà ìté-̣àrá
+Electricity can be generated by photoelectric effect	Okun-àrá lè jẹ́ ṣíṣẹ̀dá nípa ipa ìtànná-àrá
+Electricity can be generated by chemical reactions	Okun-àrá lè jẹ́ ṣíṣẹ̀dá nípa àwọn ìdárapọ̀ ẹlà
+Magnetism involves magnetic fields	Òòfà jẹ mọ́ àwọn ìté-̣òòfà
+Magnetism involves magnetic poles	Òòfà jẹ mọ́ àwọn ìgún òòfà
+Magnetism can be permanent or temporary	Òòfà lè jẹ́ àyèrẹpẹ tàbí ìgbàdíẹ̀
+Magnetism can be induced by electricity	Òòfà lè jẹ́ fífàdání nípa okun-àrá
+Magnetism can induce electricity	Òòfà lè fà okun-àrá dání
+Magnetism follows field lines	Òòfà tẹ̀lé àwọn ìlà ìté ̣
+Magnetism can attract or repel	Òòfà lè fa tàbí tì
+Magnetism can be shielded	Òòfà lè jẹ́ dídáàbòbò
+Magnetism affects compass needles	Òòfà ní ipa lórí àwọn abẹ́rẹ́ ìtọ́sọ́nà
+Magnetism can be generated by moving charges	Òòfà lè jẹ́ ṣíṣẹ̀dá nípa àwọn àyè àrá tí ń ṣí
+Magnetism follows Ampere's law	Òòfà tẹ̀lé òfin Ampere
+Magnetism can be described by Gauss's law	Òòfà lè jẹ́ ṣíṣàlàyé nípa òfin Gauss
+Magnetism exhibits hysteresis in some materials	Òòfà fi ìgbàsẹ́yìn-ìgbàwá hàn nínú àwọn ohun èlò kan
+Magnetism can be affected by temperature	Òòfà lè gba ipa láti ìgbóná
+Magnetism can be temporary or permanent	Òòfà lè jẹ́ ìgbàdíẹ̀ tàbí àyèrẹpẹ
+Physics is a natural science	Èḳó ̣nípa èḍá jé ̣èḳó ̣ìmò-̣jinlẹ̀ ayébáyé
+Energy is the capacity to perform work	Agbára jé ̣okun fún ètò èḍá kan láti le ṣe iṣé ̣
+Heat energy transfers among particles	Agbára okun-iná máa ń ṣí ní ipò láarín àwọn átòṃù
+Light is a form of radiant energy	Agbára ìtànná jé ̣irú agbára atàn kan
+Mechanical energy combines potential and kinetic energy	Agbára èṛọ jé ̣àpapò agbára nípa ìpò àti agbára nípa ìmira
+Force causes objects to change motion	Ipá máa ń mú kí èḍá kan pa eré dà
+Force has direction	Ipá ní ipa
+Potential energy depends on position	Agbára nípa ìpò dá lórí ipò tí nkan wà
+Kinetic energy relates to motion	Agbára nípa ìmira jẹ mọ́ ìmira
+Work is a scalar quantity	Iṣé ̣jé ̣oun àìnípa
+Power measures how quickly work is done	Ìgbóra wọn ìyásí bí iṣé ̣ṣe ńṣe
+Sound travels through matter	Ìró máa ń tàn káàkiri inú èḍá
+Sound energy comes from vibrations	Agbára ìró ṣẹ̀ wá láti gbígbòṇ
+Magnetic energy creates magnetic fields	Agbára òòfà máa ń ṣẹ̀dá ìté-̣òòfà
+Electrical energy flows through conductors	Agbára okun-àrá máa ń ṣàn káàkiri inú àwọn onípa
+Temperature measures hotness	Ìgbóná wọn ìwọ̀n gbígbóná
+Temperature scales include Celsius and Fahrenheit	Àwọn ìdíwòṇ ìgbóná ni ti Sélsí ̣òsị̀ àti ti Fárínháìtì
+Solids have definite shape	Adì ní ìrí tí ó dúró
+Liquids flow to fill containers	Aṣàn máa ń ṣàn láti kún ohun èlò
+Gases expand to fill available space	Òyì máa ń tẹ̀ láti kún àyè tó wà
+Mass measures the amount of matter	Ìwòṇ-okun wọn iye èḍá
+Weight is affected by gravity	Ìwòṇ-ìwúwo gba ipa láti ọwọ́ ipá òòfà-ilẹ̀
+Gravity pulls objects toward Earth	Ipá òòfà-ilẹ̀ máa ń fa àwọn èḍá sí ilẹ̀
+Friction opposes motion	Ìmúlẹ̀ máa ń tako ìṣí
+Heat transfers from hot to cold	Okun-iná máa ń ṣí ní ipò láti ibi gbígbóná sí ibi tútù
+Light can be reflected	Ìtànná lè jẹ́ fífàsẹ́yìn
+Sound waves can be longitudinal	Agbòṇ ìró lè jẹ́ olóòró
+Magnets attract iron	Òòfà máa ń fa irin
+Electric current flows in circuits	Ìsán-àrá máa ń ṣàn nínú ìrìnpo
+Resistance opposes current	Atako máa ń tako ìsán-àrá
+Voltage drives current	Ìgbóra-àrá máa ń le ìsán-àrá lọ
+The sun is a source of energy	Oòrùn jẹ́ ìṣẹ̀dá agbára
+Water can be a source of energy	Omi lè jẹ́ ìṣẹ̀dá agbára
+Wind is a source of energy	Afẹ́fẹ́ jẹ́ ìṣẹ̀dá agbára
+Chemicals store energy	Ẹlà máa ń tọ́jú agbára
+Simple machines make work easier	Àwọn èṛọ àtilẹ̀wá máa ń mú iṣẹ́ rọrùn
+A lever uses a fulcrum	Egbé máa ń lo àtàrí
+A pulley changes direction of force	Afàwòṇ máa ń pa ipò ipá dà
+An inclined plane reduces effort	Pẹpẹ dídà máa ń dín agbára ipá kù
+A wedge is a double-inclined plane	Òòlà jẹ́ onípẹpẹ dídà méjì
+A screw is an inclined plane wrapped around a cylinder	Ìdè jẹ́ pẹpẹ dídà tó yí òpá kiri
+Wavelength is distance between wave crests	Ìgbòn agbòṇ jẹ́ ìjìn láàrín àwọn gegele agbòṇ
+Frequency counts waves per second	Ìyásí jẹ́ ìka agbòṇ ní ìṣẹ́jú kan
+Amplitude measures wave energy	Ìjì agbòṇ wọn agbára agbòṇ
+Light has wavelike properties	Ìtànná ní ìwà bí agbòṇ
+Light has particle-like properties	Ìtànná ní ìwà bí átòṃù
+Sound needs a medium	Ìró nílò àyè láti gbòn
+Light can travel through vacuum	Ìtànná lè tàn káàkiri inú òfìfo
+Atoms contain protons and neutrons	Átòṃù ní pírótónù àti nútírónù
+Electrons orbit the nucleus	Èlẹ́kìtírónù máa ń yí àárín kiri
+Atoms combine to form molecules	Átòṃù máa ń dapọ̀ láti ṣẹ̀dá mólékù
+Chemical bonds store energy	Ìsopọ̀ ẹlà máa ń tọ́jú agbára
+Nuclear energy comes from atom cores	Agbára àgó-̣átòṃù máa ń wá láti inú àárín átòṃù
+Reflection bounces light	Ìfàsẹ́yìn máa ń ta ìtànná padà
+Refraction bends light	Ìṣẹ́-ìtànná máa ń tẹ ìtànná
+White light contains all colors	Ìtànná funfun ní gbogbo àwọ̀
+Prisms separate colors of light	Prísì máa ń pín àwọn àwọ̀ ìtànná
+Color spectrum includes ROYGBIV	Àwọn àwọ̀ àádi-ìtànná ni pupa, ọsàn, èsè, ewé, àyìnrín, èlú, àti aró
+Convex lenses converge light	Awòye oníkùn máa ń so ìtànná pọ̀
+Concave lenses diverge light	Awòye onínú máa ń tú ìtànná ká
+Mirrors reflect light	Awòji máa ń fà ìtànná sẹ́yìn
+Concave mirrors can focus light	Awòji onínú lè so ìtànná pọ̀
+Convex mirrors spread light	Awòji oníkùn máa ń tú ìtànná ká
+Electrical circuits must be complete	Ìrìnpo okun-àrá gbọ́dọ̀ jẹ́ pípé
+Switches control current flow	Ṣíwọ́ọ̀ṣí máa ń darí ìsán-àrá
+Batteries provide electrical energy	Bátìrì máa ń pèsè agbára okun-àrá
+Electromagnets use electricity to create magnetism	Àrá-òòfà máa ń lo okun-àrá láti ṣẹ̀dá òòfà
+Sound can be high or low pitch	Ìró lè jẹ́ gíga tàbí ìsàlẹ̀ ohùn
+Volume measures sound loudness	Ariwo jẹ́ ìwọ̀n kíkún ìró
+Velocity includes speed and direction	Ìdà-ipò ní ìyára àti àkọsí
+Acceleration is change in velocity	Ìdà-eré jẹ́ ìyípadà nínú ìdà-ipò
+Momentum depends on mass and velocity	Ipáàlọ dá lórí ìwọ̀n-okun àti ìdà-ipò
+Air has pressure	Afẹ́fẹ́ ní èéfún
+Pressure depends on force and area	Èéfún dá lórí ipá àti òrò
+Buoyancy is an upward force in fluids	Ipá àtẹ́lẹ́ jẹ́ ipá sókè nínú aṣàn
+Density relates mass to volume	Kíkítẹ́ jẹ mọ́ ìwọ̀n-okun sí àyè
+Specific heat varies between substances	Okun-iná ìwònkan yàtọ̀ láàrín àwọn èḍá
+Latent heat relates to state changes	Okun-iná wíwàba jẹ mọ́ ìyípadà ipò
+Thermal expansion occurs with heating	Ìtẹ̀wọ̀n ooru ṣẹlẹ̀ pẹ̀lú gbígbóná
+Sound energy can transform to other energy	Agbára ìró lè yípadà sí agbára mìíràn
+Light energy can become electrical energy	Agbára ìtànná lè di agbára okun-àrá
+Chemical energy can produce heat energy	Agbára ẹlà lè ṣẹ̀dá agbára okun-iná
+Energy can be stored and released	Agbára lè jẹ́ títọ́jú àti títúsílẹ̀
+Energy cannot be created or destroyed	Agbára kò lè jẹ́ dídá tàbí píparun
+Energy can change forms	Agbára lè yí ìrí padà
+Heat moves by conduction	Okun-iná máa ń ṣí nípa ìtànsí 
+Heat moves by convection	Okun-iná máa ń ṣí nípa àjògúnfà
+Heat moves by radiation	Okun-iná máa ń ṣí nípa atànná
+Insulators resist heat flow	Adísí máa ń tako ìṣí okun-iná
+Conductors allow heat flow	Onípa máa ń fàyè gba ìṣí okun-iná
+Metals are good conductors	Àwọn irin jẹ́ onípa tó dára
+Wood is a poor conductor	Igi jẹ́ onípa tí kò dára
+Electric motors convert electrical energy to mechanical energy	Èṛọ ìdáàrá máa ń yí agbára okun-àrá padà sí agbára èṛọ
+Generators convert mechanical energy to electrical energy	Olùṣẹ̀dá máa ń yí agbára èṛọ padà sí agbára okun-àrá
+Solar panels convert light to electricity	Àwo-oòrùn máa ń yí ìtànná padà sí okun-àrá
+Friction creates heat	Ìmúlẹ̀ máa ń ṣẹ̀dá okun-iná
+Electric current produces magnetic fields	Ìsán-àrá máa ń ṣẹ̀dá ìté-̣òòfà
+Changing magnetic fields produce electric current	Ìyípadà ìté-̣òòfà máa ń ṣẹ̀dá ìsán-àrá
+Gravity depends on mass	Ipá òòfà-ilẹ̀ dá lórí ìwọ̀n-okun
+Atoms contain subatomic particles	Átòṃù ní àwọn ẹ̀yọ abẹ́-átòṃù
+Forces can be balanced or unbalanced	Ipá lè jẹ́ ìbámu tàbí àìbámu
+Balanced forces do not cause acceleration	Ipá ìbámu kì í ṣẹ̀dá ìdà-eré
+Unbalanced forces cause acceleration	Ipá àìbámu máa ń ṣẹ̀dá ìdà-eré
+Inertia resists changes in motion	Àìfàgbára máa ń tako ìyípadà nínú ìṣí
+Every action has an equal and opposite reaction	Ìgbéṣe kọ̀ọ̀kan ní èsì tí ó dọ́gba tí ó sì lòdì
+Heat flows from hot to cold	Okun-iná máa ń ṣàn láti ibi gbígbóná sí ibi tútù
+Pressure in a fluid increases with depth	Èéfún nínú aṣàn máa ń pọ̀ pẹ̀lú jíjìn
+Light rays converge at a focal point	Àwọn ìtànná máa ń pàdé ní ojú àkójọpọ̀
+Lenses bend light rays	Àwọn awòye máa ń tẹ àwọn ìtànná
+Electric circuits require a complete path	Ìrìnpo okun-àrá nílò ipa tí ó pé
+Resistors reduce current flow	Àwọn atako máa ń dín ìsán-àrá kù
+Capacitors store electric charge	Àwọn apamọ́yẹàrá máa ń tọ́jú ìyẹ-àrá
+Magnets have north and south poles	Àwọn òòfà ní àríwá àti gúúsù
+Opposite poles attract	Àwọn ìgún tí ó lòdì sí ara wọn máa ń fa ara wọn
+Similar poles repel	Àwọn ìgún tí ó jọra máa ń tì ara wọn
+Sound waves create compression and rarefaction	Agbòṇ ìró máa ń ṣẹ̀dá ìfúnpọ̀ àti ìtúká
+Fluids exert pressure in all directions	Àwọn aṣàn máa ń fi èéfún ṣiṣẹ́ ní gbogbo ìhà
+Fluids transmit pressure equally	Àwọn aṣàn máa ń gbé èéfún dọ́gba
+Objects float when buoyancy exceeds weight	Àwọn èḍá máa ń léfòó nígbàtí ipá àtẹ́lẹ́ bá ju ìwọ̀n-ìwúwo lọ
+Objects sink when weight exceeds buoyancy	Àwọn èḍá máa ń rì nígbàtí ìwọ̀n-ìwúwo bá ju ipá àtẹ́lẹ́ lọ
+Energy comes in many forms	Agbára wá ní oríṣi púpọ̀
+Work equals force times distance	Iṣẹ́ jẹ́ dọ́gba ipá lọ́nà ìjìn
+Power equals work divided by time	Ìgbóra jẹ́ dọ́gba iṣẹ́ pín fún àkókò
+Vibration causes sound	Gbígbòṇ máa ń fa ìró
+Echoes are reflected sound waves	Ìjìhìn jẹ́ agbòṇ ìró tí a fà sẹ́yìn
+Earthquakes produce seismic waves	Ìṣẹ̀mí-ilẹ̀ máa ń ṣẹ̀dá agbòṇ ìṣẹ̀mímí
+Light can be polarized	Ìtànná lè jẹ́ ìfíjúdènà
+Pressure varies with altitude	Èéfún máa ń yàtọ̀ pẹ̀lú gíga
+Gases can be compressed	Àwọn òyì lè jẹ́ ìfúnpọ̀
+Liquids are nearly incompressible	Àwọn aṣàn fẹ́rẹ̀ jẹ́ àìlèfúnpọ̀
+Solids resist compression	Àwọn adì máa ń tako ìfúnpọ̀
+Temperature affects volume	Ìgbóná máa ń ní ipa lórí àyè
+Mass does not depend on gravity	Ìwọ̀n-okun kò dá lórí ipá òòfà-ilẹ̀
+Weight depends on gravity	Ìwọ̀n-ìwúwo dá lórí ipá òòfà-ilẹ̀
+Air has weight	Afẹ́fẹ́ ní ìwọ̀n-ìwúwo
+Motors use electromagnets	Àwọn èṛọ ìdáàrá máa ń lo àrá-òòfà
+Generators use magnets	Àwọn olùṣẹ̀dá máa ń lo òòfà
+Solar energy comes from the sun	Agbára ìtàn-oòrùn wá láti ọ̀dọ̀ oòrùn
+Wind energy comes from moving air	Agbára afẹ́fẹ́ wá láti afẹ́fẹ́ tí ń ṣí
+Hydroelectric energy comes from falling water	Agbára ìṣán-omi wá láti omi tí ń ṣàn
+Nuclear energy comes from atom splitting	Agbára àgó-̣átòṃù wá láti píntọ́ átòṃù
+Fossil fuels store chemical energy	Àwọn epo-ìsàlẹ̀ màa ń tọ́jú agbára ẹlà
+Batteries convert chemical energy to electrical energy	Bátìrì máa ń yí agbára ẹlà padà sí agbára okun-àrá
+Electric motors convert electrical energy to mechanical energy	Àwọn èṛọ ìdáàrá máa ń yí agbára okun-àrá padà sí agbára èṛọ
+Gas laws describe behavior of gases	Àwọn ofì-òyì ṣàlàyé ìṣesí àwọn òyì
+Matter consists of atoms	Èḍá ní átòṃù
+Atoms contain electrons and nuclei	Átòṃù ní èlẹ́kìtírónù àti àárín
+Nuclei contain protons and neutrons	Àárín ní pírótónù àti nútírónù
+Chemical reactions rearrange atoms	Àwọn ìdárapọ̀ ẹlà máa ń tún átòṃù ṣe
+Energy levels in atoms are quantized	Àwọn ìpele agbára nínú átòṃù jẹ́ onínípìntọ́
+Electromagnetic waves include radio, microwave, infrared, visible light, ultraviolet, X-rays, and gamma rays	Agbòṇ àrá-òòfà ní rédíò, maikroweefu, abẹ́-pupa, ìtànná àfojúrí, òkè-pupa, ẹ̀ro-X, àti ẹ̀ro-gama
+Light travels at constant speed in vacuum	Ìtànná máa ń gbòn ní ìyára dídúró nínú òfìfo
+Sound speed depends on the medium	Ìyára ìró dá lórí àyè tó ń gbòn káàkiri
+Waves can undergo interference	Àwọn agbòṇ lè kọjú ìdíbàjẹ́
+Waves can be diffracted	Àwọn agbòṇ lè jẹ́ títẹ́
+Light waves can be polarized	Agbòṇ ìtànná lè jẹ́ ìfíjúdènà
+Magnetic fields surround magnets	Ìté-̣òòfà máa ń yí òòfà ká
+Electric fields surround charges	Ìté-̣àrá máa ń yí àyè àrá ká
+Lenses correct vision problems	Àwọn awòye máa ń ṣàtúnṣe àwọn ìṣòro ìríran
+Telescopes magnify distant objects	Àwọn jínjínrìn máa ń tóbi àwọn èḍá tí ó jìnnà
+Microscopes magnify tiny objects	Àwọn kékerìn máa ń tóbi àwọn èḍá tí ó kéré
+Electrons have negative charge	Èlẹ́kìtírónù ní àyè àrá ìdájú
+Protons have positive charge	Pírótónù ní àyè àrá gbòóṣì
+Neutrons have no charge	Nútírónù kò ní àyè àrá
+Opposite charges attract	Àwọn àyè àrá tí ó lòdì máa ń fa ara wọn
+Like charges repel	Àwọn àyè àrá tí ó jọra máa ń tì ara wọn
+Electric current produces heat	Ìsán-àrá máa ń ṣẹ̀dá ooru
+Electric current can create light	Ìsán-àrá lè ṣẹ̀dá ìtànná
+Electromagnetic induction creates current	Àgbàsíwájú àrá-òòfà máa ń ṣẹ̀dá ìsán-àrá
+Transformers use electromagnetic induction	Àwọn afagbára-àrá padà máa ń lo àgbàsíwájú àrá-òòfà
+Semiconductors conduct electricity partially	Àwọn alábòsípa máa ń gbé okun-àrá ní ààbọ̀
+Transistors control electric current	Àwọn atórinú máa ń darí ìsán-àrá
+Diodes allow current in one direction	Àwọn olóòṇàkan máa ń fàyè gba ìsán-àrá lọ́nà kan
+Sound travels faster in solids than in air	Ìró máa ń tàn káàkiri ní ìyára jù nínú adì ju inú afẹ́fẹ́ lọ
+Light travels faster than sound	Ìtànná máa ń tàn káàkiri ní ìyára ju ìró lọ
+Energy can be converted between forms	Agbára lè jẹ́ yíyípadà láàrín àwọn orí
+Mass and energy are related	Ìwọ̀n-okun àti agbára jẹ mọ́ ara wọn
+Light behaves as both wave and particle	Ìtànná máa ń hùwà bí agbòṇ àti átòṃù
+Magnetic poles cannot be isolated	Àwọn ìgún òòfà kò lè jẹ́ ìyàsọ́tọ̀
+Electric circuits require a complete path	Ìrìnpo okun-àrá nílò ojú ọ̀nà tí ó pé
+Resistance converts electrical energy to heat	Atako máa ń yí agbára okun-àrá padà sí okun-iná
+Friction opposes motion between surfaces	Ìmúlẹ̀ máa ń tako ìṣí láàrín àwọn ojú èḍá
+Acceleration is caused by unbalanced forces	Ìdà-eré wá láti ipá àìbámu
+Objects in motion stay in motion without forces	Àwọn èḍá nínú ìṣí máa ń dúró nínú ìṣí láìsí ipá
+Objects at rest stay at rest without forces	Àwọn èḍá ní ìsinmi máa ń dúró ní ìsinmi láìsí ipá
+For every action, there is an equal reaction	Fún ìgbéṣe kọ̀ọ̀kan, èsì tí ó dọ́gba wà
+Momentum is conserved in closed systems	Ipáàlọ jẹ́ títọ́jú nínú ètò tí ó ti pipé
+Energy is conserved in closed systems	Agbára jẹ́ títọ́jú nínú ètò tí ó ti pipé
+Heat flows spontaneously from hot to cold	Okun-iná máa ń ṣàn fúnrararẹ̀ láti ibi gbígbóná sí ibi tútù
+Entropy increases in natural processes	Ìdágbére máa ń pọ̀ nínú àwọn ìlànà adáyébá
+Light can be absorbed by matter	Ìtànná lè jẹ́ mímú mọ́ra nípasẹ̀ èḍá
+Reflection occurs at the same angle as incidence	Ìfàsẹ́yìn ṣẹlẹ̀ ní ẹ̀gbẹ́ kannáà bí ìtànkálẹ̀
+Refraction occurs when light changes medium	Ìṣẹ́-ìtànná ṣẹlẹ̀ nígbàtí ìtànná bá yí àyè padà
+Diffraction occurs around obstacles	Ìtẹ́ ṣẹlẹ̀ yí àwọn ìdènà ká
+Interference creates patterns of light and dark	Ìdíbàjẹ́ máa ń ṣẹ̀dá àwọn àpẹẹrẹ ìtànná àti òkùnkùn
+Pressure is force per unit area	Èéfún jẹ́ ipá fún ẹyọ òrò
+Buoyancy equals the weight of displaced fluid	Ipá àtẹ́lẹ́ dọ́gba ìwọ̀n-ìwúwo aṣàn tí ó ti kúrò
+Density equals mass divided by volume	Kíkítẹ́ dọ́gba ìwọ̀n-okun pín fún àyè
+Work equals force times displacement	Iṣẹ́ dọ́gba ipá lọ́nà ìyípòdà
+Power equals work divided by time	Ìgbóra dọ́gba iṣẹ́ pín fún àkókò
+Kinetic energy equals half mass times velocity squared	Agbára nípa ìmira dọ́gba ààbọ̀ ìwọ̀n-okun lọ́nà ìdà-ipò ilọ̀ àtọ́
+Heat capacity measures energy needed for temperature change	Agbára okun-iná wọn agbára tí a nílò fún ìyípadà ìgbóná
+Specific heat capacity is per unit mass	Agbára okun-iná pàtàkì jẹ́ fún ẹyọ ìwọ̀n-okun
+Latent heat is absorbed during phase changes	Okun-iná wíwàba jẹ́ mímúmọ́ra nígbàtí ipò bá ń yípadà
+Gas pressure depends on volume and temperature	Èéfún òyì dá lórí àyè àti ìgbóná
+Voltage equals current times resistance	Ìgbóra-àrá dọ́gba ìsán-àrá lọ́nà atako
+Series circuits have one path for current	Ìrìnpo òjóòní ní ojú ọ̀nà kan fún ìsán-àrá
+Parallel circuits have multiple paths for current	Ìrìnpo aṣíṣáájú ní ojú ọ̀nà púpọ̀ fún ìsán-àrá
+Electric power equals voltage times current	Agbára okun-àrá dọ́gba ìgbóra-àrá lọ́nà ìsán-àrá
+Magnetic field strength decreases with distance	Ipá ìté-̣òòfà máa ń dínkù pẹ̀lú jíjìnnà
+Electromagnetic waves travel at the speed of light	Agbòṇ àrá-òòfà máa ń rin ní ìyára ìtànná
+Frequency times wavelength equals wave speed	Ìyásí lọ́nà ìgbòn agbòṇ dọ́gba ìyára agbòṇ
+Sound intensity decreases with distance	Ipá ìró máa ń dínkù pẹ̀lú jíjìnnà
+Lenses focus light rays to create images	Àwọn awòye máa ń so àwọn ìtànná pọ̀ láti ṣẹ̀dá àwọn àwòrán
+Mirrors reflect light rays to create images	Àwọn awòji máa ń fà àwọn ìtànná sẹ́yìn láti ṣẹ̀dá àwọn àwòrán
+Telescopes magnify distant objects	Àwọn jínjínrìn máa ń tóbi àwọn èḍá tí ó jìnnà
+Microscopes magnify tiny objects	Àwọn kékerìn máa ń tóbi àwọn èḍá tí ó kéré
+Atoms combine to form molecules	Àwọn átòṃù dapọ̀ láti ṣẹ̀dá mólékù
+Molecules combine to form compounds	Àwọn mólékù dapọ̀ láti ṣẹ̀dá àdàpọ̀
+Energy levels in atoms are quantized	Àwọn ìpele agbára nínú átòṃù jẹ́ onínípìntọ́
+Electrons occupy energy levels in atoms	Èlẹ́kìtírónù máa ń gba àwọn ìpele agbára nínú átòṃù
+Photons are particles of light	Fótónù jẹ́ àwọn ẹ̀yọ ìtànná
+Nuclear reactions release energy	Àwọn ìdárapọ̀ ojúìnú máa ń tú agbára sílẹ̀
+Radioactive decay emits particles	Ìbàjẹ́ amórayínlẹ̀ máa ń tú àwọn ẹ̀yọ jáde
+Gravitational force depends on mass and distance	Ipá òòfà-ilẹ̀ dá lórí ìwọ̀n-okun àti jíjìnnà
+Electric force depends on charge and distance	Ipá àrá dá lórí àyè àrá àti jíjìnnà
+Magnetic force depends on pole strength and distance	Ipá òòfà dá lórí ipá ìgún àti jíjìnnà
+Electromagnetic induction creates electric current	Àgbàsíwájú àrá-òòfà máa ń ṣẹ̀dá ìsán-àrá
+Electric motors use magnetic force	Àwọn èṛọ ìdáàrá máa ń lo ipá òòfà
+Generators use electromagnetic induction	Àwọn olùṣẹ̀dá máa ń lo àgbàsíwájú àrá-òòfà
+Transformers change voltage levels	Àwọn afagbára-àrá padà máa ń yí àwọn ìpele ìgbóra-àrá padà
+Semiconductors conduct under certain conditions	Àwọn alábòsípa máa ń gbé okun-àrá lábẹ́ àwọn ipò kan
+Transistors amplify electric signals	Àwọn atórinú máa ń gbé àwọn àmì okun-àrá ga
+Diodes allow current in only one direction	Àwọn olóòṇàkan máa ń fàyè gba ìsán-àrá ní òṇà kan ṣoṣo
+Sound waves transfer energy through matter	Agbòṇ ìró máa ń gbé agbára la èḍá kọjá
+Light waves can travel through vacuum	Agbòṇ ìtànná lè tàn káàkiri nínú òfìfo
+Thermodynamics studies heat and energy	Èḳó ̣nípa okun-ooru máa ń kọ́ nípa okun-iná àti agbára
+Quantum mechanics studies atomic behavior	Èḳó ̣nípa ìṣeátómù máa ń kọ́ nípa ìwà átòṃù
+Relativity relates space and time	Ìbájẹpọ̀ máa ń ṣe àlàjẹpọ̀ àyé àti àkókò
+Classical mechanics predicts motion of objects	Èḳó ̣nípa ìṣeáyébáyé máa ń sọ àsọtẹ́lẹ̀ ìṣí àwọn èḍá
+Fluid mechanics studies behavior of liquids and gases	Èḳó ̣nípa ìṣeaṣàn máa ń kọ́ nípa ìwà àwọn aṣàn àti òyì
+Optics studies light behavior	Èḳó ̣nípa ìríran máa ń kọ́ nípa ìwà ìtànná
+Acoustics studies sound behavior	Èḳó ̣nípa ìró máa ń kọ́ nípa ìwà ìró
+Electricity studies electric charges and currents	Èḳó ̣nípa okun-àrá máa ń kọ́ nípa àwọn àyè àrá àti ìsán-àrá
+Magnetism studies magnetic fields and forces	Èḳó ̣nípa òòfà máa ń kọ́ nípa àwọn ìté-̣òòfà àti àwọn ipá
+Thermometers measure temperature	Àwọn awòngbóná máa ń wọn ìgbóná
+Barometers measure air pressure	Àwọn awòndéẹ́fùn máa ń wọn èéfún afẹ́fẹ́
+Voltmeters measure electric potential	Àwọn awònípáàrá máa ń wọn agbára àrá
+Ammeters measure electric current	Àwọn awònsánàrá máa ń wọn ìsán-àrá
+Spectrometers analyze light spectra	Àwọn awòntanná máa ń ṣàtúpalẹ̀ àwọn àádiìtànná
+Seismometers detect earthquakes	Àwọn awònṣẹ̀mílẹ̀ máa ń ṣàwárí àwọn ìṣẹ̀mí-ilẹ̀
+Telescopes observe distant objects	Àwọn jínjínrìn máa ń wo àwọn èḍá tí ó jìnnà
+Microscopes observe tiny objects	Àwọn kékerìn máa ń wo àwọn èḍá tí ó kéré
+Electric motors convert electrical to mechanical energy	Àwọn èṛọ ìdáàrá máa ń yí agbára okun-àrá padà sí agbára èṛọ
+Heat engines convert heat to mechanical energy	Àwọn èṛọ okun-iná máa ń yí okun-iná padà sí agbára èṛọ
+Solar panels convert light to electrical energy	Àwọn àwo-oòrùn máa ń yí ìtànná padà sí agbára okun-àrá
+Fuel cells convert chemical to electrical energy	Àwọn hóró epo máa ń yí agbára ẹlà padà sí agbára okun-àrá
+Nuclear reactors use nuclear fission	Àwọn olùṣètò ojúìnú máa ń lo píntọ́ ojúìnú
+Batteries store chemical energy	Àwọn bátìrì máa ń tọ́jú agbára ẹlà
+Capacitors store electric energy	Àwọn apamọ́yẹàrá máa ń tọ́jú agbára okun-àrá
+Flywheels store mechanical energy	Àwọn kẹ́kẹ́fò máa ń tọ́jú agbára èṛọ
+Springs store elastic energy	Àwọn tíńrín máa ń tọ́jú agbára ìfarayọ
+Heat can transfer by conduction	Okun-iná lè ṣí nípa ìtànsí
+Heat can transfer by convection	Okun-iná lè ṣí nípa àjògúnfà
+Heat can transfer by radiation	Okun-iná lè ṣí nípa atànná
+Pressure increases with depth in fluids	Èéfún máa ń pọ̀ pẹ̀lú jíjìn nínú àwọn aṣàn
+Gases expand when heated	Àwọn òyì máa ń tẹ̀ nígbàtí wọ́n bá gbóná
+Liquids expand less than gases when heated	Àwọn aṣàn kì í tẹ̀ bí àwọn òyì nígbàtí wọ́n bá gbóná
+Solids expand least when heated	Àwọn adì kì í tẹ̀ púpọ̀ nígbàtí wọ́n bá gbóná
+Materials have characteristic melting points	Àwọn ohun èlò ní àwọn ojú ooru ìyọ́ tí ó ṣe pàtàkì
+Materials have characteristic boiling points	Àwọn ohun èlò ní àwọn ojú ooru ìhó tí ó ṣe pàtàkì
+Phase changes absorb or release energy	Àwọn ìyípadà ipò máa ń mú agbára mọ́ra tàbí tú agbára sílẹ̀
+Electric current produces magnetic field	Ìsán-àrá máa ń ṣẹ̀dá ìté-̣òòfà
+Moving magnetic field produces electric current	Ìté-̣òòfà tí ń ṣí máa ń ṣẹ̀dá ìsán-àrá
+Electromagnetic waves have electric and magnetic components	Agbòṇ àrá-òòfà ní ẹ̀yà àrá àti òòfà
+Light waves are electromagnetic waves	Agbòṇ ìtànná jẹ́ agbòṇ àrá-òòfà
+Radio waves are electromagnetic waves	Agbòṇ rédíò jẹ́ agbòṇ àrá-òòfà
+Microwaves are electromagnetic waves	Agbòṇ maikroweefu jẹ́ agbòṇ àrá-òòfà
+Infrared waves are electromagnetic waves	Agbòṇ abẹ́-pupa jẹ́ agbòṇ àrá-òòfà
+Ultraviolet waves are electromagnetic waves	Agbòṇ òkè-pupa jẹ́ agbòṇ àrá-òòfà
+X-rays are electromagnetic waves	Agbòṇ ẹ̀ro-X jẹ́ agbòṇ àrá-òòfà
+Gamma rays are electromagnetic waves	Agbòṇ ẹ̀ro-gama jẹ́ agbòṇ àrá-òòfà
+Temperature measures average kinetic energy	Ìgbóná máa ń wọn agbára ìmira àpapọ̀
+Absolute zero is lowest possible temperature	Òdo pípéye jẹ́ ìgbóná tí ó kéré jùlọ tí ó ṣeéṣe
+Heat always flows from hot to cold	Okun-iná máa ń ṣàn láti ibi gbígbóná sí ibi tútù
+Entropy tends to increase	Ìdágbére máa ń ní ìfẹ̀ láti pọ̀
+Energy is conserved in isolated systems	Agbára jẹ́ títọ́jú nínú àwọn ètò tí a ti yà sọ́tọ̀
+Mass is conserved in chemical reactions	Ìwọ̀n-okun jẹ́ títọ́jú nínú àwọn ìdárapọ̀ ẹlà
+Charge is conserved in isolated systems	Àyè àrá jẹ́ títọ́jú nínú àwọn ètò tí a ti yà sọ́tọ̀
+Momentum is conserved in collisions	Ipáàlọ jẹ́ títọ́jú nínú àwọn ìkọlù
+Objects accelerate when forces are unbalanced	Àwọn èḍá máa ń ṣe ìdà-eré nígbàtí àwọn ipá bá jẹ́ àìbámu
+Gravity accelerates objects toward Earth	Ipá òòfà-ilẹ̀ máa ń mú àwọn èḍá ṣe ìdà-eré sí ilẹ̀
+Electric charges exert forces on each other	Àwọn àyè àrá máa ń fi ipá ṣiṣẹ́ lórí ara wọn
+Magnetic poles exert forces on each other	Àwọn ìgún òòfà máa ń fi ipá ṣiṣẹ́ lórí ara wọn
+Light can be reflected, refracted, or absorbed	Ìtànná lè jẹ́ fífàsẹ́yìn, fíṣẹ́, tàbí mímúmọ́ra
+Sound can be reflected, refracted, or absorbed	Ìró lè jẹ́ fífàsẹ́yìn, fíṣẹ́, tàbí mímúmọ́ra
+Work is done when force causes displacement	Iṣẹ́ jẹ́ ṣíṣe nígbàtí ipá bá fa ìyípòdà
+Power measures rate of energy transfer	Ìgbóra wọn ìyásí ìṣíragbára
+Heat causes thermal expansion	Okun-iná máa ń fa ìtẹ̀wọ̀n ooru
+Pressure is force per unit area	Èéfún jẹ́ ipá fún ẹyọ òrò
+Buoyancy depends on fluid density	Ipá àtẹ́lẹ́ dá lórí kíkítẹ́ aṣàn
+Friction converts kinetic energy to heat	Ìmúlẹ̀ máa ń yí agbára ìmira padà sí okun-iná
+Sound needs medium to travel	Ìró nílò àyè láti tàn káàkiri
+Light can travel through vacuum	Ìtànná lè tàn káàkiri nínú òfìfo
+Lenses bend light rays	Àwọn awòye máa ń tẹ àwọn ìtànná
+Prisms separate white light into colors	Àwọn prísì máa ń ya ìtànná funfun sí àwọn àwọ̀
+Magnetic fields form around electric currents	Àwọn ìté-̣òòfà máa ń ṣẹ̀dá yí àwọn ìsán-àrá ká
+Electric currents form around changing magnetic fields	Àwọn ìsán-àrá máa ń ṣẹ̀dá yí àwọn ìté-̣òòfà tí ń yípadà ká
+Electric motors use magnetic force to rotate	Àwọn èṛọ ìdáàrá máa ń lo ipá òòfà láti yí
+Generators use motion to create electricity	Àwọn olùṣẹ̀dá máa ń lo ìṣí láti ṣẹ̀dá okun-àrá
+Transformers transfer energy between circuits	Àwọn afagbára-àrá padà máa ń gbé agbára láàrín àwọn ìrìnpo
+Capacitors store and release electric charge	Àwọn apamọ́yẹàrá máa ń tọ́jú àti tú ìyẹ-àrá sílẹ̀
+Resistors convert electrical energy to heat	Àwọn atako máa ń yí agbára okun-àrá padà sí okun-iná
+Transistors control electric current flow	Àwọn atórinú máa ń darí ìṣàn ìsán-àrá
+Diodes allow current in only one direction	Àwọn olóòṇàkan máa ń fàyè gba ìsán-àrá ní òṇà kan ṣoṣo
+Circuits require complete conducting paths	Àwọn ìrìnpo nílò ojú ọ̀nà tí ó pé
+Switches control circuit connections	Àwọn ṣíwọ́ọ̀ṣí máa ń darí ìsopọ̀ ìrìnpo
+Fuses protect circuits from excess current	Àwọn ìdínà máa ń dáàbòbò àwọn ìrìnpo kúrò nínú ìsán-àrá tí ó pọ̀jù
+Series circuits have one path for current	Àwọn ìrìnpo òjóòní ní ojú ọ̀nà kan fún ìsán-àrá
+Parallel circuits have multiple paths for current	Àwọn ìrìnpo aṣíṣáájú ní ojú ọ̀nà púpọ̀ fún ìsán-àrá
+Voltage is electric potential difference	Ìgbóra-àrá jẹ́ ìyàtọ̀ agbára àrá
+Current is flow of electric charge	Ìsán-àrá jẹ́ ìṣàn ìyẹ-àrá
+Resistance opposes electric current	Atako ṣoròdodo sí ìsán-àrá
+Power equals voltage times current	Ìgbóra jẹ́ dọ́gba ìgbóra-àrá lọ́nà ìsán-àrá
+Atoms consist of protons, neutrons, and electrons	Átòṃù ní pírótónù, nútírónù, àti èlẹ́kìtírónù
+Protons have positive charge	Pírótónù ní àyè àrá gbòóṣì
+Electrons have negative charge	Èlẹ́kìtírónù ní àyè àrá ìdájú
+Neutrons have no charge	Nútírónù kò ní àyè àrá
+Atoms combine to form molecules	Àwọn átòṃù dapọ̀ láti ṣẹ̀dá mólékù
+Chemical bonds store energy	Àwọn ìsopọ̀ ẹlà máa ń tọ́jú agbára
+Chemical reactions rearrange atoms	Àwọn ìdárapọ̀ ẹlà máa ń tún àwọn átòṃù ṣe
+Energy is released or absorbed in reactions	Agbára jẹ́ títúsílẹ̀ tàbí mímúmọ́ra nínú àwọn ìdárapọ̀
+Radioactive elements decay spontaneously	Àwọn ẹ̀yà amórayínlẹ̀ máa ń bàjẹ́ fúnrararẹ̀
+Nuclear reactions involve atomic nuclei	Àwọn ìdárapọ̀ ojúìnú jẹ mọ́ àwọn àárín átòṃù
+Nuclear fission splits heavy atoms	Píntọ́ ojúìnú máa ń ya àwọn átòṃù wúwo
+Nuclear fusion combines light atoms	Ìdàpọ̀ ojúìnú máa ń dá àwọn átòṃù fẹ́rẹ̀ pọ̀
+Nuclear reactions release enormous energy	Àwọn ìdárapọ̀ ojúìnú máa ń tú agbára ńlá sílẹ̀
+Solar energy comes from nuclear fusion	Agbára ìtàn-oòrùn wá láti ìdàpọ̀ ojúìnú
+Fossil fuels contain stored chemical energy	Àwọn epo-ìsàlẹ̀ ní agbára ẹlà tí a ti tọ́jú
+Renewable energy sources are replenished naturally	Àwọn orísun agbára àtúnṣẹ̀dá jẹ́ àtúndá nípa ti adáyébá
+Wind turbines convert kinetic energy to electricity	Àwọn èṛọ afẹ́fẹ́ máa ń yí agbára ìmira padà sí okun-àrá
+Solar panels convert light energy to electricity	Àwọn àwo-oòrùn máa ń yí agbára ìtànná padà sí okun-àrá
+Hydroelectric dams convert potential energy to electricity	Àwọn àdìmọ́-omi máa ń yí agbára ìpò padà sí okun-àrá
+Geothermal plants use heat from Earth	Àwọn ilé-agbára ilẹ̀-ooru máa ń lo okun-iná láti ilẹ̀
+Biomass contains stored chemical energy	Àgbékalẹ̀ ní agbára ẹlà tí a ti tọ́jú
+Energy efficiency reduces energy waste	Ìṣepé agbára máa ń dín ìdànù agbára kù
+Conservation of energy is a fundamental law	Ìtọ́jú agbára jẹ́ òfin pàtàkì
+Conservation of momentum applies to collisions	Ìtọ́jú ipáàlọ jẹ mọ́ àwọn ìkọlù
+Conservation of charge applies to all processes	Ìtọ́jú àyè àrá jẹ mọ́ gbogbo àwọn ìlànà
+The first law of thermodynamics is energy conservation	Òfin kìíní okun-ooru jẹ́ ìtọ́jú agbára
+The second law of thermodynamics involves entropy	Òfin kejì okun-ooru jẹ mọ́ ìdágbére
+The third law of thermodynamics involves absolute zero	Òfin kẹta okun-ooru jẹ mọ́ òdo pípéye
+Newton's first law describes inertia	Òfin kìíní ti Newton ṣàlàyé àìfàgbára
+Newton's second law relates force to acceleration	Òfin kejì ti Newton ṣe àlàjẹpọ̀ ipá sí ìdà-eré
+Newton's third law involves action and reaction	Òfin kẹta ti Newton jẹ mọ́ ìgbéṣe àti èsì
+Coulomb's law describes electric forces	Òfin ti Coulomb ṣàlàyé àwọn ipá àrá
+Ampere's law relates current to magnetic field	Òfin ti Ampere ṣe àlàjẹpọ̀ ìsán-àrá sí ìté-̣òòfà
+Faraday's law describes electromagnetic induction	Òfin ti Faraday ṣàlàyé àgbàsíwájú àrá-òòfà
+Ohm's law relates voltage, current, and resistance	Òfin ti Ohm ṣe àlàjẹpọ̀ ìgbóra-àrá, ìsán-àrá, àti atako
+Snell's law describes light refraction	Òfin ti Snell ṣàlàyé ìṣẹ́-ìtànná
+The Doppler effect explains frequency shifts	Ipa ti Doppler ṣàlàyé ìyípadà ìyásí
+Bernoulli's principle relates pressure to fluid speed	Ìlànà ti Bernoulli ṣe àlàjẹpọ̀ èéfún sí ìyára aṣàn
+Archimedes' principle explains buoyancy	Ìlànà ti Archimedes ṣàlàyé ipá àtẹ́lẹ́
+Pascal's principle describes pressure in fluids	Ìlànà ti Pascal ṣàlàyé èéfún nínú àwọn aṣàn
+Hooke's law relates force to spring extension	Òfin ti Hooke ṣe àlàjẹpọ̀ ipá sí ìnàsílẹ̀ tíńrín
+Relativity describes space, time, and gravity	Ìbájẹpọ̀ ṣàlàyé àyé, àkókò, àti ipá òòfà-ilẹ̀
+Quantum mechanics describes atomic behavior	Ìṣeátómù ṣàlàyé ìwà átòṃù
+Wave-particle duality applies to light and matter	Méjèèjì agbòṇ-átòṃù jẹ mọ́ ìtànná àti èḍá
+Heisenberg uncertainty principle limits precision	Ìlànà àìdájú ti Heisenberg dá opin sí pípeye
+Pauli exclusion principle governs electron arrangement	Ìlànà ìyàsọ́tọ̀ ti Pauli ṣàkóso ètò èlẹ́kìtírónù
+Planck's constant relates energy to frequency	Ìdúró ti Planck ṣe àlàjẹpọ̀ agbára sí ìyásí
+Einstein's energy equation relates mass to energy	Òṣùwọ̀n agbára ti Einstein ṣe àlàjẹpọ̀ ìwọ̀n-okun sí agbára
+The speed of light is constant in vacuum	Ìyára ìtànná jẹ́ dídúró nínú òfìfo
+Electric fields surround electric charges	Àwọn ìté-̣àrá yí àwọn àyè àrá ká
+Magnetic fields surround magnets	Àwọn ìté-̣òòfà yí àwọn òòfà ká
+Electromagnetic waves have perpendicular fields	Àwọn agbòṇ àrá-òòfà ní àwọn ìté onírú
+Sound waves need a medium for propagation	Àwọn agbòṇ ìró nílò àyè fún ìtànkálẹ̀
+Wave interference can be constructive or destructive	Ìdíbàjẹ́ agbòṇ lè jẹ́ olùkọ́ tàbí olùparun
+Diffraction occurs when waves bend around objects	Ìtẹ́ ṣẹlẹ̀ nígbàtí àwọn agbòṇ bá tẹ yí àwọn èḍá ká
+Reflection occurs when waves bounce off surfaces	Ìfàsẹ́yìn ṣẹlẹ̀ nígbàtí àwọn agbòṇ bá ta ojú èḍá pa
+Refraction occurs when waves change speed	Ìṣẹ́ ṣẹlẹ̀ nígbàtí àwọn agbòṇ bá yí ìyára padà
+Polarization affects wave orientation	Ìfíjúdènà ní ipa lórí ìdojúkọ agbòṇ
+Resonance occurs at natural frequencies	Ìdóhùn ṣẹlẹ̀ ní àwọn ìyásí adáyébá
+Standing waves have nodes and antinodes	Àwọn agbòṇ dídúró ní àwọn ìjókó àti àìjókó
+Harmonics are multiples of fundamental frequency	Àwọn ìwúwọn jẹ́ oníìlọ́po ìyásí àpilẹ̀
+Musical instruments produce standing waves	Àwọn ohun èlò orin máa ń ṣẹ̀dá àwọn agbòṇ dídúró
+Sound quality depends on harmonics	Ìwà ìró dá lórí àwọn ìwúwọn
+Pitch depends on frequency	Ohùn dá lórí ìyásí
+Volume depends on amplitude	Ariwo dá lórí ìjì
+Timbre depends on harmonic content	Ìró dá lórí àkóónú ìwúwọn
+Electromagnetic spectrum includes radio to gamma rays	Àádiàrá-òòfà ní rédíò dé àwọn ẹ̀ro-gama
+Radio waves have longest wavelength	Àwọn agbòṇ rédíò ní ìgbòn agbòṇ tí ó gùn jùlọ
+Gamma rays have shortest wavelength	Àwọn agbòṇ ẹ̀ro-gama ní ìgbòn agbòṇ tí ó kúrú jùlọ
+Visible light is a small part of the spectrum	Ìtànná àfojúrí jẹ́ apá kékeré ti àádi
+Infrared radiation carries heat	Atànná abẹ́-pupa máa ń gbé okun-iná
+Ultraviolet radiation can damage cells	Atànná òkè-pupa lè ṣe àbàjẹ́ hóró
+X-rays can penetrate soft tissues	Àwọn ẹ̀ro-X lè wọ àwọn ẹran fẹ́lẹ́fẹ́lẹ́
+Gamma rays are highly penetrating	Àwọn ẹ̀ro-gama ní agbára wíwọnú púpọ̀
+Microwaves excite water molecules	Àwọn maikroweefu máa ń mú àwọn mólékù omi gbóná
+Optical fibers guide light waves	Àwọn ọ̀pá-ìríran máa ń darí àwọn agbòṇ ìtànná
+Lasers produce coherent light	Àwọn alásé máa ń ṣẹ̀dá ìtànná alájọpọ̀
+Conductors have free electrons	Àwọn onípa ní àwọn èlẹ́kìtírónù òmìnira
+Insulators restrict electron flow	Àwọn adísí dín ìṣàn èlẹ́kìtírónù kù
+Semiconductors have variable conductivity	Àwọn alábòsípa ní ìgbéṣàn tí ó ń yípadà
+Superconductors have zero resistance	Àwọn aláìséatako kò ní atako
+Magnets have north and south poles	Àwọn òòfà ní àríwá àti gúúsù
+Magnetic fields follow closed loops	Àwọn ìté-̣òòfà máa ń tẹ̀lé àwọn òòna tí ó ti
+Electromagnetic induction creates current	Àgbàsíwájú àrá-òòfà máa ń ṣẹ̀dá ìsán-àrá
+Electric motors use magnetic force	Àwọn èṛọ ìdáàrá máa ń lo ipá òòfà
+Generators convert motion to electricity	Àwọn olùṣẹ̀dá máa ń yí ìṣí padà sí okun-àrá
+Transformers change voltage levels	Àwọn afagbára-àrá padà máa ń yí àwọn ìpele ìgbóra-àrá padà
+Simple machines reduce effort	Àwọn èṛọ àtilẹ̀wá máa ń dín agbára kù
+Levers use fulcrums for advantage	Àwọn egbé máa ń lo àwọn àtàrí fún ànfàní
+Pulleys change direction of force	Àwọn afàwòṇ máa ń pa ipò ipá dà
+Wheels reduce friction	Àwọn kẹ́kẹ́ máa ń dín ìmúlẹ̀ kù
+Inclined planes reduce effort	Àwọn pẹpẹ dídà máa ń dín agbára kù
+Wedges convert force direction	Àwọn òòlà máa ń pa ipò ipá dà
+Screws are inclined planes wrapped around cylinders	Àwọn ìdè jẹ́ àwọn pẹpẹ dídà tí ó yí àwọn òpá kiri
+Gears transmit rotational motion	Àwọn ẹyọ-yíyí máa ń gbé ìṣí ìyípo kọjá
+Pendulums demonstrate periodic motion	Àwọn òkè-ìsàlẹ̀ máa ń fi ìṣí àdéédéé hàn
+Springs demonstrate elastic behavior	Àwọn tíńrín máa ń fi ìwà ìfarayọ hàn
+Hydraulic systems transmit pressure	Àwọn ètò omiara máa ń gbé èéfún kọjá
+Pneumatic systems use compressed air	Àwọn ètò afẹ́fẹ́ara máa ń lo afẹ́fẹ́ ìfúnpọ̀
+Thermal expansion affects materials	Ìtẹ̀wọ̀n ooru ní ipa lórí àwọn ohun èlò
+Thermal contraction occurs with cooling	Ìfapọ̀ ooru ṣẹlẹ̀ pẹ̀lú títútù
+Materials have thermal conductivity	Àwọn ohun èlò ní ìgbéṣàn ooru
+Specific heat capacity varies by material	Agbára okun-iná pàtàkì yàtọ̀ nípa ohun èlò
+Latent heat relates to phase changes	Okun-iná wíwàba jẹ mọ́ àwọn ìyípadà ipò
+Melting absorbs heat energy	Ìyọ́ máa ń mú agbára okun-iná mọ́ra
+Freezing releases heat energy	Dídì máa ń tú agbára okun-iná sílẹ̀
+Evaporation absorbs heat energy	Ìgbóṣe máa ń mú agbára okun-iná mọ́ra
+Condensation releases heat energy	Ìsẹ́dì máa ń tú agbára okun-iná sílẹ̀
+Sublimation bypasses liquid phase	Ìyọ́òyì máa ń re ipò aṣàn kọjá
+Gas laws describe gas behavior	Àwọn ofì-òyì ṣàlàyé ìwà òyì
+Pressure varies with volume and temperature	Èéfún máa ń yàtọ̀ pẹ̀lú àyè àti ìgbóná
+Heat capacity measures energy storage	Agbára okun-iná wọn ìtọ́jú agbára
+Thermal radiation transfers heat without medium	Atànná ooru gbé okun-iná kọjá láìsí àárín
+Black bodies absorb and emit radiation efficiently	Àwọn ara dúdú máa ń mú àti tú atànná sílẹ̀ ní ọgbọ́n
+Materials have refractive index	Àwọn ohun èlò ní àmì ìṣẹ́
+Lenses focus or disperse light rays	Àwọn awòye máa ń so tàbí tú àwọn ìtànná ká
+Mirrors reflect light rays	Àwọn awòji máa ń fà àwọn ìtànná sẹ́yìn
+Prisms separate light into colors	Àwọn prísì máa ń ya ìtànná sí àwọn àwọ̀
+Color results from selective absorption	Àwọ̀ jẹ́ èsì ìmúmọ́ra àṣàyàn
+Blue objects absorb non-blue light	Àwọn èḍá àyìnrín máa ń mú ìtànná àìjẹ́-àyìnrín mọ́ra
+Red objects absorb non-red light	Àwọn èḍá pupa máa ń mú ìtànná àìjẹ́-pupa mọ́ra
+White objects reflect all visible light	Àwọn èḍá funfun máa ń fà gbogbo ìtànná àfojúrí sẹ́yìn
+Black objects absorb all visible light	Àwọn èḍá dúdú máa ń mú gbogbo ìtànná àfojúrí mọ́ra
+Opaque materials block light	Àwọn ohun èlò aláìfojúrí máa ń dènà ìtànná
+Transparent materials transmit light	Àwọn ohun èlò afojúrí máa ń gbé ìtànná kọjá
+Translucent materials partially transmit light	Àwọn ohun èlò aláàbọ̀fojúrí máa ń gbé ìtànná kọjá ní ààbọ̀
+Shadows form when light is blocked	Àwọn òjìji ṣẹ̀dá nígbàtí ìtànná bá jẹ́ dídènà
+Eclipses occur when celestial bodies align	Àwọn ìṣúbaà ṣẹlẹ̀ nígbàtí àwọn ara ọ̀run bá tẹ̀lé òṇà kan
+Solar eclipses occur when moon blocks sun	Àwọn ìṣúbaà oòrùn ṣẹlẹ̀ nígbàtí òṣùpá bá dènà oòrùn
+Lunar eclipses occur when Earth shadows moon	Àwọn ìṣúbaà òṣùpá ṣẹlẹ̀ nígbàtí ilẹ̀ ayé bá ṣẹ̀dá òjìji lórí òṣùpá
+Sound waves carry energy	Àwọn agbòṇ ìró máa ń gbé agbára
+Sound frequency determines pitch	Ìyásí ìró pinnu ohùn
+Sound amplitude determines volume	Ìjì ìró pinnu ariwo
+Sound travels faster through denser media	Ìró máa ń tàn káàkiri ní ìyára jù nínú àwọn àyè tí ó kítẹ́ jù
+Echoes are reflected sound waves	Àwọn ìjìhìn jẹ́ àwọn agbòṇ ìró tí a fà sẹ́yìn
+Doppler effect shifts frequency	Ipa Doppler máa ń yí ìyásí padà
+Sonic booms occur at supersonic speeds	Àwọn ariwo jaganba ṣẹlẹ̀ ní àwọn ìyára tí ó ju ti ariwo lọ
+Acoustics studies sound behavior	Èḳó ̣nípa ìró kọ́ nípa ìwà ìró
+Musical instruments produce harmonics	Àwọn ohun èlò orin máa ń ṣẹ̀dá àwọn ìwúwọn
+Resonance amplifies sound	Ìdóhùn máa ń gbé ìró ga
+Gravity pulls objects toward each other	Ipá òòfà-ilẹ̀ máa ń fa àwọn èḍá sí ara wọn
+Gravitational force depends on mass	Ipá òòfà-ilẹ̀ dá lórí ìwọ̀n-okun
+Gravitational force decreases with distance	Ipá òòfà-ilẹ̀ máa ń dínkù pẹ̀lú jíjìnnà
+Weight is gravitational force on mass	Ìwọ̀n-ìwúwo jẹ́ ipá òòfà-ilẹ̀ lórí ìwọ̀n-okun
+Orbital motion balances gravitational pull	Ìṣí àyíká máa ń ṣe ìbámu fà ipá òòfà-ilẹ̀

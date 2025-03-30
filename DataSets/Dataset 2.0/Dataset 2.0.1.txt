@@ -1,0 +1,2078 @@
+Geology - Science of the earth: is the science comprising of the study of solid Earth and the processes by which it evolves.	Ẹ̀kọ́ Ìṣẹ̀dálẹ-ayé jẹ́ ẹ̀kọ́ nípa orílẹ ayé àti gbogbo àwọn ọnà tí ó gbà yà.
+In modern times, geology is commercially important for mineral and hydrocarbon exploration and for evaluating water resources;	Ní àsìkò ìlàjú yi, ẹ̀kọ́ ìṣẹ̀dálẹ-ayé jẹ́ pàtàkì fún àmúṣọrọ àwọn àlùmọnì ilẹ ayé àti fún ìwákiri àwọn epo-rọbì, àti fún àgbéyẹwò àwọn ọrọ inú omi.
+It is publicly important for the prediction and understanding of natural hazards.	Ó tún wà fún iṣàsọtẹlẹ àti ìlanilóye àwọn ewu ilẹ ayé.
+Many processes such as landslides, earthquakes, floods and volcanic eruptions can be hazardous to people.	ọpọlọpọ àwọn ìrírí ayé bí ilẹ-yíyọ̀, ìjì-ilẹ, àgbàrá-òjò àti ìfẹ-ilẹ ló ní ọpọlọpọ ewu fún àwa ọmọ aráyé.
+Geologists work to understand these processes well enough to avoid building important structures where they might be damaged.	Àwọn akẹ̀kọ́ iṣẹ̀dálẹ-ayé nṣiṣẹ́ láti lóye àwọn nkan wọnyí tóbẹẹ gẹ kí a ba lè yàgò fún kíkọ àwọn ilé pàtàkì ní ibi tí wọn ti lè bàjẹ.
+Rock: A hard mineral mass	Àpáta
+Minerals: Minerals are naturally occurring useful substances that are neither plants nor animals	Àlùmọnì: Àwọn eléyi jẹ́ àwọn nkan tó ti wà láti ayébáyé, tí wọn sì ní ìwúlò. Àwọn eléyi kì íṣe onjẹ tàbí àwọn ẹran.
+Earthquake Shaking of the earth's crust	Ìjì-ilẹ
+Volcano A vent in the earth's crust through which lava and ashes are expelled.	Ìfẹ-ilẹ: ìfẹ láti inú ilẹ wá tó nfa ki ọgọdọ-gbígbóná àti eérú tu jáde
+Seismology Science of earthquakes	Ẹ̀kọ́ nípa ìjì-ilẹ
+Sand: granular material of disintegrated rock	Yanrìn, Iyanrìn: Àpáta tẹlẹ tó ti wá di ewówó, tó sì ti túká.
+Sandstone: sedimentary rock with colour ranging from yellow to red	Egúrù, egúnrìn: Àpáta ìsìlẹ tó ní àwọn awọ bí àyìnrín sí pupa
+Clay: Pliable earth that hardens when fired	Odo: Ilẹ tó ṣeé tẹ, tó sì má nda líle tí a bá sun ún ní iná
+Ore : a naturally occurring solid material from which a metal or valuable mineral can be profitably extracted.	Aluro atilewa: Awon apata tabi aluro miran ti a wa jade lati inu iho ile ninu eyi ti a ti le yo awon alumoni olowo iyebiye
+Rocks	Àpáta
+Igneous rocks	Àpáta àfinádá
+Sedimentary rocks	Àpáta ìsilẹ
+Metamorphic rocks	Àpáta
+Minerals	Àlùmọnì
+Granite- hard igneous rock	Akọ-òkúta, Akọ-àpáta
+Marble – type of limestone	Ọtadídán
+Extraction	Wíwọ̀jáde
+Sand	Yanrìn, Iyanrìn
+Stone	Òkúta
+Clay	Odo
+Glass	Dígí
+Cement	Ṣimẹntì
+Chalk	Ẹfun
+Volcanology	Ẹ̀kọ́ nípa ìfẹ-ilẹ
+Igneous rock: Rock produced by the action of fire	Àpáta àfinádá: Àpáta tó wáyé nigbati ọ̀gọ̀dọ̀ gbigbona tó jade lati àjà-ilẹ̀ di tútù
+Sedimentary rock: Rock formed from the deposit of sediments	Àpáta ìsilẹ: Àpáta tó wáyé nigbati awọn gẹ̀dẹ̀gẹ́dẹ̀ ile bá kóra jọ ti wọn sì di líle
+Metamorphic rock: from the transformation of existing rock types	Àpáta ìpààrídà: Àpáta tó wáyé lati ara apata miran
+Iron ore	Apata onirin
+Coal	Èédú
+Clay	Odo
+Diamond	Èédú dídán
+Crude oil	Epo rọ̀bì
+Natural gas	Òyì atilẹtu
+Coal gas	Òyì inú èédú
+SCIENTIFIC METHOD	ÌLÀNÀ Ẹ̀KỌ́ IMỌ̀–JINLẸ̀
+science	Ẹ̀kọ́ ìmọ̀-jinlẹ
+Scientist	Onímọ-jinlẹ
+Matter	Àì-dá
+Experiment	Àṣewò
+Investigation	Ìwádi
+Research	Iṣewadi
+Development	Iṣedagbasoke
+Theory	Àlàyé
+Hypothesis	Àròsọ
+Law	ofin
+Scientific Method	Ìlànà Ìmọ̀-jinlẹ
+Hypothesis	Idábaa
+Observation	Akíyèsí
+Natural	Ayébáyé
+
+Science is a method of inquiry that sets up falsifiable hypothesis and tests them.	Ẹ̀kọ́ ìmọ̀-jinlẹ jẹ ilana bi a ti nṣewadi ohunkohun nipa iṣarosọ ti o le mu ki ariyanjiyan waye.
+No statement is scientific unless it is falsifiable.	Eyi si fun wa laye lati le dan arosọ yi wo, ki a si yẹ ẹ wo fin-ni-fin-ni.
+It is a method of investigation that proposes testable statements and then subjects the statements to rigorous testing.	Arosọ yi ni lati jẹ eyi ti a le ṣe agbeyẹwo rẹ lati lee ja irọ inuu rẹ.
+These statements must be falsifiable – capable of being proven false.	Niwọngbati a ba ti sọ pe ọna imọ-jinlẹ ni a ntọ, ko si arosọ kan ti a le ṣe ti a le sọ pe ko le ni ariyanjiyan ninu Abakaba ti a ba da tabi ọrọkọrọ ti a ba sọ ti a ko ba le janiyan tabi ki a wa irọ ti o le wa nidii rẹ ki i ṣe ti ilana imọ-jinlẹ.
+
+Scientific Method: Scientific Method: May be either experimental or naturalistic, but always requires four steps:	Ìlànà Ẹ̀kọ́ Ìmọ̀-jinlẹ: Ìlànà Ẹ̀kọ́ Ìmọ̀-jinlẹ le waye nipa ti ọna iṣaṣewo tabi ọna iṣakiyesi oun-ayebaye, ṣugbọn ọna mẹrin yi ni a nilati tọ:
+1.Facts are gathered;	A nilati ko ẹri jọ;
+2. A problem is stated;	A nilati sọ ohun iruniloju ti a ri ninu ẹri ti a ko jọ yi;
+3. A hypothesei is proposed ( The hypotheses is basically an intelligent guess, but it must be falsifiable);	A nilati ṣarosọ bi a ṣe le wa ọna ati ri ojutuu ohun iruniloju yi;
+4. The hypothesis is tested (This step requires rigour and objectivity).	A si ni lati bẹrẹ si ṣe ariyanjiyan lori arosọ yi bọya o tọna tabi ko ri bẹẹ. (Ilana eleyi gba ki a ṣe ayẹwo fin-ni-fin-ni ti ko ni kayefi kankan).
+
+Theory: A hypothesis repeatedly tested and never falsified becomes a theory	Àlàyé: Arosọ ti a ba ti ṣewadii rẹ fin-ni-fin-ni fun ọpọlọpọ igba ti a si ri i pe a ko le ri irọ kan ninu rẹ ni a npe ni Àlàyé
+
+Experiment: In an experiment, the scientist controls as many variables as possible, allowing only one to vary at a time.	Àṣewò: Bi a ba sọ wipe a nṣe aṣewo, a nilati ri i wipe a mu awọn okunfa gbogbo, yatọ si eyi ti a fẹ gbe yẹwo, wa si idaduro niwọngbati a ba nṣe aṣewo yi.
+If possible, comparison is made between an experimental group and a control group, which differ only on one factor being tested.	Bi o ba ṣee ṣe, a lee ṣe akawe okunfa ti a nṣe ayẹwo rẹ pẹlu ẹka ifiṣàkàwé ti a mọ pe iyatọ laarin awọn mejeeji ko ju okunfa kan ti a nṣe ayewo rẹ.
+Experimental methods are commonly used in physics chemistry, physiology, and genetics.	Iru awọn ilana Aṣewo yi li a nlo fun ẹkọ kemistri, ẹkọ fisiiksi.
+
+Naturalistic Observations: Used for phenomena that cannot be experimentally controlled.	Iṣakiyesi oun-ayébáyé: A nlo ilana yi lati ṣewadii awọn nnkan ti a ko le fi ilana aṣewo wadi rẹ.
+Astronomers or paleontologists cannot experiment with distant stars or extinct dinosaurs, and social scientists cannot practically or ethically manipulate society.	Awọn akẹkọ edumare tabi awọn akẹkọ ẹda aye-atijọ ko le ṣe aṣewo lori awọn irawọ to jin rere tabi awọn ẹranko to ti parẹ, pẹlupẹlu, ko si bi awọn akẹkọ awujọ-ẹda ṣe le mu ki awujọ-ẹda ṣe bi wọn ti fẹ.
+They are restricted to those experiments that nature performs for them, and must wait patiently for the right conditions to occur.	Nitorina, nwọn ko le da ṣe aṣẹwo ju eyi ti ayanmọ nṣe fun wọn Nwọn si nilati mu suuru de igba ti àsìkò ba fun wọn laye lati ṣe ayẹwo awọn nkan ti o ṣe wọn ni kayefi.
+Ecologists, biogeographers, and comparative anatomists often use naturalistic methods	Awọn akẹkọ ọjọ̀-ẹdá, akẹkọ ibùgbe-ẹdá, ati akẹkọ ẹyà-ara ni nwọn nlo iru ilànà iṣakiyesi yi.
+Agriculture	Ẹ̀kọ́ ọ̀gbìn
+Agronomy	Ẹ̀kọ́ ìlò èrè-oko
+Animal husbandry	Ẹ̀kọ́ Ìroko ẹran-ọsìn
+Antibiotics	Oògùn ẹ̀yàwuurú
+Digger	Dígà, Ọkọ-Ìgbẹlẹ̀
+Cash crops	Èso amówówá
+Clay	Odo
+Climate	Sáà Ojú-ọjọ́
+Cow dung for Compost	Ẹlẹbọtọ
+Crop Yields	Apapo Ere-iroko
+Cultivation	Ìṣètọjú ilẹ
+Cutlass	Àdá
+Erosion	Ilẹ̀ẹyìnrìn
+Farm produce	Èrè oko
+Fertilizer	Ajílẹ̀
+Food crops	Èso fún jíjẹ
+Forest	Aginjù
+Gardening	Ẹ̀kọ́ Ìroko ọ̀gbìn
+Growing Crops	Ìfúnrúngbìn
+Growth hormone	Oje ìdàgbàsókè
+Herding	Ìdaran
+Hoe	Ọkọ
+Irrigation	Ìbomirin
+Livestock	Ohun ọsín
+Loam	Ìlẹ̀dú, Ilẹ̀ dúdú
+Locust	Eṣú
+Manure	Ìràwé
+Pesticide	Ẹlà apakòkòrò
+Pest	Kòkòrò oko
+Rake	Ọkọ ìkéwéjọ, Réèkì
+Spade	Ọkọ-Ìbulẹ̀
+Sand	Yanrìn
+Shovel	Ọkọ-ìwalẹ̀
+Soil	Iyẹ̀pẹ̀, erùpẹ̀
+Termite	Ikán
+Weather	Ojú-ọjọ́
+Weeds	Èpò
+Weevil	Ìràwọ, Kòkòrò ẹ̀wà
+Wheat	Àlìkámà
+Wheelbarrow	Ọmọla-nke
+Geology	Ẹ̀kọ́ Ìṣẹ̀dálẹ-ayé
+Rock	Àpáta
+Minerals	Àlùmọnì
+Earthquake	Ìjì-ilẹ
+Volcano	Ìfẹ-ilẹ
+Seismology	Ẹ̀kọ́ nípa ìjì-ilẹ
+Sand	Yanrìn, Iyanrìn
+Sandstone	Egúrù, egúnrìn
+Clay	Odo
+Ore	Aluro atilewa
+Igneous rocks	Àpáta àfinádá
+Sedimentary rocks	Àpáta ìsilẹ
+Metamorphic rocks	Àpáta ìpààrídà
+Granite	Akọ-òkúta, Akọ-àpáta
+Marble	Ọtadídán
+Extraction	Wíwọ̀jáde
+Stone	Òkúta
+Glass	Dígí
+Cement	Ṣimẹntì
+Chalk	Ẹfun
+Volcanology	Ẹ̀kọ́ nípa ìfẹ-ilẹ
+Iron ore	Apata onirin
+Coal	Èédú
+Diamond	Èédú dídán, Díámọndì
+Copper	Kọpà
+Crude oil	Epo rọ̀bì
+Natural gas	Òyì atilẹtu
+Coal gas	Òyì inú èédú
+Science	Ẹ̀kọ́ ìmọ̀-jinlẹ
+Scientist	Onímọ-jinlẹ
+Matter	Àì-dá
+Experiment	Àṣewò
+Investigation	Ìwádi
+Research	Iṣewadi
+Development	Iṣedagbasoke
+Theory	Àlàyé
+Hypothesis	Àròsọ, Idábaa
+Law	Ofi
+Scientific Method	Ìlànà Ìmọ̀-jinlẹ
+Observation	Akíyèsí
+Natural	Ayébáyé
+Integumentary system		Ètò awọ-ara
+The Integumentary System is the largest organ system in the human body	Ètò Awọ-ara jẹ́ ètò ẹ̀yà-ara tó tóbi jù ní ara ọmọ ènìyàn
+responsible for protecting the body from most physical and environmental factors	Ó sì wà fún ìdáàbòbo ara lọwọ ọpọlọpọ àwọn ewu àfojúrí ati àwọn t'àgbèègbè wa
+The largest organ in the body, is the skin	Awọ ara ní ẹ̀yà-ara tó tóbi ju ní ara ọmọ-ènìyàn
+The integument also includes appendages	Ètò awọ-ara sì ní àfikún àwọn ìsọgbè míran
+sweat and sebaceous glands	àwọn ẹṣẹ́ òógùn, ẹṣẹ́ epo-ara
+hair	irun
+nails	èékán
+tiny muscles at the root of each hair	àwọn iṣan kékèké tó wà ní ìdí irun kọọkan
+goose bumps	ara sísú
+The integumentary system has a variety of functions	Ètò Awọ-ara ní ọpọlọpọ iṣẹ́ tó n ṣe fún ara
+waterproof, cushion, and protect the deeper tissues	ìdábò bo ara lọwọ omi, tìmìtìmì àti ìdáàbò bo àwọn ìṣù ara ti inú
+excrete wastes	ìkẹgbin ara
+regulate temperature	ìfẹsẹ̀múlẹ ìgbóná ara
+attachment site for sensory receptors	àtìpó àwọn ẹ̀sọ-iyè
+detect pain, sensation, pressure, and temperature	ìfura sí ẹdùn, iyè, èéfún, àti ìgbóná
+vitamin D synthesis	àsè àwọn ajíra D
+Organ	Ẹ̀yà-ara
+Environment	Àgbè-gbè, Àyíká
+Skin	Awọ-ara
+Sweat glands	Ẹṣẹ Òógùn
+Sebaceous gland	Ẹṣẹ epo-ara
+Nail	Èékán
+Arrectores pili	Iṣan ìdí-irun
+Hair	Irun
+Epidermis	Ìwọ-òde
+Dermis	Inú awọ-ara
+Ceruminous glands	Ẹṣẹ̣́ òrí-etí
+Scales	Àwọn Ìpẹ
+Feathers	Àwọn Ìyẹ
+Sweat glands - make sweat to control temperature	Àwọn ẹṣẹ́-òógùn
+Sebaceous glands - make oil	Àwọn ẹṣẹ́ epo-ara
+Ceruminous glands - make ear wax	Ẹṣẹ òrí-etí
+Mammary glands	Ọmún
+Acne	Irorẹ
+Urticana	Ẹgbẹsì
+Albinism	Afín-yíyà
+Athletes foot	ẹyún ẹsẹ̀
+Blister	Ìléròró
+Craw-craw	Kúrúnà
+Rash	Ẹ̀yún
+Rubella	Inárun
+Skin cancer	Jẹjẹrẹ awọ-ara
+Protects the body's internal tissues and organs	Ó nṣe ìdáàbò bo àwọn ìṣù àti ẹ̀yà inú ara
+Protects the body against infectious organisms	Ó nṣe ìdáàbò bo ara lọwọ àwọn ẹ̀yàwuuru tó nfa àrùn àrànmọ
+Protect the body against abrupt changes in temperature	Ó nṣe ìdáàbò bo ara nípa ti ìfẹsẹ̀múlẹ ìgbóná ara
+Protects the body from dehydration	Ó nṣe ìdáàbò bo ara nípa kí ara kí ó má ṣe gbẹ
+Protects the body against sunburns	Ó nṣe ìdáàbò bo ara kí dídúró pẹ nínú oòrùn má báà fa àìsàn fún ara
+Stores water, fat, and vitamin D	Ó nṣe ìfipamọ omi, ọrá àti ajíra fún ìgbà tí wọn yóò wúlò fún ara
+Generates vitamin D through exposure to ultraviolet light	Ó nṣe alákoso Ajíra D nípa fífi ara yá ẹka-ìtànná UV
+Help excrete waste materials through perspiration	Ó nṣe ìkẹgbin àwọn ẹgbin tàbí pàntí nípa ìlàágùn
+Formation of new cells to repair minor injuries	Ó nṣe ìdásìlẹ àwọn pádi tuntun fún àtúnṣe àwọn èṣe kékèké
+Act as a receptor for touch, pressure, pain, heat, and cold	Ó njẹ kí a náání ìfarakàn, ìfúnpọ, ẹdùn, ìgbóná àti otútù
+Helps in the identification of some diseases	Ó nṣe ìrànlọwọ fún rírí ojúùtú àwọn àìsàn kan
+ORGAN SYSTEMS OF THE BODY	ÈTÒ ÀWỌN Ẹ̀YÀ-ARA
+HUMAN BODY	ARA ENIA
+ORGAN SYSTEMS	ÀWỌN ÈTÒ Ẹ̀YÀ-ARA
+An organ system is a group of anatomical structures that work together to perform a specific function or task	Èto ẹya-ara jẹ akojọpọ awọn oriṣi iṣu-ara ti nwọn nbaraṣiṣẹ pọ fun aṣeyọri ọya kan ninu ara
+Although each organ system as a distinct entity, the functions of the body's organ systems overlap considerably	Botilẹjẹpe ikankan ninu eto awọn ẹya-ara li a da lati gbajumọ iṣẹ kan gboogi ninu ara, Wọn ki i ṣe lai ran ara wọn lọwọ ni ọpọ igba
+the body could not function without the cooperation of all of its organ systems	Ara ẹda ko si lee gbeṣẹ lai si ifọwọsowọpọ awọn eto awọn ẹya-ara yi
+The failure of even one organ system could lead to severe disability or even death	Ikuna ikan ninu wọn si le e mu ki aiṣedede ba ara tabi ki ẹda tilẹ ku
+The human body is composed of 11 different organ systems as tabulated below	Ara enia ni awọn ẹya-ara mejila ọtọọtọ ninuu rẹ, gẹgẹ bi a ti ṣe itẹ rẹ si isalẹ
+An organ or structure that is included in one system may also be included in another	Eya-ara kan ti a ba ka mọ ikan ninu eto yi si le tun jẹyọ ninu eto miran
+For example, the testes and ovaries produce hormones and are therefore part of the endocrine system	Fun apẹrẹ, ikoro-ẹpọn ọkunrin ati ibu-ẹyin obirin ma a pese awọn omi-ara, nitori naa, a le ka wọn mọ eto ẹya ẹṣẹ-ailopo
+however, these same structures are also involved in reproduction and thus are included in the reproductive system	Bakanaa awọn iṣu mejeeji yi ni iṣe pẹlu bibi ẹda, nitorinaa, a si le ka wọn mọ eto ẹya-bibi ẹda-oniye
+The Respiratory System	Ètò ẹ̀yà-ìpòyìdà ara
+The Digestive System	Ètò ẹ̀yà-ẹdà-onjẹ ara
+The Circulatory System	Ètò ẹ̀yà-ìṣọ̀n-ẹ̀jẹ̀
+The Nervous System	Ètò ẹ̀yà-ẹ̀sọ-ara
+The Reproductive System	Ètò ẹ̀yà-bíbí ẹ̀dá-oníyè
+Musculoskeletal system	Ètò ẹ̀yà-iṣan oun àjọ-eegun ara
+The Endocrine system	Ètò ẹ̀yà-ẹṣẹ́ àìlópo
+The excretory system	Ètò ẹ̀yà-ìkẹgbin ara
+The Integumentary System	Ètò ẹ̀yà-awọ-ara
+The Lymphatic System	Ètò ẹ̀yà-ìṣọ̀n omi-ara
+The Immune system	Ètò ẹ̀yà-òkí-ara
+The Urinary System or The excretory system	Ètò ẹ̀yà-títọ ara tàbí Ètò ìkẹgbin ara
+Abdomen	Inú
+Ankle	Ọrùn ẹsẹ̀
+Arm	Apá
+Armpit	Abíyá
+Artery	Ìṣọ̀n-àlọ
+Back	Ẹhín
+Beard	Irùngbọn
+Blood	Ẹ̀jẹ̀
+Body	Ara, ẹgbẹ
+Bone	Eegun
+Breasts	Ọmún
+Buttocks	Ìdì
+Calf	Pópósẹ
+Cheek	Ẹrẹkẹ
+Chest	Àyà
+Chin	Àgbọn
+Ear	Etí
+Elbow	Ìgopá, Ìgunpá
+Eye	Ojú
+Eye brow	Irun ìgbègbèrejú
+Eyelash	Irun ìpénpèjú
+Eyelid	Ìpénpèjú
+Face	Iwá ojú, Iwá orí
+Finger	Ìka ọwọ
+Foot	Ẹsẹ̀
+Forehead	Ìpọnjú
+Genitals	Ẹ̀yà ìnrin
+Hair	Irun
+Hand	Ọwọ́
+Head	Orí
+Heart	Ọkàn
+Index finger	Ìka ìtọka
+Jaw	Àgbọn
+Kidneys	Iwe, iwo
+Knee	Orúnkún, eékún
+Leg	Irè
+Lip	Ètè
+Little finger	Ọmọdirin
+Liver	Ẹ̀dọ, ẹdọkí
+Lung	Ẹ̀dọfóró, ẹdọfúyẹ
+Middle finger	Ìka àárín
+Mouth	Ẹnu
+Mustache	Irunmún, Irun ètè
+Navel	Idodo
+Neck	Ọrùn
+Nipples	Orí-ọmún, Ìkórí-ọmún
+Nose	Imún
+Palm	Àtẹlẹwọ́
+Penis	Okó
+Pharynx	Ọ̀fun
+Pubic hair	Irun abẹ; irunmu
+Ring finger	Ìka òrùka
+Scrotum	Ẹpọn
+Shoulder	Èjìká
+Side of the body	Ìhà ara
+Sole of the foot	Àtẹlẹsẹ̀
+Stomach	Ikùn
+Teeth	Ehín
+Thigh	Itan
+Throat	Ọ̀fun
+Thumb	Àtà-npàkò
+Toe	Ìka-ẹsẹ̀
+Tooth	Ehín
+Tongue	Ahọn
+Vein	Ìṣọ̀n àbọ̀
+Womb	Ilé-ọmọ'nú
+Wrist	Ọrùn ọwọ́
+THE CIRCULATORY SYSTEM	Ẹ̀YÀ ÌṢỌN-Ẹ̀JẸ̀
+ORGAN SYSTEMS OF THE BODY	ÀWỌN ÈTÒ Ẹ̀YÀ-ARA
+Circulatory system	Ètò ìṣọ̀n-ẹ̀jẹ̀
+an organ system that passes nutrients, gases, hormones, blood cells, etc. to and from cells in the body	Ètò ẹ̀yà-ara tó nṣe ìfiránṣẹ àwọn èròjà, òyì, oje-ara, pádi ẹ̀jẹ̀ abb. láti àti lọ sí àwọn pádi ara
+to help fight diseases and help stabilize body temperature and pH to maintain homeostasis	láti ṣe ikoju ija sí àwọn àrùn àti láti jẹ́ kí ìpẹkan ara àti ìgbóná ara wà ní ìfẹsẹ̀múlẹ
+Blood Vessels	Àwọn Ìṣọ̀n ẹ̀jẹ̀
+Tubes that carry blood as it circulates	Àwọn inú òpó tí ẹ̀jẹ̀ tí nṣọn yí ara kaakiri
+Arteries bring oxygenated blood from the heart and lungs	Àwọn ìṣọ̀n-ẹ̀jẹ̀ àlọ ngbé ẹ̀jẹ̀ olóyi-iná láti ọkàn àti ẹdọforó
+veins return oxygen-depleted blood back to the heart and lungs	Àwọn ìṣọ̀n-ẹ̀jẹ̀ àbọ nṣe ìdápadà ẹ̀jẹ̀ alòyì-iná lọ sí ọkàn àti ẹdọforó
+Arteries	Àwọn Ìṣọ̀n-ẹ̀jẹ̀ àlọ
+Arteries are muscular blood vessels that carry oxygenated blood away from the heart	Àwọn eléyi jẹ́ òpó alágbara tó ngbé ẹ̀jẹ̀ olóyi-iná kúrò láti ọkàn
+except the pulmonary and umbilical arteries	àyàfi ìṣọ̀n are-ẹdọ àti ìṣọ̀n-ẹ̀jẹ̀ àlọ tí olóbi
+Veins	Àwọn ìṣọ̀n-ẹ̀jẹ̀ àbọ
+Veins are blood vessel channels that carry waste-rich blood back to the lungs and heart	Àwọn ìṣọ̀n-ẹ̀jẹ̀ àbọ jẹ́ àwọn ìṣọ̀n tó ngbé ẹ̀jẹ̀ tó kún fún ẹgbin-ara padà lọ sí ọkàn àti ẹdọforó
+Capillaries	Àwọn òpó-ẹ̀jẹ̀
+Capillaries are very thin, fragile blood vessels that receive oxygen-rich blood from arteries	Àwọn òpó-ẹ̀jẹ̀ jẹ́ àwọn òpó tinrin-tinrin tí wọn ngba ẹ̀jẹ̀ tó kún fún òyì-iná láti ọwọ àwọn ìṣọ̀n-ẹ̀jẹ̀ àlọ
+exchange oxygen and carbon dioxide and then deliver the waste-rich blood to the veins	Wọn a sì ṣe pàṣípààrọ òyì-iná yi pẹ̀lú òyì-èédú. Wọn a sì ṣe ìfiránṣẹ ẹ̀jẹ̀ tó kún fún ẹgbin sí àwọn ìṣọ̀n-ẹ̀jẹ̀ àbọ
+Circulatory system	Ètò ìṣọ̀n-ẹ̀jẹ̀
+Artery	Ìṣọ̀n-ẹ̀jẹ̀ àlọ
+Vein	Ìṣọ̀n-ẹ̀jẹ̀ àbọ
+Arterial blood	Ẹ̀jẹ àlọ
+Venous blood	Ẹ̀jẹ àbọ
+Systole	Ìgbà ìsọkì
+Diastole	Ìgbà ifera
+Blood	Ẹ̀jẹ
+Blood capillaries	Àwọn òpó ẹ̀jẹ̀
+Blood circulation	Ìṣọ̀nyíká ẹ̀jẹ̀
+Blood coagulation	Ẹ̀jẹ dídì
+Blood vessels	Ìṣọ̀n ẹ̀jẹ̀
+Blood copuscle	Pádi ẹ̀jẹ̀
+Capillary	Òpó-ẹ̀jẹ̀
+Nutrients	Èròjà, Ìjẹẹmun
+Gas	Òyì
+Hormones	Ojera
+Lymph	Omira
+Electrolytes	
+Cell	Pádi
+Temperature	Ìgbóná
+pH	Ìpẹkan
+Plasma	Oje-ẹ̀jẹ̀
+For transportation of vital substances around the body	Fún àgbéká àwọn èròjà kòṣeémáni yí ara ka
+For transporting dissolved gases	Fún àgbéká àwọn òyì tó ti yọ sínú oje-ẹ̀jẹ̀
+Red blood cell	Pádi-ẹ̀jẹ̀ pupa
+For transportation of oxygen and carbon(IV) oxide	Fún àgbéká òyì-iná àti òyì-eedu
+White blood cell	Pádi-ẹ̀jẹ̀ funfun
+For defending the body by fighting any disease that enters the body	Fún ìgbèjà ara nípa bíbá àwọn ẹ̀dá-afàìsàn tó bá wọ inú ara jà
+Platelets or thrombocytes	Adèépá ẹ̀jẹ̀
+For clotting of blood and healing of wounds	Fún dída èépá àti láti máa mú egbò sán
+Lungs	Edoforo
+Pulmonary artery	Ison are-edo
+Pulmonary vein	Ison atedobo
+Heart	Okan
+Veins	Ison-eje abo
+Arteries	Ison-eje alo
+Blood vessels	Awon opo eje
+Immune system	Ètò òkí-ara
+Disease	Àrùn, Àìsàn
+Pathogens	ẹ̀yà-wuuru afàìsàn
+Tumor	Kókó, ikókó
+Malignant tumor	Jẹjẹrẹ
+Benign tumor	Lẹ́ẹ́rẹ́
+Virus	Ọlọjẹ
+Parasites	Ajọfẹ́
+Parasitic worm	Aràn
+Tissues	Ìṣù
+Tumid	Oníkókó
+Tumor cells	Àwọn pádi kókó
+Bone marrow	Ìmùdùnmúdùn ẹ̀jẹ̀
+Spleen	Àmọ
+Lymph nodes	Asẹ́ omi-ara
+Malnutrition	Ìkúdùn àìdára-ìjẹ
+Alcohol abuse	Ìmukúmu
+Drug abuse	Ìlòkulò oògùn
+Medications	Àwọn oògùn
+Exposure to certain environmental toxins	Fífi ara gba àwọn nkan olóró
+Viral diseases	Àwọn àìsàn ọlọjẹ
+Age	Ogbó
+Inadequate sleep	Àìtó tàbí àìsí oorun
+Lack of exercise	Àìṣe eré ìdárayá
+Diseases	Àwọn àìsàn
+Stress	Àníyàn
+Depression	Ìbànújẹ́
+An immune system is a system of biological structures and processes within an organism that protects against disease by identifying and killing pathogens and tumor cells.	Eya òkí-ara jẹ́ àwọn ètò àti ìlànà nínú ẹ̀dá-oníyè tó nṣe ìdáàbò bo ara lọwọ àwọn àrùn nípa ṣiṣe àfihàn àti pípa àwọn ẹ̀yàwuuru afàìsàn àti àwọn pádi tó nfa lẹẹrẹ àti jẹjẹrẹ.
+It detects a wide variety of agents, from viruses to parasitic worms, and needs to distinguish them from the organism's own healthy cells and tissues in order to function properly.	Ó nṣe àfarahàn ọpọlọpọ àwọn àlejò ara, bẹrẹ láti àwọn ọlọjẹ títídé àwọn aràn ajọfẹ. Ó sì níláti ṣe ìdáyàtọ láarín àwọn yi àti àwọn pádi ara fúnraarẹ àti àwọn ìṣù-ara rẹ láti lè ṣiṣẹ́ tó wuyì.
+Detection is complicated as pathogens can evolve rapidly, and adapt to avoid the immune system and allow the pathogens to successfully infect their hosts.	Ìṣefarahàn yi jẹ́ nkan tó nira nítorí àwọn ẹ̀yàwuuru afàìsàn yi má nparadà ní kíákíá láti farapamọ fún àwọn òkí-ara yi àti láti jẹ́ kí wọn lee kó àrùn bá agbàlejò wọn.
+Immunodeficiencies occur when one or more of the components of the immune system are inactive.	Òkí-ara àìtó má nṣẹlẹ nígbàtí ìkan tàbí púpọ nínú àwọn nkan-inú ètò òkí-ara yi bá wà ní àìṣedéédé.
+Bone marrow: All the cells of the immune system are initially derived from the bone marrow.	Ìmùdùnmúdùn ẹ̀jẹ̀: Gbogbo àwọn pádi ti ètò òkí-ara tó ṣẹ láti imùdùnmúdùn ẹ̀jẹ̀.
+Spleen: The spleen is an immunologic filter of the blood.	Àmọ: Àmọ jẹ́ asẹ fún ẹ̀jẹ̀ tó njẹ́ kí òkí-ara ṣe déédé.
+Lymph nodes: The lymph nodes function as an immunologic filter for the bodily fluid known as lymph. Lymph nodes are found throughout the body.	Asẹ́ omi-ara: Àwọn asẹ́ omi-ara nṣiṣẹ́ gẹ́gẹ́bí asẹ́ nípa mímú òkí-ara fún omi-ara. Àwọn asẹ omi-ara yi wà káàkiri ara pátápátá.
+The Circulatory system: an organ system that passes nutrients, gases, hormones, blood cells, etc.	Ètò ìṣò ̣ n-è ̣ jè ̣ : Ètò è ̣ yà-ara tó nṣe ìfiránṣẹ àwọn èròjà bí, òyì, oje- ara, pádi è ̣ jè ̣ abb. 
+to and from cells in the body to help fight diseases and help stabilize body temperature and pH to maintain homeostasis.	láti àti lọ sí àwọn pádi ara láti ṣe ikoju ija sí àwọn àrùn àti láti jé ̣ kí ìpẹkan ara àti ìgbóná ara wà ní ìfẹsè ̣ múlẹ. Ni idi eyi ara yi o wa ni
+Blood Vessels: Tubes that carry blood as it circulates. Arteries bring oxygenated blood from the heart and lungs; veins return oxygen-depleted blood back to the heart and lungs.	Àwọn Ìṣò ̣ n è ̣ jè ̣ : Àwọn inú òpó tí è ̣ jè ̣ tí nṣọn yí ara kaakiri. Àwọn ìṣò ̣ n-è ̣ jè ̣ àlọ ngbé è ̣ jè ̣ olóyi-iná láti ọkàn àti ẹdọforó; Àwọn ìṣò ̣ n-è ̣ jè ̣ àbọ nṣe ìdápadà è ̣ jè ̣ alòyì- iná lọ sí ọkàn àti ẹdọforó
+Arteries: Arteries are muscular blood vessels that carry oxygenated blood away from the heart (except the pulmonary and umbilical arteries).	Àwọn Ìṣò ̣ n-è ̣ jè ̣ àlọ: Àwọn eléyi jé ̣ òpó alágbara tó ngbé è ̣ jè ̣ olóyi-iná kúrò láti ọkàn (àyàfi ìṣò ̣ n are-ẹdọ àti ìṣò ̣ n-è ̣ jè ̣ àlọ tí olóbi).
+Veins: Veins are blood vessel channels that carry waste-rich blood back to the lungs	Àwọn ìṣò ̣ n-è ̣ jè ̣ àbọ jé ̣ àwọn ìṣò ̣ n tó ngbé è ̣ jè ̣ tó kún fún ẹgbin-ara padà
+Reproduction	Bíbí
+The sexual or asexual process by which organisms generate new individuals of the same kind.	Bíbí ti lákọlábo tàbí ti ògbo jẹ́ ìlànà bí àwọn ẹ̀dá oníyè ti nṣe ìpilẹṣẹ àwọn ẹ̀dá bíi ti ara wọn.
+All living things reproduce. If this did not happen, all living things would slowly die out and disappear from the earth.	Gbogbo ẹ̀dá oníyè ní ó nṣẹ̀dá ara wọn. Bi bẹ́ẹ̀kọ́, gbogbo àwọn ẹ̀dá oníyè ni yóò rọra kú tán, tí wọn yóò sì parẹ́ kúrò ní ilẹ ayé.
+The reproductive system or genital system: a system of organs within an organism which work together for the purpose of reproduction.	Ètò bíbí ara: Ètò àwọn ẹ̀yà kan nínú àwọn ẹ̀dá-oníyè tí wọn nbá ara ṣiṣẹ́ fún bíbí.
+Afterbirth	Olóbi
+Afterpains	Àgàrọ, Àgùnrọ
+Amniotic fluid	Omi-ọmọ
+Amniotic sac	Àpò ilé-ọmọ
+Anus	Ihò ìdí
+Asexual reproduction	Bíbí àìgbakọ
+Birth canal	ọnà ibí
+Bladder	Àpo itọ̀
+Breast	Ọmún, Ọyọn
+Cervix	Ọrùn ilé-ọmọ'nú
+Childbirth	Ọmọ-bíbí
+Clitoris	Idọ
+Cowper's gland	Ẹṣe Káópa
+Egg	Ẹyin
+Ejaculatory duct	Òpo atọ̀
+Embryo	Ọlẹ
+Endocrine system	
+Endometrium	Ìwọ ilé-ọmọ
+Epididymus	Ìfun atọ̀
+Fallopian Tube	Ìfun eyin
+Female	Abo, Obìrin
+Female sex	Abo ìnrin
+Fertilization	Ìgbàrin
+Fertilized egg	Ọlẹ
+Gene	Ẹyọ-ìran
+Genetic disease	Àrùn ìdílé, àrùn ìrandíran
+Genetic material	
+Genital System	Ètò ẹ̀yà-ìnrin
+Glans Penis	Orí okó
+Gonads	Ikóró - ẹ̀pọ̀n
+Gonads	Ibú Séẹ̀li ìnrin
+Hormones	Oje-ara, Ojera
+Implantation	Ìgbégbìn
+Labia	Ètè
+Lactation	Ọmún-ṣiṣẹ́
+Male	Akọ
+Male	Okunrin
+Male sex	Akọ ìnrin
+Mammary gland	Ẹṣẹ́ wàrà; Orísun wàrà
+Menstrual cycle	Oṣù abo
+Menstrual period	Ìgbà àṣẹ
+Menstruation	Nnkan osu; Àṣẹ
+Mons pubis	Imu
+Offspring	Ìran, ọmọ
+Organs	Ẹ̀yà-ara
+Ovary	Ibú-ẹyin
+Ovulation	Ìrọyin
+Penis	Okó
+Placenta	Olóbi
+Pregnancy	Oyún
+Prostate gland	Ẹṣe omi-àtọ̀
+Puberty	Ìbàlágà
+Pubic hair	Irun abẹ
+Reproduction	Bíbí
+Reproductive System	Ètò bíbí-ẹ̀dá
+Scrotum	Ẹpọ̀n
+Seminal vessicle	Àpò àtọ̀
+Sex	Ìnrin
+Sex chromosome	Okùn-ìran ìnrin
+Sexology	Ẹ̀kọ́ nípa ìnrin-ẹ̀dá
+Sexual intercourse	Ìbásùn, Àsùnpọ̀
+Sexual reproduction	Bíbí ìgbakọ/ Bíbí ti lákọlábo
+Sperm	Àtọ̀
+Testis	Ikóró epọ̀n
+Umbilical cord	Olóbi, Iwọ
+Urethra	Ọ̀nà ìtọ̀
+Uterus	Ilé Ọmọ'nu
+Vagina	Òbò
+Vas deferens	Ìfun àtọ̀
+Vulva	Ojú-òbò
+Zygote	Ọlẹ̀
+ORGAN SYSTEMS OF THE BODY	ÀWỌN ÈTÒ Ẹ̀YÀ-ARA
+THE ENDOCRINE SYSTEM	ÈTÒ ẸṢẸ́ ÀÌLÓPO
+The Endocrine System is a system of glands, each of which secretes a type of hormone directly into the bloodstream to regulate the body.	Ètò Ẹṣẹ Àìlópo jẹ́ ètò àwọn ẹṣẹ́ tí ìkànkan nínú wọn a máa sun ojera tirẹ sí inú ìṣọ̀n ẹ̀jẹ̀. Wọn wà fún àti ṣe àtọsọnà ara.
+Hormones are substances released from endocrine tissue into the bloodstream where they travel to target tissue and generate a response.	Àwọn ojera jẹ́ àwọn ẹlà tí a túsílẹ láti àwọn ìṣù ẹṣẹ́-àìlópo wá sínú òpó ẹ̀jẹ̀. Níbẹ ni wọn yóò gbé lọ sí ìṣù-ara tí a ti ní ìlò wọn láti jẹ́ èsì tí ó tọ.
+Hormones regulate various human functions, including Metabolism, growth and development, tissue function, and mood.	Àwọn ojera yi ló nṣe àtọsọnà ọpọlọpọ àwọn ìṣesí ẹ̀dá. Àwọn nkan bí àsè ìjẹ-ara, ìdàgbàsókè àti ìfẹsẹ̀múlẹ, iṣẹ́ àwọn ìṣù ara, àti ìhùwàsí.
+A gland is a group of cells that produces and secretes, or gives off, chemicals.	Ẹṣẹ-ojera jẹ́ ìjọ pádi tó nṣẹ̀dá, tó si nsun, àwọn ẹlà.
+A gland selects and removes materials from the blood, processes them, and secretes the finished chemical product for use somewhere in the body.	Ẹṣẹ ojera kan a máa ṣe àṣàyàn, a sì máa ṣe ìmúkúrò àwọn nkankan láti inú ẹ̀jẹ̀, yí óò ṣe iṣẹ́ lórí wọn, yí óò sì sun ẹsún ẹlà yi fún lílò lí apá ara míran.
+Some types of glands release their secretions in specific areas.	Àwọn ẹṣẹ́-ojera kan a máa sun ojera wọn sí àgbèègbè ibi kan.
+For instance, exocrine glands, such as the sweat and salivary glands, release secretions in the skin or inside of the mouth.	Fún àpẹrẹ, àwọn ẹṣẹ́-ojera olópo, bí àwọn ẹṣẹ́ òógùn, ẹṣẹ́ itọ, a máa sun ẹlà wọn sí ara tàbí sínú ẹnu.
+Endocrine glands, on the other hand, release more than 20 major hormones directly into the bloodstream where they can be transported to cells in other parts of the body.	Àwọn ẹṣẹ́-ojera àìlópo, nṣe àtúsílẹ nkan bí ogun ojera sínú òpó-ẹ̀jẹ̀ tààrà nibi tí wọn ti léè gbé wọn lọ sí àwọn pádi miran ní apá ara tí wọn ti wúlò.
+Endocrine system	Ètò ẹṣẹ́ àìlópo
+Hormone	Ojera
+Exocrine system	Ètò ẹṣẹ́ olópo
+Duct	Òpó
+Glands	Ẹṣẹ oje-ara
+Duct gland	Ẹṣẹ olópo
+Secretion	Ìsun
+Ductless gland	Ẹṣẹ àìlópo
+Pituitary gland	Ẹṣẹ ìdí-ọpọlọ
+Pancreas	Ẹ̀dọ-òrónro
+Ovarie	Ibú-ẹyin
+Testes	Ikóropọn
+Thyroid gland	Ẹṣẹ ìdí-ìkòkò ọfun
+Adrenal gland	Ẹṣẹ orí-iwe
+Body parts	Ẹya ara
+Respiratory system	Ẹ̀ya ìpọ̀yídá ara
+Organs	Ẹya ara
+Lung	Ẹdọ̀fóró
+Trachea	Ọ̀nà ẹ̀fun
+Bronchus	Ẹ̀ka ọ̀nà mímú ẹ̀mí
+Alveolus	Ẹ̀pọ̀n fẹ́lẹ́fẹ́lẹ́ tí ń bẹ nínú ẹdọ̀fóró
+Diaphragm	Ẹran tí ń pín ikùn àti àyà ara sọ́tọ̀ sí ara wọn
+Breathe in	Mímí ẹ̀mí sínú
+Breathe out	Mímí ẹ̀mí jáde
+Gas exchange	Pàsípàrọ̀ afẹ́fẹ́
+Oxygen	Afẹ́fẹ́ oní-atẹ́gùn
+Carbon dioxide	Afẹ́fẹ́ adúfóró
+Nose	Imú
+Inhalation	Mímú afẹ́fẹ́ sínú
+Exhalation	Mímí afẹ́fẹ́ jáde
+Respiratory disease	Àìsàn ẹ̀ya ìpọ̀yídá ara
+Asthma	Ìmí-hàhà
+Breathe	Mí ẹ̀mí
+Breathing	Mímí ẹ̀mí
+Upper respiratory tract	Apá òkè ọ̀nà ìmísí
+Lower respiratory tract	Apá ìsàlẹ̀ ọ̀nà ìmísí
+Chest	Àyà
+Ribs	Egungun ẹhin
+Respiration	Ìpọ̀yídá
+Nasal cavity	Ihò imú
+Throat	Ọ̀fùn
+Vocal cords	Okùn ohùn
+Larynx	Kókó họ́nrọ́
+Pharynx	Ọ̀nà ọfun
+Cough	Ikọ́
+Sneeze	Sín
+The respiratory system is responsible for the exchange of gases	Ẹ̀ya ìpọ̀yídá ara ló ń ṣe iṣẹ́ pàsípàrọ̀ afẹ́fẹ́
+Oxygen is inhaled and carbon dioxide is exhaled	A ń mú afẹ́fẹ́ oní-atẹ́gùn sínú, a sì mí afẹ́fẹ́ adúfóró jáde
+The lungs are the main organs of the respiratory system	Àwọn ẹdọ̀fóró ni àwọn ẹya ara pàtàkì nínú ẹ̀ya ìpọ̀yídá ara
+The diaphragm helps in the process of breathing	Ẹran tí ń pín ikùn àti àyà ara sọ́tọ̀ sí ara wọn a máa ràn wá lọ́wọ́ nínú ìṣe mímí ẹ̀mí
+The trachea divides into two bronchi, one entering each lung	Ọ̀nà ẹ̀fun pín sí méjì, ẹ̀ka ọ̀nà mímú ẹ̀mí, ọ̀kọ̀ọ̀kan wọ inú ẹdọ̀fóró kọ̀ọ̀kan
+The alveoli are where gas exchange takes place	Àwọn ẹ̀pọ̀n fẹ́lẹ́fẹ́lẹ́ tí ń bẹ nínú ẹdọ̀fóró ni ibi tí pàsípàrọ̀ afẹ́fẹ́ ti ń ṣẹlẹ̀
+The nose filters, warms, and moistens the air we breathe	Imú a máa ṣe àyẹ̀wò, mú gbóná, àti sọ afẹ́fẹ́ tí a ń mí di tutù
+Respiratory diseases affect the airways and lungs	Àwọn àìsàn ẹ̀ya ìpọ̀yídá ara a máa ni ipa lórí àwọn ọ̀nà afẹ́fẹ́ àti ẹdọ̀fóró
+Asthma causes difficulty in breathing	Ìmí-hàhà a máa fà ìṣòro nínú mímí ẹ̀mí
+The ribs protect the lungs and heart	Àwọn egungun ẹhin ń dáàbò bo àwọn ẹdọ̀fóró àti ọkàn
+During inhalation, the diaphragm contracts and moves downward	Lákokò mímú afẹ́fẹ́ sínú, ẹran tí ń pín ikùn àti àyà ara sọ́tọ̀ sí ara wọn a máa fà àti sì lọ sísàlẹ̀
+During exhalation, the diaphragm relaxes and moves upward	Lákokò mímí afẹ́fẹ́ jáde, ẹran tí ń pín ikùn àti àyà ara sọ́tọ̀ sí ara wọn a máa ṣímí àti sì lọ sókè
+The vocal cords in the larynx produce sound when we speak	Àwọn okùn ohùn nínú kókó họ́nrọ́ ni ó ń ṣe ohùn nígbà tí a bá ń sọ̀rọ̀
+Sneezing helps to clear irritants from the nasal cavity	Sísín a máa ran ni lọ́wọ́ láti mu àwọn ohun tí ń yọ ni lẹ́nu jáde kúrò nínú ihò imú
+Coughing helps to clear the airways	Ikọ́ a máa ran ni lọ́wọ́ láti fọ àwọn ọ̀nà afẹ́fẹ́ mọ́
+The pharynx is a tube that carries both air and food	Ọ̀nà ọfun jẹ́ ihò tí ó ń gbé afẹ́fẹ́ àti oúnjẹ kọjá
+The body needs oxygen to function properly	Ara nílò afẹ́fẹ́ oní-atẹ́gùn láti ṣiṣẹ́ dáradára
+Body parts	Ẹya ara
+Integumentary system	Ẹ̀ya àwò ara
+Skin	Àwọ̀ ara
+Epidermis	Ìlà òkè ara
+Dermis	Ìlà àárín àwọ̀ ara
+Subcutaneous tissue	Ìlà ìsàlẹ̀ àwọ̀ ara
+Cutaneous membrane	Ẹ̀wù àwọ̀
+Hair	Irun
+Nails	Èékánná
+Sweat glands	Ojú-ara tó ń tẹ̀ òógùn
+Sebaceous glands	Ojú-ara tó ń tẹ̀ òróró
+Melanin	Àwọ̀ dúdú inú ara
+Keratin	Ẹ̀yà àwọ̀, irun àti èékánná
+Hair follicle	Ihò irun
+Hair shaft	Igi irun
+Sweat	Òógùn
+Sebum	Òróró àwọ̀ ara
+Melanocytes	Àwọn hóró tó ń ṣe àwọ̀ dúdú
+Keratinocytes	Àwọn hóró tó ń ṣe ẹ̀yà àwọ̀, irun àti èékánná
+Fingerprints	Àmì ìka
+Touch	Fífọwọ́kàn
+Body temperature	Ooru ara
+Hair color	Àwọ̀ irun
+Skin color	Àwọ̀ ara
+Skin injury	Ọgbẹ́ ara
+Wound	Ọgbẹ́
+Wound healing	Ìwósàn ọgbẹ́
+Scar	Àpá
+Burn	Jíjóná
+Ultraviolet rays	Ìtànṣán oòrùn
+Sunlight	Ìmọ́lẹ̀ oòrùn
+Exfoliation	Bíbọ́ àwọ̀ ara
+Moisturize	Rírọ̀ àwọ̀ ara
+Dry skin	Àwọ̀ ara gbígbẹ
+Oily skin	Àwọ̀ ara oníròrò
+Acne	Ẹ̀dà
+Wrinkles	Ìṣẹ́po àwọ̀ ara
+Moles	Àmì ara
+Freckles	Àwọ̀ ìtanijẹ
+Birthmarks	Àmì ìbí
+Blisters	Wíwú àwọ̀ ara
+Calluses	Àwọ̀ ara kíkára
+Eczema	Àrùn àwọ̀ ara
+Psoriasis	Àrùn àwọ̀ ara pẹ́lẹ́bẹ́
+Dermatitis	Ààrùn wíwú àwọ̀ ara
+Skin diseases	Àwọn ààrùn àwọ̀ ara
+Skin cancer	Jẹjẹrẹ àwọ̀ ara
+Skin hygiene	Ìmọ́tótó àwọ̀ ara
+Sun protection	Àbò kúrò lọ́wọ́ oòrùn
+Sunscreen	Òróró àbò kúrò lọ́wọ́ oòrùn
+Hair growth	Ìdàgbàsókè irun
+Hair loss	Rírẹ́ irun
+Baldness	Páápáá
+Nail growth	Ìdàgbàsókè èékánná
+The integumentary system protects the body from external damage	Ẹ̀ya àwò ara ń dáàbò bo ara kúrò nínú ìpalára láti òde
+The skin is the largest organ of the body	Àwọ̀ ara ni ẹya ara tó tóbi jùlọ
+The epidermis is the outermost layer of the skin	Ìlà òkè ara ni ìlà àwọ̀ ara tó wà lókè jùlọ
+The dermis contains blood vessels, nerves and hair follicles	Ìlà àárín àwọ̀ ara ní àwọn ọ̀pá ẹ̀jẹ̀, iṣan àti ihò irun
+The subcutaneous tissue lies beneath the dermis	Ìlà ìsàlẹ̀ àwọ̀ ara wà ní abẹ́ ìlà àárín àwọ̀ ara
+Melanin determines skin color	Àwọ̀ dúdú inú ara ló ń pinnu àwọ̀ ara
+Keratin is a protein that makes up the skin, hair, and nails	Keratin jẹ́ purotéìnì tí ó ń ṣe àwọ̀ ara, irun, àti èékánná
+Sweat glands help regulate body temperature	Àwọn ojú-ara tó ń tẹ̀ òógùn ń ran ara lọ́wọ́ láti ṣàkóso ooru ara
+Sebaceous glands produce oil that lubricates the skin	Àwọn ojú-ara tó ń tẹ̀ òróró ń ṣe òróró tí ó ń jẹ́ kí àwọ̀ ara tutù
+Hair helps protect the skin and regulate body temperature	Irun ń ran àwọ̀ ara lọ́wọ́ láti dáàbò bo ara àti láti ṣàkóso ooru ara
+Nails protect the tips of fingers and toes	Àwọn èékánná ń dáàbò bo òpìntí ìka àti ẹsẹ̀
+Fingerprints are unique to each individual	Àmì ìka ní ìyàtọ̀ fún ẹnìkọ̀ọ̀kan
+The skin heals itself when injured	Àwọ̀ ara a máa wo ara rẹ̀ sàn nígbà tí ó bá ní ọgbẹ́
+Scars form during the healing process	Àwọn àpá a máa jẹ yọ ní àkókò ìwósàn
+Ultraviolet rays from the sun can damage the skin	Ìtànṣán oòrùn lè ṣe àbùjẹ́ fún àwọ̀ ara
+Moisturizing helps prevent dry skin	Rírọ̀ àwọ̀ ara ń ṣèrànwọ́ láti dènà àwọ̀ ara gbígbẹ
+Acne is a common skin condition that affects many people	Ẹ̀dà jẹ́ ìṣẹ́lẹ̀ àwọ̀ ara tí ó wọ́pọ̀ tí ó sì ń ṣe ọ̀pọ̀lọpọ̀ ènìyàn
+Wrinkles develop as the skin ages	Ìṣẹ́po àwọ̀ ara a máa dàgbà bí àwọ̀ ara ṣe ń dàgbà
+Regular skin care helps maintain healthy skin	Ìtọ́jú àwọ̀ ara déédé á ṣèrànwọ́ láti tọ́jú àlàáfíà àwọ̀ ara
+Different skin types require different care routines	Oríṣiríṣi àwọ̀ ara nílò oríṣiríṣi ètò ìtọ́jú
+Skin diseases can affect any part of the body	Àwọn ààrùn àwọ̀ ara lè ṣe ipa lórí èyíkéyìí apá ara
+Skin cancer is caused by uncontrolled growth of abnormal skin cells	Jẹjẹrẹ àwọ̀ ara wá láti ìdàgbàsókè àwọn hóró àwọ̀ ara àìdára tí kò ní ìkápá
+Sun protection is important to prevent skin damage	Àbò kúrò lọ́wọ́ oòrùn ṣe pàtàkì láti dènà ìpalára àwọ̀ ara
+Hair loss can be caused by genetics, aging, or medical conditions	Rírẹ́ irun lè wá látọwọ́ ìṣẹ̀dá, ọjọ́ ogbó, tàbí àwọn ìṣẹ́lẹ̀ ìṣègùn
+Nails grow throughout life and need regular trimming	Àwọn èékánná ń dàgbà ní gbogbo ìgbésí ayé, wọ́n sì nílò gíge déédé
+The integumentary system also provides sensory information about the environment	Ẹ̀ya àwò ara tún ń pèsè ìmọ̀ ìmọ̀lára nípa àyíká
+The skin plays a role in vitamin D synthesis	Àwọ̀ ara ní ipa kan láti ṣe ìpèsè fítámìnì D
+Blood circulatory system	Ètò ìrìn ẹ̀jẹ̀
+Heart	Ọkàn
+Blood	Ẹ̀jẹ̀
+Blood vessels	Ọ̀pá ẹ̀jẹ̀
+Arteries	Ọ̀pá ẹ̀jẹ̀ tó ń gbé ẹ̀jẹ̀ jáde láti ọkàn lọ sí ara
+Veins	Ọ̀pá ẹ̀jẹ̀ tó ń gbé ẹ̀jẹ̀ padà wá sí ọkàn láti ara
+Capillaries	Ọ̀pá ẹ̀jẹ̀ tí kékeré jùlọ
+Red blood cells	Àwọn hóró ẹ̀jẹ̀ pupa
+White blood cells	Àwọn hóró ẹ̀jẹ̀ funfun
+Platelets	Àwọn pẹ́pẹ́ ẹ̀jẹ̀
+Plasma	Omi inú ẹ̀jẹ̀
+Circulation	Ìrìn ẹ̀jẹ̀
+Pulmonary circulation	Ìrìn ẹ̀jẹ̀ ẹdọ̀fóró
+Systemic circulation	Ìrìn ẹ̀jẹ̀ gbogbo ara
+Coronary circulation	Ìrìn ẹ̀jẹ̀ ọkàn
+Atrium	Yàrá òkè ọkàn
+Ventricle	Yàrá ìsàlẹ̀ ọkàn
+Heart chambers	Àwọn yàrá ọkàn
+Heart valves	Àwọn gbàgede ọkàn
+Aorta	Ọ̀pá ẹ̀jẹ̀ tó tóbi jùlọ
+Vena cava	Ọ̀pá ẹ̀jẹ̀ tó tóbi jùlọ tí ó ń gbá ẹ̀jẹ̀ padà wá sí ọkàn
+Pulse	Ìlù ọkàn
+Blood pressure	Agbára ẹ̀jẹ̀
+Heartbeat	Lílù ọkàn
+Cardiac cycle	Àyíká ọkàn
+Oxygen	Afẹ́fẹ́ oní-atẹ́gùn
+Carbon dioxide	Afẹ́fẹ́ adúfóró
+Hemoglobin	Ohun tó wà nínú hóró ẹ̀jẹ̀ pupa tí ó ń gbé afẹ́fẹ́ oní-atẹ́gùn
+Blood clotting	Dídì ẹ̀jẹ̀
+Blood groups	Àwọn ẹgbẹ́ ẹ̀jẹ̀
+Blood donation	Fífún ni ẹ̀jẹ̀
+Blood transfusion	Gbígba ẹ̀jẹ̀
+Cardiovascular disease	Ààrùn ọkàn àti ọ̀pá ẹ̀jẹ̀
+Hypertension	Agbára ẹ̀jẹ̀ ga jù
+Hypotension	Agbára ẹ̀jẹ̀ kéré jù
+Arrhythmia	Àìṣedéédé lílù ọkàn
+Heart attack	Ìkọlù ọkàn
+Stroke	Ìkọlù ẹ̀jẹ̀ ọpọlọ
+Atherosclerosis	Dídí ọ̀pá ẹ̀jẹ̀
+Anemia	Ẹ̀jẹ̀ kéré
+Leukemia	Jẹjẹrẹ ẹ̀jẹ̀
+Hemophilia	Àìlè dídì ẹ̀jẹ̀
+Sickle cell disease	Ààrùn ẹ̀jẹ̀ onípọ́njú
+The circulatory system is responsible for transporting blood throughout the body	Ètò ìrìn ẹ̀jẹ̀ ni ó ń ṣe iṣẹ́ gbígbé ẹ̀jẹ̀ kiri nínú ara
+The heart pumps blood to all parts of the body	Ọkàn ń pọn ẹ̀jẹ̀ lọ sí gbogbo ibi nínú ara
+Blood carries oxygen and nutrients to the cells	Ẹ̀jẹ̀ ń gbé afẹ́fẹ́ oní-atẹ́gùn àti oúnjẹ lọ sí àwọn hóró
+Arteries carry blood away from the heart	Àwọn ọ̀pá ẹ̀jẹ̀ tó ń gbé ẹ̀jẹ̀ jáde láti ọkàn lọ sí ara ń gbé ẹ̀jẹ̀ kúrò ní ọkàn
+Veins carry blood back to the heart	Àwọn ọ̀pá ẹ̀jẹ̀ tó ń gbé ẹ̀jẹ̀ padà wá sí ọkàn láti ara ń gbé ẹ̀jẹ̀ padà wá sí ọkàn
+Capillaries connect arteries and veins	Àwọn ọ̀pá ẹ̀jẹ̀ tí kékeré jùlọ ń so àwọn ọ̀pá ẹ̀jẹ̀ tó ń gbé ẹ̀jẹ̀ jáde láti ọkàn lọ sí ara àti àwọn ọ̀pá ẹ̀jẹ̀ tó ń gbé ẹ̀jẹ̀ padà wá sí ọkàn láti ara pọ̀
+Red blood cells carry oxygen around the body	Àwọn hóró ẹ̀jẹ̀ pupa ń gbé afẹ́fẹ́ oní-atẹ́gùn kiri nínú ara
+White blood cells help fight infection	Àwọn hóró ẹ̀jẹ̀ funfun ń ràn wá lọ́wọ́ láti bá àwọn àrùn jà
+Platelets help blood clot	Àwọn pẹ́pẹ́ ẹ̀jẹ̀ ń ràn ẹ̀jẹ̀ lọ́wọ́ láti dì
+The heart has four chambers	Ọkàn ní yàrá mẹ́rin
+The pulmonary circulation carries blood between the heart and lungs	Ìrìn ẹ̀jẹ̀ ẹdọ̀fóró ń gbé ẹ̀jẹ̀ láàrin ọkàn àti ẹdọ̀fóró
+The systemic circulation carries blood between the heart and rest of the body	Ìrìn ẹ̀jẹ̀ gbogbo ara ń gbé ẹ̀jẹ̀ láàrin ọkàn àti ìyókù ara
+Blood pressure is the force of blood against the walls of the blood vessels	Agbára ẹ̀jẹ̀ ni agbára ẹ̀jẹ̀ sí àwọn ògiri ọ̀pá ẹ̀jẹ̀
+Hypertension is high blood pressure	Agbára ẹ̀jẹ̀ ga jù ni agbára ẹ̀jẹ̀ tó ga jù
+A heart attack occurs when blood flow to the heart is blocked	Ìkọlù ọkàn a máa ṣẹlẹ̀ nígbà tí ìṣàn ẹ̀jẹ̀ sí ọkàn bá dí
+A stroke occurs when blood flow to the brain is interrupted	Ìkọlù ẹ̀jẹ̀ ọpọlọ a máa ṣẹlẹ̀ nígbà tí ìṣàn ẹ̀jẹ̀ sí ọpọlọ bá dálẹ́kun
+Blood is made up of red blood cells, white blood cells, platelets, and plasma	Ẹ̀jẹ̀ ní àwọn hóró ẹ̀jẹ̀ pupa, àwọn hóró ẹ̀jẹ̀ funfun, àwọn pẹ́pẹ́ ẹ̀jẹ̀, àti omi inú ẹ̀jẹ̀
+The average adult has about 5 liters of blood	Àpíntúnpín àgbàlagbà ní ẹ̀jẹ̀ bí ìwọ̀n lítà márùn-ún
+The heart beats about 100,000 times a day	Ọkàn a máa lù ní ìwọ̀n ẹ̀ẹ́dẹ́gbẹ̀rún lọ́jọ́ kan
+Blood flows through about 60,000 miles of blood vessels	Ẹ̀jẹ̀ a máa ṣàn nínú ìwọ̀n mílù ẹgbẹ̀rún mẹ́tàdínlọ́gọ́ta ti àwọn ọ̀pá ẹ̀jẹ̀
+The right side of the heart pumps blood to the lungs	Apá ọ̀tún ọkàn a máa pọn ẹ̀jẹ̀ lọ sí ẹdọ̀fóró
+The left side of the heart pumps blood to the rest of the body	Apá òsì ọkàn a máa pọn ẹ̀jẹ̀ lọ sí ìyókù ara
+Heart valves ensure blood flows in one direction	Àwọn gbàgede ọkàn a máa ri dájú pé ẹ̀jẹ̀ ń ṣàn ní ọ̀nà kan
+The heartbeat sound occurs when heart valves close	Ariwo lílù ọkàn a máa wáyé nígbà tí àwọn gbàgede ọkàn bá ti
+The first blood cells are formed in the liver during fetal development	Àwọn hóró ẹ̀jẹ̀ àkọ́kọ́ ni wọ́n ṣẹ̀dá nínú ẹ̀dọ̀ ní àkókò ìdàgbàsókè ọmọ nínú
+Hemoglobin in red blood cells carries oxygen	Ohun tó wà nínú hóró ẹ̀jẹ̀ pupa tí ó ń gbé afẹ́fẹ́ oní-atẹ́gùn nínú àwọn hóró ẹ̀jẹ̀ pupa ń gbé afẹ́fẹ́ oní-atẹ́gùn
+Regular exercise strengthens the heart	Ìṣeré déédé a máa mú ọkàn lágbára
+Smoking damages blood vessels	Mímu tábà a máa ba àwọn ọ̀pá ẹ̀jẹ̀ jẹ́
+There are four main blood groups: A, B, AB, and O	Àwọn ẹgbẹ́ ẹ̀jẹ̀ mẹ́rin pàtàkì wà: A, B, AB, àti O
+Sickle cell disease affects the shape of red blood cells	Ààrùn ẹ̀jẹ̀ onípọ́njú ní ipa lórí àwọ̀ àwọn hóró ẹ̀jẹ̀ pupa
+Anemia is a condition where there are not enough red blood cells	Ẹ̀jẹ̀ kéré jẹ́ ìṣẹ́lẹ̀ níbi tí kò ti ní àwọn hóró ẹ̀jẹ̀ pupa tó
+Blood donation can save lives	Fífún ni ẹ̀jẹ̀ lè gba ẹ̀mí là
+For transportation of vital substances around the body	Fún àgbéká àwọn èròjà kòṣeémáni yí ara ka
+For transporting dissolved gases	Fún àgbéká àwọn òyì tó ti yọ sínú oje-ẹ̀jẹ̀
+For transportation of oxygen and carbon(IV) oxide	Fún àgbéká òyì-iná àti òyì-eedu
+For defending the body by fighting any disease that enters the body	Fún ìgbèjà ara nípa bíbá àwọn ẹ̀dá-afàìsàn tó bá wọ inú ara jà
+clotting of For blood and healing of wounds	Fún dída èépá àti láti máa mú egbò sán
+Circulatory system	Ẹ̀ya ìlò ẹ̀jẹ̀
+Human body	Ara ẹnia
+Heart	Ọkàn
+Blood	Ẹ̀jẹ̀
+Blood vessels	Ọ̀pá ẹ̀jẹ̀
+Arteries	Ọ̀pá ẹ̀jẹ̀ tó ń gbé ẹ̀jẹ̀ jáde láti ọkàn lọ sí ara
+Veins	Ọ̀pá ẹ̀jẹ̀ tó ń gbé ẹ̀jẹ̀ padà wá sí ọkàn láti ara
+Capillaries	Ọ̀pá ẹ̀jẹ̀ tí kékeré jùlọ
+Blood circulation	Ìrìn ẹ̀jẹ̀
+Cardiovascular system	Ètò ọkàn àti ọ̀pá ẹ̀jẹ̀
+Blood flow	Ìṣàn ẹ̀jẹ̀
+Pulmonary circulation	Ìrìn ẹ̀jẹ̀ ẹdọ̀fóró
+Systemic circulation	Ìrìn ẹ̀jẹ̀ gbogbo ara
+Red blood cells	Àwọn hóró ẹ̀jẹ̀ pupa
+White blood cells	Àwọn hóró ẹ̀jẹ̀ funfun
+Platelets	Àwọn pẹ́pẹ́ ẹ̀jẹ̀
+Plasma	Omi inú ẹ̀jẹ̀
+Heartbeat	Lílù ọkàn
+Blood pressure	Agbára ẹ̀jẹ̀
+Oxygen	Afẹ́fẹ́ oní-atẹ́gùn
+Carbon dioxide	Afẹ́fẹ́ adúfóró
+Nutrients	Àwọn ohun àmújẹ
+Waste products	Àwọn ohun ìdọ̀tí
+Atrium	Yàrá òkè ọkàn
+Ventricle	Yàrá ìsàlẹ̀ ọkàn
+Heart chambers	Àwọn yàrá ọkàn
+Heart valves	Àwọn gbàgede ọkàn
+Aorta	Ọ̀pá ẹ̀jẹ̀ tó tóbi jùlọ
+Vena cava	Ọ̀pá ẹ̀jẹ̀ tó tóbi jùlọ tí ó ń gbá ẹ̀jẹ̀ padà wá sí ọkàn
+Cardiac muscle	Iṣan ọkàn
+Blood clotting	Dídì ẹ̀jẹ̀
+Hemoglobin	Ohun tó wà nínú hóró ẹ̀jẹ̀ pupa tí ó ń gbé afẹ́fẹ́ oní-atẹ́gùn
+Cardiovascular disease	Ààrùn ọkàn àti ọ̀pá ẹ̀jẹ̀
+Hypertension	Agbára ẹ̀jẹ̀ ga jù
+Heart attack	Ìkọlù ọkàn
+Stroke	Ìkọlù ẹ̀jẹ̀ ọpọlọ
+The circulatory system transports blood throughout the body	Ẹ̀ya ìlò ẹ̀jẹ̀ ń gbé ẹ̀jẹ̀ kiri nínú ara
+The heart is the main organ of the circulatory system	Ọkàn ni ẹya ara pàtàkì nínú ẹ̀ya ìlò ẹ̀jẹ̀
+Blood carries oxygen and nutrients to body cells	Ẹ̀jẹ̀ ń gbé afẹ́fẹ́ oní-atẹ́gùn àti àwọn ohun àmújẹ lọ sí àwọn hóró ara
+Blood removes waste products from body cells	Ẹ̀jẹ̀ ń kó àwọn ohun ìdọ̀tí kúrò nínú àwọn hóró ara
+Arteries carry blood away from the heart to the body	Àwọn ọ̀pá ẹ̀jẹ̀ tó ń gbé ẹ̀jẹ̀ jáde láti ọkàn lọ sí ara ń gbé ẹ̀jẹ̀ láti ọkàn lọ sí ara
+Veins carry blood from the body back to the heart	Àwọn ọ̀pá ẹ̀jẹ̀ tó ń gbé ẹ̀jẹ̀ padà wá sí ọkàn láti ara ń gbé ẹ̀jẹ̀ láti ara padà wá sí ọkàn
+Capillaries are tiny blood vessels that connect arteries and veins	Àwọn ọ̀pá ẹ̀jẹ̀ tí kékeré jùlọ jẹ́ àwọn ọ̀pá ẹ̀jẹ̀ kékéké tí ó ń so àwọn ọ̀pá ẹ̀jẹ̀ tó ń gbé ẹ̀jẹ̀ jáde láti ọkàn lọ sí ara àti àwọn ọ̀pá ẹ̀jẹ̀ tó ń gbé ẹ̀jẹ̀ padà wá sí ọkàn láti ara pọ̀
+The heart pumps blood through the circulatory system	Ọkàn ń pọn ẹ̀jẹ̀ la ẹ̀ya ìlò ẹ̀jẹ̀ lọ
+The human heart beats about 100,000 times a day	Ọkàn ẹnìyàn ń lù ní ìwọ̀n ẹ̀ẹ́dẹ́gbẹ̀rún lọ́jọ́ kan
+The heart has four chambers: two atria and two ventricles	Ọkàn ní yàrá mẹ́rin: àwọn yàrá òkè ọkàn méjì àti àwọn yàrá ìsàlẹ̀ ọkàn méjì
+The right side of the heart receives deoxygenated blood from the body	Apá ọ̀tún ọkàn ń gba ẹ̀jẹ̀ tí kò ní afẹ́fẹ́ oní-atẹ́gùn láti ara
+The left side of the heart pumps oxygenated blood to the body	Apá òsì ọkàn ń pọn ẹ̀jẹ̀ tí ó ní afẹ́fẹ́ oní-atẹ́gùn lọ sí ara
+Heart valves ensure that blood flows in one direction	Àwọn gbàgede ọkàn ń ri dájú pé ẹ̀jẹ̀ ń ṣàn ní ọ̀nà kan
+The circulatory system consists of the heart, blood vessels, and blood	Ẹ̀ya ìlò ẹ̀jẹ̀ ní ọkàn, àwọn ọ̀pá ẹ̀jẹ̀, àti ẹ̀jẹ̀
+Blood is composed of red blood cells, white blood cells, platelets, and plasma	Ẹ̀jẹ̀ ní àwọn hóró ẹ̀jẹ̀ pupa, àwọn hóró ẹ̀jẹ̀ funfun, àwọn pẹ́pẹ́ ẹ̀jẹ̀, àti omi inú ẹ̀jẹ̀
+Red blood cells carry oxygen from the lungs to body tissues	Àwọn hóró ẹ̀jẹ̀ pupa ń gbé afẹ́fẹ́ oní-atẹ́gùn láti ẹdọ̀fóró lọ sí àwọn ìṣù ara
+White blood cells help the body fight infections	Àwọn hóró ẹ̀jẹ̀ funfun ń ran ara lọ́wọ́ láti bá àwọn àrùn jà
+Platelets are important for blood clotting	Àwọn pẹ́pẹ́ ẹ̀jẹ̀ ṣe pàtàkì fún dídì ẹ̀jẹ̀
+Plasma is the liquid part of blood	Omi inú ẹ̀jẹ̀ ni apá omi ẹ̀jẹ̀
+Blood pressure is the force of blood against the walls of blood vessels	Agbára ẹ̀jẹ̀ ni agbára ẹ̀jẹ̀ sí àwọn ògiri ọ̀pá ẹ̀jẹ̀
+High blood pressure can damage blood vessels and organs	Agbára ẹ̀jẹ̀ ga jù lè ba àwọn ọ̀pá ẹ̀jẹ̀ àti ẹya ara jẹ́
+The pulmonary circulation carries blood between the heart and lungs	Ìrìn ẹ̀jẹ̀ ẹdọ̀fóró ń gbé ẹ̀jẹ̀ láàrin ọkàn àti ẹdọ̀fóró
+The systemic circulation carries blood between the heart and rest of the body	Ìrìn ẹ̀jẹ̀ gbogbo ara ń gbé ẹ̀jẹ̀ láàrin ọkàn àti ìyókù ara
+In the lungs, blood picks up oxygen and releases carbon dioxide	Nínú ẹdọ̀fóró, ẹ̀jẹ̀ ń gba afẹ́fẹ́ oní-atẹ́gùn, ó sì ń tu afẹ́fẹ́ adúfóró sílẹ̀
+In body tissues, blood releases oxygen and picks up carbon dioxide	Nínú àwọn ìṣù ara, ẹ̀jẹ̀ ń tu afẹ́fẹ́ oní-atẹ́gùn sílẹ̀, ó sì ń gba afẹ́fẹ́ adúfóró
+The cardiovascular system works with the respiratory system	Ètò ọkàn àti ọ̀pá ẹ̀jẹ̀ ń ṣiṣẹ́ pẹ̀lú ẹ̀ya ìpọ̀yídá ara
+Exercise strengthens the heart and improves circulation	Ìṣeré ń mú ọkàn lágbára, ó sì ń mú ìrìn ẹ̀jẹ̀ dára
+A healthy diet is important for the circulatory system	Oúnjẹ tí ó dára ṣe pàtàkì fún ẹ̀ya ìlò ẹ̀jẹ̀
+Smoking damages blood vessels and increases the risk of heart disease	Mímu tábà ń ba àwọn ọ̀pá ẹ̀jẹ̀ jẹ́, ó sì ń mú ewu ààrùn ọkàn pọ̀ sí i
+Heart disease is a leading cause of death worldwide	Ààrùn ọkàn jẹ́ ọ̀kan lára àwọn ohun tó ń fa ikú káàkiri àgbáyé
+A heart attack occurs when blood flow to part of the heart is blocked	Ìkọlù ọkàn a máa ṣẹlẹ̀ nígbà tí ìṣàn ẹ̀jẹ̀ sí apá kan ti ọkàn bá dí
+A stroke occurs when blood flow to part of the brain is blocked	Ìkọlù ẹ̀jẹ̀ ọpọlọ a máa ṣẹlẹ̀ nígbà tí ìṣàn ẹ̀jẹ̀ sí apá kan ti ọpọlọ bá dí
+The aorta is the largest artery in the body	Ọ̀pá ẹ̀jẹ̀ tó tóbi jùlọ ni ọ̀pá ẹ̀jẹ̀ tó ń gbé ẹ̀jẹ̀ jáde láti ọkàn lọ sí ara tó tóbi jùlọ nínú ara
+The vena cava is the largest vein in the body	Ọ̀pá ẹ̀jẹ̀ tó tóbi jùlọ tí ó ń gbá ẹ̀jẹ̀ padà wá sí ọkàn ni ọ̀pá ẹ̀jẹ̀ tó ń gbé ẹ̀jẹ̀ padà wá sí ọkàn láti ara tó tóbi jùlọ nínú ara
+The heart is about the size of a closed fist	Ọkàn ní ìwọ̀n ìkùùkuu ọwọ́ tí a ti pa
+The average adult body contains about 5 liters of blood	Ara àgbàlagbà ní ìwọ̀n lítà márùn-ún ẹ̀jẹ̀
+Blood makes up about 7-8% of body weight	Ẹ̀jẹ̀ jẹ́ ìwọ̀n ìwúwo ara
+The circulatory system is essential for maintaining homeostasis	Ẹ̀ya ìlò ẹ̀jẹ̀ ṣe pàtàkì fún pípa òfin ìwòntúnwònsì mọ́
+human body	ara ẹnia
+digestive system	ẹ̀yà ẹ́dà oúnjẹ
+mouth	ẹnu
+tongue	ahọ́n
+teeth	eyín
+esophagus	ọ̀nà oúnjẹ
+stomach	ikùn
+small intestine	ìfun kékeré
+large intestine	ìfun ńlá
+liver	ẹ̀dọ̀
+gallbladder	ẹ̀dọ̀ orórò
+pancreas	ẹ̀ya àtẹ́lẹ́
+appendix	ìfun afọ́jú
+rectum	ìdí
+anus	ihò ìdí
+food	oúnjẹ
+digestion	ìlọ́ oúnjẹ
+absorption	ìgbàjẹ
+nutrients	ìwúlo oúnjẹ
+waste	ìdọ̀tí
+saliva	itọ́
+bile	orórò ẹ̀dọ̀
+enzyme	ohun ìtú oúnjẹ
+metabolism	ìṣeàyípadà oúnjẹ
+head	orí
+neck	ọrùn
+chest	àyà
+abdomen	ikùn
+back	ẹ̀yìn
+arm	apá
+hand	ọwọ́
+leg	ẹsẹ̀
+foot	ẹsẹ̀
+eye	ojú
+ear	etí
+nose	imú
+heart	ọkàn
+lungs	ẹ̀dọ̀fóró
+kidney	kíndìnrín
+brain	ọpọlọ
+blood	ẹ̀jẹ̀
+bone	egungun
+muscle	iṣan
+skin	àwọ̀
+to eat	jẹ
+to drink	mu
+to swallow	mi
+to digest	lọ́
+to defecate	yà
+hunger	ebi
+thirst	òùngbẹ
+nausea	ẹ̀gbẹ́
+vomit	èébì
+diarrhea	igbẹ́
+constipation	ìlẹ̀ra
+indigestion	àìlọ́ oúnjẹ
+ulcer	oógùn
+nutrition	ìwúlo oúnjẹ
+Digestive System	Ẹ̀ya Ẹ̀dà Oúnjẹ Ara Enia
+The Human Digestive System	Ẹ̀ya Ẹ̀dà Oúnjẹ Ara Enia
+Digestion	Ẹ̀dà Oúnjẹ
+The digestive system processes food, extracting nutrients and removing wastes.	Ẹ̀ya ẹ̀dà oúnjẹ ṣe ètò fún ìgbà tí a bá jẹun, ó ń fa àwọn ohun tó dára kúrò nínú oúnjẹ fún ara, ó sì ń yọ àwọn ìdọ̀tí tí ó kù kúrò nínú ara.
+Organs of the Digestive System	Àwọn Ẹ̀yà Ara Inú Ẹ̀ya Ẹ̀dà Oúnjẹ
+Mouth	Ẹnu
+Salivary Glands	Àwọn Ẹ́tútu Itọ́
+Pharynx	Òfóró
+Esophagus	Ọ̀nà Oúnjẹ
+Stomach	Ikùn
+Small Intestine	Ìfun Kékeré
+Duodenum	Ìbẹ̀rẹ̀ Ìfun
+Jejunum	Ààrin Ìfun Kékeré
+Ileum	Ìparí Ìfun Kékeré
+Large Intestine	Ìfun Ńlá
+Cecum	Ìbẹ̀rẹ̀ Ìfun Ńlá
+Colon	Àárín Ìfun Ńlá
+Rectum	Ìparí Ìfun Ńlá
+Anus	Ihò-ìdí
+Liver	Ẹ̀dọ̀
+Gall Bladder	Àpò Òroro
+Pancreas	Àtẹ́lẹ́
+Accessory Organs	Àwọn Ẹ̀yà Ara Ìràpádà
+Digestive Process	Ìlànà Ẹ̀dà Oúnjẹ
+The digestive process begins in the mouth.	Ìlànà ẹ̀dà oúnjẹ bẹ̀rẹ̀ láti ẹnu.
+The teeth break down food.	Àwọn eyín ló ń jẹ́ kí oúnjẹ kí ó fífẹ́.
+Saliva moistens food.	Itọ́ ẹnu ló ń jẹ́ kí oúnjẹ kí ó tutù.
+The tongue helps form food into a bolus.	Ahọ́n ló ń jẹ́ kí oúnjẹ ó le di òkìtì kan.
+Swallowing moves food to the esophagus.	Mímì oúnjẹ ni yóò jẹ́ kí oúnjẹ ó gba ọ̀nà oúnjẹ lọ.
+The esophagus connects the throat to the stomach.	Ọ̀nà oúnjẹ ló so ọ̀fun pọ̀ mọ́ ikùn.
+The stomach secretes gastric juices to break down food.	Ikùn ń tú àwọn ohun ìtú jáde láti fọ́ oúnjẹ ní kíkún.
+The small intestine absorbs nutrients.	Ìfun kékeré ló ń mú àwọn ohun tó dára nínú oúnjẹ wọ inú ẹ̀jẹ̀.
+The liver produces bile for fat digestion.	Ẹ̀dọ̀ ló ń pèsè òroro fún lílo àwọn ọ̀rá inú oúnjẹ.
+The gall bladder stores bile.	Àpò òroro ló ń to òroro sí.
+The pancreas produces digestive enzymes.	Àtẹ́lẹ́ ló ń pèsè àwọn ẹ̀njìmù ẹ̀dà oúnjẹ.
+The large intestine absorbs water.	Ìfun ńlá ló ń fa omi kúrò nínú ìdọ̀tí.
+Undigested material forms feces.	Àwọn ohun tí a kò lò nínú oúnjẹ ni ó di ìgbẹ́.
+The rectum stores feces until elimination.	Ìparí ìfun ńlá ni ó ń to ìgbẹ́ sí títí di ìgbà tí a ó bá yọ ọ́ kúrò nínú ara.
+The anus is the opening through which feces leave the body.	Ihò-ìdí ni àyè tí ìgbẹ́ ti ń jáde kúrò nínú ara.
+Digestion begins in the mouth and ends at the anus.	Ẹ̀dà oúnjẹ bẹ̀rẹ̀ láti ẹnu, ó sì parí ní ihò-ìdí.
+Function of the Digestive System	Iṣẹ́ Ẹ̀ya Ẹ̀dà Oúnjẹ
+Breaking down food	Títa oúnjẹ túútúú
+Absorbing nutrients	Títú àwọn ohun tó dára nínú oúnjẹ sínú ẹ̀jẹ̀
+Eliminating waste	Yíya àwọn ìdọ̀tí kúrò nínú ara
+The digestive system converts food into nutrients that the body can use.	Ẹ̀ya ẹ̀dà oúnjẹ ló ń sọ oúnjẹ di àwọn ohun tó dára tí ara le lò.
+Mechanical digestion involves physically breaking down food.	Ẹ̀dà oúnjẹ ní ìmúṣe ní tí tọ́ ṣe pẹ̀lú títa oúnjẹ túútúú nípa lílo agbára ara.
+Chemical digestion involves enzymes breaking down food molecules.	Ẹ̀dà oúnjẹ ní àdánidá ṣe pẹ̀lú àwọn ẹ̀njìmù tí ń tú àwọn mọ́líkù inú oúnjẹ.
+Saliva contains an enzyme called amylase.	Inú itọ́ ẹnu ni ẹ̀njìmù àmáíleesì wà.
+Amylase helps break down carbohydrates.	Àmáíleesì ló ń ṣe ìrànlọ́wọ́ fún títú àwọn kaábọ́háídrétì.
+Gastric juice contains hydrochloric acid.	Inú oje ikùn ni àèsìdì haidrọ́klọ́rìkì wà.
+Hydrochloric acid kills bacteria and activates enzymes.	Àèsìdì haidrọ́klọ́rìkì ló ń pa àwọn batéríà, ó sì ń mú àwọn ẹ̀njìmù ṣiṣẹ́.
+Bile emulsifies fats.	Òroro ló ń tú àwọn ọ̀rá inú oúnjẹ.
+The villi in the small intestine increase surface area for absorption.	Àwọn vílì inú ìfun kékeré ló ń mú kí ibùgbé fífà ohun dáradára inú oúnjẹ pọ̀ sí i.
+Water is absorbed in the large intestine.	Ìfun ńlá ló ń fa omi kúrò nínú ìdọ̀tí.
+Diseases of the Digestive System	Àwọn Àìsàn Ẹ̀ya Ẹ̀dà Oúnjẹ
+Gastroesophageal Reflux Disease	Àìsàn Ìpadàsẹ́yìn Oúnjẹ láti Ikùn sí Ọ̀nà Oúnjẹ
+Peptic Ulcer	Egbò Ikùn
+Gallstones	Òkúta Òroro
+Hepatitis	Àìsàn Ẹ̀dọ̀
+Irritable Bowel Syndrome	Ìrora tí kì í dá lọ́kàn balẹ̀ nínú Ìfun
+Crohn's Disease	Àìsàn Ìfọ́ Ìfun ti Crohn
+Ulcerative Colitis	Egbò Ìfun Ńlá
+Colorectal Cancer	Jẹjẹrẹ Ìfun Ńlá
+Pancreatitis	Àìsàn Àtẹ́lẹ́
+Celiac Disease	Àìsàn Aìlè Gba Glútẹ́ǹ
+Gastritis	Àìsàn Wíwú Ikùn
+Dietary Fiber	Àwọn Ohun Ìdènà Inú Oúnjẹ
+Probiotics	Àwọn Batéríà Rere
+Maintaining Digestive Health	Títọ́jú Ìlera Ẹ̀ya Ẹ̀dà Oúnjẹ
+Eating a balanced diet	Jíjẹ oúnjẹ tó péye
+Drinking enough water	Mímu omi tó tó
+Exercising regularly	Ṣíṣe eré ìdárayá ní òsìsẹ̀
+Managing stress	Títọ́jú wàhálà ọkàn
+Limiting alcohol consumption	Dídá ìmumi ọtí lóòlà
+Avoiding tobacco	Yíya ara kúrò nínú lílo tábà
+Getting regular check-ups	Ṣíṣe àyẹ̀wò ara ní àkókò tó yẹ
+Food poisoning can cause digestive problems.	Ìbàjẹ́ oúnjẹ le fa ìṣòro ẹ̀dà oúnjẹ.
+Some medications can affect digestive health.	Àwọn òògùn kan le ní ipa lórí ìlera ẹ̀ya ẹ̀dà oúnjẹ.
+Age-related changes can affect digestion.	Àwọn ìyípadà tó ń ṣẹlẹ̀ nígbà tí ènìyàn bá ń dàgbà le ní ipa lórí ẹ̀dà oúnjẹ.
+The digestive system works with other body systems.	Ẹ̀ya ẹ̀dà oúnjẹ ń ṣiṣẹ́ pẹ̀lú àwọn ẹ̀ya ara míràn.
+The nervous system controls digestive processes.	Ẹ̀ya iṣán ara ló ń darí àwọn ìlànà ẹ̀dà oúnjẹ.
+The endocrine system regulates digestive hormones.	Ẹ̀ya àwọn hómónì ara ló ń ṣàkóso àwọn hómónì ẹ̀dà oúnjẹ.
+The circulatory system transports absorbed nutrients.	Ẹ̀ya ìgbàlódè ẹ̀jẹ̀ ló ń gbé àwọn ohun tó dára tí a ti fà kúrò nínú oúnjẹ káàkiri ara.
+Human digestion takes about 24-72 hours.	Ẹ̀dà oúnjẹ ara ènìyàn máa ń gba bíi wákàtí méjìlélógún sí ọjọ́ mẹ́ta.
+The digestive tract is about 9 meters long.	Ọ̀nà ẹ̀dà oúnjẹ tó jẹ́ ọ̀pá ìwọ̀n mẹ́sàn-án ní gígùn.
+The stomach can expand to hold about 1 liter of food.	Ikùn le tẹ́ kalẹ̀ láti gba tó lítà kan oúnjẹ.
+The liver is the largest internal organ.	Ẹ̀dọ̀ ni ẹ̀yà ara inú tó tóbi jùlọ.
+The small intestine is the longest section of the digestive tract.	Ìfun kékeré ni apá tó gùn jùlọ nínú ọ̀nà ẹ̀dà oúnjẹ.
+The large intestine is wider but shorter than the small intestine.	Ìfun ńlá gbòòrò ju ìfun kékeré lọ, àmọ́ kò gùn tó o.
+The appendix is attached to the cecum.	Àpẹ́ndísì so mọ́ ìbẹ̀rẹ̀ ìfun ńlá.
+Peristalsis is the wave-like muscle contractions that move food through the digestive tract.	Ìfàrada àwọn iṣán ni ìfẹ́sẹ̀ gẹ́gẹ́bí irú igbi tí iṣán fi ń sun oúnjẹ gba inú ọ̀nà ẹ̀dà oúnjẹ.
+English	Yoruba
+Living Things	Ẹ̀dá Oníyè
+Animals	Ẹranko
+Plants	Ewéko
+Humans	Ẹ̀dá ènìyàn
+Animals move from place to place	Àwọn ẹranko ń rìn láti ibi kan dé ibi kan
+Animals eat food	Àwọn ẹranko ń jẹun
+Animals grow	Àwọn ẹranko ń dàgbà
+Animals reproduce	Àwọn ẹranko ń bísí
+Animals excrete	Àwọn ẹranko ń tọ̀ fún ara wọn
+Animals breathe	Àwọn ẹranko ń mí
+Animals feel	Àwọn ẹranko ń gbọ́ ìmọ̀lára
+Animals die	Àwọn ẹranko ń kú
+Plants make their own food	Àwọn ewéko ń ṣe oúnjẹ fún ara wọn
+Plants grow	Àwọn ewéko ń dàgbà
+Plants reproduce	Àwọn ewéko ń bísí
+Plants breathe	Àwọn ewéko ń mí
+Plants excrete	Àwọn ewéko ń tọ̀ fún ara wọn
+Plants die	Àwọn ewéko ń kú
+Let us classify living things	Ẹ jẹ́ ká pín àwọn ẹ̀dá oníyè sí ẹ̀yà
+Let us look at the activities of living things	Ẹ jẹ́ ká wo ìṣe àwọn ẹ̀dá oníyè
+What do animals do?	Kí ni àwọn ẹranko ń ṣe?
+What do plants do?	Kí ni àwọn ewéko ń ṣe?
+Animals need food to grow	Àwọn ẹranko nílò oúnjẹ láti dàgbà
+Animals need food for energy	Àwọn ẹranko nílò oúnjẹ fún okun
+Animals need food to stay alive	Àwọn ẹranko nílò oúnjẹ láti wà láààyè
+Plants use sunlight to make food	Àwọn ewéko ń lo ìmọ́lẹ̀ oòrùn láti ṣe oúnjẹ
+Plants need water to make food	Àwọn ewéko nílò omi láti ṣe oúnjẹ
+Plants need air to make food	Àwọn ewéko nílò afẹ́fẹ́ láti ṣe oúnjẹ
+Plants use a process called photosynthesis	Àwọn ewéko ń lo ìlànà tí a ń pè ní ìṣe ìdásílẹ̀ látọwọ́ ìmọ́lẹ̀ oòrùn
+Photosynthesis	Ìṣe ìdásílẹ̀ látọwọ́ ìmọ́lẹ̀ oòrùn
+All living things grow	Gbogbo ẹ̀dá oníyè ń dàgbà
+Plants grow from seeds	Àwọn ewéko ń dàgbà láti inú èso
+Animals grow from babies	Àwọn ẹranko ń dàgbà láti ọmọdé
+Humans grow from babies	Àwọn ẹ̀dá ènìyàn ń dàgbà láti ọmọdé
+Reproduction is making new living things	Ìbísí ni píṣe àwọn ẹ̀dá oníyè tuntun
+Living things breathe in air	Àwọn ẹ̀dá oníyè ń mí afẹ́fẹ́ wọlé
+Living things breathe out air	Àwọn ẹ̀dá oníyè ń mí afẹ́fẹ́ jáde
+Animals breathe through lungs, gills, or skin	Àwọn ẹranko ń mí látọwọ́ ẹ̀dọ̀fóró, àwọn ìpẹ ẹja, tàbí àwọ̀
+Plants breathe through tiny holes in leaves	Àwọn ewéko ń mí látọwọ́ àwọn ihò kékeré nínú ewé
+Excretion is getting rid of waste	Ìtọ̀ ni píṣe àìṣe àwọn ìdọ̀tí kúrò
+Animals excrete through urine and feces	Àwọn ẹranko ń tọ̀ látọwọ́ ìtọ̀ àti ìgbẹ́
+Plants excrete through leaves and roots	Àwọn ewéko ń tọ̀ látọwọ́ ewé àti gbòǹgbò
+All living things die eventually	Gbogbo ẹ̀dá oníyè ń kú níkẹyìn
+Respiration	Ìmísí
+Movement	Ìrìn
+Growth	Ìdàgbà
+Reproduction	Ìbísí
+Excretion	Ìtọ̀
+Nutrition	Ìjẹun
+Response to stimuli	Ìdáhùn sí àmì ìmọ̀lára
+Death	Ikú
+Plant	Ewéko
+Animal	Ẹranko
+Human	Ẹ̀dá ènìyàn
+Tree	Igi
+Grass	Koríko
+Flower	Òdòdó
+Seed	Èso
+Root	Gbòǹgbò
+Leaf	Ewé
+Stem	Igi
+Lion	Kìnìún
+Dog	Ajá
+Cat	Ológbò
+Fish	Ẹja
+Bird	Ẹyẹ
+Snake	Ejò
+Insect	Kòkòrò
+Food	Oúnjẹ
+Water	Omi
+Air	Afẹ́fẹ́
+Sunlight	Ìmọ́lẹ̀ oòrùn
+Soil	Ilẹ̀
+Environment	Àyíká
+Ecosystem	Àyíká ẹ̀dá
+Seven activities which make organisms different from non-living things	Àwọn ìṣesí méje tó nṣe ìdáyàtọ láarín ẹ̀dá oníyè àti ẹ̀dá àìníyè
+Nutrition:oníyè nikan ló ní gbogbo àwọn ìṣesíom their surroundings that they use for growth or to provide energy.	Ìjẹẹmun: Àwọn ẹ̀dá oníyè a má wá oun jíjẹ àti mímu ní àgbègbè wọn tí wọn nlò fún ìdàgbàsókè àti fún ìpèsè agbára.
+Respiration: Living things break down food within their cells to release energy.	Ìpòyìdà: Àwọn ẹ̀dá oníyè a máa fọ onjẹ sí wẹwẹ nínú pádi wọn láti ṣe ìmúlò agbára àwọn onjẹ yi.
+Movement: All living things move	Ìpapòdà: Gbogbo àwọn ẹ̀dá oníyè ni wọn npa ipò dà
+Excretion: All living things excrete. As a result of the many chemical reactions occurring in cells	Ìkẹgbin: Gbogbo ẹ̀dá oníyè ni wọn nṣe ìkẹgbin ara wọn. Titóríti àsè àwọn ẹlà tó nṣẹlẹ nínú àwọn pádi wọnyi, wọn níláti wá ọnà láti kó ẹgbin tó jẹ́ ẹsún àwọn àsè yi.
+they have to get rid of waste products which might poison the cells	Bí bẹẹ̀kọ́, wọn lè di nkan olóró fún àwọn pádi fúnra wọn
+Growth: Growth is seen in all living things. It involves using food to produce new cells	Ìdàgbàsókè: Gbogbo ẹ̀dá oníyè ni a nri pé wọn ndàgbàsókè. Wọn má nlò onjẹ láti dá àwọn pádi tuntun
+Reproduction: All living organisms have the ability to produce offspring	Bíbí: Gbogbo àwọn ẹ̀dá oníyè ló ní agbára láti ṣẹ̀dá irúfẹ wọn
+Sensitivity: All living things are able to sense and respond to stimuli around them such as light, temperature, water, gravity and chemical substances	Àkíyèsára: Gbogbo àwọn ẹ̀dá oníyè ló ní agbára láti fura àti láti náání àwọn ìṣesí àgbèègbè wọn, irú àwọn nkan bí ìtanná, ìgbóná, omi, òòfà-ilẹ àti àwọn ẹlà
+Whilst many other things carry out one or more of the above processes, only living organisms possess all of these characteristics	Bótilẹjẹpé a rí àwọn ẹ̀dá àìníyè tó le ṣe àwọn kan nínú àwọn nkan wọnyí. Àwọn ẹ̀dá oníyè nikan ló ní gbogbo àwọn ìṣesí yi.
+Living things have the following characteristics	Àwọn ẹ̀dá alààyè ní àwọn ìṣẹ wọ̀nyí
+They feed	Wọ́n jẹun
+They respire	Wọ́n mí
+They excrete	Wọ́n yọ ẹgbin dànù
+They grow	Wọ́n dàgbà
+They respond to stimuli	Wọ́n fara mọ́ ohun tí ó ṣẹlẹ̀
+They move	Wọ́n rìn
+They reproduce	Wọ́n bí
+Living Things	Ẹ̀dá Alààyè
+Living things are found in our environment	A rí àwọn ẹ̀dá alààyè nínú àyíká wa
+Plants are living things	Àwọn ewé àti igi jẹ́ ẹ̀dá alààyè
+Animals are living things	Àwọn ẹranko jẹ́ ẹ̀dá alààyè
+Human beings are living things	Àwọn ọmọnìyàn jẹ́ ẹ̀dá alààyè
+Plants, animals and human beings need food, air and water to survive	Àwọn ewé àti igi, àwọn ẹranko àti àwọn ọmọnìyàn nílò oúnjẹ, afẹ́fẹ́ àti omi láti wà láààyè
+Domestic Animals	Àwọn Ẹranko Ilé
+These are animals that live with man in his home environment	Wọ̀n-ọn ni àwọn ẹranko tí ń gbé pẹ̀lú ọmọnìyàn nínú ilé rẹ̀
+Examples of domestic animals	Àpẹẹrẹ àwọn ẹranko ilé
+Cat	Ológbò
+Dog	Ajá
+Goat	Ewúrẹ́
+Cow	Màlúù
+Sheep	Àgùntàn
+Hen	Adìẹ
+Rabbit	Èhoro
+Tiger	Ẹkùn
+Lion	Kìnnìún
+Guinea pig	Eku abẹ́ọ̀pọ̀lọ́
+White mouse	Eku funfun
+African wild cat	Ológbò igbó
+Dog	Ajá
+The dog is loyal to its owner	Ajá ṣeé fọkàntán fún olúwa rẹ̀
+It has four legs	Ó ní ẹsẹ̀ mẹ́rin
+It has body covered with hair	Irun bo gbogbo ara rẹ̀
+It barks	Ó ń gbó
+It has a tail	Ó ní ìrù
+It lives in a kennel	Ó ń gbé inú àkà ajá
+It eats fish, bones and meat	Ó ń jẹ ẹja, egungun àti ẹran
+Cow	Màlúù
+The cow is a big animal	Màlúù jẹ́ ẹranko tó tóbi
+It has four legs	Ó ní ẹsẹ̀ mẹ́rin
+It produces milk which we drink	Ó ń fun wàrà tí a ń mu
+It has two horns	Ó ní ìwo méjì
+It is found in a cow-shed	A rí i nínú àgọ́ màlúù
+It eats grass	Ó ń jẹ koríko
+Cat	Ológbò
+The cat is a domestic animal	Ológbò jẹ́ ẹranko ilé
+It has fur all over its body	Irun bo gbogbo ara rẹ̀
+It eats fish, mice and rats	Ó ń jẹ ẹja, eku àti èkúté
+It has four legs	Ó ní ẹsẹ̀ mẹ́rin
+It has claws	Ó ní èpèkè
+It mews	Ó ń kún
+Wild Animals	Àwọn Ẹranko Igbó
+These are animals that live in the forest	Wọ̀n-ọn ni àwọn ẹranko tí ń gbé inú igbó
+Example	Àpẹẹrẹ
+Lion	Kìnnìún
+Tiger	Ẹkùn
+Elephant	Erin
+Camel	Ràkúmí
+Snake	Ejò
+Tortoise	Ìjàpá
+Snail	Ìgbín
+Leopard	Ẹ̀kùn
+Crocodile	Ọ̀nì
+Zebra	Ẹṣin wọ̀ọ̀wọ̀
+Giraffe	Àgbáǹréré
+Lion	Kìnnìún
+The lion is the king of all animals	Kìnnìún ni ọba gbogbo ẹranko
+It lives in a den	Ó ń gbé inú ihò
+It has a beautiful mane around its neck	Ó ní irun ọlọ́ṣọ́ yí ọrùn rẹ̀ ká
+It is a strong and dangerous animal	Ó jẹ́ ẹranko alágbára tí ó léwu
+It roars	Ó ń ké ramúramù
+It uses its claws to kill animals	Ó máa ń fi èpèkè rẹ̀ pa àwọn ẹranko
+Tiger	Ẹkùn
+Tiger is big and strong	Ẹkùn tóbi, ó sì lágbára
+It lives in the forest	Ó ń gbé inú igbó
+It has beautiful golden yellow fur with black patches	Ó ní irun ọlọ́ṣọ́ pupa wúrà pẹ̀lú ọ̀wọ́n dúdú
+It has four legs	Ó ní ẹsẹ̀ mẹ́rin
+It has sharp claws	Ó ní èpèkè mímú
+It is a dangerous animal	Ó jẹ́ ẹranko tí ó léwu
+Elephant	Erin
+Elephant is the biggest animal that lives on land	Erin ni ẹranko tí ó tóbi jù lórí ilẹ̀
+It has a trunk	Ó ní ìmú gigun
+It has tusks	Ó ní ehín
+It has four legs	Ó ní ẹsẹ̀ mẹ́rin
+It has big flat ears	Ó ní etí tí ó tóbi tí ó sì pẹ́ẹ́pẹ́
+Usefulness of domestic animals	Àwọn àǹfàní àwọn ẹranko ilé
+Dog	Ajá
+Dog guards the house	Ajá máa ń ṣọ́ ilé
+It is used for hunting	A lò ó fúfi ṣọdẹ
+The police uses it to detect thieves	Àwọn ọlọ́pàá máa ń lò ó láti wá àwọn olè
+It keeps us company	Ó máa ń bá wa ṣeré
+Cat	Ológbò
+Cat is used to catch rats	Ológbò máa ń pa èkúté
+It provides us with company	Ó máa ń bá wa ṣeré
+It is a good pet	Ó jẹ́ ẹranko ilé tí ó dára
+Hen	Adìẹ
+Hen gives us eggs	Adìẹ ń fún wa ní ẹyin
+We eat its meat	A máa ń jẹ ẹran rẹ̀
+Cow	Màlúù
+The cow gives us milk	Màlúù máa ń fún wa ní wàrà
+We eat its meat	A máa ń jẹ ẹran rẹ̀
+We get shoes and bags from its leather	A rí bàtà àti àpò látinú awọ rẹ̀
+Goat	Ewúrẹ́
+The goat provides milk	Ewúrẹ́ máa ń fún wa ní wàrà
+We eat its meat	A máa ń jẹ ẹran rẹ̀
+Sheep	Àgùntàn
+The sheep provides wool for making clothes	Àgùntàn máa ń fún wa ní irun tí a fi ń hun aṣọ
+We eat its meat	A máa ń jẹ ẹran rẹ̀
+It also provides milk	Ó tún máa ń fún wa ní wàrà
+Animals communicate and move about	Àwọn ẹranko ń bá ara wọn sọ̀rọ̀, wọ́n sì máa ń rìn kiri
+Animals talk to each other	Àwọn ẹranko máa ń bá ara wọn sọ̀rọ̀
+Hen cackles	Adìẹ máa ń kẹ́kẹ́ ké
+Cock crows	Àkùkọ máa ń kọ
+Dog barks	Ajá máa ń gbó
+Goat bleats	Ewúrẹ́ máa ń bẹ̀
+Snake hisses	Ejò máa ń sán
+Lion roars	Kìnnìún máa ń ké ramúramù
+Cat mews or purrs	Ológbò máa ń kún tàbí ń hun
+Tortoise hisses	Ìjàpá máa ń sán
+Cow moos	Màlúù máa ń dun
+Sheep bleats	Àgùntàn máa ń bẹ̀
+Movement of animals	Ìrìn àwọn ẹranko
+Different animals move in different ways	Àwọn ẹranko kọ̀ọ̀kan máa ń rìn ní ọ̀nà ọ̀tọ̀ọ̀tọ̀
+Animals with legs walk, jump, climb and run	Àwọn ẹranko tí ó ní ẹsẹ̀ máa ń rìn, fò, gun àti sáré
+Birds fly in the air with their wings	Àwọn ẹyẹ máa ń fò ní ojú ọ̀run pẹ̀lú àwọn ìyẹ́ wọn
+Snakes crawl on their belly	Àwọn ejò máa ń rákò lórí ikùn wọn
+Fish swim in water	Àwọn ẹja ń wẹ̀ nínú omi
+Creatures without legs travel by jet propulsion, e.g., squid	Àwọn tí kò ní ẹsẹ̀ máa ń lo ipá afẹ́fẹ́ láti rìn, bí i òbọ eja
+It is important for animals to move from place to place to get food, water, or to escape from enemies	Ó ṣe pàtàkì fún àwọn ẹranko láti rìn látibí dé ibí láti wá oúnjẹ, omi tàbí láti sá fún àwọn ọ̀tá wọn
+Care of Domestic Animals	Ìtọ́jú Àwọn Ẹranko Ilé
+Feed them regularly	Fún wọn ní oúnjẹ déédéé
+Give them clean water to drink	Fún wọn ní omi tí ó mọ́ láti mu
+Keep them in clean houses	Jẹ́ kí wọn ó máa gbé inú ilé tí ó mọ́
+Wash them with soap and water	Fi ọṣẹ àti omi wẹ̀ wọ́n
+Provide drugs for deworming them	Pèsè òògùn tí yóò pa kòkòrò inú wọn
+Take them to the veterinary doctor when they are sick	Mú wọn lọ sí ọ̀dọ̀ dókítà ẹranko nígbà tí wọ́n bá ṣàìsàn
+Vaccinate them to avoid diseases	Gbà wọ́n àbẹ́rẹ́ àjẹsára láti yẹra fún àìsàn
+Free them from kennels and cages once in a while to exercise themselves	Tú wọn sílẹ̀ kúrò nínú àwọn àkà àti ilé wọn lẹ́ẹ̀kọ̀ọ̀kan kí wọn ó lè ṣe eré ìdárayá
+Protect them from rough weather	Dáàbò bo wọ́n kúrò nínú ojú ọjọ́ líle
+Take them for walks	Mú wọn lọ sí ibi ìrìn àjò
+Games for Domestic Animals	Àwọn Eré Fún Àwọn Ẹranko Ilé
+Throwing balls and sticks for dog to run after and pick up	Dáná olóòdù àti igi fún ajá láti lépa kí ó sì kó padà
+Cats play with toys	Àwọn ológbò máa ń fi ohun èlò eré ṣeré
+Rabbits like to hop and jump	Àwọn èhoro fẹ́ láti fò
+Food for domestic animals	Oúnjẹ fún àwọn ẹranko ilé
+Dog eats meat, bones and special dog food	Ajá jẹ ẹran, egungun àti oúnjẹ àkànṣe ajá
+Cat eats fish, mice and small birds	Ológbò jẹ ẹja, eku àti àwọn ẹyẹ kékeré
+Goat eats grass and leaves	Ewúrẹ́ jẹ koríko àti ewé
+Rabbit eats carrot, cabbage and lettuce	Èhoro jẹ kàrọ́ọ̀tì, kabéèjì àti lẹ́tíìsì
+Cow eats grass	Màlúù jẹ koríko
+Sheep eats grass and leaves	Àgùntàn jẹ koríko àti ewé
+Homes of domestic animals	Ilé àwọn ẹranko ilé
+Dog lives in a kennel	Ajá gbé inú àkà
+Cat lives in a basket or a box	Ológbò gbé inú agbọ̀n tàbí àpótí
+Goat lives in a pen	Ewúrẹ́ gbé inú agbo
+Rabbit lives in a hutch	Èhoro gbé inú ilé èhoro
+Cow lives in a cow-shed	Màlúù gbé inú àgọ́ màlúù
+Hen lives in a cage	Adìẹ gbé inú àgò
+Homes for Wild Animals	Ilé àwọn ẹranko igbó
+Lion lives in a den	Kìnnìún gbé inú ihò
+Tortoise lives in a shell	Ìjàpá gbé inú agbe
+Elephant lives in a forest	Erin gbé inú igbó
+Rat lives in a hole	Èkúté gbé inú ihò
+Monkey lives on trees	Ọ̀bọ gbé lórí igi
+Non-living things	Àwọn Ohun Aláìláàyè
+These are things without life	Wọ̀n-ọn ni àwọn ohun tí kò ní ẹ̀mí
+Some of them are natural, for example, water, stone and air	Àwọn kan nínú wọn jẹ́ ohun adáyébá, bí àpẹẹrẹ, omi, òkúta àti afẹ́fẹ́
+Some are man-made, for example, car, table and chair	Àwọn kan jẹ́ ohun ọwọ́ ènìyàn, bí àpẹẹrẹ, ọkọ̀, tábìlì àti àga
+Living things	Àwọn ẹ̀dá alààyè
+Non-living things	Àwọn ohun aláìláàyè
+Animals	Àwọn ẹranko
+Plants	Àwọn ewé àti igi
+Man	Ènìyàn
+Elephant	Erin
+Lion	Kìnnìún
+Fish	Ẹja
+Butterfly	Labalábá
+Goat	Ewúrẹ́
+Table	Tábìlì
+Chair	Àga
+Stone	Òkúta
+Stick	Igi
+Water	Omi
+Car	Ọkọ̀
+Soil	Ilẹ̀
+Differences between living and non-living things	Ìyàtọ̀ láàrin àwọn ẹ̀dá alààyè àti àwọn ohun aláìláàyè
+Living things	Àwọn ẹ̀dá alààyè
+move from place to place by themselves	ń rìn láti ibì dé ibì fúnra wọn
+feel hunger and pain	mọ ebi àti ìrora
+grow bigger	lè dàgbà sí i
+excrete	ń yọ ẹgbin dànù
+marry and reproduce or have children	lè fẹ́ ìyàwó kí wọ́n sì bí ọmọ
+breathe	mí
+react to stimuli or what happens to them	fara mọ́ ohun tí ó ṣẹlẹ̀
+communicate with one another	lè bá ara wọn sọ̀rọ̀
+can hear	lè gbọ́ràn
+can see	lè ríran
+can think	lè ronú
+die	kú
+Non-living things	Àwọn ohun aláìláàyè
+do not move by themselves	kò lè rìn fúnra wọn
+do not feel hunger or pain	kò mọ ebi tàbí ìrora
+do not grow bigger	kò lè dàgbà sí i
+do not excrete	kò lè yọ ẹgbin dànù
+do not marry or reproduce	kò lè fẹ́ ìyàwó tàbí bí ọmọ
+do not breathe	kò mí
+do not react to stimuli	kò fara mọ́ ohun tí ó ṣẹlẹ̀
+do not communicate with one another	kò lè bá ara wọn sọ̀rọ̀
+cannot hear	kò lè gbọ́ràn
+cannot see	kò lè ríran
+cannot think	kò lè ronú
+do not die	kò lè kú
+Kingdoms according to their appearance and behavior	Ìjọ gẹ́gẹ́bí ìrísí àti ìṣèwàhù wọn
+Phyla according to their body plans	Agbo-ẹ̀yà gẹ́gẹ́bí ètò ara wọn
+Class according to their common basic structures	Ẹ̀yà gẹ́gẹ́bí ètò àjọní
+Order according to their nature or character	Agboolé gẹ́gẹ́bí àyànmọ àti ìṣèwàhù wọn, yálà bí wọn ṣe nwa ìjẹ wọn tàbí nkan miran.
+Family - A family usually consists of several genera.	Ìdílé - àpapọ àwọn ìran tí wọn tí agboolé kan yà
+Genus - according to whether the species have the same ancestors	Ìran - àpapọ àwọn ọwọ tí wọn tí ìran kan yá
+Species - according to whether they are capale of interbreeding and producing fertile offspring	Ọ̀wọ́ - Fún àwọn tí wọn lè jọ darapọ láti ní ọmọ
+A Sample Classification: Lion	Àpèjúwe Ìpínsípò kan: Kìnìún
+Kingdom: Animalia (includes all animals)	Ìjọ: Ẹran: (ó jẹ kòkárí gbogbo àwọn ẹran)
+Phylum: Chordata (includes all vertebrate animals, as well as some other more primitive ones)	Agbo-ẹ̀yà: Ẹlẹ̀sọlẹhìn: (kòkárí gbogbo àwọn ẹran tó ní ẹ̀sọ lẹhìn pẹ̀lú àwọn ẹran àkọdá)
+Class:Mammalia (includes all mammals)	Ẹ̀yà:Oníwàrà: (onírunlára) (kòkárí gbogbo àwọn ẹran tó nbọ àwọn ọmọ wọn pẹ̀lú wàrà wọn) tàbí àwọn tó ní irun lára
+Order:Carnivora (includes carnivorous mammals)	Agboolé:Ajẹran: (kòkárí àwọn ẹranko tó npa ẹran jẹ)
+Family:Felidae (includes all cats)		Ìdílé:Ológbò: Kòkárí àwọn ẹranko tí a lè fi ológbò ṣe ìjúwe wọn.
+Genus:Panthera (includes the great roaring cats: lions, tigers, jaguars, and leopards)	Ìran: Aríbí-ẹkùn (kòkárí àwọn ológbò tó nbú: kìnìún, ẹkùn, àmọtẹkùn, abbl.)
+Species:Leo, Lions	Ọ̀wọ́:Ògìdán: Kìnìún
+Living things	Ẹ̀dá oníyè
+Taxonomy	Ìpínsípò ẹ̀dá oníyè
+Classification	Ìsọ̀rí
+Linnaeus	Linnaeus
+Carolus Linnaeus	Carolus Linnaeus
+Swedish botanist	Onímọ̀ ohun ọ̀gbìn àwọn ará Sweden
+Binomial nomenclature	Ìsọ̀rọ̀nágbà
+Latin	Èdè Latin
+Greek	Èdè Greek
+Species	Ẹ̀yà
+Genus	Orúkọ Ìran
+Family	Ìdílé
+Order	Ètò
+Class	Ẹgbẹ́
+Phylum	Ẹ̀ka
+Kingdom	Ìjọba
+Domain	Agbègbè
+Organisms	Àwọn ẹ̀dá alààyè
+Characteristics	Àwọn àbùdá
+Eukaryotes	Àwọn onídìnúkòsí
+Prokaryotes	Àwọn aládinúkòsí
+Six kingdoms	Ìjọba mẹ́fà
+Animal	Ẹranko
+Plant	Ohun ọ̀gbìn
+Fungi	Ojẹ̀
+Protist	Alákọ́ṣe
+Archaea	Àwọn íṣẹ̀dá àtijọ́
+Bacteria	Bateria
+Three domains	Agbègbè mẹ́ta
+Eukarya	Onídìnúkòsí
+Vertebrates	Àwọn egungun-ẹ́hìn
+Invertebrates	Àwọn aláìní-egungun-ẹ́hìn
+Fish	Ẹja
+Amphibians	Àwọn afẹ́jìgbé
+Reptiles	Àwọn ẹranko-afàrálẹ̀
+Birds	Àwọn ẹyẹ
+Mammals	Àwọn ẹranko-afọmọlọ́yàn
+Human	Ènìyàn
+Arthropods	Àwọn alápàdí-ẹ́gẹ́
+Insects	Àwọn kòkòrò
+Arachnids	Àwọn alásẹ́
+Crustaceans	Àwọn alágbára
+Mollusks	Àwọn ẹran-afárá
+Echinoderms	Àwọn orúnṣògo
+Cnidarians	Àwọn adágún-jẹran
+Annelids	Àwọn kòkòrò-oníwọ̀n
+Nematodes	Àwọn kòkòrò-afìdídẹ̀
+Flatworms	Àwọn kòkòrò-pẹ́pẹ́
+Platyhelminthes	Àwọn kòkòrò-pẹ́pẹ́
+Porifera	Àwọn alágbàfo
+Sponges	Àwọn alágbàfo
+Vascular plants	Àwọn ohun ọ̀gbìn alájèjì
+Non-vascular plants	Àwọn ohun ọ̀gbìn aláìnídìn
+Seedless plants	Àwọn ohun ọ̀gbìn aláìlẹ́sọ
+Seed plants	Àwọn ohun ọ̀gbìn onílẹ́sọ
+Mosses	Àwọn irun òkè
+Ferns	Àwọn iṣùmbí
+Gymnosperms	Àwọn ẹ̀sọ-gbangba
+Angiosperms	Àwọn onílẹ́sọ-kíkùn
+Monocots	Àwọn ẹ̀sọ-kan
+Dicots	Àwọn ẹ̀sọ-méjì
+Flowers	Àwọn ìtànná
+Leaves	Àwọn ewé
+Stems	Àwọn pòórò
+Roots	Àwọn gbòǹgbò
+Seeds	Àwọn ẹ́sọ
+Fruits	Àwọn èso
+Cells	Àwọn hóró
+Nucleus	Ojú-inú
+Chromosomes	Àwọn àjùwọ̀n
+Genes	Àwọn àjogúnbá
+DNA	Àjogúnbá
+Evolution	Ìdàgbàsókè
+Biodiversity	Oríṣiríṣi ẹ̀dá
+Ecosystem	Àyíká
+Habitat	Ibùgbé
+Food chain	Ìtẹ̀lé oúnjẹ
+Predator	Ọdẹ
+Prey	Ohun ọdẹ
+Carnivore	Ajẹran
+Herbivore	Ajẹwẹ́
+Omnivore	Ajẹgbogbo
+Parasite	Afẹ́mọ́jẹ
+Host	Alójẹ̀ẹ́
+Symbiosis	Ìbágbépọ̀
+Adaptation	Ìfaragbára
+Natural selection	Ìyànsípò àdámọ̀
+Migration	Ìrìnàjò
+Hibernation	Oorun ẹ̀rùn
+Reproduction	Ìbísí
+Asexual reproduction	Ìbísí aláìlọ́pọ̀
+Sexual reproduction	Ìbísí alọ́pọ̀
+Metamorphosis	Ìyípadà
+Larva	Kòkòrò-àfẹ̀yìn
+Pupa	Kòkòrò-àsùnkéré
+Adult	Àgbà
+Cell membrane	Ìwọ́nù hóró
+Cytoplasm	Omi inú hóró
+Mitochondria	Ibi ìmúnára
+Chloroplast	Ibi ìmúràwọ̀
+Photosynthesis	Ìfiyìnrewọ̀
+Respiration	Mímí
+Homeostasis	Ìṣetòṣe-ara
+System	Ètò
+Organ	Ẹ̀yà-ara
+Tissue	Ìsopọ̀-àwọn-hóró
+Digestive system	Ètò ìgbélẹnu
+Respiratory system	Ètò ìmísími
+Circulatory system	Ètò ìgbẹ̀jẹ̀ kákiri
+Excretory system	Ètò ìdálóhùn
+Nervous system	Ètò ìjìyè
+Endocrine system	Ètò ìdálóhún-ikàn
+Immune system	Ètò ààbò ara
+Chordate	Orúnfún
+Backbone	Egungun-ẹ́hìn
+Notochord	Orúnfún
+Jointed legs	Apàdí-ẹ́gẹ́
+Exoskeleton	Egungun-òde
+Shell	Ikarahun
+Bilateral symmetry	Ìfìjọra ìhà-méjì
+Radial symmetry	Ìfìjọra àyíká
+Sexual dimorphism	Ìyàtọ̀-ẹ̀dá ọkùnrin-àti-obìnrin
+Classification of living things	Ìsọ̀rí àwọn ẹ̀dá oníyè
+Unicellular organisms	Àwọn ẹ̀dá onínìkan-hóró
+Multicellular organisms	Àwọn ẹ̀dá oníhóró-púpọ̀
+Extinct species	Àwọn ẹ̀yà tí ó ti parẹ́
+Cold-blooded animals	Àwọn ẹranko oníjẹ̀jẹ̀-tútu
+Warm-blooded animals	Àwọn ẹranko oníjẹ̀jẹ̀-gbígbóná
+Eggs	Àwọn ẹyin
+Internal fertilization	Ìrúfiṣẹ́ inú ara
+External fertilization	Ìrúfiṣẹ́ òde ara
+Molt	Ìbọ́-ara-sílẹ̀
+Migration patterns	Àwọn àpẹẹrẹ ìrìnàjò
+Seasonal behaviors	Àwọn ìwà àkókò
+Food web	Àjọpọ̀ oúnjẹ
+Competition	Ìdíje
+Mutualism	Ìfẹ̀hìntisẹ́
+Commensalism	Ìfẹ́jẹ láìfọrẹ
+Parasitism	Ìfẹ́mọ́jẹ
+Scientific method	Ọ̀nà ìmọ̀-sáyẹ́nsì
+Observation	Àkíyèsí
+Hypothesis	Ìdámọ̀
+Experiment	Ìdánwò
+Data	Àwọn ìwífún
+Analysis	Ìtúpalẹ̀
+Conclusion	Ìparí
+Biosphere	Àdàkọjá ayé
+Community	Àwùjọ
+Population	Àwọn ẹ̀dá ẹgbẹ́ kan
+Theory of evolution	Ìmọ̀ lórí ìdàgbàsókè
+Natural selection	Ìyànsípò àdámọ̀
+Survival of the fittest	Ìwàláàyè àwọn tí ó lágbára jùlọ
+Adaptation	Ìfaragbára
+Mutation	Ìyípadà
+Inheritance	Àjogúnbá
+Genetic variation	Ìyàtọ̀ àjogúnbá
+hand	ọwọ́
+to touch	fi ọwọ́ kan
+fingers	ìka ọwọ́
+thumbs	àtàǹpàkò
+little finger	ìka kékeré
+palm	àtẹ́lẹwọ́
+back of the hand	ẹ̀hìn ọwọ́
+wrist	ọrùnkún ọwọ́
+ball of the thumb	àtampàkò
+knuckle	oríkúnkún ìka ọwọ́
+fingernail	èkánná
+joints of the fingers	oríkúnkún ìka ọwọ́
+lines in the palm	ìlà àtẹ́lẹwọ́
+crease	àwọn ìlà ọwọ́
+veins	iṣan
+body	ara
+head	orí
+arm	apá
+leg	ẹsẹ̀
+shoulder	èjìká
+chest	àyà
+stomach	ikùn
+back	ẹ̀hìn
+buttocks	ìdí
+neck	ọrùn
+elbow	ìgúnpá
+knee	orúnkún
+ankle	kókósẹ̀
+foot	ẹsẹ̀
+toe	ìka ẹsẹ̀
+heel	gìgísẹ̀
+forehead	iwájú orí
+eyes	ojú
+nose	imú
+mouth	ẹnu
+ear	etí
+hair	irun
+face	ojú
+chin	àgbọ̀n
+cheek	ẹ̀rẹ̀kẹ́
+tongue	ahọ́n
+teeth	eyín
+lips	ètè
+eyebrows	irun ojú
+eyelashes	irun ìpéǹpéjú
+throat	ọ̀fun
+hip	ìbàdí
+waist	ìbàdí
+fingertip	orí ìka
+skin	awọ
+bone	egungun
+nail	èkánná
+blood	ẹ̀jẹ̀
+brain	ọpọlọ
+heart	ọkàn
+lungs	ẹ̀dọ̀fóró
+liver	ẹ̀dọ̀
+kidney	kídìnrín
+intestine	ìfun
+muscle	iṣan
+belly button	ìdòdó
+rib	egungun ìhà
+spine	egungun ẹ̀hìn
+skull	agbárí
+thigh	itan
+calf	kẹ́kẹ́rẹ́
+palm lines	ìlà àtẹ́lẹwọ́
+joints	oríkúnkún
+thumb	àtàǹpàkò
+index finger	ìka ìtọ́kasí
+middle finger	ìka àárín
+ring finger	ìka òrùka
+pinky	ìka kékeré
+fist	ìkúnwọ́
+grip	mímú
+handshake	ìfọwọ́ṣọwọ́
+wave	fífẹ́ ọwọ́
+clap	pípalẹ́
+point	títọ́kasí
+grab	mímú
+forearm	àtẹ́lẹwọ́
+upper arm	òkè apá
+fingertips	orí ìka
+knuckles	oríkúnkún ìka ọwọ́
+palm of the hand	àtẹ́lẹwọ́
+back of the hand	ẹ̀hìn ọwọ́
+right hand	ọwọ́ ọ̀tún
+left hand	ọwọ́ òsì
+hand gesture	àmì ọwọ́
+handwriting	ìkọ̀wé ọwọ́
+fingerprint	àmì ìka
+Abyssinian Spotted	Atóóka
+African Darter	Yọnjayọnja
+African Pied wagtail	Ológoṣẹ́
+Allied Hornbill	Atíálá
+Alligator	Ahọ́nríhọ́n
+Antelope	Ẹgbin
+Ape	Ẹdun
+Ass, donkey	kẹ́tẹ́kẹ́tẹ́
+Baboon	Ìnọkí
+Bat	Àdán
+Bed-bug	Ìdun
+Bee	Oyin
+Beetle	Ìràwò
+Black-Ants	Tanpẹ́pẹ́
+Boa-Constrictor	Erè
+Boar	Ẹlẹ́dẹ̀-Igbó,
+Buffalo, Bushcow	Ẹfọn
+Bushbuck	Ìgalà
+Bushcow	Ẹ̀fọ̀n
+Bushfowl	Àparò
+Bushrat	Eku
+Butterfly	Labalábá
+Calf	Ọmọ màlúù
+Camel	Ràkúnmí, Ìbakasíẹ
+Cardinal bird	Ìrosùn
+Canary	Ìbákà
+Cane rat	Oyà
+Cat	Ológbò, Olígìnni
+Cattle egret	Lékelèké
+Centipede	Taníṣánko
+Chicken, Chick	Òròmọ-Adìẹ, ọmọ adìẹ
+Chameleon	Agẹmọ, ògà
+Chimpanzee	Elégbèdè
+Civet-cat	Ẹtà
+Cobra	Ọká
+Cock	Àkùkọ
+Cockroach	Aáyán
+Colt, Young Horse	Agódóngbó
+Cow	Abo-Màlúù
+Crab	Akàn
+Crane-Bird	Àkọ̀
+Crested duiker	Èkùlù
+Cricket	Ìrẹ̀
+Crickets	Ọ̀kinrin
+Crocodile	Ọ̀nì
+Deer	Àgbọnrín
+Dog	Ajá
+Donkey, Ass	Kẹ́tẹ́kẹ́tẹ́
+Dove	Àdàbà
+Dragon fly	lámilámi
+Duck	Ọmọ Pẹ́pẹ́yẹ
+Duckling	Pẹ́pẹ́yẹ
+Duiker	Etu, Èsúró
+Eagle	Idì
+Earthworm	Ekòló
+Eel	Ẹja eléjò
+Egret	Ọ̀kín
+Egyptian Plover	Ogé; Ológeṣá
+Electric Fish	Òjìgí
+Elephant	Erin/Àjànàkú
+Fly	Eṣinṣin
+Fox	Kọlọkọlọ
+Freshwater Snail	Ìṣáwuru
+Frog	Kọ̀nkọ̀, Àkèré
+Gadfly	Irù, Eṣinṣin- nlá
+Gecko lizard	Ọmọ -nlé
+Giraffe	Àgùnfọn, Àgbá-nréré
+Gnats	Ojúọtí
+Goat	Ewúrẹ
+Gorilla, Baboon	Ìnàkí, Ìnokí, Iro
+Grey Heron	Àkọ̀
+Grey Hornbill	Tíòtío
+Ground Hornbill	Àkàlà
+Guinea fowl	Awó
+Guinea Fowl	Ẹtù
+Guinea Pig	Ẹmọ-Ilé
+Hawks	Àsá
+Hedgehog	Aaka
+Hen	Adìe
+Hind	Abo-Àgbọnrín
+Hippopotamus	Erinmi
+Horse	Ẹṣin
+Hound	Ajá-Ọdẹ
+Housefly	Eṣinṣin/Eeṣin
+Hyena	Ìkokò, Ìkòokò
+Jackal	Akátá/Ajáko
+Jelly-Fish	Ẹja-Odò
+Kid	Ọmọ ewúrẹ
+Kite	Àsá, Àwòdì
+Kitten	Ọmọ ológbò
+Lamb	Ọmọ àgùntàn, ọdọ àgùntàn
+Leopard	Àmọtẹ́kùn
+Lice	Iná-Orí
+Lion	Kìnìún
+Lizard	Alá-ngbá
+Lobster	Alákàṣà
+Millipede	Ọ̀kùn
+Monkey	Ọ̀bọ
+Mosquito	Ẹ̀fọn/Yànmù-yánmú
+Mouse	Èlírí
+Mudfish	Ẹja Àrọ̀
+Nocturnal Animal	Àjàò
+Ostrich	Ògòngò
+Owl	Òwìwí
+Ox , Bull	Màlúù
+Palm Bird/Firefinch	Olóògìrì
+Pangolin	Akika
+Parrot	Oódẹ, Odídẹrẹ́, Ayékòóto
+Partridge	Àparò
+Peacock	Ẹyẹ Ologe
+Pelican	Ẹyẹ-Ofú
+Royal python	Òjòlá/Erè
+Pied Crow	Kanna-kánná
+Pig	Ẹlẹ́dẹ̀
+Piglet	Ọmọ ẹlẹdẹ
+Puppy	Ọmọ ajá
+Swine	Ẹlẹ́dẹ̀
+Pigeon	Ẹyẹlé, Ògbùró
+Porcupine	Òòrẹ̀, Òjìgọn
+Pouch Rat	Òkété
+Rabbit	Ehoro
+Ram	Àgbò
+Rat/Mouse	Eku/Ekúté
+Raven	Ẹyẹ-Ìwò
+Red-Ant	Abóníléjọpọn
+Rhinoceros	Ẹranko bi Imado
+Scarlet-breast sunbird	Ẹyẹ Àrọ̀nì
+Scorpion	Òjògán/Akeekee
+Sea-Bird	Yanja-yanja
+Sea-Gulls	Pẹju-pẹju
+Senegal canary	Ìbákà
+Shark	Àkúra
+Sheep	Àgùntàn
+Snail	Ìgbín/Àgìnnìṣọ̀
+Sparrow	Ológoṣẹ́
+Spider	Alá-ntakùn
+Spit-Snake Snake	Ṣebe
+Squirrel	Ọ̀kẹ́rẹ́
+Stallion	Akọ-Ẹṣin
+Steer	Akọ Màlúù
+Swallow	Alápá-ndẹ̀dẹ̀
+Tick/Flee	Eegbọn
+Tiger	Ẹkùn
+Toad	Ọ̀pọ̀lọ̀
+Tortoise	Ìjàpá, Ahun, Alábahun
+Tree bear	Ofàfà
+Trout	Ẹja
+Turkey	Tòlótòló
+Turtle dove	Àdàbà
+Viper	Paramọlẹ̀
+Vulture	Igún, Gúnnugún
+Wall-Gecko	Ọmọnlé
+Water-bird	Ọsin
+Weaver	Egà
+White-Ant	Ikán, Ìkamùdù
+Wild Goat	Edú
+Wild Pigeon	Òrìrì
+Wood-Carrier	Àrígiṣẹ́gi
+Woodcock	Agbe
+Woodpecker	Àkókó
+Yellow mantled whydah	Ẹyẹ Ṣà-ngó
+Yellow-haired Monkey	Sọmidọlọ́ti/Oloyo
+Beetle	Ìràwò
+Aaka	Hedgehog
+Bushfowl	Aparo
+Ram	Àgbò
+Bushfowl	Àparò
+Deer	Àgbọnrín
+Calf	Ọmọ màlúù
+Chameleon	Agemon, ògà
+Camel	Ìbaaka
+Agodongbo	Colt
+Canary	Ìbákà
+Giraffe	Àgùnfọn
+Cane rat	Oyà
+Dog	Ajá
+Cat	Ológbò
+Scorpion	Àkeke
+Chameleon	Agẹmọ, ògà
+Grey Heron	Akò
+Chick,	Òròmọdìẹ, ọmọ adìẹ
+Wood pecker	Àkókó
+Chicken	Ọmọ adiẹ
+Spider	Alá-ntakùn
+Civet cat	Ẹtà
+Aparo	Bushfowl
+Cock	Àkùkọ
+Bushfowl	Àparò
+Colt	Agodongbo
+Kite	Àwòdì, Àṣá
+Cow	Màlúù
+Kite	Àwòdì, Àṣá
+Deer	Àgbọnrín
+Kite	Àwòdì, Àṣá
+Dog	Ajá
+Buffalo	Ẹfọn
+Donkey	Kẹtẹkẹtẹ
+Dragon fly	lámilámi
+Weaver	Ẹ̀ga
+Duck	Pẹpẹiyẹ
+Ehoro	Rabbit
+Duckling	Ọmọ pẹpẹiyẹ
+Snake	Ejò
+Duiker	Etu, Èsúró
+Eku	Rat
+Elephant	Erin
+Python	Erè, Òjòlá
+Fly	Eṣinṣin
+Erin	Elephant
+Fox	Kọlọkọlọ
+Erinmi	Hippopotamus
+Gecko lizard	Ọmọ -nlé
+Horse	Ẹṣin
+Giraffe	Àgùnfọn
+Fly	Eṣinṣin
+Goat	Ewúrẹ
+Civet cat	Ẹtà
+Gorilla	Ìnọkí
+Guinea fowl	Ẹtù, Awó
+Grey Heron	Akò
+Duiker	Etu, Èsúró
+Guinea fowl	Ẹtù, Awó
+Goat	Ewúrẹ
+Hedgehog	Aaka
+Pigeon	Ẹyẹlé
+Hippopotamus	Erinmi
+Camel	Ìbaaka
+Horse	Ẹṣin
+Kid	Ọmọ ewúrẹ
+Bushbuck	Ìgalà
+Kid	Ọmọ ewúrẹ
+Antelope	Ìgalà, Àgbọnrín
+Kid	Ọmọ ewúrẹ
+Snail	Ìgbín
+Kid	Ọmọ ewúrẹ
+Tortoise	Ìjàpá, Ahun, Alábahun
+Kite	Àwòdì, Àṣá
+Baboon	Ìnọkí
+Kite	Àwòdì, Àṣá
+Beetle	Ìràwò
+Kite	Àwòdì, Àṣá
+Donkey	Kẹtẹkẹtẹ
+Kite	Àwòdì, Àṣá
+Lion	Kìnìún
+Kitten	Ọmọ ológbò
+Fox	Kọlọkọlọ
+Lamb	Ọmọ àgùntàn, ọdọ àgùntàn
+Dragon fly	lámilámi
+Lion	Kìnìún
+Cow	Màlúù
+Monkey	Ọ̀bọ
+Monkey	Ọ̀bọ
+Mosquito	Yànmùyánmú, ẹfọn
+Tree bear	Ofàfà
+Owl	Òwìwí
+Cat	Ológbò
+Pig	Ẹlẹdẹ
+Chicken	Ọmọ adiẹ
+Pigeon	Ẹyẹlé
+Lamb	Ọmọ àgùntàn, ọdọ àgùntàn
+Piglet	Ọmọ ẹlẹdẹ
+Puppy	Ọmọ ajá
+Porcupine	Òòrẹ
+Piglet	Ọmọ ẹlẹdẹ
+Puppy	Ọmọ ajá
+Kid	Ọmọ ewúrẹ
+Python	Erè, Òjòlá
+Kid	Ọmọ ewúrẹ
+Rabbit	Ehoro
+Kid	Ọmọ ewúrẹ
+Ram	Àgbò
+Kid	Ọmọ ewúrẹ
+Rat	Eku
+Kitten	Ọmọ ológbò
+Scorpion	Àkeke
+Duckling	Ọmọ pẹpẹyẹ
+Snail	Ìgbín
+Gecko lizard	Omo-nlé
+Snake	Ejò
+Porcupine	Òòrẹ
+Spider	Alá-ntakùn
+Waterbuck	Òtòlò
+Tortoise	Ìjàpá
+Owl	Òwìwí
+Tree bear	Ofàfà
+Cane rat	Oyà
+Turkey	Tòlótòló
+Duck	Pẹpẹyẹ
+Waterbuck	Òtòlò
+Turkey	Tòlótòló
+Weaver	Ẹ̀ga
+Mosquito	ẹfọn
+Wood pecker	Àkókó
+Tree	Igi
+Bark	Èpo igi
+Leaf	Ewé
+Branch	Ẹ̀ka
+Root	Gbòǹgbò
+Seed	Èso
+Fruit	Èso
+Forest	Igbó
+Jungle	Igbó
+African locust bean tree	Igba
+African maple	Ẹ̀pẹ̀
+African oil bean tree	Igi àkàsò
+African pear tree	Igi ube
+African star apple tree	Igi àgbálùmò
+African whitewood	Arere
+Bamboo	Ọ̀pá ẹyẹ
+Banana tree	Igi ọ̀gẹ̀dẹ̀
+Baobab tree	Igi ọ̀ṣẹ̀
+Bitter kola tree	Orógbó
+Breadfruit tree	Igi dùdù
+Cacao tree	Igi kòkó
+Calabash tree	Igi igbá
+Coconut tree	Igi agbon
+Cotton tree	Owu
+Fig tree	Igi ọ̀pọ̀tọ́
+Fir tree	Igi fírì
+Frankincense tree	Igi turari
+Iroko tree	Iroko
+Lemon tree	Igi ọsan wẹwẹ
+Lime tree	Igi ọsan wẹwẹ
+Locust bean tree	Igba
+Mahogany tree	Igi mahogani
+Mango tree	Igi mangoro
+Mangrove tree	Igi ẹja
+Neem tree	Igi dògóyàrò
+Oak tree	Igi óòkì
+Obeche tree	Igi àrẹ̀rẹ̀
+Oil palm tree	Igi ọ̀pẹ
+Olive tree	Igi olifi
+Orange tree	Igi ọsàn
+Palm tree	Ọ̀pẹ
+Pawpaw tree	Igi ìbẹ́pẹ
+Pear tree	Igi péà
+Pine tree	Igi páìnì
+Plantain tree	Igi ọ̀gẹ̀dẹ̀ àgbagbà
+Raffia palm tree	Ọ̀gòrò
+Rosewood tree	Igi róòsì
+Rubber tree	Igi rọ́bà
+Sandalwood tree	Igi sándalì
+Shea butter tree	Igi òrí
+Tamarind tree	Igi àjàgbọn
+Teak wood tree	Igi tíìkì
+Walnut tree	Igi asala
+Willow tree	Igi wílò
+Arthropods	Awọn kòkòrò
+Phylum	Agbo-ẹ̀yà
+Species	Ọ̀wọ́
+Million	Òdù
+Thousand	Ọ̀kẹ́
+Arachnids	Ẹlẹsẹmẹjọ
+Crustacea	Onigbalehin
+Bugs	Ẹlẹsẹmẹfa
+Mollusks	Onikaraun
+Gastropods	Afinufa
+Cẹphalopods	Aforifa
+Spiders	Alantakun
+Ticks	Ina
+Scorpions	Akeeke
+Crabs	Alakan
+Shrimp	Ede
+Millipedes	Ọ̀kun
+Centipedes	Onigba-ẹsẹ
+Lobsters	Alakaṣa
+Snails	Igbin
+Arthropods (phylum: Arthropoda) are a large group of invertebrates, which means they do not have backbones.	Awọn kòkòrò (agbo-ẹyà: Kokoro) jẹ agbo- ẹyà nla kan lara awọn ẹranko alailọpa-ẹhin, ti o tumọ si pe wọn ko ni ọpa- ẹhin
+Insects, spiders, crabs, shrimp, millipedes, and centipedes are all arthropods.	Awọn ẹlẹsẹmẹfa, ẹlẹsẹmẹjọ, onigbalẹhin at'awọn ẹlẹsẹwuuru lapapọ ni a npe ni awọn kòkòrò.
+Arthropods have jointed feet, a segmented body, and an exoskeleton, a cuticle on the outside of their body.	Awọn kòkòrò ní awọn ẹsẹ to papọ, ara to ní awẹ, nwọn si ní nkan to le bi eegun ni ode ara wọn.
+Estimates of the number of arthropod species account for over 80% of all known living animal species varying between 5 to 10 million.	Bi a bá fi oju-inu wo awọn ọ̀wọ́ awọn kòkòrò to wà, a oo ri i pe nwọn kópa to ida-ọrun ọgọrin (80%) ninu gbogbo ìdílé ẹranko aiye gbogbo. Nwọn si to laarin bi arun òdù oun idi òdù
+They range in size from microscopic plankton up to several meters across.	Nipa titobi, a ri ninu wọn to kere to jẹ wipe a fẹrẹ ma le fi oju ri wọn; bẹẹ gẹgẹ ni a si ri awọn ti o to ọpọ mita ni gigun.
+Arthropods are mainly terrestrial in their habitat but are found throughout marine, freshwater, and even aerial environments.	Awọn kòkòrò jẹ ẹranko ti wọn saba ma ngbe lori ilẹ ṣugbọn a ri ninu wọn ti wọn nfi inu omi amuse ibugbe. Bẹẹni a ri awọn miran ti nwọn ma ngbe lori igi tabi okuta loke rere.
+They are made up of four groups of living animals: insects, arachnids, crustaceans, and myriapods.	A si pin wọn si ọna mẹrin ọtọọtọ: awọn ẹlẹsẹmẹfa, ẹlẹsẹmẹjọ, onigbalẹhin at'awọn ẹlẹsẹwuuru.
+Insects are the most diverse organisms in the history of life.	Awọn ẹlẹsẹmẹfa lo jẹ awọn ẹda-oniyẹ to ni oriṣiriṣi ju lati ọjọ ti alaye ti da aye.
+They have a chitinous exoskeleton, a three-part body (head, thorax and abdomen), three pairs of jointed legs, compound eyes and one pair of antennae.	Nwọn ni abarajọ-eegun ni ode ara wọn. Nwọn si ni ara to pin si ọna meta: ori, aya, at'ikun. Nwọn ni ẹsẹ mẹfa to parapọ ni mejimeji. Oju wọn si wa ni ominira ara won. Nwọn si ni mọgala meji-meji
+Arachnids are distinguished from insects by the fact they do not have antennae or wings.	Awọn ẹlẹsẹmẹjọ yatọ si awọn ẹlẹsẹmẹfa ni ti pe wọn ko ni mọgala. Ko si si ninu wọn to ni iye-apa.
+Examples of Arachnids are spiders, mites and ticks, and their relatives like scorpions.	Apẹrẹ awọn ẹlẹsẹmẹjọ ni awọn alantakun, iru, eegbọn at'awọn idile miran bi akeeke.
+All arachnids have eight legs, and unlike insects, they don't have antennae.	Gbogbo wọn lo ni ẹsẹ mẹjọ, ti wọn ko si ni mọgala bi ti awọn ẹlẹsẹmẹfa.
+The bodies of arachnids are divided into two sections, the cephalothorax in front and the abdomen behind.	Ara awọn ẹlẹsẹmẹjọ pin si meji: ori-oun-aya lapapọ ni iwaju ati ikun lẹhin.
+Crustaceans form a very large group of arthropods, usually treated as a subphylum.	Awọn onigbalẹhin tun jẹ idilẹ nla kan laarin awọn kokoro. A si ri wọn bi ẹya kan.
+They include such familiar animals as crabs, lobsters, crayfish, shrimp, krill and barnacles.	Ninu wọn ni awọn ẹranko bi alakan, alakaṣa, akọ-ede, ati ede
+They have a hard exoskeleton, jointed legs, and a segmented body that is bilaterally symmetrical.	Nwọn ni abarajọ-eegun lode ara to le pupọ. Nwọn si ni awọn ẹsẹ to parapọ, ati ara to ni ọpọlọpọ awẹ sugbọn ti tọtun-tosi wọn baradọgba.
+They have two pairs of sensory antennae, one pair of mandibles (for chewing food), and two pairs of maxillae (to help the mandibles in positioning the food).	Nwọn ni mọgala meji- meji, ijagbọn meji (fun rirun onjẹ) ati eegun-ẹrẹkẹ meji (fun didari onjẹ).
+Most crustaceans live in water, but some live on land.	Pupọ ninu awọn onigbalẹhin ni nwọn ngbe ninu omi, ṣugbọn a ri awọn kan to ngbe ilẹ.
+Crustaceans are the most numerous animals in the oceans, but some crustaceans live on fresh water.	Awọn onigbalẹhin lo pọ ju ẹrankẹran ninu omi-okun, ṣugbọn a ri ninu wọn tọ ngbe ninu awọn omi-amu
+Myriapods (Myriapoda) are a group of arthropods that includes millipedes, centipedes, and some small relatives.	Awọn ẹlẹsẹwuuru jẹ ẹya kòkòrò kan. Lara wọn ni awọn ọkun, onigba-ẹsẹ, ati awọn ọ̀wọ́ kekeke miran.
+The group contains over 13,000 species, all of which are terrestrial.	Ẹ̀yà yi si ni awọn ọ̀wọ́ to ju ọke mẹtala lọ. Eranko ori ilẹ si ni gbogbo wọn.
+Centipedes and millipedes look similar to each other; they both look a little like worms with lots of legs.	Awọn onigba-ẹsẹ ati awọn ọkun jọ ara wọn. Awọn mejeeji lo ri bi aran to ni ọpọ ẹsẹ.
+Myriapods all have a segmented body, paired, jointed appendages on most segments, and are covered by a hard exoskeleton.	Gbogbo awọn ẹlẹsẹwuuru lo ni ara to ni ọpọlọpọ awẹ. Awẹ kọọkan si ni ẹsẹ mejimeji to parapọ. Nwọn si ni abarajọ-eegun lode ara.
+Kingdom Protista: single-celled eukaryotic organisms, which contain membrane-bound cell organelles	Ìjọ àwọn Onísé ̣è ̣ligidi: Àwọn è ̣yà kékèké onísé ̣è ̣likan ṣùgbọn tí wọn jé ̣onísé ̣è ̣ligidi nítorí pé àwọn è ̣yà inú wọn gbogbo ni a di ní egbirin. Àpẹrẹ, Àwọn
+Kingdom Animalia: a group of multicellular, eukaryotic and motile living things. Examples: Birds, Mammal	Onírunlára, Oníwàrà, Kòkòrò ẹlẹsẹmẹfà, Aràn, Ẹja, Afàyàfà, Gbómigbélẹ è ̣yà onípádipúpọ, onípádi gidi tí wọn sì lè ti ibìkan de ibìkejì. Àpẹrẹ: Àwọn: Àwọn ẹyẹ, Onírunlára, Oníwàrà, Kòkòrò ẹlẹsẹmẹfà, Aràn, Ẹja, Afàyàfà, Gbómigbélẹ
+The nervous system consists of cells that communicate information about an organism’s surroundings and itself	Ètò ẹ̀sọ Ara ní àwọn pádi kan tó njẹ ki ẹ̀dá-oníyè ní ìfura sí àgbèègbè rẹ
+Àwọn ẹ̀sọ ìmira ló nṣe ìránṣẹ láti ọpọlọ àti ẹ̀sọ ọ̀pá-ẹhìn sí gbogboous system and the peripheral nervous system. The spinal cord and the brain make up the CNS. Its main job is to get the information from the body and send out instructions. The peripheral nervous system is made up of all of the nerves and the wiring. This system sends the messages from the brain to the rest of the body	A pín ètò ẹ̀sọ-ara sí ọnà méjì, ètò ẹ̀sọ t’ọgangan àti ètò ẹ̀sọ t’àgbèègbè. ẹ̀sọ ọ̀pá-ẹhìn àti ọpọlọ ló jẹ́ àpapọ ẹ̀sọ t’ọgangan. Iṣẹ́ rẹ pàtàkì ni gbígba ìmọràn láti ara àti láti fi àṣẹ ránṣẹ sí gbogbo ara. Èto ẹ̀sọ t’àgbèègbè ni àwọn ẹ̀sọ gbogbo tó yí inú ara káàkiri bí àwọn. Àwọn eléyi ni wọn ngba ìmọràn láti ọpọlọ tí wọn si nfi ránṣẹ sí gbogbo ara 
+Sensory nerves send messages from parts of the body, such as skin and muscles, back to the spinal cord and the brain	Àwọn ẹ̀sọ-iyè ló nṣe ìránṣẹ láti gbogbo ara, bí awọ-ara àti iṣan ara, padà lọ sí ẹ̀sọ ọ̀pá ẹhìn àti ọpọlọ
+Autonomic nerves control involuntary or semi-voluntary functions, such as heart rate, blood pressure, digestion, temperature regulation, and sweating.	Àwọn ẹ̀sọ adáṣiṣẹ́ ló nṣe olùdarí àwọn ẹya-ara tí kò sí lábẹ ìdarí wà. Àwọn nnkan bí ìyási sísọ ọkàn, èéfún òpó-ẹ̀jẹ̀, dídà-onjẹ, àtọsọnà ìgbóná ara, àti ìlàágùn.
+Motor nerves send impulses or signals from the brain and spinal cord to all of the muscles in the body.	Àwọn ẹ̀sọ ìmira ló nṣe ìránṣẹ láti ọpọlọ àti ẹ̀sọ ọ̀pá-ẹhìn sí gbogbo àwọn iṣan ara
+Chemistry is the science of matter, especially its properties, structure, composition, behavior, reactions, interactions and the changes it undergoes. Chemistry is sometimes called "the central science" because it connects physics with other natural sciences such as astronomy, geology and biology	Ẹ̀kọ́ Ẹlà jẹ́ ẹ̀kọ́ ìmọ̀n-jinlẹ ti àìdá, pápàá, ti ìṣesí, ètò-inú, ohun-inú, ìṣèwàhù, àsè, ìbáraṣepọ àti àwọn ìyípadà tó má nní. A máa npè ẹ̀kọ́-ẹlà ní ìmọ̀-jinlẹ t’àárín, to pàtàkì jùlọ, nítorí òun ló ṣe àsopọ àwọn ẹ̀kọ́-àì-dá pẹ̀lú àwọn ìmọ̀-jinlẹ míràn bí ẹ̀kọ́ ìràwọ, ẹ̀kọ́ ìṣẹ̀dálẹ-ayé, àti ẹ̀kọ́ ẹ̀dá-oníyè.
+Chemistry is the study of matter and energy and the interactions between them	Ẹ̀kọ́ ẹlà jẹ́ ẹ̀kọ́ àwọn àì-dá, agbára àti àwọn ìbáraṣepọ tó wà láarín wọn
+Chemical reaction is a process that leads to the transformation of one set of chemical substances to another.	Àsè ẹlà jẹ́ ìlànà bí iparada ṣe nde ba àwọn ìjọ ai-da, kan ti nwọn fi ndi òmíràn
+Chemical equation is the symbolic representation of a chemical reaction where the reactant entities are given on the left hand side and the product entities on the right hand side	Ọ̀mì ẹlà jẹ́ àmì àpẹrẹ àsè ẹlà bí a ti nfi àwọn èsè-àsè sí apá òsì tí a sì nfi àwọn ẹsún-àsè sí apá ọtún.
+Chemical composition: the arrangement, type and ratio of atoms in molecules of substances	Ètò Ohun-inú ẹlà: Ètò, oríṣi àti ìbùpín àwọn átọmù tó wà nínu mólékù àwọn nkan
+Chemical synthesis is purposeful execution of chemical reactions to get a product, or several products	Ìṣẹ̀dá ẹlà jẹ́ ìlànà tí a mọọmọ gbà se àsè láti ní ẹsún kan tàbí ọ̀pọ̀ àwọn ẹsún tí a nfẹ.
+Chemistry	Ẹ̀kọ́ Ẹlà
+Biology	ẹ̀kọ́tẹ̀dá-oníyèà
+Chemical Equation	Ọ̀mì ẹlà
+Chemical Synthesis	Ìṣẹ̀dá ẹlà
+Chemical Composition	Ohun-inú ẹlà
+Matter	àì-dá
+Physics	Ẹ̀kọ́ - àì-dá
+Astronomy	ẹ̀kọ́ ìràwọ
+Geology	ẹ̀kọ́ ìṣẹ̀dálẹ-ayé
+Biology	ẹ̀kọ́ ẹ̀dá-oníyè
+The periodic table is a tabular arrangement of the chemical elements, ordered by their atomic number ,electron configurations, and recurring chemical properties. The table also shows four rectangular blocks: s-, p- dand f-block.	Ité ̣iṣu-atọmu jẹ ọna ti a gba to gbogbo awọn iṣu-atọmu sori ité-̣onitábili. A fi nwọnité ̣yi si báṣi mérin ati iṣesi awọn ẹla yi. A si pin ité ̣yi si báṣi mérin ̣ ọtọọtọ: s-, p-, d-, f.
+In general, within one row (period) the elements are metals on the lefthand side, and non-metals on the right-hand side. The rows of the table are called periods; the columns are called groups.	Lakotan, laarin sáà-ibu kan, awọn iṣuatọmu to jé ̣alurọ wa ni apá osi, awọn àdàrọ si wa ni apa ọtun. Awọn sáà-ooro ni a npe ni akojo
+Six groups have names as well as numbers: for example, group 17 elements are the halogens; and group 18, the noble gases. The periodic table can be used to derive relationships between the properties of the elements, and predict the properties of new elements yet to be discovered or synthesized. The periodic table provides a useful framework for analyzing chemical behavior, and is widely used in chemistry and other sciences.	Méfa ̣ iye-ooka : fun apẹrẹ ni orukọ ati iye-ooka: fun apẹrẹ, awọn iṣu-atọmu to wa ni sáà-ooro 17 ni a npe ni awọn aṣe-iyọ , awọn sáà-ooro 18 ni a npe ni awọn oyi ai-jẹ-àsèi a npe ni awọn oyi ai-jẹ-àsè A le lo Ité ̣iṣu-atọmu yi fun sisọ asọtéḷẹ iṣesi iṣu-atọmu ti a ko itii ṣawarii rẹ tabi ti a ko tilẹ ti ṣ’atọwọda rẹ. Ité ̣iṣu-atọmu pese ilànà bi a ṣe le ṣe atupalẹ ati iyanju iṣesi awọn ẹla, a si nlo o lọpọlọpọ fun ẹkọ Kemistiri ati awọn ẹkọ imọ-jinlẹ miran
+Acids and Bases	Ẹ̀kan at'ègbo
+Air	Afẹ
+Alkali	Aṣọṣẹ
+Alkali metals	Àlùrọ aṣọṣẹ
+Alloy	Àyọpọ
+Amalgam	Àdàlú
+Atom	Átọmù
+Atomic energy	Agbára átọmù
+Base	Ègbo
+Biochemistry	Ẹ̀kọ́ ẹlà-ìyè
+Bond	Ìrọ́n
+Breeze	Afẹrẹ
+Chemical	Ẹlà
+Chemical composition	Ètò-inú ẹlà
+Chemical equation	ọmì ẹlà
+Chemical process	Awọn ọnà àsè-ẹlà
+Chemist	Akẹ̀kọ́ ẹlà
+Chemistry	Ẹ̀kọ́-ẹlà
+Colour	Àwọ
+Complete reaction	Àsè-ìsèparí
+Compound	Àsèpọ
+Concentrate	Ogidi,Láti sọ dògidì
+Double bond	trọn meji
+Drug	Oògùn
+Dye	Aró
+Element	Ìṣù-átọmù
+Endothermic reaction	Àsè aloná
+Energy	Agbára
+Entropy	Ìdàrú
+Enthalpy	Agbára
+Equilibrium	Agbede
+Equilibrium constant	Òòkà-àìyẹ ibi-agbede
+Equilibrium Point	Ibi agbede
+Equilibrium reaction	Àsè adúrólágbede
+Exothermic reaction	Àsè afaná
+Fire	Iná
+Free energy	Agbára wíwúlò
+Gas	Òyì
+Gas equation	Ọ̀mì òyì
+Gas Laws	Àwọn Ofi-òyì
+Gas volume	Àye òyì
+Gibb's free energy	Agbára wíwúlò ti Gíbìsì
+Heat energy	Agbára imuná
+Helmholtz free energy	Agbára wíwúlò ti Hẹlmhóòsì
+Hotness	Ìgbóná
+Incomplete reaction	Àsè-àìsèparí
+Inorganic chemistry	Ẹ̀kọ́ ẹlà-aláìléedú
+Laboratory	Ilé ìmọ̀n-jinlẹ
+Liquid	Aṣàn
+Matter	Àìdá
+Metal	Àlùrọ
+Mixture	Àkópọ
+Non-metal	Àdàrọ
+Organic chemistry	Ẹ̀kọ́ ẹlà-eléedú
+Physical chemistry	Ẹ̀kọ́-ẹlà t'ìṣeṣí-ẹ̀dá
+Physical science	Ẹ̀kọ́ ìmọ̀n-jìnlẹ ìṣeṣí-ẹ̀dá
+Product	ẹsún
+Product of a reaction	ẹsún-àsè
+React	Láti se
+Reactant	Èsè, Èsè-àsè
+Reaction	Àsè
+Reactor	Abọ-àsè
+Shape	Ìrísí
+Single bond	Ìrọ́n kan
+Soap Making	Ọṣẹ ṣiṣe
+Solid	Adì
+Solute	Gbẹrẹfun; Àìpò
+Solution	Àpòpọ
+Solvent	Epo
+States of matter	Irú-ipò àwọn àìdá
+Substance	Nnkan
+Synthesis	Ìṣẹ̀dá
+Temperature	Ìgbóná
+Temperature scale	Ìdíwọn ìgbóná
+Triple Bond	Ìrọ́n meta
+Use	Ìlò
+Wind	Afẹfẹ
+The reaction of A with B produces D	Àsè A pẹ̀lú B sun D
+React A with B	Se A pẹ̀lú B
+The product of the reaction of A with (and) B are D and F	ẹsún àsè A pẹ̀lú B ni D àti F
+What are the products of the reaction of A and B	Kini àwọn ẹsún àsè A àti B
+What are the reactants that produced D	Àwọn èsè-àsè wo ló sun D tabi Kini àwọn èsè-àsè tó sun D
+Two hydrogen atoms are joined together with a single bond	Oyi-omi meji ta pọ pelu Ìrọ́n kan)
+Two atoms of carbon are joined together with two bonds	Awon atomu eedu meji ta po pelu Ìrọ́n meji
+Three bonds join the two atoms of the nitrogen molecule together	Ìrọ́n meta lo ta awon atomu mejeeji ti isu-atomu oyi-ile po
+A complete reaction is one in which all the reactants become products	Àsè-ìsèparí je eyi ti awon ese-ase re gbogbo da esun-ase patapata
+In an incomplete reaction, not all the reactants become products	Ni ti Àsè-àìsèparí, ki ise gbogbo awon ese-ase ni o nda esun-ase
+Some reactions reach an equilibrium point	Awon ase kan ma nde ibi-agbede
+Such reactions are called equilibrium reactions	Iru awon ase yi ni a npe ni Àsè adúrólágbede
+Acids and Bases	Ẹ̀kan at’ègbo
+Alkali	Aṣoṣe
+Alkali metals	Alùro işoṣe
+Alloy	Ayopo
+Amalgam	Adàlú
+Atom	Átọ̀mù
+Atomic energy	Agbára átọ̀mù
+Base	Ẹgbọ
+Bond	Ìrón:
+Breeze	Afẹrẹ
+Changes in Nature	Àyípadà nnú àyànmọ
+Chemical	Ẹlà
+Chemical	Ètò-inú ẹlà
+Chemical equation	ọmì ẹlà
+Chemical process	Awọn ọnà àṣè- ẹlà
+Chemist	Akẹkọ ẹlà
+Colour	Àwọ
+Compound	Aṣèpo
+Concentrate	Láti sọ dògidì
+Drug	Oògùn
+Dye	Aró
+Element	Iṣù-átọ̀mù
+Endothermic reactiom	Àsè aloná
+Energy	Agbára
+Entropy	Ìdàrú
+Exothermic reaction	Àsè afaná
+Fire	Iná
+Gas	Òyì
+Gas equation	Ọmì òyì
+Gas Laws	Àwọn Òfin-òyì
+Gas volume	Aye òyì
+Heat energy	Agbára Okun-iná
+Heat = 	Okun-iná
+Hotness	Ìgbóná
+Laboratory	Ilé ìmọn-jinlẹ
+Liquid	Aṣàn
+Matter	Aìdá
+Metal	Àlùrọ
+Mixture	Akópo
+Non-metal	Adàrọ
+Physical chemistry	Ekó-ẹlà tìṣeṣí-ẹdá-oníyè
+Physical science	Įkó ìmọn-jìnlẹ ìṣeṣí-ẹdá-oníyè
+Pressure	Ìfúnpò
+Product of a reaction	ẹsún-àsè
+Reactants	Èsè-àsè
+Reaction	Àsè
+React A with B	Ṣe A pèlú B
+Product	ẹsún
+The reaction of A with B produces D	Àsè A pèlú B sundi D
+The product of the reaction of A and B are D and F	ẹsún àṣè A pèlú B ni D àti F
+Product of a reaction	ẹsún àṣè
+What are the products of the reaction of A and B	Kini àwọn ẹsún àṣè A àti B
+Reactant	Èsè, Èsè-àsè
+What are the reactants that produced D	Àwọn èsè-àsè wo ló sun D or Kini àwọn èsè-àsè tó sun D
+Bond	Ìrón
+Single bond	Ìrón kan
+Double bond	Iron meji
+Triple Bond	Ìrón meta
+Complete reaction	Àsè-ìṣèparí
+Incomplete reaction	Àsè-àìṣèparí
+Reactor	Abo-àsè
+Equilibrium	Agbède
+Equilibrium	Ibi agbede
+Equilibrium reaction	Àsè adúrólágbede
+Equilibrium	Òòkà-àìyẹ ibi-agbede
+Equilibrium Point	Ibi agbede
+Endothermic Reaction	Àsè aloná
+Exothermic reaction	Àsè afaná
+Energy	Agbára
+Free energy	Agbára wíwúlò
+Temperature	Ìgbóná
+Temperature scale	Ìdíwọn ìgbóná
+Entropy	Ìdàrú
+Enthalpy	Agbára wiwulo
+Enthalpy of a reaction	Agbára-Ìrón àṣè
+Shape	Ìrísí
+Soap Making	Oṣe ṣiṣe
+Solid	Adi
+Solute	Gbẹrẹfun; Aipò
+Solution	Àpòpo
+Solvent	Epo
+States of matter	Irú-ipò àwọn àìdá
+Substance	Aìdá
+Synthesis	Ìṣèdá-oníyè
+Use	lò
+Volume	Ìgbàyè

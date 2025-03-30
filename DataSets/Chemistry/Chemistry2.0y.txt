@@ -1,0 +1,271 @@
+Chemistry is the study of matter and energy.	Èḳó ̣Ẹlà jé ̣èḳó ̣àwọn èḍá, agbára àti àwọn ìbáraṣepọ ̣tó wà láarín wọn.
+A chemical reaction transforms one set of substances to another.	Àsè ẹlà jé ̣ìlànà bí àwọn ìjọ èḍá kan ṣe nparadà sí àwọn ìjọ èḍá miran.
+The laboratory contains many chemical elements.	Ilé ìmọ-̣jinlẹ ̣ní ọpọ̀lọpọ̀ ìṣù-átọmù.
+Acids and bases are important in chemistry.	Èḳan at'ègbo jẹ́ pàtàkì nínú Èḳó ̣Ẹlà.
+The chemical equation shows reactants on the left side.	Òṃì ̣ẹlà fi àwọn èsè-àsè hàn ní apá òsì.
+The product of the reaction is a new substance.	Èṣún àsè náà jẹ́ èḍá tuntun.
+Organic chemistry is the study of carbon compounds.	Èḳó ̣ẹlà-eléedú jẹ́ èḳó ̣àwọn àsèpọ eedu.
+Inorganic chemistry deals with non-carbon compounds.	Èḳó ̣ẹlà-aláìléedú dájú pẹ̀lú àwọn àsèpọ tí kò ní eedu.
+The atomic energy can be released during reactions.	Agbára átọmù lè jade lásìkò àwọn àsè.
+Chemical synthesis is the process of creating new compounds.	Ìṣèḍá ẹlà jé ̣ìlànà tí a mòọ́ ṃọ̀ gbà se àsè láti ní èṣún tí a nfé.̣
+The equilibrium point is where forward and reverse reactions balance.	Ibi agbede ni ibi tí àwọn àsè iwájú àti ẹ̀yìn dọ́gba.
+An exothermic reaction releases heat energy.	Àsè afaná túlẹ̀ agbára okun-iná.
+An endothermic reaction absorbs heat from surroundings.	Àsè aloná gba okun-iná látí àyíká.
+The chemical composition shows the ratio of atoms in molecules.	Ètò ohun-inú ẹlà fi ìbùpín àwọn átọmù nínú mólékù hàn.
+The mixture contains different substances that are not chemically combined.	Àkópọ̀ ní àwọn èḍá oníyàtọ̀ tí wọn kò ṣe àsèpọ̀ ní ọ̀nà ẹlà.
+Alkali metals react vigorously with water.	Àlùrọ aṣọṣẹ ṣe àsè lórísírísí pẹ̀lú omi.
+Non-metals usually form covalent bonds.	Àdàrọ máa ńṣẹ̀dá ìrón ìpínpín.
+The reactants in this equation are hydrogen and oxygen.	Àwọn èsè-àsè nínú òṃì yìí ni hydrogen àti òyì-iná.
+The products of water electrolysis are hydrogen and oxygen.	Àwọn èṣún-àsè ìpínṣẹ́ tó fi ojú ẹlẹ́tíríìkì omi jẹ́ hydrogen àti òyì-iná.
+Temperature affects the rate of chemical reactions.	Ìgbóná ní ipa lórí òṣùwọ̀n àsè ẹlà.
+Entropy measures the disorder in a system.	Ìdàrú wọ́n ìdàrúdàpọ̀ nínú ètò kan.
+Enthalpy is the heat content of a chemical system.	Agbára wiwulo jẹ́ nnkan okun-iná inú ètò ẹlà.
+A complete reaction consumes all reactants.	Àsè-ìsèparí lo gbogbo àwọn èsè-àsè.
+An incomplete reaction leaves some reactants unconverted.	Àsè-àìsèparí fi díẹ̀ nínú àwọn èsè-àsè sílẹ̀ láìyípadà.
+The equilibrium constant determines the ratio of products to reactants.	Òòkà-àìyẹ ibiagbede pinnu ìbùpín àwọn èṣún sí èsè-àsè.
+Free energy determines whether a reaction occurs spontaneously.	Agbára wíwúlò pinnu bóyá àsè kan ṣẹlẹ̀ fúnrararẹ̀.
+Chemical bonds hold atoms together in molecules.	Ìrón ẹlà mú àwọn átọmù jọ pọ̀ nínú mólékù.
+A single bond consists of one pair of shared electrons.	Ìrón kan jẹ́ ẹyọ ìbáṣepọ̀ àwọn ẹlẹ́tíróònù.
+A double bond involves sharing two pairs of electrons.	Irọn meji jẹ mọ́ pípín ẹgbẹ́ méjì àwọn ẹlẹ́tíróònù.
+A triple bond involves sharing three pairs of electrons.	Ìrón meta jẹ mọ́ pípín ẹgbẹ́ mẹ́ta àwọn ẹlẹ́tíróònù.
+The gas volume changes with temperature and pressure.	Àyè òyì yípadà pẹ̀lú ìgbóná àti èéfún.
+Biochemistry studies chemical processes in living organisms.	Èḳó ̣ẹlà-ìyè kọ́ àwọn ìlànà ẹlà nínú àwọn ẹ̀dá alààyè.
+Physical chemistry examines the physical properties of chemical systems.	Èḳó-̣ẹlà t'ìṣeṣí-èdá ̣yẹ àwọn ìṣesí ara ti àwọn ètò ẹlà wò.
+The metal reacts with the acid to produce hydrogen gas.	Àlùrọ náà ṣe àsè pẹ̀lú èḳan láti mú òyì hydrogen jáde.
+Gold is a noble metal that resists chemical reactions.	Wura jẹ́ àlùrọ ọlọ́lá tí ó korò sí àwọn àsè ẹlà.
+The catalyst increases the rate of the reaction.	Aláàtúnmú pọ̀ òṣùwọ̀n àsè náà.
+Chemical analysis determines the composition of substances.	Èḳó ̣ìṣeyanjú-ẹlà pinnu ètò-inú àwọn èḍá.
+The solvent dissolves the solute in the solution.	Epo tú gbẹrẹfun nínú àpòpọ̀.
+Solid, liquid, and gas are three states of matter.	Adì, aṣàn, àti òyì jẹ́ irú-ipò mẹ́ta ti èḍá.
+The pressure of a gas is related to its volume.	Èéfún òyì kan ní ìbátan sí àyè rẹ̀.
+Chemical bonds store energy that can be released in reactions.	Ìrón ẹlà tọ́jú agbára tí a lè tú sílẹ̀ nínú àwọn àsè.
+The alloy is a mixture of two or more metals.	Àyópọ̀ jẹ́ àkópọ̀ àwọn àlùrọ méjì tàbí jù bẹ́ẹ̀ lọ.
+The amalgam contains mercury mixed with other metals.	Àdàlú ní mercury tí a pọ̀ pẹ̀lú àwọn àlùrọ míràn.
+The concentration of a solution affects its properties.	Láti sọ dògidì ti àpòpọ̀ kan ní ipa lórí àwọn ìṣesí rẹ̀.
+Soap making involves the reaction of fats with alkali.	Ọṣẹ ṣíṣẹ́ ní àsè àwọn ọ̀rá pẹ̀lú aṣọṣẹ.
+Chemical equations must be balanced to obey conservation laws.	Òṃì ̣ẹlà gbọ́dọ̀ wà ní ìwọ̀ntúnwọ̀nsì láti tẹle àwọn òfin ìtọ́jú.
+The change in nature of elements follows periodic patterns.	Àyípadà nnú àyànmọ̀ àwọn ìṣù-átọmù tẹle àwọn àpẹẹrẹ lákòókò.
+The chemical process requires specific conditions for optimal results.	Àwọn ọnà àsè-ẹlà nílò àwọn ìdí pàtó fún àwọn èsì tí ó dára jùlọ.
+The color change indicates a chemical reaction has occurred.	Ìyípadà àwọ̀ fihan pé àsè ẹlà ti ṣẹlẹ̀.
+The drug contains active chemical compounds that affect the body.	Oògùn náà ní àwọn àsèpọ̀ ẹlà alágbára tí ó ní ipa lórí ara.
+Dyes are chemical compounds that impart color to materials.	Aró jẹ́ àwọn àsèpọ̀ ẹlà tí ó fún àwọn ohun èlò ní àwọ̀.
+The formula shows the chemical composition of the compound.	Àpẹẹrẹ náà fi ètò-inú ẹlà ti àsèpọ̀ hàn.
+The atomic structure determines the chemical properties.	Ètò átọmù pinnu àwọn ìṣesí ẹlà.
+Nitrogen gas makes up most of Earth's atmosphere.	Òyì-ilẹ̀ ṣe ọ̀pọ̀lọpọ̀ afẹ́ ayé.
+Oxygen is necessary for combustion reactions.	Òyì-iná jẹ́ dandan fún àwọn àsè jíjóná.
+The gas laws describe the behavior of gases under different conditions.	Àwọn ofin-òyì ṣàlàyé ìṣèwàhù àwọn òyì lábẹ́ àwọn ìdí oníyàtọ̀.
+The solute dissolves completely in the solution.	Gbẹrẹfun tú pátápátá nínú àpòpọ̀.
+Synthesis reactions combine simple substances to form complex ones.	Àwọn àsè ìṣèḍá pọ̀ àwọn èḍá rọrùn láti ṣẹ̀dá èyí tí ó ṣòro.
+The chemical reactor maintains optimal conditions for the reaction.	Abọ̀-àsè tọ́jú àwọn ìdí tí ó dára jùlọ fún àsè náà.
+The temperature scale measures the degree of hotness.	Ìdíwọn ìgbóná wọ́n ìpò ìgbóná.
+Alkali metals are stored in oil to prevent reaction with air.	A fi àlùrọ aṣọṣẹ pamọ́ nínú epo láti dí àsè pẹ̀lú afẹ́.
+The reaction of acid with base produces salt and water.	Àsè èḳan pẹ̀lú ègbo sun iyọ̀ àti omi.
+Silicon is a non-metal used in electronic devices.	Silika jẹ́ àdàrọ tí a lò nínú àwọn ẹ̀rọ ẹlẹ́tíríìkì.
+Tin and lead are heavy metals with low melting points.	Stania àti ojé jẹ́ àwọn àlùrọ wúwo pẹ̀lú àwọn ojú-iná yíyọ́ tí ó kéré.
+The breeze carries air pollutants away from industrial areas.	Afẹ́rẹ́ gbé àwọn ẹ̀gbin afẹ́ kúrò ní àwọn agbègbè iṣẹ́-ọnà.
+Fire is a rapid oxidation reaction that produces heat and light.	Iná jẹ́ àsè oxidation tí ó yára tí ó ń mú okun-iná àti ìmọ́lẹ̀ jáde.
+The reaction reaches equilibrium when forward and reverse rates equal.	Àsè náà dé agbede nígbà tí àwọn òṣùwọ̀n iwájú àti ẹ̀yìn bá dọ́gba.
+The heat energy from the reaction can be measured using a calorimeter.	A lè wọ́n agbára okun-iná láti àsè náà nípa lílo calorimeter.
+The gas equation relates pressure, volume, and temperature.	Òṃì òyì ṣe àlájọsọ èéfún, àyè, àti ìgbóná.
+Chemical bonds form when atoms share or transfer electrons.	Ìrón ẹlà ṣẹ̀dá nígbà tí àwọn átọmù bá pín tàbí gbé àwọn ẹlẹ́tíróònù lọ.
+The pressure increases as gas volume decreases.	Èéfún pọ̀ bí àyè òyì ṣe dínkù.
+The chemical reactivity of elements follows periodic trends.	Agbára àsè àwọn ìṣù-átọmù tẹle àwọn ìṣàn lákòókò.
+The chemical structure determines the properties of the compound.	Ètò ẹlà pinnu àwọn ìṣesí ti àsèpọ̀.
+Carbon forms the backbone of organic compounds.	Eedu ṣẹ̀dá ẹ̀yìn àwọn àsèpọ̀ eléedú.
+Sulfur has a characteristic smell when it burns.	Imi-ọjọ́ ní òórùn pàtàkì nígbà tí ó bá jó.
+The chemical formula H₂O represents water.	Àpẹẹrẹ ẹlà H₂O dúró fún omi.
+The reaction between hydrogen and oxygen produces water.	Àsè láàrín hydrogen àti òyì-iná mú omi jáde.
+Copper is a good conductor of electricity.	Kopa jẹ́ olùdarí rere ti ẹlẹ́tíríìkì.
+Iron undergoes corrosion in the presence of oxygen and water.	Irin ṣe ìbàjẹ́ ní ojú òyì-iná àti omi.
+The atomic structure determines how elements react with each other.	Ètò átọmù pinnu bí àwọn ìṣù-átọmù ṣe ṣe àsè pẹ̀lú ara wọn.
+Chemical equations must be balanced by conservation of mass.	A gbọ́dọ̀ ṣe ìwọ̀ntúnwọ̀nsì òṃì ̣ẹlà nípa ìtọ́jú ìwọ̀n.
+The laboratory contains equipment for conducting chemical experiments.	Ilé ìmọ-̣jinlẹ ̣ní àwọn ohun èlò fún ṣíṣe àwọn ìdánwò ẹlà.
+Gold is a noble metal that does not easily react with other elements.	Wura jẹ́ àlùrọ ọlọ́lá tí kò ṣe àsè pẹ̀lú àwọn ìṣù-átọmù míràn lófẹ́ẹ́.
+Physical chemistry studies the physical properties of chemical systems.	Èḳó-̣ẹlà t'ìṣeṣí-èḍá ̣kọ́ àwọn ìṣesí ara ti àwọn ètò ẹlà.
+The Gibbs free energy determines the spontaneity of a reaction.	Agbára wíwúlò ti Gíbìsì pinnu bóyá àsè kan ṣẹlẹ̀ fúnrararẹ̀.
+Chemical bonds store energy that can be released during reactions.	Ìrọ́n ẹlà tọ́jú agbára tí a lè tú sílẹ̀ lásìkò àwọn àsè.
+The equilibrium point is where the reaction appears to stop changing.	Ibi agbede ni ibi tí àsè náà fihàn láti dá dúró láti yípadà.
+A complete chemical reaction uses all the reactants.	Àsè-ìsèparí ẹlà lo gbogbo àwọn èsè-àsè.
+Sodium is an alkali metal that reacts vigorously with water.	Soda jẹ́ àlùrọ aṣọṣẹ tí ó ṣe àsè lórísírísí pẹ̀lú omi.
+The shape of molecules determines their chemical properties.	Ìrísí àwọn mólékù pinnu àwọn ìṣesí ẹlà wọn.
+Chemical composition shows the relative amounts of elements in a compound.	Ètò ohun-inú ẹlà fihan ìwọ̀n ìbátan àwọn ìṣù-átọmù nínú àsèpọ̀.
+The enthalpy of a reaction measures the heat transferred at constant pressure.	Agbára-Ìrọ́n àsè wọ́n okun-iná tí a gbé kọjá ní èéfún dúródúró.
+Nuclear reactions involve changes in the nucleus of atoms.	Àwọn àsè kóńgbó jẹ mọ́ àwọn ìyípadà nínú inú-kóńgbó àwọn átọmù.
+Titanium is a strong, lightweight metal used in aerospace.	Titania jẹ́ àlùrọ alágbára, fífúyẹ́ tí a lò nínú ẹ̀rọ-òfurufú.
+Calcium compounds are essential for bone formation.	Àwọn àsèpọ̀ kalsia jẹ́ pàtàkì fún ìṣẹ̀dá egungun.
+Matter exists in three states: solid, liquid, and gas.	Èḍá wà ní irú-ipò mẹ́ta: adì, aṣàn, àti òyì.
+A solvent is a substance that dissolves a solute to form a solution.	Epo jẹ́ èḍá tí ó tú gbẹrẹfun láti ṣẹ̀dá àpòpọ̀.
+Pressure affects the volume of gases according to Boyle's law.	Èéfún ní ipa lórí àyè àwọn òyì gẹ́gẹ́ bí òfin Boyle.
+Entropy increases in spontaneous processes.	Ìdàrú pọ̀ nínú àwọn ìlànà tí ó ṣẹlẹ̀ fúnrararẹ̀.
+The chemical formula shows the elements present in a compound.	Àpẹẹrẹ ẹlà fi àwọn ìṣù-átọmù tó wà nínú àsèpọ̀ hàn.
+Lead is a toxic heavy metal that can cause health problems.	Ojé jẹ́ àlùrọ wíwó oró tí ó lè fa àwọn ìṣòro ìlera.
+The chemical reactor controls temperature and pressure during reactions.	Abọ̀-àsè ṣàkóso ìgbóná àti èéfún lásìkò àwọn àsè.
+Chemical synthesis is the deliberate creation of chemical compounds.	Ìṣèḍá ẹlà jé ̣ìlànà tí a mòọ́ ṃò ̣gbà se àsè láti ní èṣún tí a nfé.̣
+Oxidation reactions involve the loss of electrons.	Àwọn àsè oxidation jẹ mọ́ pípàdánù àwọn ẹlẹ́tíróònù.
+Reduction reactions involve the gain of electrons.	Àwọn àsè ìdínkù jẹ mọ́ gbígba àwọn ẹlẹ́tíróònù.
+The reaction rate depends on temperature and concentration.	Òṣùwọ̀n àsè dá lórí ìgbóná àti bí ó ṣe dògidì tó.
+Catalysts increase reaction rates without being consumed.	Àwọn aláàtúnmú pọ̀ òṣùwọ̀n àsè láìjẹ́ pé a lò wọ́n tan.
+The periodic table organizes elements by their properties.	Tábìlì lákòókò to àwọn ìṣù-átọmù gẹ́gẹ́ bí àwọn ìṣesí wọn.
+A chemical bond is the force that holds atoms together in compounds.	Ìrọ́n ẹlà jẹ́ agbára tí ó mú àwọn átọmù jọ pọ̀ nínú àwọn àsèpọ̀.
+Chlorine is a reactive gas used for water treatment.	Òyì-iyọ̀ jẹ́ òyì aláṣe tí a lò fún ìtọ́jú omi.
+The molar mass of a compound is measured in grams per mole.	Ìwọ̀n molar ti àsèpọ̀ jẹ́ wíwọ̀n ní grams fún mole kọ̀ọ̀kan.
+Magnesia compounds are used in medical antacids.	A lo àwọn àsèpọ̀ magnesia nínú àwọn oògùn atúnẹmu-ẹ̀kan.
+Uranium undergoes nuclear fission to produce energy.	Urania ṣe pipin kóńgbó láti ṣe agbára.
+Chemical kinetics studies the rates of chemical reactions.	Èḳó ̣ìyára-ẹlà kọ́ àwọn òṣùwọ̀n àwọn àsè ẹlà.
+The specific heat capacity of water is unusually high.	Agbára okun-iná pàtó ti omi ga ní ọ̀nà àìdáàbò.
+Francium is the most reactive alkali metal.	Fransia jẹ́ àlùrọ aṣọṣẹ tí ó ṣe àsè jù.
+A mixture can be separated by physical methods.	A lè ya àkópọ̀ nípa àwọn ọ̀nà ara.
+Chemical compounds have fixed compositions.	Àwọn àsèpọ̀ ẹlà ní àwọn ètò-inú tí a fidiè sí.
+Mercury is a liquid metal at room temperature.	Mercury jẹ́ àlùrọ aṣàn ní ìgbóná yàrá.
+Boron compounds are used in detergents.	A lo àwọn àsèpọ̀ boron nínú àwọn aṣẹ afọ̀.
+Silver is less reactive than copper.	Fadaka kò ṣe àsè bí kopa.
+Helium is an inert gas used in balloons.	Helia jẹ́ òyì aláìṣàsè tí a lò nínú àwọn bálúù.
+Phosphorus glows in the dark due to slow oxidation.	Phosphorus tànmọ́lẹ̀ nínú òkùnkùn nítorí oxidation lẹ́lẹ́.
+The chemical industry produces compounds for various uses.	Iṣẹ́-ọnà ẹlà ṣe àwọn àsèpọ̀ fún oríṣiríṣi ìlò.
+Hydrocarbons contain only carbon and hydrogen.	Àwọn hydrocarbons ní eedu àti hydrogen nìkan.
+Oxygen is necessary for cellular respiration.	Òyì-iná jẹ́ dandan fún mímí sẹ́ẹ̀lì.
+The combustion reaction of methane produces carbon dioxide and water.	Àsè jíjóná ti methane mú carbon dioxide àti omi jáde.
+Nitrogen compounds are essential for plant growth.	Àwọn àsèpọ̀ òyì-ilẹ̀ jẹ́ pàtàkì fún ìdàgbàsókè ọ̀gbìn.
+Chemical weathering breaks down rocks through chemical reactions.	Àṣẹlẹ̀ ẹlà fọ́ àwọn àpáta nípa àwọn àsè ẹlà.
+The gas laws describe how gases behave under changing conditions.	Àwọn ofin-òyì ṣàlàyé bí àwọn òyì ṣe hùwà lábẹ́ àwọn ìdí tí ń yípadà.
+Zinc and copper form the alloy brass.	Zinc àti kopa ṣẹ̀dá àyọpọ̀ brass.
+A molecule is the smallest unit of a compound that retains its properties.	Mólékù jẹ́ ẹ̀kà kékeré jùlọ ti àsèpọ̀ tí ó dá àwọn ìṣesí rẹ̀ dúró.
+Chemical indicators change color to show pH levels.	Àwọn afihan ẹlà yí àwọ̀ padà láti fi ipò pH hàn.
+Carbon dioxide is a greenhouse gas that contributes to global warming.	Carbon dioxide jẹ́ òyì ilé-omi-ńtútù tí ó ṣe ìrànlọ́wọ́ sí ìgbóná gbogbo agbáyé.
+The chemical potential energy is stored in bonds between atoms.	A fi agbára ẹlà agbára pamọ́ nínú àwọn ìrọ́n láàrín àwọn átọmù.
+A chemical substance has a definite composition.	Èḍá ẹlà ní ètò-inú tí a fi sọ pàtó.
+The iodine test detects the presence of starch.	Ìdánwò iodo ṣàwárí ìwà starch.
+Manganese is a transition metal with multiple oxidation states.	Manganese jẹ́ àlùrọ ìyípadà pẹ̀lú ọ̀pọ̀lọpọ̀ ipò oxidation.
+Chemical energy can be converted to electrical energy in batteries.	A lè yí agbára ẹlà padà sí agbára ẹlẹ́tíríìkì nínú àwọn bátìrì.
+The solubility of gases in liquids decreases as temperature increases.	Agbára tútà àwọn òyì nínú àwọn aṣàn dínkù bí ìgbóná ṣe ń pọ̀.
+Chemical coordination compounds contain metal ions bonded to ligands.	Àwọn àsèpọ̀ ìṣàkóso ẹlà ní àwọn ion àlùrọ tí a so mọ́ àwọn ligand.
+The chemical industry produces fertilizers for agriculture.	Iṣẹ́-ọnà ẹlà ṣe àwọn àbọ̀rẹ́ fún àgbẹ̀.
+Actinium is a radioactive element that decays rapidly.	Actinium jẹ́ ìṣù-átọmù radio-active tí ó bàjẹ́ kíákíá.
+The ideal gas equation relates pressure, volume, and temperature.	Òṃì òyì ideal ṣe àlájọsọ èéfún, àyè, àti ìgbóná.
+Chemical energy in food is released during digestion.	A tú agbára ẹlà nínú oúnjẹ sílẹ̀ lásìkò ìlò-oúnjẹ.
+A chemical bond is formed when atoms share electrons.	A ṣẹ̀dá ìrọ́n ẹlà nígbà tí àwọn átọmù bá pín àwọn ẹlẹ́tíróònù.
+The reactivity series ranks metals according to their chemical activity.	Òǹkà àṣesí to àwọn àlùrọ gẹ́gẹ́ bí iṣẹ́ ẹlà wọn.
+Scandium is the first element in the transition metal series.	Scandia jẹ́ ìṣù-átọmù àkọ́kọ́ nínú ẹgbẹ́ àlùrọ ìyípadà.
+Chemical corrosion damages metal structures over time.	Ìbàjẹ́ ẹlà ba àwọn ètò àlùrọ jẹ́ lórí àkókò.
+The empirical formula shows the simplest ratio of elements in a compound.	Àpẹẹrẹ empirical fi ìbùpín rọrùn jùlọ ti àwọn ìṣù-átọmù nínú àsèpọ̀ hàn.
+Thorium is used as nuclear fuel in some reactors.	A lo toria gẹ́gẹ́ bí epo-ina kóńgbó nínú àwọn abọ̀-àsè kan.
+Silicon is the main element in computer chips.	Silika jẹ́ ìṣù-átọmù àkọ́kọ́ nínú àwọn chips kọ̀mpútà.
+Chemical decomposition breaks down complex substances into simpler ones.	Ìṣẹ́ẹ́bẹ́ ẹlà fọ́ àwọn èḍá ṣòro sí àwọn tí ó rọrùn.
+Hydrochloric acid reacts with sodium hydroxide to form salt and water.	Àsídì hydrochloric ṣe àsè pẹ̀lú sodium hydroxide láti ṣẹ̀dá iyọ̀ àti omi.
+Iodine is a non-metal that sublimes easily at room temperature.	Iodo jẹ́ àdàrọ tí ó ń yí láti adì sí òyì ní ojú ìgbóná yàrá.
+The triple point is where solid, liquid, and gas phases coexist.	Ojú mẹ́ta ni ibi tí àwọn ipò adì, aṣàn, àti òyì báṣepọ̀.
+Chemical analysis can determine the purity of a substance.	Èḳó ̣ìṣeyanjú-ẹlà lè pinnu ìmọ́ èḍá kan.
+Neodymium is used in powerful magnets.	A lo neodimia nínú àwọn òkúta alágbára.
+The atomic number represents the number of protons in an atom.	Nọ́mbà átọmù dúró fún iye àwọn proton nínú átọmù.
+Selenium is important for human health as a trace element.	Selenia jẹ́ pàtàkì fún ìlera ọmọnìyàn gẹ́gẹ́ bí ìṣù-átọmù ìṣàmì.
+Chemical reactions can be endothermic or exothermic.	Àwọn àsè ẹlà lè jẹ́ aloná tàbí afaná.
+Aluminum is used in aircraft due to its low density.	A lo alumo nínú ọkọ̀-òfurufú nítorí ìsúnsí kéré rẹ̀.
+Chemical waste must be disposed of properly to protect the environment.	A gbọ́dọ̀ tú ìdọ̀tí ẹlà nù dáadáa láti dáàbò bo àyíká.
+Radium is highly radioactive and glows in the dark.	Radia ní radio-active púpọ̀ ó sì tàn mọ́lẹ̀ nínú òkùnkùn.
+Chemical sensors detect specific substances in the environment.	Àwọn átẹ́gùn ẹlà ṣàwárí àwọn èḍá pàtó nínú àyíká.
+Gadolinium has unique magnetic properties.	Gadolinia ní àwọn ìṣesí òkúta àìjọra.
+The concentration of a solution affects its chemical properties.	Bí ó ṣe dògidì tó ti àpòpọ̀ ní ipa lórí àwọn ìṣesí ẹlà rẹ̀.
+The chemist prepared a solution of known concentration.	Akéḳọ ẹlà pèsè àpòpọ̀ tí ó mọ bí ó ṣe dògidì tó.
+Chemical buffers maintain stable pH in solutions.	Àwọn afara ẹlà fi ipò pH tí ó dúró ṣinṣin nínú àwọn àpòpọ̀.
+Carbon has multiple allotropes including diamond and graphite.	Eedu ní ọ̀pọ̀lọpọ̀ àwọn allotropes tí ó fi díámọ̀ndì àti graphite kún.
+The gas equation PV=nRT relates pressure, volume, and temperature.	Òṃì òyì PV=nRT ṣe àlájọsọ èéfún, àyè, àti ìgbóná.
+Polonium is a rare radioactive element.	Polonia jẹ́ ìṣù-átọmù radio-active tí ó ṣọ̀wọ́n.
+Chemical reactions always conserve mass and energy.	Àwọn àsè ẹlà máa ń tọ́jú ìwọ̀n àti agbára nígbàgbogbo.
+Samarium is used in magnets and cancer treatments.	A lo samaria nínú àwọn òkúta àti ìtọ́jú àrùn jẹjẹrẹ.
+A chemical catalyst increases reaction rate without being consumed.	Aláàtúnmú ẹlà pọ̀ òṣùwọ̀n àsè láìjẹ́ pé a ń lò ó nínú àsè.
+The first law of thermodynamics relates to energy conservation.	Òfin àkọ́kọ́ ti thermodynamics jẹ mọ́ ìtọ́jú agbára.
+Chemists use spectroscopy to identify unknown compounds.	Àwọn akéḳọ ẹlà lo spectroscopy láti dá àwọn àsèpọ̀ àìmọ̀.
+Chemical isomers have the same formula but different structures.	Àwọn isomers ẹlà ní àpẹẹrẹ kan náà ṣùgbọ́n àwọn ètò oníyàtọ̀.
+Ruthenium is a rare transition metal.	Rutenia jẹ́ àlùrọ ìyípadà tí ó ṣọ̀wọ́n.
+Chemical intermolecular forces determine physical properties of substances.	Àwọn agbára intermolecular ẹlà pinnu àwọn ìṣesí ara ti àwọn èḍá.
+Tantalum is resistant to chemical corrosion.	Tantalum korò sí ìbàjẹ́ ẹlà.
+The chemist studied the reaction mechanism.	Akéḳọ ẹlà kọ́ ètò àsè náà.
+Cerium is the most abundant rare earth element.	Ceria jẹ́ ìṣù-átọmù ilẹ̀ aṣọ̀wọ́n tí ó pọ̀jù.
+Ionic bonds form between metals and non-metals.	Àwọn ìrọ́n ayọni ṣẹ̀dá láàrín àwọn àlùrọ àti àdàrọ.
+Chromium compounds give vibrant colors to gems.	Àwọn àsèpọ̀ cromia fún àwọn òkúta iyebíye ní àwọn àwọ̀ gbígbòná.
+The rate of reaction depends on the activation energy.	Òṣùwọ̀n àsè dá lórí agbára ìgbàlódé.
+Thallium is a toxic heavy metal.	Talia jẹ́ àlùrọ wíwó oró.
+Chemical thermodynamics studies energy in chemical reactions.	Èḳó ̣agbára-okun ẹlà kọ́ agbára nínú àwọn àsè ẹlà.
+Yttrium is found in rare earth minerals.	A rí yitiria nínú àwọn òkúta ilẹ̀ aṣọ̀wọ́n.
+The chemical cycle repeats through a series of reactions.	Àyíká ẹlà tún ṣẹlẹ̀ láti inú ìtẹ̀lé àwọn àsè.
+Europium compounds are used in anti-counterfeiting marks.	A lo àwọn àsèpọ̀ europia nínú àwọn àmì atako-àwọn-èdà.
+The oxidation state indicates the degree of electron loss.	Ipò oxidation fihan iye ìpàdánù ẹlẹ́tíróònù.
+Zinc reacts with hydrochloric acid to produce hydrogen gas.	Zinc ṣe àsè pẹ̀lú àsídì hydrochloric láti mú òyì hydrogen jáde.
+Caesium is the most electropositive element.	Cesia jẹ́ ìṣù-átọmù tí ó ní electropositive jùlọ.
+Chemical properties are determined by electron configuration.	A ń pinnu àwọn ìṣesí ẹlà nípa ètò ẹlẹ́tíróònù.
+Berkelium is a synthetic radioactive element.	Bekelia jẹ́ ìṣù-átọmù radio-active àdáṣẹ.
+The chemical precipitate settled at the bottom of the flask.	Àdàgbàsókè ẹlà balẹ̀ ní ìsàlẹ̀ fláàsì náà.
+Beryllium is lightweight but extremely strong.	Berilia fẹ́ nínú ṣùgbọ́n ó lágbára púpọ̀.
+The reaction was driven by entropy increase.	Àsè náà ní ìtọ́kasí nípa ìpọ̀si ìdàrú.
+Cobalt is used in high-strength alloys.	A lo cobalt nínú àwọn àyọpọ̀ alágbára-gíga.
+The chemical gradient determines the direction of diffusion.	Òṣùùṣù ẹlà pinnu ìtọ́sí ìtànkálẹ̀.
+Californium can be used as a neutron source.	A lè lo kalifonia gẹ́gẹ́ bí orísun neutron.
+Aromatic compounds contain ring structures.	Àwọn àsèpọ̀ olóòórùn ní àwọn ètò òrùka.
+Rhodium is used in catalytic converters.	A lo rodia nínú àwọn ayípadà aláàtúnmú.
+Chemical stoichiometry deals with the quantities in reactions.	Èḳó ̣ìwọ̀n-ìkọ̀tọ̀ ẹlà dájú pẹ̀lú àwọn ìwọ̀n nínú àwọn àsè.
+Fermium was named after physicist Enrico Fermi.	A sọ femia ní orúkọ lẹ́yìn physicist Enrico Fermi.
+The chemical catalyst lowered the activation energy.	Aláàtúnmú ẹlà dín agbára ìgbàlódé kù.
+Strontium compounds give red color to fireworks.	Àwọn àsèpọ̀ strontia fún àwọn iná-afẹ́fẹ́ ní àwọ̀ pupa.
+The chemical reaction proceeded through multiple steps.	Àsè ẹlà tẹ̀síwájú láti inú ọ̀pọ̀lọpọ̀ àwọn ìgbésẹ̀.
+Promethium is a rare radioactive element.	Prometia jẹ́ ìṣù-átọmù radio-active aṣọ̀wọ́n.
+The chemical bond energy determines stability.	Agbára ìrọ́n ẹlà pinnu ìdúróṣinṣin.
+Einsteinium was discovered in nuclear test debris.	A ṣe àwárí ainstenia nínú ìdọ̀tí idánwò kóńgbó.
+Analytical chemistry determines composition of substances.	Èḳó ̣ìṣeyanjú-ẹlà pinnu ètò-inú ti àwọn èḍá.
+Palladium is used in catalytic converters.	A lo paladia nínú àwọn ayípadà aláàtúnmú.
+Chemical polarity affects solubility.	Ojú-méjì ẹlà ní ipa lórí agbára tútà.
+Holmium has the highest magnetic strength of any element.	Holmia ní agbára òkúta tí ó ga jùlọ nínú gbogbo ìṣù-átọmù.
+The chemical yield indicates the efficiency of a reaction.	Èrè ẹlà fihan ìṣeére ti àsè kan.
+Dysprosium is used in nuclear reactors.	A lo disprosia nínú àwọn abọ̀-àsè kóńgbó.
+Chemical resonance stabilizes certain molecular structures.	Ìdún ẹlà mú àwọn ètò mólékù kan dúró ṣinṣin.
+Indium is used in semiconductor manufacturing.	A lo india nínú ìṣẹ̀dá semiconductor.
+The chemical complex contains a central metal ion.	Iṣòro ẹlà ní ion àlùrọ àárín.
+Lawrencium is one of the artificially created elements.	Laurensia jẹ́ ọ̀kan nínú àwọn ìṣù-átọmù tí a dá lọ́wọ́.
+The chemical formula represents the composition of a compound.	Àpẹẹrẹ ẹlà dúró fún ètò-inú ti àsèpọ̀ kan.
+Lutetium is the heaviest lanthanide element.	Lutetia jẹ́ ìṣù-átọmù lanthanide tí ó wúwo jùlọ.
+Chemical stability depends on electron configuration.	Ìdúróṣinṣin ẹlà dá lórí ètò ẹlẹ́tíróònù.
+Mendelevium was named after Dmitri Mendeleev.	A sọ mendelefia ní orúkọ lẹ́yìn Dmitri Mendeleev.
+The chemical reaction reached completion in one hour.	Àsè ẹlà náà dé àsè-ìsèparí ní wákàtí kan.
+Molybdenum is important in biological systems.	Molybdenum jẹ́ pàtàkì nínú àwọn ètò biological.
+Chemical pigments give color to paints.	Àwọn aṣàwọ̀ ẹlà fún àwọn penti ní àwọ̀.
+Nobelium was named after Alfred Nobel.	A sọ nobelia ní orúkọ lẹ́yìn Alfred Nobel.
+The chemical bond length affects molecular properties.	Gígùn ìrọ́n ẹlà ní ipa lórí àwọn ìṣesí mólékù.
+Osmium is the densest naturally occurring element.	Osmia jẹ́ ìṣù-átọmù tí ó ṣúnsí jùlọ tí ó ṣẹlẹ̀ ní àdáyébá.
+Chemical impurities can affect reaction outcomes.	Àwọn àìmọ́ ẹlà lè ní ipa lórí àwọn èsì àsè.
+Praseodymium compounds have a distinctive green color.	Àwọn àsèpọ̀ praseodimia ní àwọ̀ ewé àtọ̀ka.
+The chemical bonds store potential energy.	Àwọn ìrọ́n ẹlà tọ́jú agbára ìṣeénì.
+Protactinium is a rare radioactive metal.	Purotatinia jẹ́ àlùrọ radio-active aṣọ̀wọ́n.
+Chemical crystallization separates solids from solution.	Ìṣẹ̀dá-crystal ẹlà ya àwọn adì kúrò nínú àpòpọ̀.
+Rhenium has one of the highest melting points.	Renia ní ọ̀kan nínú àwọn ojú-iná yíyọ́ tí ó ga jùlọ.
+The chemical solution was filtered to remove impurities.	A ṣàlọ àpòpọ̀ ẹlà náà láti mú àwọn àìmọ́ kúrò.
+Rubidium reacts violently with water.	Rubidia ṣe àsè lọ́sànájàn pẹ̀lú omi.
+Chemical adsorption occurs on the surface of solids.	Àsopọ̀ orí ẹlà ṣẹlẹ̀ lórí ojú àwọn adì.
+Technetium is the lightest radioactive element.	Teknetia jẹ́ ìṣù-átọmù radio-active tí ó fẹ́ jùlọ.
+The chemical structure determines molecular function.	Ètò ẹlà pinnu iṣẹ́ mólékù.
+Tellurium is a semiconductor with electrical properties.	Teluria jẹ́ semiconductor pẹ̀lú àwọn ìṣesí ẹlẹ́tíríìkì.
+Chemical combustion requires oxygen and fuel.	Jíjóná ẹlà nílò òyì-iná àti epo-ina.
+Terbium compounds glow green under ultraviolet light.	Àwọn àsèpọ̀ tebia tànmọ́lẹ̀ ewé lábẹ́ ìmọ́lẹ̀ ultraviolet.
+The chemical mixture was separated by distillation.	A ya àkópọ̀ ẹlà nípa ìgbẹ́-omi-sókè.
+Tungsten has the highest melting point of all metals.	Tungsten ní ojú-iná yíyọ́ tí ó ga jùlọ nínú gbogbo àwọn àlùrọ.
+Chemical reactions involve breaking and forming bonds.	Àwọn àsè ẹlà jẹ mọ́ fífọ́ àti ṣíṣẹ̀dá àwọn ìrọ́n.
+Ytterbium expands when heated, unlike most metals.	Yitabia fẹ̀ nígbà tí a bá gbóná, yàtọ̀ sí ọ̀pọ̀lọpọ̀ àwọn àlùrọ.
+The chemical lattice structure gives crystals their shape.	Ètò àjà ẹlà fún àwọn crystal ní ìrísí wọn.
+Vanadium improves the strength of steel alloys.	Fanadia mú agbára àwọn àyọpọ̀ irin pọ̀.
+Chemical diffusion moves molecules from high to low concentration.	Ìtànkálẹ̀ ẹlà gbé àwọn mólékù láti ibi tí ó dògidì ga sí ibi tí ó dògidì kéré.
+Xenon is a noble gas used in specialized lighting.	Senia jẹ́ òyì ọlọ́lá tí a lò nínú ìmọ́lẹ̀ pàtàkì.
+The chemical industry produces materials for manufacturing.	Iṣẹ́-ọnà ẹlà ṣe àwọn ohun èlò fún ìṣẹ̀dá.
+Zirconium is resistant to corrosion and used in nuclear reactors.	Saconia korò sí ìbàjẹ́ a sì lò ó nínú àwọn abọ̀-àsè kóńgbó.
+Chemical detergents contain surfactants that break up dirt.	Àwọn aṣẹ afọ̀ ẹlà ní àwọn surfactant tí ó ń fọ́ èérí.
+Radon is a radioactive gas that can accumulate in buildings.	Redonu jẹ́ òyì radio-active tí ó lè kójọpọ̀ nínú àwọn ilé.
+The chemical reaction was catalyzed by enzymes.	Àsè ẹlà náà ní àtúnmú nípa àwọn ẹnzímù.
+Lithium is the lightest metal and highly reactive.	Litia jẹ́ àlùrọ tí ó fẹ́ jùlọ ó sì ṣe àsè púpọ̀.
+Chemical inhibitors slow down reaction rates.	Àwọn adínkù ẹlà dín òṣùwọ̀n àsè lélẹ̀.
+Krypton is used in high-intensity lighting.	A lo krypton nínú ìmọ́lẹ̀ alágbára-gíga.
+The chemical detector identified toxic gases.	Aṣàwárí ẹlà dá àwọn òyì oró.
+Niobium is used in superconducting magnets.	A lo niobia nínú àwọn òkúta superconducting.
+Chemical oxidation involves the loss of electrons.	Oxidation ẹlà jẹ mọ́ pípàdánù àwọn ẹlẹ́tíróònù.
+Lanthanum is used in carbon arc lights.	A lo lanthanum nínú àwọn ìmọ́lẹ̀ ọfẹ́ carbon.
+The chemical formula shows molecular composition.	Àpẹẹrẹ ẹlà fi ètò-inú mólékù hàn.
+Lead acid batteries store chemical energy.	Àwọn bátìrì àsídì ojé tọ́jú agbára ẹlà.
+Chemical electrolysis uses electricity to drive reactions.	Ìpínṣẹ́ tó fi ojú ẹlẹ́tíríìkì ẹlà lo ẹlẹ́tíríìkì láti wá àwọn àsè.
+Neodymium magnets are the strongest permanent magnets.	Àwọn òkúta neodimia ni àwọn òkúta láìlópin tí ó lágbára jùlọ.
+The chemical waste must be properly neutralized.	Ó ṣe dandan kí a ṣe ìdálẹ́tọ́ ìdọ̀tí ẹlà dáadáa.

@@ -1,0 +1,195 @@
+Physics is the study of matter and its motion through spacetime.	Ẹ̀kọ́ (nípa) ẹ̀dá jẹ́ ẹ̀kọ́ ìmọ̀-jinlẹ̀ tó wà fún kíkọ́ nípa ẹ̀dá àti ìpapòdà rẹ̀ nínù àyé-ayé òun ìgbà-ayé.
+Energy is the capacity to do work.	Agbára jẹ́ okun fún ètò ẹ̀dá kan láti le ṣe iṣẹ́.
+Heat energy is a form of energy which transfers among particles in a substance.	Agbára Okun-iná jẹ́ oríṣi agbára kan tí a lè ṣi ní ipò láarín àwọn átọ̀mù inú ẹ̀dá kan.
+The temperature of water increases when heated.	Ìgbóná omi a máa gùn sókè nígbàtí a bá gbé e gbóná.
+Scientists use a thermometer to measure temperature.	Àwọn onímọ̀n-jinlẹ̀ a máa lo òṣùwọ̀n-ìgbóná láti díwọ̀n ìgbóná.
+Light is a form of radiant energy that you can detect with your eyes.	Agbára ìtànná jẹ́ irú agbára atàn kan tí a lè fi ojú rí.
+Sound energy is energy produced by sound vibrations.	Agbára Ìró jẹ́ agbára tó ṣẹ̀ wá láti gbígbọ̀n àwọn nkan tó ndún.
+Force is any influence that causes an object to undergo a change in speed, direction, or shape.	Ipá jẹ́ òkùnfà tó le mú kí ẹ̀dá kan kí ó pa eré dà, tàbí kí ó yà lọ́nà rẹ̀, tàbí kí ó tilẹ̀ pa ìrí ara rẹ̀ dà.
+Electricity is energy made available by the flow of electric charge through a conductor.	Agbára Okun-ará jẹ́ agbára tó di wíwà nípa ìṣọ̀n iye-àrá kan nínú òpó ìṣọ̀n-àrá.
+A magnet attracts objects containing iron.	Òòfà a máa fa àwọn ohun tó ní irin sí ara rẹ̀.
+Gravitational force is responsible for the weight of objects.	Ipá òòfà-ilẹ̀ ló máa fa kí nkan ní ìwọ̀n-ìwúwo.
+The speed of an object is the rate at which its position changes with time.	Eré ohun kan jẹ́ ìwọ̀n-iye bí ipò rẹ̀ ṣe nyí pẹ̀lú àkókò.
+Acceleration is the rate of change of velocity with time.	Ìdà-eré jẹ́ ìwọ̀n ìyípadà eré pẹ̀lú àkókò.
+Friction is the force that opposes the motion of objects that touch.	Ìmúlẹ̀ jẹ́ ipá tí ó takò ìpapòdà àwọn nkan tí ó fi ara kàn.
+Light travels at a speed of 299,792,458 meters per second in a vacuum.	Ìtànná a máa ṣọ̀n pẹ̀lú ìyásí 299,792,458 mítà ní ìṣísẹ̀ kan nínú afẹ́fẹ́ òfìfo.
+Sound waves require a medium to travel through.	Agbọ̀n ìró nílò nkan kan láti gbà ṣọ̀n.
+When you drop an object, it falls due to gravity.	Nígbàtí o bá ju nkan sílẹ̀, yóò ṣubú nítorí òòfà-ilẹ̀.
+A mechanical wave is a wave that needs a medium to travel through.	Agbọ̀n ẹ̀rọ jẹ́ agbọ̀n tó nílò nkan láti gbà rin.
+Energy can neither be created nor destroyed.	A kò lè dá agbára, bẹ́ẹ̀ni a kò lè pa agbára run.
+The atomic theory states that all matter is made of atoms.	Àlàyé átọ̀mù sọ pé gbogbo àìdá jẹ́ akójọpọ̀ àwọn átọ̀mù.
+The speed of sound in air is approximately 343 meters per second.	Ìyásí ìró nínú afẹ́ tó jẹ́ bí 343 mítà ní ìṣísẹ̀ kan.
+Pressure is force per unit area.	Èéfún jẹ́ ipá fún àyè kan.
+Air pressure decreases as altitude increases.	Èéfún afẹ́ a máa dínkù bí gíga bá ṣe npọ̀ sí i.
+A lever is a simple machine that multiplies force.	Egbé jẹ́ ẹ̀rọ àkọ́dá tí ó nlọ ipá sí i.
+An inclined plane makes it easier to lift heavy objects.	Pẹpẹ dídà a máa mú kí ó rọrùn láti gbé àwọn nkan wíwúwo sókè.
+A pulley changes the direction of a force.	Afàwọ̀n a máa yí ipa ipá padà.
+A screw is an inclined plane wrapped around a cylinder.	Ìdè jẹ́ pẹpẹ dídà tí a ká yí agolo.
+A wheel and axle multiplies force or distance.	Ayíra àt'apòyì a máa mú kí ipá tàbí ìjìn pọ̀ sí i.
+Velocity is speed in a given direction.	Ìyásí Ìpapòdà jẹ́ eré ní ipa kan.
+Mass is a measure of how much matter is in an object.	Ìwọ̀n-okun jẹ́ ìwọ̀n ìwọ̀n àìdá tó wà nínú nkan kan.
+Weight is the force exerted on an object due to gravity.	Ìwọ̀n-ìwúwo jẹ́ ipá tí òòfà-ilẹ̀ fi dé lórí nkan kan.
+Volume is a measure of the amount of space occupied by an object.	Àyè jẹ́ ìwọ̀n iye ibi tí nkan kan gbà.
+Density is mass per unit volume.	Ọ̀rìn jẹ́ ìwọ̀n-okun fún àyè kan.
+Work is the product of force and displacement in the direction of force.	Iṣẹ́ jẹ́ ẹ̀sún ipá àti ìjìn ní ipa ipá.
+Power is the rate at which work is done.	Ìgbóra jẹ́ ìyásí bí iṣẹ́ ṣe nṣe.
+Kinetic energy is the energy of motion.	Agbára (nípa) ìmira jẹ́ agbára nípa ìpapòdà.
+Potential energy is stored energy due to position or state.	Agbára (nípa) Ipò jẹ́ agbára tí a pamọ́ sí inú ẹ̀dá kan tàbí ètò kan nípa ipò ti nkan yi wà.
+Heat is the transfer of thermal energy from one object to another.	Okun-iná jẹ́ ìṣínípò agbára ìgbóná láti ara nkan kan sí èkejì.
+Temperature is a measure of the average kinetic energy of particles in a substance.	Ìgbóná jẹ́ ìwọ̀n àròpín agbára ìmira àwọn átọ̀mù inú ẹ̀dá kan.
+Thermal expansion is the tendency of matter to change in shape, area, and volume in response to a change in temperature.	Ìgbóna-ìgbàyẹ̀ jẹ́ ìṣèwahù àìdá láti yípadà ní ìrísí, òrò, àti àyè nígbàtí ìgbóná bá yí padà.
+Boyle's law states that the pressure of a gas is inversely proportional to its volume at constant temperature.	Òfin Boyle sọ pé èéfún òyì jẹ́ ìdà ìbátan sí àyè rẹ̀ ní ìgbóná aìyípadà.
+Charles's law states that the volume of a gas is directly proportional to its temperature at constant pressure.	Òfin Charles sọ pé àyè òyì jẹ́ tààrà ìbátan sí ìgbóná rẹ̀ ní èéfún aìyípadà.
+Hooke's law states that the extension of a spring is directly proportional to the force applied to it.	Òfin Hooke sọ pé ìnáró àwọ̀n jẹ́ tààrà ìbátan sí ipá tí a fi sí i.
+Newton's first law of motion states that an object will remain at rest or in uniform motion unless acted upon by an external force.	Òfin ìpapòdà àkọ́kọ́ ti Newton sọ pé nkan kan yóò wà ní ìsinmi tàbí ní ìpapòdà déédé àyàfi tí ipá láti òde bá wà lórí rẹ̀.
+Newton's second law of motion states that the acceleration of an object is directly proportional to the net force acting on it and inversely proportional to its mass.	Òfin ìpapòdà èkejì ti Newton sọ pé ìdà-eré ohun kan jẹ́ tààrà ìbátan sí ipá tó bá wà lórí rẹ̀ àti ìdà ìbátan sí ìwọ̀n-okun rẹ̀.
+Newton's third law of motion states that for every action, there is an equal and opposite reaction.	Òfin ìpapòdà èkẹta ti Newton sọ pé fún gbogbo ìṣesí, ìṣesí ìdápadà tí ó dọ́gba tí ó sì lòdì wà.
+The law of conservation of energy states that energy cannot be created or destroyed, only transformed from one form to another.	Òfin ìpamọ́ agbára sọ pé a kò lè dá agbára tàbí pa agbára run, a lè kàn yí i padà láti orí kan sí èkejì.
+The law of conservation of momentum states that the total momentum of a closed system remains constant.	Òfin ìpamọ́ ìyíparaḿọ́ sọ pé ìyíparaḿọ́ àpapọ̀ ètò tí a tì pa á jẹ́ déédé.
+The Doppler effect is the change in frequency of a wave in relation to an observer who is moving relative to the wave source.	Àkóbá Doppler jẹ́ ìyípadà ní ìyásí agbọ̀n kan ní ìbátan sí olùwòran tí ó nṣe ìpapòdà ní ìbátan sí orísun agbọ̀n náà.
+Diffraction is the bending of waves around obstacles or through openings.	Ìwọ́-agbọ̀n jẹ́ wíwọ́ agbọ̀n yí àwọn ìdènà tàbí láti inú àwọn ihò.
+Interference is the phenomenon that occurs when two waves meet while traveling along the same medium.	Ìṣẹ́parapọ̀ jẹ́ ìṣẹlẹ̀ tí ó máa nṣẹlẹ̀ nígbàtí agbọ̀n méjì bá pàdé nígbàtí wọ́n ń lọ lórí nkan kan náà.
+Reflection is the change in direction of a wave at a boundary between two different media.	Ìpadà-agbọ̀n jẹ́ ìyípadà ní ipa agbọ̀n kan ní aàlà láàrín àwọn nkan méjì tí ó yàtọ̀.
+Refraction is the change in direction of a wave passing from one medium to another.	Ìṣẹ́-ìtànná jẹ́ ìyípadà ní ipa agbọ̀n kan tí ó nkọjá láti inú nkan kan sí òmíràn.
+Static electricity is an imbalance of electric charges within or on the surface of a material.	Àrá-dúró jẹ́ àìdọ́gba àwọn iye-àrá nínú tàbí lórí ojú ohun kan.
+Electric current is the flow of electric charge.	Ìsán-àrá jẹ́ ìṣọ̀n iye-àrá.
+Voltage is the difference in electric potential between two points.	Ìgbóra-àrá jẹ́ ìyàtọ̀ ní agbára-àrá láàrín àwọn ojúlé méjì.
+Resistance opposes the flow of electric current through a conductor.	Atako takò ìṣọ̀n ìsán-àrá láti inú onípa kan.
+Ohm's law states that the current through a conductor is directly proportional to the voltage and inversely proportional to the resistance.	Òfin Ohm sọ pé ìsán-àrá láti inú onípa kan jẹ́ tààrà ìbátan sí ìgbóra-àrá àti ìdà ìbátan sí atako.
+A series circuit provides only one path for electricity to flow.	Ìrìnpo tẹ̀lé-ara-wọn pèsè ọ̀nà kan fún àrá láti ṣọ̀n.
+A parallel circuit provides multiple paths for electricity to flow.	Ìrìnpo apọ̀gbà pèsè ọ̀pọ̀lọpọ̀ àwọn ọ̀nà fún àrá láti ṣọ̀n.
+An electric motor converts electrical energy into mechanical energy.	Ẹ̀rọ àrá-yíyí yí agbára àrá padà sí agbára ẹ̀rọ.
+A generator converts mechanical energy into electrical energy.	Ẹ̀rọ afaragbára yí agbára ẹ̀rọ padà sí agbára àrá.
+A transformer changes the voltage of alternating current.	Ẹ̀rọ ayípadà-àrá yí ìgbóra-àrá ìsán-àrá ayípadà.
+Electromagnetism is the interaction between electricity and magnetism.	Àrá-òòfà jẹ́ ìbáraṣepọ̀ láàrín àrá àti òòfà.
+A magnetic field is the area around a magnet where its force can be detected.	Ìtẹ́ òòfà jẹ́ àgbègbè yí òòfà ka níbi tí a lè rí ipá rẹ̀.
+An electromagnetic wave consists of oscillating electric and magnetic fields.	Agbọ̀n àrá-òòfà jẹ́ akójọpọ̀ ìtẹ́ àrá àti òòfà tí ó nmì.
+Radio waves are electromagnetic waves with the longest wavelengths.	Agbọ̀n rédíò jẹ́ agbọ̀n àrá-òòfà pẹ̀lú ìgbọ̀n agbọ̀n tí ó gùn jùlọ.
+Microwaves are electromagnetic waves that cause water molecules to vibrate.	Agbọ̀n maikro jẹ́ agbọ̀n àrá-òòfà tí ó mú kí àwọn mólékù omi gbọ̀n.
+Infrared waves are electromagnetic waves that we feel as heat.	Agbọ̀n infraredi jẹ́ agbọ̀n àrá-òòfà tí a lè mọ̀ bí okun-iná.
+Visible light is the part of the electromagnetic spectrum that humans can see.	Ìtànná àfojúrí jẹ́ apá ti ìlànà agbọ̀n àrá-òòfà tí ènìyàn lè rí.
+Ultraviolet waves have higher frequencies than visible light.	Agbọ̀n arekojaosorun ní ìyásí tí ó ga ju ìtànná àfojúrí lọ.
+X-rays are high-energy electromagnetic waves used in medical imaging.	Agbọ̀n ekisi jẹ́ agbọ̀n àrá-òòfà alágbára-gíga tí a nlò fún àwòrán ìṣègùn.
+Gamma rays are the highest-energy electromagnetic waves.	Agbọ̀n gamma jẹ́ agbọ̀n àrá-òòfà tí ó ní agbára-gíga jùlọ.
+The electromagnetic spectrum is the range of all possible frequencies of electromagnetic radiation.	Ìlànà agbọ̀n àrá-òòfà jẹ́ àkójọ gbogbo àwọn ìyásí tí ó ṣeéṣe ti ìtànká àrá-òòfà.
+Einstein's theory of relativity describes how time and space are not absolute but relative to the observer's frame of reference.	Àlàyé ìbátan ti Einstein ṣe àpejúwe bí àkókò àti àyè-ayé kò ṣe jẹ́ déédéé ṣùgbọ́n ó jẹ́ ìbátan sí ètò ìtọ́kasí olùwòran.
+The theory of quantum mechanics describes the physical properties of nature at the scale of atoms and subatomic particles.	Àlàyé ìṣirò onírínlẹ́ ṣe àpejúwe àwọn ìṣesí afojúrí ti àyànmọ́ ní ìwọ̀n àwọn átọ̀mù àti àwọn ẹ̀yá-átọ̀mù.
+In physics, time is considered the fourth dimension.	Ní ẹ̀kọ́ nípa-ẹ̀dá, a ka àkókò sí ìwọ̀n kẹrin.
+Entropy is a measure of disorder or randomness in a system.	Ìdàrú jẹ́ ìwọ̀n àìṣetò tàbí àìṣepàtó nínú ètò kan.
+Amplitude is the maximum displacement of a wave from its equilibrium position.	Ìjì jẹ́ ìyàtọ̀-ipò tí ó pọ̀jùlọ ti agbọ̀n kan láti ibi agbede rẹ̀.
+The frequency of a wave is the number of complete oscillations per unit time.	Ìyásí agbọ̀n kan jẹ́ iye ìmì pípé fún àkókò kan.
+The wavelength of a wave is the distance between two consecutive corresponding points on the wave.	Ìgbọ̀n agbọ̀n kan jẹ́ ìjìn láàrín àwọn ojúlé méjì tí ó tẹ̀lé ara wọn lórí agbọ̀n náà.
+A longitudinal wave oscillates in the same direction as the wave travels.	Agbọ̀n olóòró máa nmì ní ipa kan náà bí agbọ̀n náà ṣe nrin.
+A transverse wave oscillates perpendicular to the direction of travel.	Agbọ̀n oníbú máa nmì ní ipa tí ó takọ sí ipa tí agbọ̀n náà nrin.
+Standing waves appear to be stationary, with nodes that do not move.	Agbọ̀n adúró dàbí ẹni pé wọ́n dúró jẹ́ẹ́, pẹ̀lú àwọn ìkọ tí kò ní ìpapòdà.
+Resonance is the tendency of a system to oscillate with greater amplitude at some frequencies than at others.	Ìbáwọnkadùn jẹ́ ìṣèwahù ètò kan láti mì pẹ̀lú ìjì tí ó pọ̀ ní àwọn ìyásí kan ju ni àwọn mìíràn.
+The Doppler effect explains why the pitch of a sound changes as its source moves toward or away from the observer.	Àkóbá Doppler ṣe àlàyé ìdí tí ohùn ìró fi yí padà bí orísun rẹ̀ ṣe nsúnmọ́ tàbí jìnà sí olùwòran.
+Light behaves both as a wave and as a particle, a property known as wave-particle duality.	Ìtànná hùwà bí agbọ̀n àti bí àyẹ̀lẹ̀, èyí tí a mọ̀ sí ìkannimejì agbọ̀n-àyẹ̀lẹ̀.
+In a vacuum, all electromagnetic waves travel at the same speed, the speed of light.	Nínú òfìfo, gbogbo agbọ̀n àrá-òòfà máa ṣọ̀n ní ìyásí kan náà, ìyásí ìtànná.
+The photoelectric effect is the emission of electrons when light shines on a material.	Àkóbá ìtànná-àrá jẹ́ ìtúsílẹ̀ àwọn ẹlẹ́tírọ̀nù nígbàtí ìtànná bá tan lórí ohun kan.
+According to Heisenberg's uncertainty principle, it is impossible to simultaneously know both the position and the momentum of a particle with perfect accuracy.	Ní ìbámu pẹ̀lú ìlànà àìdá kan ti Heisenberg, kò ṣeéṣe láti mọ ipò àti ìyíparaḿọ́ àyẹ̀lẹ̀ kan pẹ̀lú ìdádéédé pípé.
+The Big Bang theory proposes that the universe began as a singularity, which expanded over time.	Àlàyé Ariwo-nlá náà dábàá pé àgbáyé bẹ̀rẹ̀ gẹ́gẹ́ bí ìṣọ̀kan, èyí tí ó gbòòrò pẹ̀lú àkókò.
+Black holes are regions of spacetime where gravity is so strong that nothing, not even light, can escape from it.	Ihò-dúdú jẹ́ àwọn agbègbè ti àyé-àkókò níbi tí òòfà-ilẹ̀ ti lágbára tóbẹ́ẹ̀ tí kò sí ohun, kódà ìtànná, tí ó lè bọ́ lọ́wọ́ rẹ̀.
+Nuclear fission is the splitting of an atomic nucleus into smaller parts.	Pínpín-àgọ́ jẹ́ pínpín àgọ́ átọ̀mù sí àwọn apá kékeré.
+Nuclear fusion is the joining of two atomic nuclei to form a heavier nucleus.	Ìdàpọ̀-àgọ́ jẹ́ ìdàpọ̀ àwọn àgọ́ átọ̀mù méjì láti ṣẹ̀dá àgọ́ tí ó wúwo.
+A sound wave is a mechanical wave that transfers energy through a medium by compressing and expanding it.	Agbọ̀n ìró jẹ́ agbọ̀n ẹ̀rọ tí ó nṣínípò agbára láti inú nkan kan nípa fífúnpọ̀ àti gbígbòòrò rẹ̀.
+The speed of sound depends on the medium through which it travels.	Ìyásí ìró dá lórí nkan tí ó ngbà rin.
+The pitch of a sound is determined by its frequency.	Gígajù ìró jẹ́ ìpinnu nípa ìyásí rẹ̀.
+The loudness of a sound is determined by its amplitude.	Rírọpò ìró jẹ́ ìpinnu nípa ìjì rẹ̀.
+In a simple pendulum, the period of oscillation depends on the length of the pendulum and the acceleration due to gravity.	Nínú àsokọ́ rọ́gọ́dọ́, àsìkò ìmì dá lórí gígùn àsokọ́ náà àti ìdà-eré nítorí òòfà-ilẹ̀.
+The center of mass of an object is the point at which the object's mass can be considered to be concentrated.	Àárín ìwọ̀n-okun ohun kan jẹ́ ojúlé tí a lè ka ìwọ̀n-okun ohun náà sí bí ẹni pé ó kójọ sí.
+A rigid body is an object whose size and shape do not change when forces are applied to it.	Ara líle jẹ́ ohun tí ìwọ̀n àti ìrísí rẹ̀ kò ní yípadà nígbàtí a bá fi ipá sí i.
+The moment of inertia of an object determines its resistance to changes in rotation.	Ìgbà ti ìfaragbéra ohun kan pinnu ìtakò rẹ̀ sí àwọn ìyípadà ní ìyípo.
+Angular momentum is a measure of the rotational motion of an object.	Ìyíparaḿọ́-ayípo jẹ́ ìwọ̀n ìpapòdà ìyípo ohun kan.
+The law of conservation of angular momentum states that the angular momentum of a closed system remains constant.	Òfin ìpamọ́ ìyíparaḿọ́-ayípo sọ pé ìyíparaḿọ́-ayípo ètò tí a tì pa á wà bakannáà.
+The principle of superposition states that when two or more waves overlap, the resultant displacement at any point is the algebraic sum of the displacements due to each individual wave.	Ìlànà ìṣàfikún sọ pé nígbàtí agbọ̀n méjì tàbí jù bẹ́ẹ̀ lọ bá borí ara wọn, iyàtọ̀-ipò àbájáde ní ojúlé kankan jẹ́ àròpọ̀ ìṣirò àwọn iyàtọ̀-ipò nítorí ẹyọ agbọ̀n kọ̀ọ̀kan.
+A wave pulse is a single disturbance that travels through a medium.	Ìgbàdí agbọ̀n jẹ́ ìdàrúdàpọ̀ kan tí ó nrin láti inú nkan kan.
+The phase of a wave describes its position within its cycle of oscillation.	Ipele agbọ̀n ṣe àpejúwe ipò rẹ̀ nínú àyíká ìmì rẹ̀.
+Constructive interference occurs when wave displacements add together.	Ìṣẹ́parapọ̀ kíkọ́ ṣẹlẹ̀ nígbàtí àwọn iyàtọ̀-ipò agbọ̀n ṣàfikún ara wọn.
+Destructive interference occurs when wave displacements subtract from each other.	Ìṣẹ́parapọ̀ fífọ́ ṣẹlẹ̀ nígbàtí àwọn iyàtọ̀-ipò agbọ̀n ṣàyọkúrò láti ara wọn.
+The fundamental frequency is the lowest frequency at which a vibrating object oscillates.	Ìyásí ìpilẹ̀ṣẹ̀ jẹ́ ìyásí tí ó kéré jùlọ níbi tí ohun tí ó nmì ti máa gbọ̀n.
+Harmonics are frequencies that are integer multiples of the fundamental frequency.	Ìyásí-ìbáwọnkadùn jẹ́ àwọn ìyásí tí ó jẹ́ ìṣọdipúpọ̀ nọ́mbà odidi ti ìyásí ìpilẹ̀ṣẹ̀.
+Torque is a force that causes rotation around an axis.	Ipá-ẹ̀lọ́ jẹ́ ipá tí ó fa ìyípo yí àpóyì kan.
+A force that is perpendicular to the moment arm produces the maximum torque.	Ipá tí ó takọ sí apá-ìgbà fún ipá-ẹ̀lọ́ tí ó pọ̀jùlọ.
+The center of gravity of an object is the point at which all of its weight can be considered to act.	Àárín òòfà-ilẹ̀ ohun kan jẹ́ ojúlé níbi tí gbogbo ìwọ̀n-ìwúwo rẹ̀ lè ṣe.
+An object is said to be in equilibrium when the sum of all forces acting on it is zero.	A sọ pé ohun kan wà ní agbede nígbàtí àròpọ̀ gbogbo ipá tí ó wà lórí rẹ̀ jẹ́ òdo.
+An object in static equilibrium is at rest.	Ohun kan ní agbede-àìpapòdà wà ní ìsinmi.
+An object in dynamic equilibrium moves with constant velocity.	Ohun kan ní agbede-apapòdà yí pẹ̀lú ìyásí-ìpapòdà aìyípadà.
+The distance between two consecutive crests or troughs of a wave is called the wavelength.	Ìjìn láàrín àwọn gègélè méjì tàbí àfọ̀ méjì tí ó tẹ̀lé ara wọn lórí agbọ̀n kan jẹ́ ohun tí a npè ní ìgbọ̀n agbọ̀n.
+The speed of a wave is equal to its frequency multiplied by its wavelength.	Ìyásí agbọ̀n kan dọ́gba pẹ̀lú ìyásí rẹ̀ ìsọdipúpọ̀ pẹ̀lú ìgbọ̀n agbọ̀n rẹ̀.
+When a wave passes from one medium to another, its frequency remains constant, but its wavelength changes.	Nígbàtí agbọ̀n kan bá kọjá láti inú nkan kan sí òmíràn, ìyásí rẹ̀ wà bakannáà, ṣùgbọ́n ìgbọ̀n agbọ̀n rẹ̀ yí padà.
+The index of refraction of a medium is the ratio of the speed of light in a vacuum to the speed of light in the medium.	Òkà ìṣẹ́-ìtànná ti nkan kan jẹ́ ìbùpín ìyásí ìtànná nínú òfìfo sí ìyásí ìtànná nínú nkan náà.
+When light slows down as it enters a medium, it bends toward the normal.	Nígbàtí ìtànná bá dín ìyásí rẹ̀ kù bí ó ṣe wọ inú nkan kan, ó máa ṣe wíwọ́ sí àdọ́jú.
+When light speeds up as it exits a medium, it bends away from the normal.	Nígbàtí ìtànná bá ṣe ìyásí rẹ̀ pọ̀ bí ó ṣe jáde nínú nkan kan, ó máa ṣe wíwọ́ kúrò ní àdọ́jú.
+The angle of incidence is the angle between the incident ray and the normal to the surface at the point of incidence.	Igun ìkọlù jẹ́ igun láàrín ìtànná tí ó kọlù àti àdọ́jú sí ojú-ara ní ojúlé ìkọlù.
+The angle of reflection is the angle between the reflected ray and the normal to the surface at the point of reflection.	Igun ìpadà jẹ́ igun láàrín ìtànná tí ó padà àti àdọ́jú sí ojú-ara ní ojúlé ìpadà.
+The law of reflection states that the angle of reflection equals the angle of incidence.	Òfin ìpadà sọ pé igun ìpadà dọ́gba pẹ̀lú igun ìkọlù.
+The law of refraction, also known as Snell's law, relates the angles of incidence and refraction to the refractive indices of the two media.	Òfin ìṣẹ́-ìtànná, tí a mọ̀ sí òfin Snell, ṣe àlàyé igun ìkọlù àti ìṣẹ́-ìtànná sí àwọn òkà ìṣẹ́-ìtànná ti àwọn nkan méjì.
+A convex lens converges parallel light rays to a focus.	Awòye oníkùn ṣe ìkójọ àwọn ìtànná apọ̀gbà sí ibi ìfọkànsí.
+A concave lens diverges parallel light rays.	Awòye onínú ṣe ìtúká àwọn ìtànná apọ̀gbà.
+A convex mirror forms a virtual, upright, and diminished image of an object placed in front of it.	Awòji oníkùn ṣẹ̀dá àwòrán òrò, tí ó dúró, tí ó sì dín kù ti ohun kan tí a fi sí iwájú rẹ̀.
+A concave mirror can form either a real or a virtual image depending on the position of the object.	Awòji onínú lè ṣẹ̀dá bóyá àwòrán gidi tàbí òrò ní dá lórí ipò ohun náà.
+The focal length of a mirror is the distance from the mirror to the focal point.	Gígùn ìfokànsí ti awonji jẹ́ ìjìn láti awonji sí ojúlé ìfokànsí.
+The magnification of an image is the ratio of the image height to the object height.	Ìfẹ̀ àwòrán jẹ́ ìbùpín gíga àwòrán sí gíga ohun.
+The lens equation relates the object distance, image distance, and focal length of a lens.	Ọ̀mì awòye ṣe àlàyé ìjìn ohun, ìjìn àwòrán, àti gígùn ìfokànsí ti awòye.
+Magnification is positive for upright images and negative for inverted images.	Ìfẹ̀ jẹ́ àbáyo fún àwọn àwòrán tí ó dúró àti èyí tí ó jẹ́ àdákẹndé fún àwọn àwòrán tí a dojú kodò.
+A virtual image cannot be projected onto a screen, but a real image can.	A kò lè fi àwòrán òrò hàn lórí ìbọ, ṣùgbọ́n a lè fi àwòrán gidi hàn.
+The refractive power of a lens is measured in diopters, which is the reciprocal of the focal length in meters.	A díwọ̀n agbára ìṣẹ́-ìtànná ti awòye ní diopters, èyí tí ó jẹ́ ìpadà ìgbùpín ti gígùn ìfokànsí ní mítà.
+Radioactivity is the spontaneous emission of particles or energy from the nucleus of an atom.	Ìtànká aláfirahàn jẹ́ ìtúsílẹ̀ àìgbọdọ̀lọ́wọ́ àwọn àyẹ̀lẹ̀ tàbí agbára láti inú àgọ́ átọ̀mù.
+Alpha radiation consists of helium nuclei.	Ìtànká álifà jẹ́ akójọpọ̀ àwọn àgọ́ hélíọ̀mù.
+Beta radiation consists of electrons.	Ìtànká bẹ́tà jẹ́ akójọpọ̀ àwọn ẹlẹ́tírọ̀nù.
+Gamma radiation consists of high-energy photons.	Ìtànká gámmà jẹ́ akójọpọ̀ àwọn fótọ̀nù alágbára-gíga.
+The half-life of a radioactive isotope is the time it takes for half of the atoms in a sample to decay.	Ìdajì-ìgbà ti isotope aláfirahàn jẹ́ àkókò tí ó gbà fún ìdajì àwọn átọ̀mù nínú àpẹẹrẹ kan láti bàjẹ́.
+In nuclear fission, a heavy nucleus splits into lighter nuclei, releasing energy.	Nínú pínpín-àgọ́, àgọ́ wíwúwo kan pín sí àwọn àgọ́ fífẹ́, tí ó sì túsílẹ̀ agbára.
+In nuclear fusion, light nuclei combine to form a heavier nucleus, releasing energy.	Nínú ìdàpọ̀-àgọ́, àwọn àgọ́ fífẹ́ dàpọ̀ láti ṣẹ̀dá àgọ́ wíwúwo, tí ó sì túsílẹ̀ agbára.
+The energy released in nuclear reactions comes from the conversion of mass to energy according to Einstein's equation, E = mc².	Agbára tí a túsílẹ̀ nínú àwọn àsè àgọ́ wá láti ìyípadà ìwọ̀n-okun sí agbára ní ìbámu pẹ̀lú ọ̀mì Einstein, E = mc².
+The strong nuclear force holds protons and neutrons together in the nucleus.	Ipá àgọ́ lágbára faramọ́ àwọn pròtónù àti niútírọ̀nù papọ̀ nínú àgọ́.
+The weak nuclear force is responsible for radioactive decay.	Ipá àgọ́ aláìlágbára ló dá fún ìbàjẹ́ aláfirahàn.
+In a cathode ray tube, electrons are accelerated through an electric field.	Nínú òpó ìtànká kàtódì, a mú àwọn ẹlẹ́tírọ̀nù ṣe ìdà-eré láti inú ìtẹ́ àrá.
+The photoelectric effect provides evidence for the particle nature of light.	Àkóbá ìtànná-àrá pèsè ẹ̀rí fún ìwà àyẹ̀lẹ̀ ti ìtànná.
+Quantum mechanics describes the behavior of matter and energy at the atomic and subatomic scale.	Ìṣirò onírínlẹ́ ṣe àpejúwe ìwà ti ohun àti agbára ní ìwọ̀n átọ̀mù àti ẹ̀yá-átọ̀mù.
+According to the uncertainty principle, the more precisely the position of a particle is known, the less precisely its momentum can be determined, and vice versa.	Ní ìbámu pẹ̀lú ìlànà àìdá kan, bí a bá mọ ipò àyẹ̀lẹ̀ kan pẹ̀lú ìdádéédé ju, bẹ́ẹ̀ ni a ó dín mọ̀ ìyíparaḿọ́ rẹ̀ pẹ̀lú ìdádéédé kù, àti lọ́tùn-ún.
+The principle of wave-particle duality states that all matter and energy exhibit both wave-like and particle-like properties.	Ìlànà ìkannimejì agbọ̀n-àyẹ̀lẹ̀ sọ pé gbogbo ohun àti agbára ṣe àfihàn àwọn ìṣesí bí agbọ̀n àti bí àyẹ̀lẹ̀.
+Waves and particles have complementary properties.	Agbọ̀n àti àwọn àyẹ̀lẹ̀ ní àwọn ìṣesí aṣebápáda.
+Electrons can behave as waves, as demonstrated by electron diffraction experiments.	Àwọn ẹlẹ́tírọ̀nù lè hùwà bí agbọ̀n, bí a ṣe fihàn nípa àwọn àdánwò fífọ́ ẹlẹ́tírọ̀nù.
+The Schrödinger equation describes how the quantum state of a physical system changes over time.	Ọ̀mì Schrödinger ṣe àpejúwe bí ipò onírínlẹ́ ti ètò afojúrí ṣe yí padà pẹ̀lú àkókò.
+A quantum state is described by a wave function.	A ṣe àpejúwe ipò onírínlẹ́ nípa ìṣe agbọ̀n.
+The square of the wave function gives the probability of finding a particle at a specific location.	Igun méjì ìṣe agbọ̀n fún ìṣeéṣe ti ríran àyẹ̀lẹ̀ kan ní ibikibí.
+Electrons in an atom occupy specific energy levels or orbitals.	Àwọn ẹlẹ́tírọ̀nù nínú átọ̀mù kan gbà àwọn ipele agbára tàbí àgbàyí.
+The Pauli exclusion principle states that no two electrons in an atom can have the same set of quantum numbers.	Ìlànà ìfẹrígba Pauli sọ pé kò sí ẹlẹ́tírọ̀nù méjì nínú átọ̀mù kan tí ó lè ní àkójọ nọ́mbà onírínlẹ́ kan náà.
+The Heisenberg uncertainty principle is a fundamental limit to the precision with which complementary variables can be known.	Ìlànà àìdá kan Heisenberg jẹ́ ìdí ìpilẹ̀ sí ìdádéédé pẹ̀lú èyí tí a lè mọ àwọn onídọ̀gba aṣebápáda.
+Space and time are not separate entities but are intertwined in a four-dimensional continuum called spacetime.	Àyè àti àkókò kì í ṣe àwọn ẹ̀dá tí ó tọ́jọ ṣùgbọ́n wọ́n papọ̀ nínú àìlọsíbọmíràn onípakọ̀rín tí a npè ní àyé-àkókò.
+The speed of light in a vacuum is the same for all observers, regardless of their motion.	Ìyásí ìtànná nínú òfìfo jẹ́ bakannáà fún gbogbo olùwòran, láìnífẹ̀ẹ́ sí ìpapòdà wọn.
+The energy of a photon is proportional to its frequency.	Agbára ti fótọ̀nù kan jẹ́ ìbátan sí ìyásí rẹ̀.
+Electromagnetic waves do not require a medium to travel through.	Àwọn agbọ̀n àrá-òòfà kò nílò nkan kan láti gbà rin.
+The speed of light in a medium is less than its speed in a vacuum.	Ìyásí ìtànná nínú nkan kan kéré ju ìyásí rẹ̀ nínú òfìfo.
+The refraction of light occurs due to the change in its speed as it passes from one medium to another.	Ìṣẹ́-ìtànná ti ìtànná ṣẹlẹ̀ nítorí ìyípadà ní ìyásí rẹ̀ bí ó ṣe kọjá láti inú nkan kan sí òmíràn.
+A black body is an idealized physical body that absorbs all incident electromagnetic radiation.	Ara dúdú jẹ́ ara afojúrí tí a ṣe àfojúsùn tí ó nfàmun gbogbo ìtànká àrá-òòfà tí ó kọlù.
+A black body emits thermal radiation with a spectrum that depends only on its temperature.	Ara dúdú túsílẹ̀ ìtànká ìgbóná pẹ̀lú ìlànà tí ó dá lórí ìgbóná rẹ̀ nìkan.
+The Stefan-Boltzmann law describes the power radiated from a black body in terms of its temperature.	Òfin Stefan-Boltzmann ṣe àpejúwe agbára tí a tàn láti ara dúdú ní ọ̀rọ̀ ìgbóná rẹ̀.
+Wien's displacement law states that the wavelength at which a black body emits the most energy is inversely proportional to its temperature.	Òfin ìyàtọ̀-ipò Wien sọ pé ìgbọ̀n agbọ̀n níbi tí ara dúdú ti túsílẹ̀ agbára tí ó pọ̀jùlọ jẹ́ ìdà ìbátan sí ìgbóná rẹ̀.
+The greenhouse effect is the warming of Earth due to the trapping of thermal radiation by greenhouse gases in the atmosphere.	Àkóbá ilé-ẹwà jẹ́ ìgbóná Ilẹ̀ Ayé nítorí ìdànímọ́lẹ̀ ìtànká ìgbóná nípa àwọn òyì ilé-ẹwà nínú òyì-ojú ayé.
+Greenhouse gases include carbon dioxide, methane, and water vapor.	Àwọn òyì ilé-ẹwà pẹ̀lú òyì-èédú, mẹ́téènì, àti èéhó omi.
+The Doppler effect explains why the frequency of a wave appears to change when its source moves relative to an observer.	Àkóbá Doppler ṣe àlàyé ìdí tí ìyásí agbọ̀n fi dàbí ẹni pé ó yí padà nígbàtí orísun rẹ̀ bá ṣe ìpapòdà ní ìbátan sí olùwòran.
+When a wave source moves toward an observer, the observed frequency is higher than the emitted frequency.	Nígbàtí orísun agbọ̀n bá ṣe ìpapòdà sí olùwòran, ìyásí tí a ríi ga ju ìyásí tí a túsílẹ̀ lọ.
+When a wave source moves away from an observer, the observed frequency is lower than the emitted frequency.	Nígbàtí orísun agbọ̀n bá ṣe ìpapòdà kúrò ní olùwòran, ìyásí tí a ríi kéré ju ìyásí tí a túsílẹ̀ lọ.
+The Doppler effect is used in radar to determine the speed of moving objects.	A nlò àkóbá Doppler nínú rédà láti pinnu ìyásí àwọn ohun tí ó nṣe ìpapòdà.
+The Doppler shift in light causes a blueshift when the source moves toward the observer and a redshift when it moves away.	Ìyílọ́ Doppler nínú ìtànná fa ìyípò-sí-àwọ̀-bùlúù nígbàtí orísun bá ṣe ìpapòdà sí olùwòran àti ìyípò-sí-àwọ̀-pupa nígbàtí ó bá ṣe ìpapòdà kúrò.
+The expansion of the universe is indicated by the redshift of distant galaxies.	Ìgbòòrò àgbáyé jẹ́ ìfihàn nípa ìyípò-sí-àwọ̀-pupa ti àwọn àjọọ̀ràwọ̀ tí ó jìn.
+Fluid mechanics is the study of how fluids (liquids and gases) behave when they are in motion or at rest.	Ẹ̀kọ́ ẹ̀rọ aṣàn jẹ́ ẹ̀kọ́ bí àwọn aṣàn (àwọn aṣàn àti àwọn òyì) ṣe hùwà nígbàtí wọ́n wà ní ìpapòdà tàbí ní ìsinmi.
+Pressure in a fluid increases with depth.	Èéfún nínú aṣàn pọ̀ pẹ̀lú jíjìn.
+Pascal's principle states that pressure applied to an enclosed fluid is transmitted undiminished to all portions of the fluid and to the walls of the container.	Ìlànà Pascal sọ pé èéfún tí a fi sí aṣàn tí a dí mọ́lẹ̀ jẹ́ ìfiránṣẹ́ láìdínkù sí gbogbo àwọn apá ti aṣàn náà àti sí àwọn ògiri ti ìbà náà.
+Archimedes' principle states that the buoyant force on an object immersed in a fluid is equal to the weight of the fluid displaced by the object.	Ìlànà Archimedes sọ pé ipá àfọn lórí ohun tí a ri sínú aṣàn dọ́gba pẹ̀lú ìwọ̀n-ìwúwo aṣàn tí ohun náà yípò padà.
+An object will float in a fluid if its density is less than that of the fluid.	Ohun kan yóò fò nínú aṣàn kan bí ọ̀rìn rẹ̀ bá kéré ju ti aṣàn náà lọ.
+Bernoulli's principle states that as the speed of a fluid increases, the pressure within the fluid decreases.	Ìlànà Bernoulli sọ pé bí ìyásí aṣàn kan ṣe npọ̀ sí i, bẹ́ẹ̀ ni èéfún nínú aṣàn náà ṣe ndín kù.
+The flow of a fluid can be either laminar or turbulent.	Ìṣọ̀n aṣàn kan lè jẹ́ bóyá oníìpele tàbí oníìrúbọ́.
+Laminar flow occurs when a fluid flows in parallel layers with no disruption between the layers.	Ìṣọ̀n oníìpele ṣẹlẹ̀ nígbàtí aṣàn kan bá nṣọ̀n ní àwọn ìpele apọ̀gbà láìsí ìdàrúdàpọ̀ láàrín àwọn ìpele.
+Turbulent flow is characterized by chaotic, irregular fluctuations.	Ìṣọ̀n oníìrúbọ́ jẹ́ ìfihàn nípa àwọn ìparadà àìṣètò, àìṣeé.
+The viscosity of a fluid is a measure of its resistance to deformation at a given flow rate.	Ìtẹnilọ́rùn aṣàn jẹ́ ìwọ̀n ìtakò rẹ̀ sí ìyípadà ní ìyásí ìṣọ̀n tí a fún.
+The Reynolds number is a dimensionless number that helps predict flow patterns in different fluid flow situations.	Nọ́mbà Reynolds jẹ́ nọ́mbà aláìníìpakọ̀rín tí ó nṣe ìrànlọ́wọ́ láti ṣe àsọtẹ́lẹ̀ àwọn àpẹẹrẹ ìṣọ̀n ní àwọn ipò ìṣọ̀n aṣàn tí ó yàtọ̀.
+The continuity equation states that in a steady flow, the mass flow rate is the same at all points along a streamline.	Ọ̀mì àìlóṣiṣẹ́ sọ pé nínú ìṣọ̀n déédé, ìyásí ìṣọ̀n ìwọ̀n-okun jẹ́ bakannáà ní gbogbo àwọn ojúlé lórí ìlà ìṣọ̀n.
+A sonic boom is produced when an object travels through the air faster than the speed of sound.	A ṣẹ̀dá ariwo ìró nígbàtí ohun kan bá rin láti inú afẹ́ ju ìyásí ìró lọ.
+The shock wave created by an object traveling at supersonic speeds forms a cone, known as the Mach cone.	Agbọ̀n ìdojú tí a ṣẹ̀dá nípa ohun kan tí ó rin ní àwọn ìyásí tí ó kọjá èyí ti ìró ṣẹ̀dá kọnu, tí a mọ̀ sí kọnu Mach.
+The Mach number is the ratio of an object's speed to the speed of sound in the medium through which the object is traveling.	Nọ́mbà Mach jẹ́ ìbùpín ìyásí ohun kan sí ìyásí ìró nínú nkan tí ohun náà ngbà rin.
+Thermodynamics is the study of heat and its transformation into other forms of energy.	Ẹ̀kọ́ ìgbóna-kíka jẹ́ ẹ̀kọ́ okun-iná àti ìyípadà rẹ̀ sí àwọn orí míran ti agbára.
+The zeroth law of thermodynamics states that if two systems are each in thermal equilibrium with a third system, they are in thermal equilibrium with each other.	Òfin kẹfá ti ẹ̀kọ́ ìgbóna-kíka sọ pé bí ètò méjì bá wà ní agbede ìgbóná pẹ̀lú ètò kẹta, wọ́n wà ní agbede ìgbóná pẹ̀lú ara wọn.
