@@ -1,0 +1,690 @@
+To find the average of a,b, and c	Bi a bá fẹ wá àròpín àwọn òòkà a,b,àti c
+Add a, b and c	A níláti ṣàròpọ a, b ati c 
+Use the total of the numbers to divide the sum	A óò sì fi iye àwọn òòkà yi pín àròpọ yi
+Find the average of	Ṣàròpín àwọn òòkà yi
+Add all the numbers together	Ṣàròpọ gbogbo àwọn òòkà náà
+What is the average age of these children?	Kíni àròpín iye ọdún àwọn ọmọ yi?
+Addition is a fundamental mathematical operation.	Ìròpọ̀ jẹ́ ìṣiṣẹ́ pàtàkì nínú ìṣirò.
+In mathematics, addition involves combining quantities.	Nínú ìṣirò, ìròpọ̀ jẹ́ ìkójọ àwọn iye.
+Subtraction is the opposite of addition.	Ìyọkúrò jẹ́ ìlòdì ìròpọ̀.
+Multiplication is the repeated addition of a number.	Ìsọdipọ̀ jẹ́ ìròpọ̀ àtúnṣe ti òòkà kan.
+Division involves splitting quantities into equal parts.	Pínpín jẹ́ nípa pípin iye sí àwọn apá tó dọ́gba.
+Mathematics helps us understand patterns and relationships.	Ìṣirò ń rànwá lọ́wọ́ láti ní òye àwọn àpẹẹrẹ àti àjọṣe.
+Algebra involves manipulating symbols to solve equations.	Èròjà ní í ṣe pẹ̀lú lílo àwọn àmì láti yanjú àwọn ìfigbàgba.
+Geometry is the study of shapes and spatial relationships.	Òṣùwọ̀n jẹ́ ẹ̀kọ́ àwọn àpẹẹrẹ àti àjọṣe àyè.
+Calculus deals with rates of change and accumulation.	Ìṣirò ìyípadà ní í ṣe pẹ̀lú òṣùwọ̀n ìyípadà àti àkójọpọ̀.
+Statistics involves collecting and analyzing data.	Ìwòye ní í ṣe pẹ̀lú ìkójọpọ̀ àti títúpalẹ̀ àkójọpọ̀ ìwífún.
+Probability measures the likelihood of events occurring.	Ìṣeése wọn òṣùwọ̀n ìṣeṣí tí àwọn ìṣẹ̀lẹ̀ ṣẹlẹ̀.
+Addition of whole numbers is common in daily calculations.	Ìròpọ̀ àwọn òòkà odindi wọ́pọ̀ nínú ìṣirò ojoojúmọ́.
+A digit is a single symbol in a number.	Ẹyọ-ònkà jẹ́ àmì ẹyọ kan nínú òòkà.
+Addends are numbers being added together.	Èrò jẹ́ àwọn òòkà tí a ń ro pọ̀.
+The sum is the result of addition.	Àròpọ̀ ni èsì ìròpọ̀.
+When adding numbers, we combine their values.	Nígbà tí a bá ń ro àwọn òòkà pọ̀, a máa ń kó àwọn iye wọn jọ.
+Addition is commutative, meaning the order does not matter.	Ìròpọ̀ wọra, èyí túmọ̀ sí pé ètò kò ṣe pàtàkì.
+Commutative property means the order of operations does not affect the result.	Ohun-ini wọra túmọ̀ sí pé ètò ìṣe kò ní ipa lórí èsì.
+Two numbers can be added in any order to get the same result.	A lè ro àwọn òòkà méjì pọ̀ ní èyíkéyìí ètò láti gba èsì kan náà.
+In multi-digit addition, we align digits by place value.	Nínú ìròpọ̀ onígun púpọ̀, a dóòla àwọn digit nípa ààyè iye.
+Carrying occurs in addition when a column sum exceeds nine.	Gbígbé ṣẹlẹ̀ nínú ìròpọ̀ nígbà tí àròpọ̀ ìlà kan bá ju mẹ́sàn-án lọ.
+Place value determines the value of a digit based on its position.	Iye-ààyè pinnu iye ẹyọ-ònkà kan bí ó ṣe dá lórí ipò rẹ̀.
+Area is the amount of surface covered by a shape.	Ìgbòrò jẹ́ iye ojú-ara tí àpẹẹrẹ kan bò.
+Area measurement involves determining the space a shape covers.	Ètò ìgbòrò wíwọn ní í ṣe pẹ̀lú ìpinnu àyè tí àpẹẹrẹ kan gbà.
+Estimation is used to approximate measurements.	Ìfojúwọn jẹ́ lílò láti ṣe àdàkọ àwọn ìwọ̀n.
+Calculation involves precise mathematical operations.	Ìṣirò ní í ṣe pẹ̀lú àwọn ìṣiṣẹ́ ìṣirò gangan.
+A parallelogram has opposite sides that are parallel.	Ẹlẹgbẹmẹrin-gígún ní àwọn ẹgbẹ́ tó dojúkọ ara wọn ní ọ̀nà tààrà.
+A trapezium has one pair of parallel sides.	Ẹlẹgbẹmẹrin adágún ní ẹyọ kan àwọn ẹgbẹ́ tààrà.
+Two-dimensional shapes exist in a plane.	Àwọn èèyà olópoméjì wà nínú pèpele.
+Length is the measurement of distance from one point to another.	Gígùn jẹ́ ìwọ̀n òjìṣẹ́ láti ojúàmì kan sí òmíràn.
+Breadth is the measurement of width.	Ìbú jẹ́ ìwọ̀n fífẹ̀.
+Height is the vertical measurement from base to top.	Òòró jẹ́ ìwọ̀n tààrà láti ìsàlẹ̀ sí òkè.
+Base is the foundation or bottom part of a shape.	Ìdí jẹ́ ìpìlẹ̀ tàbí apá ìsàlẹ̀ àpẹẹrẹ.
+Radius is the distance from the center to the edge of a circle.	Igbo jẹ́ òjìṣẹ́ láti àárín sí etí àyíká.
+The area of a rectangle is found by multiplying length by breadth.	Òrò onígunmẹrinọtún jẹ́ ìlọ́po gígùn pẹ̀lú ibu.
+To find the area of a square, multiply the length by itself.	Láti wá òrò àkòdì, ṣe ìlọ́po gígùn pẹ̀lú ara rẹ̀.
+The area of a parallelogram equals the base multiplied by the height.	Òrò ẹlẹgbẹmẹrin jẹ́ ìlọ́po ìdí pẹ̀lú òòró.
+For a triangle, the area is half the base times the height.	Fún àádó, òrò jẹ́ ìdajì ìdí sọdipọ̀ òòró.
+The area of a circle is calculated using pi and the radius.	Òrò ẹká jẹ́ ìṣirò pẹ̀lú pi àti igbo.
+The metric system uses meters for measuring length.	Ètò métíríìkì lo àwọn mítà fún wíwọn gígùn.
+Converting units requires multiplying or dividing by conversion factors.	Yíyi àwọn ẹyọ padà nílò ìlọ́po tàbí pípin pẹ̀lú àwọn ìdájú ìyípadà.
+Square units are used to measure area.	Àwọn ẹyọ alágbàngbá jẹ́ lílò láti wọn ìgbòrò.
+Surface area is the total area of all surfaces of a solid shape.	Ojú-ara òrò jẹ́ àpapọ̀ òrò gbogbo ojú-ara àpẹẹrẹ lile.
+Capacity measurement refers to determining volume.	Ètò àyè-inú wíwọn tọ́ka sí ìpinnu ìwọ̀n-inú.
+Area relates to surface, while capacity relates to volume.	Igbòrò jẹ mọ́ ojú-ara, nígbà tí àyè-inú jẹ mọ́ ìwọ̀n-inú.
+A barrel is a large cylindrical container.	Àgbá jẹ́ agolo ńlá oníyindayinda.
+A bottle is a container with a narrow neck.	Ìgò jẹ́ agolo pẹ̀lú ọrùn tuntun.
+A bucket is an open container with a handle.	Garawa jẹ́ agolo tó ṣí sílẹ̀ pẹ̀lú ìdámú.
+Capacity refers to the maximum amount a container can hold.	Àyè-inú túmọ̀ sí iye tó pọ̀jù tí agolo kan lè gbà.
+A container is something that can hold items.	Agolo jẹ́ ohun tí ó lè gbà àwọn nkan.
+A cuboid is a box-shaped object with six rectangular faces.	Ìgọn jẹ́ ohun tó dàbí àpótí pẹ̀lú ojú-ara mẹ́fà onígunmẹrin.
+A drum is a large cylindrical container.	Àgbá jẹ́ agolo ńlá oníyindayinda.
+A gourd is a natural hollow vessel used as a container.	Agbè jẹ́ agolo adárí tí a máa ń lò gẹ́gẹ́ bí agolo.
+Liquid refers to a substance that flows freely.	Asàn túmọ̀ sí ohun tí ó ń sàn lọ́fẹ̀ẹ́.
+A rectangular container has a shape like a box.	Àpótí jẹ́ agolo tí ó ní àpẹẹrẹ bí àpótí.
+A tablespoon is a large spoon used for serving food.	Ṣíbí-onjẹ jẹ́ síbí ńlá tí a ń lò fún ìdásí oúnjẹ.
+A tank is a large container for holding liquids or gas.	Àgbá-nlá jẹ́ agolo ńlá fún àwọn asàn tàbí gáàsì.
+A teaspoon is a small spoon used for stirring.	Ṣíbí-tíì jẹ́ síbí kékeré tí a ń lò fún ìdárọ̀.
+The liter is the basic unit of capacity measurement.	Lítà jẹ́ ẹyọ ìpìlẹ̀ ìwọ̀n àyè-inú.
+A milliliter is a thousandth of a liter.	Ìdá-ọkẹ lítà jẹ́ ìdá ẹgbẹ̀rún lítà.
+A centiliter is a hundredth of a liter.	Ìdá-ọrún lítà jẹ́ ìdá ọgọ́rùn lítà.
+A dekaliter is ten liters.	Ìdì lítà jẹ́ lítà mẹ́wàá.
+A hectoliter is a hundred liters.	Ọrún lítà jẹ́ lítà ọgọ́rùn.
+A kiloliter is a thousand liters.	Ọkẹ lítà jẹ́ lítà ẹgbẹ̀rún.
+Converting units of capacity requires understanding the metric system.	Yíyi àwọn ẹyọ àyè-inú padà nílò ìmọ̀ nípa ètò métíríìkì.
+Liquid measurements are essential in cooking and medicine.	Àwọn ìwọ̀n asàn jẹ́ pàtàkì nínú oúnjẹ síse àti oògùn.
+The meniscus is the curved surface of a liquid in a container.	Ìṣọwọ́-ojú sàn jẹ́ ojú-ara tí ó kọ́ ti asàn nínú agolo.
+Volume is the amount of space occupied by a three-dimensional object.	Ìwọ̀n-àyè jẹ́ iye àyè tí ohun onípométa gbà.
+Density is mass per unit volume.	Kíkítẹ́ jẹ́ ìwúwo fún ìwọ̀n-àyè kọọ̀kan.
+Fluids can be liquids or gases.	Àwọn asàn lè jẹ́ asàn tàbí gáàsì.
+The metric system provides a consistent way to measure capacity.	Ètò métíríìkì pèsè ọ̀nà aláfọwọ́sọ láti wọn àyè-inú.
+Equation is a mathematical statement that two expressions are equal.	Ìfigbàgba jẹ́ gbólóhùn ìṣirò pé àwọn ìfihàn méjì dọ́gba.
+Variable is a symbol that represents an unknown value.	Àyípadà jẹ́ àmì tí ó dúró fún iye àìmọ̀.
+Constant is a value that does not change.	Àìyípadà jẹ́ iye tí kò yí padà.
+Function is a relation between inputs and outputs.	Ìṣe jẹ́ àjọṣe láàrin àwọn ìtẹ́wọlé àti àwọn ìtẹ́jáde.
+Formula is a rule expressed in mathematical symbols.	Àpótẹ́ jẹ́ òfin tí a fi àwọn àmì ìṣirò hàn.
+Theorem is a statement proven based on axioms.	Àlàyé jẹ́ gbólóhùn tí a fi ẹ̀rí múlẹ̀ bí ó ṣe dá lórí àwọn ìpilẹ̀ṣẹ̀.
+Proportion is a relationship between quantities.	Ìwọ̀nba jẹ́ àjọṣe láàrin àwọn iye.
+Ratio compares quantities of the same kind.	Ìfiwòran fi àwọn iye irú kan náà wé ara wọn.
+Fraction represents a part of a whole.	Ìdá dúró fún apá kan nínú odidi.
+Decimal is a number system based on powers of ten.	Onídámẹ́wàá jẹ́ ètò òòkà tí ó dá lórí agbára mẹ́wàá.
+Percentage is a number or ratio expressed as a fraction of one hundred.	Ìdámọ́dọ́rùn-ún jẹ́ òòkà tàbí ìfiwòran tí a fi hàn gẹ́gẹ́ bí ìdá ọgọ́rùn-ún.
+Sequence is an ordered list of numbers or objects.	Ìtẹ̀lé jẹ́ àkójọ tí a to ṣẹ́tọ̀ àwọn òòkà tàbí àwọn ohun.
+Series is the sum of the terms of a sequence.	Ìtẹ̀lépọ̀ jẹ́ àròpọ̀ àwọn ọ̀rọ̀-àpilẹ̀ṣẹ̀ ìtẹ̀lé.
+Integer is a whole number that can be positive, negative, or zero.	Odindìnláìkúrò jẹ́ òòkà odidi tí ó lè jẹ́ àyíkà, òdiwọ̀n, tàbí òdo.
+Prime number is a natural number greater than one that is only divisible by one and itself.	òòkà aláìpín jẹ́ òòkà àdáyébá tí ó tóbi ju ọ̀kan lọ tí a lè pín pẹ̀lú ọ̀kan àti ara rẹ̀ nìkan.
+A and B are called Addends	A àti B ni a npe ní àwọn Èrò
+The sum is the result of addition	D si ni Àròpọ
+A factor divides a number without a remainder	Ìfipín òòkà má npín òòkà láì ní ìṣẹkù
+The highest common factor is the largest whole number that divides evenly into each number	Ìfipín nlá àjọní jé òòkà tó tóbi jù tó jé ìfipín àwọn ìjọ òòkà kan
+Capacity measurement is the study of container volume	Ètò àyè-inú wíwọn jé ẹkọ ìwọn agolo
+A decimal point separates whole numbers from fractions	Òdo ẹsẹ ya òòkà odindi kúrò lọwọ ìdásíwéẉẹ́
+Before we can know the value of one variable, we must know the value of another	Kí a tó mọ iye tí A jé, a nílati mọ iye B
+The x-axis represents horizontal position	Òpó ìbú fi ipò gbangba hàn
+The y-axis represents vertical position	Òpó ìríwá fi ipò òkè-isálẹ̀ hàn
+The z-axis represents height or depth	Òpó òòró fi ipò gíga tàbí jíjìn hàn
+Exponents show how many times to multiply a number by itself	Àwọn edi-òòkà fi iye ìgbà tí a ó fi òòkà sọdipúpọ̀ pẹ̀lú ara rẹ̀ hàn
+Direct proportion shows values increasing together	Iye sí iye fi hàn bí àwọn iye ṣe ń pọ̀ pọ̀
+Inverse proportion shows one value increasing while another decreases	Iye sí ìdà iye fi hàn bí iye kan ṣe ń pọ̀ nígbà tí èkejì ń dínkù
+The highest common factor of two numbers is their greatest shared divisor	Ìfipín nlá àjọní ti àwọn òòkà méjì jé pínpín tó tóbi jù tí wọ́n ní papọ̀
+Common factors are numbers that divide each one without remainder	Ìfipín àjọní jé àwọn òòkà tó pín èkọọ̀kan láìní ìṣẹ́kù
+The decimal system uses powers of ten	Ètò ẹsẹ lo àwọn agbára ìdìmẹ́wàá
+Mathematical operations include addition and subtraction	Àwọn ọṣẹ ìṣirò ní ìròpọ̀ àti ìyọkúrò
+A rectangular container has a square base	Àpótí ní ìdí àkòdì
+A cuboid has six rectangular faces	Ìgọn ní ojú onígunmẹ́rin-ọ̀tún mẹ́fà
+Factors of a number divide it exactly	Àwọn ìfipín òòkà pín in pẹ̀lú títọ́
+Cartesian coordinates show precise position	Àmìn-ipò Dèkát fi ipò pàtó hàn
+Subtraction is the inverse of addition	Ìyọkúrò jẹ́ ìdàkejì ìròpọ̀
+Division is the inverse of multiplication	Pínpín jẹ́ ìdàkejì ìsọdipúpọ̀
+A decimal fraction is written with a decimal point	Ìdásíwẹ́wẹ́ ẹlẹsẹ ni a kọ pẹ̀lú òdo ẹsẹ
+One hundredth is written as zero point zero one	Ida-ọrún kan ni a kọ gẹ́gẹ́ bí òdo ẹsẹ òdo, ìkan
+One tenth is written as zero point one	Ida-ìdì kan ni a kọ gẹ́gẹ́ bí òdo ẹsẹ ìkan
+One thousandth is written as zero point zero zero one	Ida-ọkẹ kan ni a kọ gẹ́gẹ́ bí òdo ẹsẹ òdo, òdo, ìkan
+The area of a shape is the amount of space it covers	Ìgbòrò èèyà ni iye àyè tí ó gbà
+Area measurement is expressed in square units	Ètò ìgbòrò wíwọn jẹ́ nípa àwọn iye olópoméjì
+Factors are numbers that divide another number exactly	Àwọn ìfipín jẹ́ àwọn òòkà tí ó pín òòkà mìíràn pẹ̀kípẹ̀kí
+To find the highest common factor, list all factors of each number	Láti wá ìfipín nlá àjọní, kọ gbogbo ìfipín òòkà kọ̀ọ̀kan sílẹ̀
+A function uses one value to determine another value	Ìfà lo iye kan láti pinnu iye mìíràn
+A barrel is a large container for liquids	Àgbá jẹ́ agolo nlá fún àwọn asàn
+A bottle is a container usually made of glass or plastic	Ìgò jẹ́ agolo tí a sábà fi jẹẹfun tàbí pélásítíìkì ṣe
+The liquid capacity of a container is its volume	Àyè-inú asàn agolo ni ìwọ̀n rẹ̀
+A mathematical operator is a symbol that represents an operation	Ọṣẹ ìṣirò jẹ́ àmì tí ó dúró fún iṣẹ́ kan
+Addition, subtraction, multiplication, and division are basic operations	Ìròpọ̀, ìyọkúrò, ìsọdipúpọ̀, àti pínpín jẹ́ àwọn iṣẹ́ alákọ́kọ́
+Capacity is measured in units of volume	A wọn àyè-inú ní àwọn iye ìwọ̀n
+Estimation is an approximate calculation	Ìfojúwọn jẹ́ ìṣirò fẹ́rẹ̀ẹ́
+Calculation is the process of finding an exact value	Ìṣirò jẹ́ ìlànà fífún iye pàtó
+A fraction represents part of a whole	Ìdásíwẹ́wẹ́ dúró fún apá kan tí a pín nínú odidi
+A decimal number has a whole number part and a fractional part	Òòkà ẹsẹ ní apá òòkà odindi àti apá ìdásíwẹ́wẹ́
+The x-coordinate of a point shows its horizontal position	Àmì-ipò ìbú ibìkan fi ipò gbangba rẹ̀ hàn
+The y-coordinate of a point shows its vertical position	Àmì-ipò ìríwá ibìkan fi ipò òkè-isálẹ̀ rẹ̀ hàn
+The z-coordinate of a point shows its height or depth	Àmì-ipò òòró ibìkan fi ipò gíga tàbí jíjìn rẹ̀ hàn
+A square has equal sides	Àkòdì ní ẹ̀gbẹ́ dọ́gba
+A rectangle has equal opposite sides	Onígunmẹ́rin-ọ̀tún ní ẹ̀gbẹ́ tó kọjú ara wọn dọ́gba
+A trapezium has one pair of parallel sides	Ẹlẹgbẹmẹrin adágún ní ẹ̀gbẹ́ méjì tó ṣe ìfẹ̀gbẹ́ràn
+A parallelogram has opposite sides parallel and equal	Ẹlẹgbẹmẹrin-gígún ní ẹ̀gbẹ́ tó kọjú ara wọn ṣe ìfẹ̀gbẹ́ràn àti dọ́gba
+A circle is a shape where all points are the same distance from the center	Ẹkà jẹ́ èèyà níbi tí gbogbo àwọn ibì jẹ́ jíjìn kan náà sí àárín
+An exponent shows how many times to use a number in multiplication	Edi-òòkà fi iye ìgbà tí a ó lo òòkà kan nínú ìsọdipúpọ̀ hàn
+The base of an exponent is the number being raised to a power	Ìdí edi-òòkà jẹ́ òòkà tí a ń gbé lé agbára
+The power of an exponent shows how many times to multiply the base	Agbára edi-òòkà fi iye ìgbà tí a ó fi ìdí sọdipúpọ̀ hàn
+A bucket is a container with an open top and a handle	Garawa jẹ́ agolo pẹ̀lú òkè ṣíṣí àti ìmú
+A gourd is a natural container from a plant	Agbè jẹ́ agolo alájàáyè láti ọ̀dọ̀ igi
+A tank is a large container for storing liquids	Àgbá-nlá jẹ́ agolo tóbi fún ìtọ́jú àwọn asàn
+A tablespoon is a unit of volume measurement	Ṣíbí-onjẹ jẹ́ iye ìwọn àyè-inú
+A teaspoon is a smaller unit of volume measurement	Ṣíbí-tíì jẹ́ iye ìwọn àyè-inú kékeré
+A digit is a single numerical symbol	Ẹyọ-ònkà jẹ́ àmì òòkà ẹyọ kan
+The sum is the result of adding numbers together	Àròpọ jẹ́ èsì ìròpọ̀ àwọn òòkà papọ̀
+One square foot equals one hundred forty-four square inches	Ojú ẹsẹ kan dọ́gba mọ́ ọgọ́fà ó lé mẹ́rin ojú ìka
+One acre equals four thousand eight hundred forty square yards	Ékà kan dọ́gba mọ́ ẹgbẹ̀rún mẹ́rin ó lé ọ̀rìndínlọ́gọ́rin ojú ọpá
+One square mile equals six hundred forty acres	Ojú máìlì kan dọ́gba mọ́ ọgọ́ta lé ní ọgọ́rin ékà
+A two-dimensional shape has length and width	Èèyà olópoméjì ní gígùn àti ìbú
+Estimation is making an approximate calculation	Ìfojúwọn jẹ́ ṣíṣe ìṣirò fẹ́rẹ̀ẹ́ kan
+One hectoliter equals one hundred liters	Ọrún lítà dọ́gba mọ́ lítà ọgọ́rùn-ún kan
+One dekaliter equals ten liters	Ìdì lítà dọ́gba mọ́ lítà mẹ́wàá
+One centiliter equals one hundredth of a liter	Ìdá-ọrún lítà dọ́gba mọ́ ìdá ọgọ́rùn-ún kan lítà
+One kiloliter equals one thousand liters	Ọkẹ lítà dọ́gba mọ́ ẹgbẹ̀rún lítà kan
+Mathematics is the science of numbers and shapes	Ìṣirò jẹ́ sáyẹ́nsì àwọn òòkà àti àwọn èèyà
+Decimal addition requires aligning decimal points	Ìròpọ̀ ẹsẹ nílò títọ́jú àwọn òdo ẹsẹ
+Decimal subtraction also requires aligning decimal points	Ìyọkúrò ẹsẹ náà nílò títọ́jú àwọn òdo ẹsẹ
+A direct proportion shows values increasing at the same rate	Iye sí iye fi àwọn iye tí ń pọ̀ ní òṣùwọ̀n kannáà hàn
+An inverse proportion shows values moving in opposite directions	Iye sí ìdà iye fi àwọn iye tí ń lọ ní ìdàkejì ara wọn hàn
+The coordinate system helps locate points precisely	Ètò àmì-ipò ran ìdámọ̀ àwọn ibì ní pàtó lọ́wọ́
+Ten raised to the first power equals ten	Ìdì elédi kan dọ́gba mọ́ mẹ́wàá
+Ten raised to the second power equals one hundred	Ìdì elédi méjì dọ́gba mọ́ ọgọ́rùn-ún
+Ten raised to the third power equals one thousand	Ìdì elédi mẹ́ta dọ́gba mọ́ ẹgbẹ̀rún
+Two raised to the third power equals eight	Èjì elédi mẹ́ta dọ́gba mọ́ mẹ́jọ
+Five raised to the second power equals twenty-five	Àrún elédi méjì dọ́gba mọ́ mẹ́ẹ̀ẹ́dọ́gbọ̀n
+A function can be represented by a formula	A le fi àpèjúwe fi ìfà hàn
+Parallel lines never meet	Àwọn ìlà ìfẹ̀gbẹ́ràn kì í pàdé láéláé
+Perpendicular lines meet at right angles	Àwọn ìlà ìfẹgbẹtàrá pàdé ní ìgun ọ̀tún
+Common factors are shared divisors of numbers	Àwọn ìfipín àjọní jẹ́ àwọn pínpín àjọpín àwọn òòkà
+A multiplicative identity is one	Ìdánimọ̀ ìsọdipúpọ̀ jẹ́ ọ̀kan
+An additive identity is zero	Ìdánimọ̀ ìròpọ̀ jẹ́ òdo
+Arithmetic is the study of numbers	Àríṣèètébọ̀ jẹ́ ẹ̀kọ́ àwọn òòkà
+Algebra deals with symbols and equations	Àlúgẹ́brà dá pẹ̀lú àwọn àmì àti àwọn ìbámu
+The height of a parallelogram is the perpendicular distance between its parallel sides	Òòró ẹlẹgbẹmẹrin-gígún jẹ́ jíjìn ìfẹgbẹtàrá láàrin àwọn ẹ̀gbẹ́ ìfẹ̀gbẹ́ràn rẹ̀
+The base of a triangle can be any of its sides	Ìdí ààdó le jẹ́ èyíkéyìí nínú àwọn ẹ̀gbẹ́ rẹ̀
+The radius of a circle is the distance from its center to any point on its edge	Igbo ẹkà jẹ́ jíjìn láti àárín rẹ̀ sí èyíkéyìí ibì lórí ẹ̀bá rẹ̀
+Measurement converts physical quantities to numerical values	Wíwọn yí àwọn ìwọ̀n ara padà sí àwọn iye òòkà
+The area of a trapezium is the average of its parallel sides times its height	Òrò ẹlẹgbẹmẹrin adágún jẹ́ àárinméjì àwọn ẹ̀gbẹ́ ìfẹ̀gbẹ́ràn rẹ̀ ìlọ̀po òòró rẹ̀
+The perimeter of a shape is the total length of its sides	Àyíká èèyà jẹ́ àpapọ̀ gígùn àwọn ẹ̀gbẹ́ rẹ̀
+A factor is a whole number that divides another number completely	Ìfipín jẹ́ òòkà odindi tí ó pín òòkà mìíràn ní kíkún
+Two numbers are coprime if their highest common factor is one	Àwọn òòkà méjì jẹ́ ajọpín-ọ̀kan bí ìfipín nlá àjọní wọn bá jẹ́ ọ̀kan
+Prime numbers have exactly two factors: one and themselves	Àwọn òòkà aláìlápẹẹrẹ ní ìfipín méjì péré: ọ̀kan àti àwọn fúnra wọn
+One hundred forty-four square inches equal one square foot	Ọgọ́fà ó lé mẹ́rin ojú ìka dọ́gba mọ́ ojú ẹsẹ kan
+Nine square feet equal one square yard	Ojú ẹsẹ mẹ́sàn-án dọ́gba mọ́ ojú ọpá kan
+A function maps values from the domain to the range	Ìfà ṣe àwòrán àwọn iye láti àbàwọlé sí àbàjáde
+The domain of a function is the set of input values	Àbàwọlé ìfà jẹ́ ìkójọ àwọn iye ìtẹ̀wọlé
+The range of a function is the set of output values	Àbàjáde ìfà jẹ́ ìkójọ àwọn iye ìtẹ̀jáde
+In Cartesian coordinates, the origin is where all axes meet	Nínú àmì-ipò Dèkát, ìbẹ̀rẹ̀ jẹ́ ibi tí gbogbo àwọn òpó pàdé
+The distance formula uses the Pythagorean theorem	Àgbékalẹ̀ jíjìn lo òfin Pítágórásì
+In mathematics, a variable represents an unknown value	Nínú ìṣirò, onímáyífí dúró fún iye àìmọ̀ kan
+A constant is a fixed value that does not change	Àìdégbà jẹ́ iye tí kò yí padà
+A ratio compares quantities of the same type	Ìbámu fi àwọn ìwọ̀n irú kannáà wé ara wọn
+A proportion is an equation stating that two ratios are equal	Ìbáramu jẹ́ ìbámu tí ó sọ pé àwọn ìbámu méjì dọ́gba
+The Fibonacci sequence is formed by adding the two preceding numbers	Ìtẹ̀lé Fíbónáshì jẹ́ èyí tí a ṣẹ̀dá nípa ríròpọ̀ àwọn òòkà méjì tí ó ṣáájú
+A decimal number can be written as a fraction with a power of ten denominator	Òòkà ẹsẹ le jẹ́ kíkọ gẹ́gẹ́ bí ìdásíwẹ́wẹ́ pẹ̀lú agbára mẹ́wàá ní ìbọ̀rọ̀
+The net of a solid shape is its flattened form	Àwọ̀ èèyà líle jẹ́ irú rẹ̀ tí a tẹ́ pẹrẹpẹrẹ
+A solid has three dimensions: length, width, and height	Líle ní ìwọ̀n mẹ́ta: gígùn, ìbú, àti òòró
+The volume of a solid is the amount of space it occupies	Ìwọ̀n líle jẹ́ iye àyè tí ó gbà
+The product of two numbers is the result of multiplying them	Èso àwọn òòkà méjì jẹ́ èsì ìsọdipúpọ̀ wọn
+The quotient of two numbers is the result of dividing the first by the second	Ìpín àwọn òòkà méjì jẹ́ èsì pínpín èkínní pẹ̀lú èkejì
+A unit of measurement provides a standard for comparison	Iye ìwọn pèsè àfiwé àgbélẹ̀
+The least common multiple of two numbers is the smallest positive number divisible by both	Ìfárí kékeré àjọpọ̀ àwọn òòkà méjì jẹ́ òòkà dídápọ̀ kékeré tí ó ṣeépín pẹ̀lú àwọn méjèèjì
+The greatest common divisor is the largest positive integer that divides both numbers	Pínpín àjọpọ̀ tótóbi jùlọ jẹ́ òòkà odindi dídápọ̀ tótóbi jùlọ tí ó pín àwọn òòkà méjèèjì
+Factorization means breaking down a number into its prime factors	Ìfipínpín túmọ̀ sí bíbẹ́ òòkà sílẹ̀ sí àwọn ìfipín aláìlápẹẹrẹ rẹ̀
+A ray extends infinitely from a starting point	Ìtànná gba aláìlópin láti ibẹ̀rẹ̀pọ̀intì
+An angle is formed by two rays sharing a common endpoint	Ìgun jẹ́ èyí tí a ṣẹ̀dá pẹ̀lú àwọn ìtànná méjì tí ó ní òpin àjọpín
+A line segment has two endpoints	Ìrísí ìlà ní àwọn òpin méjì
+A plane is a flat, two-dimensional surface	Pèlébé jẹ́ ojú pẹrẹpẹrẹ, olópoméjì
+Symmetry is when one half of a shape mirrors the other half	Ìbámu-ara jẹ́ nígbà tí ìdajì kan èèyà bá jẹ́ àwòṣe ìdajì kejì
+Congruent shapes have the same size and shape	Àwọn èèyà ìbámu-ara ní ìtóbi àti èèyà kannáà
+Similar shapes have the same shape but different sizes	Àwọn èèyà ìfẹ́ràn ní èèyà kannáà ṣùgbọ́n ìtóbi yàtọ̀
+A square has four equal sides and four right angles	Àkòdì ní ẹ̀gbẹ́ mẹ́rin dọ́gba àti ìgun ọ̀tún mẹ́rin
+A rectangle has four right angles and opposite sides equal	Onígunmẹ́rin-ọ̀tún ní ìgun ọ̀tún mẹ́rin àti ẹ̀gbẹ́ ìkọjúsi dọ́gba
+A rhombus has four equal sides	Àkòdì alárọ́pò-lókè ní ẹ̀gbẹ́ mẹ́rin dọ́gba
+A quadrilateral is a polygon with four sides	Onígunmẹ́rin jẹ́ onígunpúpọ̀ pẹ̀lú ẹ̀gbẹ́ mẹ́rin
+A pentagon has five sides	Onígunmárùn-ún ní ẹ̀gbẹ́ márùn-ún
+A hexagon has six sides	Onígunmẹ́fà ní ẹ̀gbẹ́ mẹ́fà
+A heptagon has seven sides	Onígunméje ní ẹ̀gbẹ́ méje
+An octagon has eight sides	Onígunmẹ́jọ ní ẹ̀gbẹ́ mẹ́jọ
+A regular polygon has all sides and angles equal	Onígunpúpọ̀ déédé ní gbogbo ẹ̀gbẹ́ àti ìgun dọ́gba
+The circumference of a circle is the distance around it	Àyíká ẹkà jẹ́ jíjìn yípo rẹ̀
+The diameter of a circle is the distance across through the center	Ìsígun ẹkà jẹ́ jíjìn lọ kọjá àárín rẹ̀
+Pi is the ratio of a circle's circumference to its diameter	Pi jẹ́ ìbámu àyíká ẹkà sí ìsígun rẹ̀
+A cube has six square faces	Kúbù ní ojú àkòdì mẹ́fà
+A sphere is a perfectly round three-dimensional shape	Pèlébọ́ọ̀lù jẹ́ èèyà olópométa yíyí pẹrẹpẹrẹ
+Probability measures the likelihood of an event	Ìṣesẹ̀lẹ̀ wọn ṣeṣe ìṣẹ̀lẹ̀ kan
+Statistics deals with collecting and analyzing data	Ònkọ̀wé dá pẹ̀lú kíkójọpọ̀ àti títúpalẹ̀ dátà
+Median is the middle value in a sorted data set	Àádọ́ta jẹ́ iye àárín nínú ìkójọ dátà tí a tò
+Mode is the most frequent value in a data set	Àmódù jẹ́ iye tó pọ̀jùlọ nínú ìkójọ dátà
+Mean is the average of all values in a data set	Àpapọ̀dá jẹ́ àpapọ̀dá gbogbo àwọn iye nínú ìkójọ dátà
+Range is the difference between the highest and lowest values	Àbàjáde jẹ́ ìyàtọ̀ láàrin àwọn iye tó ga jùlọ àti tó kéré jùlọ
+A set is a collection of distinct objects	Ìkójọ jẹ́ àpajọ àwọn ohun aláìjọra
+A subset is a set contained within another set	Ìkójọ-abẹ́ jẹ́ ìkójọ tí ó wà nínú ìkójọ mìíràn
+The union of sets includes elements in either set	Ìsopọ̀ àwọn ìkójọ pẹ̀lú àwọn erémojì nínú bóyá ìkójọ
+The intersection of sets includes only elements in both sets	Ìkọlùsí àwọn ìkójọ pẹ̀lú àwọn erémojì nínú ìkójọ méjèèjì nìkan
+An inequality compares two values as not equal	Àìdọ́gba fi àwọn iye méjì wé bí wọn kò ṣe dọ́gba
+Linear equations have variables raised only to the first power	Àwọn ìbámu dorikodo ní àwọn onímáyífí tí a gbé lé agbára èkínní nìkan
+Quadratic equations include variables raised to the second power	Àwọn ìbámu onípele-méjì pẹ̀lú àwọn onímáyífí tí a gbé lé agbára èkejì
+A polynomial has multiple terms with variables raised to different powers	Púpọ̀-onípele ní àwọn ìpele púpọ̀ pẹ̀lú àwọn onímáyífí tí a gbé lé àwọn agbára yàtọ̀
+A coefficient is the numerical factor of a term	Àṣepọ̀-ìpele jẹ́ ìfipín òòkà ìpele kan
+A variable is a symbol that can represent different values	Onímáyífí jẹ́ àmì tí ó le dúró fún àwọn iye yàtọ̀
+Order of Operations	Ètò Àwọn Àmìn-Àṣẹ
+Mathematics is the study of numbers and shapes.	Ìṣirò jẹ́ ẹ̀kọ́ nípa àwọn òòkà àti àwọn ìgbélọ́.
+The order of operations helps us solve problems step by step.	Ètò àwọn àmìn-àṣẹ ràn wá lọ́wọ́ láti ṣojútùú àwọn ìyọnu ní ìgbésẹ̀ kan lẹ́yìn èkejì.
+First, solve what is inside the brackets.	Àkọ́kọ́, tú ohun tí ó wà nínú àkámọ́.
+The inner bracket must be calculated first.	Àkámọ́t'inú gbọ́dọ̀ jẹ́ ìṣesírò àkọ́kọ́.
+After removing brackets, we do division.	Lẹ́yìn tí a bá ti tú àkámọ́, a ó ṣe pínpín.
+Multiplication comes after division.	Ìsọdipúpọ̀ wá lẹ́yìn pínpín.
+Addition and subtraction are done last.	Írópọ̀ àti ìyọkúrò jẹ́ ṣíṣe ní ìparí.
+A mathematical process helps us solve equations.	Ìlànà ìṣirò ràn wá lọ́wọ́ láti ṣojútùú àwọn ìṣiro.
+Brackets help clarify which operation should be performed first.	Àwọn àkámọ́ ràn wá lọ́wọ́ láti ṣàlàyé èwo nínú àwọn àmìn-àṣẹ ìṣirò ní ó tọ́ kí a kọ́ ṣe.
+The study of triangles is important in mathematics.	Ẹ̀kọ́ nípa àwọn ààdó jẹ́ pàtàkì nínú ìṣirò.
+In a right angle triangle, one angle is ninety degrees.	Nínú ààdó onígun ọtún, igun kan jẹ́ ẹsán-ìdí àléfà.
+The Pythagoras theorem applies to right angle triangles.	Ìmọran Pìtágórà jẹ́ lílò fún àwọn ààdó onígun ọtún.
+An acute angle is smaller than a right angle.	Igun mímú kéré ju igun ọtún lọ.
+An obtuse angle is bigger than a right angle.	Igun fífẹ tóbi ju igun ọtún lọ.
+The square of the hypotenuse equals the sum of the squares of the other two sides.	Ìgbòrò àkòdì tí a bá yà sí orí ìlà ìríwá igun ọtún jẹyekan pẹ̀lú àpapọ ìgbòrò àkòdì tí a bá yà sí orí àwọn ìlà ẹgbẹ méjèèjì.
+Two sides are equal in an isosceles triangle.	Gígùn ìhà méjì dọgba nínú ààdó ayakàtà.
+All three sides are equal in an equilateral triangle.	Gígùn ìhà métẹẹta dọgba nínú ààdó ààrò.
+The area of a triangle can be calculated using a formula.	Ìgbòrò ààdó lè jẹ́ ìsirò lílò ọ̀nà kan.
+Summation is the process of adding numbers together.	Ìkópọ jẹ́ ìlànà írópọ̀ àwọn òòkà papọ̀.
+The operation of addition gives us the sum of numbers.	Ọṣẹ ìṣirò ti írópọ̀ fún wa ní àpapọ àwọn òòkà.
+Mathematical operators include addition, subtraction, multiplication and division.	Àwọn ọṣẹ ìṣirò ní írópọ̀, ìyọkúrò, ìsọdipúpọ̀, àti pínpín.
+The solution of the problem requires careful application of rules.	Ojútùú ìyọnu nílò ìlò pẹ̀lé pẹ̀lé ti àwọn òfin.
+To solve a mathematical problem, we need to follow the correct order.	Láti ṣojútùú ìyọnu ìṣirò, a nílò láti tẹ̀lé ètò tí ó tọ́.
+The reference angle helps us find the solution.	Igun àtọkasí ràn wá lọ́wọ́ láti rí ojútùú.
+A square has four right angles.	Àkòdì ní igun ọtún mẹ́rin.
+The opposite line in a triangle faces the reference angle.	Ìlà ìríwá nínú ààdó dojúkọ igun àtọkasí.
+Squaring a number means multiplying it by itself.	Eledi-meji òòkà túmọ̀ sí ìsọdipúpọ̀ rẹ̀ pẹ̀lú ara rẹ̀.
+Divide the expression into parts for easier calculation.	Pín ìfihàn sí àwọn ìpín fún ìṣirò tí ó rọrùn.
+The middle bracket comes after the inner bracket.	Àkámọ́t'àárín wá lẹ́yìn àkámọ́t'inú.
+The outer bracket is solved last in the order of brackets.	Àkámọ́t'òde jẹ́ ṣíṣojútùú ní ìkẹyìn nínú ètò àwọn àkámọ́.
+The sum of the three angles in a triangle is always 180 degrees.	Àpapọ àwọn igun mẹ́ta nínú ààdó jẹ́ ẹsán-ìdí àléfà ọgọ́fà nígbà gbogbo.
+An equation must have equal values on both sides.	Ìṣirò gbọ́dọ̀ ní àwọn iye tí ó dọ́gba ní ìhà méjèèjì.
+Pythagoras lived on the island of Samos.	Pìtágórà gbé ní erekusu Samọsi.
+The exponent tells us how many times to multiply a number by itself.	Edi-ooka sọ fún wa ìgbà mélòó láti ṣe ìsọdipúpọ̀ òòkà pẹ̀lú ara rẹ̀.
+When solving a mathematical problem, think carefully about each step.	Nígbà tí a bá ń ṣojútùú ìyọnu ìṣirò, ronú pẹ̀lé pẹ̀lé nípa ìgbésẹ̀ kọ̀ọ̀kan.
+In mathematics, we use mnemonics to remember rules.	Nínú ìṣirò, a lo ifiseranti láti rántí àwọn òfin.
+BODMAS helps us remember the order of operations.	ADURA ràn wá lọ́wọ́ láti rántí ètò àwọn àmìn-àṣẹ.
+A right angle triangle has one angle equal to 90 degrees.	Ààdó onígun ọtún ní igun kan tí ó dọ́gba pẹ̀lú ẹsán-ìdí àléfà.
+An acute angle triangle has all three angles less than 90 degrees.	Ààdó onígun mímú ní àwọn igun mẹ́tẹẹta tí ó kéré ju ẹsán-ìdí àléfà lọ.
+An obtuse angle triangle has one angle greater than 90 degrees.	Ààdó onígun fífẹ ní igun kan tí ó ju ẹsán-ìdí àléfà lọ.
+The area is the measure of the space inside a shape.	Ìgbòrò jẹ́ ìwọ̀n àyè inú ìgbélọ́.
+To calculate the square of a number, multiply it by itself.	Láti ṣe ìṣirò eledi-meji òòkà, ṣe ìsọdipúpọ̀ rẹ̀ pẹ̀lú ara rẹ̀.
+Whole numbers include zero and all positive integers.	Àwọn òòka odìdì ní òdo àti gbogbo àwọn òòka fífẹ.
+In a right angle triangle, the sides have a special relationship.	Nínú ààdó onígun ọtún, àwọn ìhà ní ìbátan pàtàkì.
+The Pythagoras theorem relates the squares of the sides of a right triangle.	Ìmọran Pìtágórà so àwọn ìgbòrò àkòdì ti àwọn ìhà ààdó onígun ọtún pọ̀.
+The opposite side is the side facing the reference angle.	Ìhà ìríwá jẹ́ ìhà tí ó dojúkọ igun àtọkasí.
+The adjacent sides are next to the reference angle.	Àwọn ìhà ẹgbẹ́ wà lẹ́gbẹ́ igun àtọkasí.
+A line to the right of the reference angle is called the right adjacent side.	Ìlà ní apá ọtún igun àtọkasí ní à ń pè ní ìlà ẹgbẹ́ ọtún.
+A line to the left of the reference angle is called the left adjacent side.	Ìlà ní apá òsì igun àtọkasí ní à ń pè ní ìlà ẹgbẹ́ òsì.
+The summation of consecutive whole numbers can be calculated with a formula.	Ìkópọ àwọn òòka odìdì tí ó tẹ̀le ara wọn lè jẹ́ ìṣirò pẹ̀lú àpẹẹrẹ.
+Mathematical processes include addition, subtraction, multiplication, and division.	Àwọn ìlànà ìṣirò ní írópọ̀, ìyọkúrò, ìsọdipúpọ̀, àti pínpín.
+Solving a mathematical problem requires following specific steps.	Ṣíṣojútùú ìyọnu ìṣirò béèrè fún títẹ̀lé àwọn ìgbésẹ̀ pàtó.
+The inner bracket must be solved before the outer bracket.	Àkámọ́t'inú gbọ́dọ̀ jẹ́ ṣíṣojútùú ṣáájú àkámọ́t'òde.
+Division and multiplication have equal priority in the order of operations.	Pínpín àti ìsọdipúpọ̀ ní ìtẹ́lé kànnáà nínú ètò àwọn àmìn-àṣẹ.
+Addition and subtraction also have equal priority in the order of operations.	Írópọ̀ àti ìyọkúrò náà ní ìtẹ́lé kànnáà nínú ètò àwọn àmìn-àṣẹ.
+The answer to a calculation is called the solution.	Ìdáhùn sí ìṣirò ní à ń pè ní ojútùú.
+The Pythagoras theorem is used to find the length of an unknown side in a right triangle.	Ìmọran Pìtágórà jẹ́ lílò láti rí gígùn ìhà àìmọ̀ nínú ààdó onígun ọtún.
+A degree is a unit of measure for angles.	Àléfà jẹ́ ẹ̀ka ìwọ̀n fún àwọn igun.
+In geometry, we study shapes and their properties.	Nínú ìmọ̀ onígíga, a kọ́ nípa àwọn ìgbélọ́ àti àwọn ìní wọn.
+A triangle with all three sides of different lengths is called a scalene triangle.	Ààdó pẹ̀lú àwọn ìhà mẹ́tẹẹta tí ó yàtọ̀ ní gígùn jẹ́ pípè ní ààdó aláìdọ́gba.
+The perimeter of a shape is the total distance around its edges.	Ààyíká ìgbélọ́ jẹ́ àpapọ jìnnà yíká àwọn etí rẹ̀.
+To find the area of a triangle, multiply the base by the height and divide by two.	Láti rí ìgbòrò ààdó, ṣe ìsọdipúpọ̀ ìsàlẹ̀ pẹ̀lú gíga kí o sì pín pẹ̀lú méjì.
+The square root of a number is the value that, when multiplied by itself, gives the original number.	Gbòǹgbò òòkà jẹ́ iye tí, nígbà tí a bá ṣe ìsọdipúpọ̀ rẹ̀ pẹ̀lú ara rẹ̀, fún ní òòkà àtìbẹ̀rẹ̀.
+A quadrilateral is a shape with four sides and four angles.	Onígun-mẹ́rin jẹ́ ìgbélọ́ pẹ̀lú ìhà mẹ́rin àti igun mẹ́rin.
+The volume of a cube is calculated by cubing the length of one side.	Ìwọ̀n àyè kùbù jẹ́ ìṣirò nípa ìsọdipúpọ̀ gígùn ìhà kan lẹ́mẹta.
+Algebra uses symbols to represent numbers in equations.	Ìṣirò onísanra lo àwọn àmì láti dúró fún àwọn òòkà nínú àwọn ìṣirò.
+A circle has a radius, diameter, and circumference.	Òbìríòbí ní ààlà, ìbú, àti àyíká.
+The radius of a circle is the distance from the center to any point on the circle.	Ààlà òbìríòbí jẹ́ jìnnà láti àárín dé ìpele kankan lórí òbìríòbí.
+The diameter of a circle is twice the radius.	Ìbú òbìríòbí jẹ́ ìgbà méjì ààlà.
+Pi is a constant approximately equal to 3.14.	Pi jẹ́ ìdúró tí ó fẹ́rẹ̀ dọ́gba pẹ̀lú 3.14.
+In a circle, the ratio of circumference to diameter is always pi.	Nínú òbìríòbí, ìjọra àyíká sí ìbú jẹ́ pi nígbà gbogbo.
+A line segment has two endpoints.	Ìlà abala ní ìpele òpin méjì.
+A ray has one endpoint and extends infinitely in one direction.	Ìtànná ní ìpele òpin kan tí ó sì fẹ̀ láìlópin ní ìtọ́kasí kan.
+A line extends infinitely in both directions.	Ìlà fẹ̀ láìlópin ní àwọn ìtọ́kasí méjèèjì.
+Parallel lines never intersect.	Àwọn ìlà aṣọ̀rìn kò ní ìpàdé láéláé.
+Perpendicular lines intersect at right angles.	Àwọn ìlà onígùn ọtún ní ìpàdé ní àwọn igun ọtún.
+The sum of the interior angles of a polygon with n sides is (n-2) times 180 degrees.	Àpapọ àwọn igun inú onígun-púpọ̀ pẹ̀lú ìhà n jẹ́ (n-2) ìgbà ẹsán-ìdí àléfà ọgọ́fà.
+The formula for the area of a rectangle is length times width.	Àpẹẹrẹ fún ìgbòrò èèyà onígunmẹrin gígún jẹ́ gígùn ìgbà fífẹ̀.
+The formula for the volume of a rectangular prism is length times width times height.	Àpẹẹrẹ fún ìwọ̀n àyè ọlọ́pọ̀ onígun-mẹ́rin gígún jẹ́ gígùn ìgbà fífẹ̀ ìgbà gíga.
+A probability is a number between zero and one.	Ìṣeṣí jẹ́ òòkà láàrín òdo àti ọ̀kan.
+The mean of a set of numbers is the sum divided by the count.	Àpapajọ ẹkúnrẹ́rẹ́ àwọn òòkà jẹ́ àpapọ pín pẹ̀lú ìkà.
+The median of a set of numbers is the middle value when arranged in order.	Àárín àwọn òòkà jẹ́ iye àárín nígbà tí a bá tò wọ́n ní ètò.
+The mode of a set of numbers is the value that appears most frequently.	Ìwọ̀n tí ó wọ́pọ̀ jù jẹ́ iye tí ó farahàn lọ́pọ̀lọpọ̀ jùlọ.
+A variable is a symbol that represents an unknown quantity.	Onírúurú jẹ́ àmì tí ó dúró fún iye àìmọ̀.
+A constant is a fixed value that does not change.	Ìdúró jẹ́ iye tí a ti fi sí tí kò yí padà.
+A coefficient is a number used to multiply a variable.	Afisódipúpọ̀ jẹ́ òòkà tí a lò láti ṣe ìsọdipúpọ̀ onírúurú.
+A linear equation has variables raised only to the first power.	Ìṣirò òdíwọ̀n ní àwọn onírúurú tí a gbé sókè sí agbára àkọ́kọ́ nìkan.
+A quadratic equation has variables raised to the second power.	Ìṣirò eledi-méjì ní àwọn onírúurú tí a gbé sókè sí agbára kejì.
+The Cartesian coordinate system uses ordered pairs to locate points on a plane.	Ètò ìfiwọ̀nsí Cartesian lo àwọn ọdọ̀ tí a tò láti rí àwọn ìpele lórí pabala.
+The x-axis is the horizontal line in a coordinate system.	Ìlà-x jẹ́ ìlà gbangba nínú ètò ìfiwọ̀nsí.
+The y-axis is the vertical line in a coordinate system.	Ìlà-y jẹ́ ìlà òkè-ìsàlẹ̀ nínú ètò ìfiwọ̀nsí.
+The origin is the point where the x-axis and y-axis intersect.	Ìbẹ̀rẹ̀ jẹ́ ìpele níbi tí ìlà-x àti ìlà-y ní ìpàdé.
+A function is a relation that assigns exactly one output to each input.	Ìṣe jẹ́ ìbáṣepọ̀ tí ó yàn àbọ̀ kan pàtó fún ìwọlé kọ̀ọ̀kan.
+The domain of a function is the set of all possible input values.	Àdàkọ ìṣe jẹ́ àkójọpọ̀ gbogbo àwọn iye ìwọlé tí ó ṣe é ṣe.
+The range of a function is the set of all possible output values.	Ìbáwọn ìṣe jẹ́ àkójọpọ̀ gbogbo àwọn iye àbọ̀ tí ó ṣe é ṣe.
+A function can be represented by an equation, a graph, or a table.	Ìṣe lè jẹ́ àfihàn nípa ìṣirò, àfàrí, tàbí tábìlì.
+A parabola is the graph of a quadratic function.	Jígí jẹ́ àfàrí ìṣe eledi-méjì.
+The vertex of a parabola is its highest or lowest point.	Tẹntẹ jígí jẹ́ ìpele gíga jùlọ tàbí kéré jùlọ rẹ̀.
+An asymptote is a line that a curve approaches but never touches.	Ìlàìdé jẹ́ ìlà tí ìkáwọ́ súnmọ́ ṣùgbọ́n tí kò fi ọwọ́ kan rárá.
+A limit describes the behavior of a function as the input approaches a particular value.	Ààlà ṣàlàyé ìwà ìṣe bí ìwọlé ṣe súnmọ́ iye pàtó kan.
+A derivative measures the rate of change of a function.	Àdáyọ wọ̀n ìdíwọ̀n ìyípadà ìṣe.
+An integral finds the area under a curve.	Àpapọ̀pọ̀ wá ìgbòrò lábẹ́ ìkáwọ́.
+The summation symbol represents adding up a sequence of terms.	Àmì ìkópọ dúró fún fífipọ̀ ìtẹ̀lé àwọn ọ̀rọ̀.
+In the BODMAS rule, brackets are calculated first.	Nínú òfin ADURA, àwọn àkámọ́ jẹ́ ìṣirò àkọ́kọ́.
+In the BODMAS rule, division follows brackets.	Nínú òfin ADURA, pínpín tẹ̀lé àwọn àkámọ́.
+In the BODMAS rule, multiplication comes after division.	Nínú òfin ADURA, ìsọdipúpọ̀ wá lẹ́yìn pínpín.
+In the BODMAS rule, addition follows multiplication.	Nínú òfin ADURA, írópọ̀ tẹ̀lé ìsọdipúpọ̀.
+In the BODMAS rule, subtraction is done last.	Nínú òfin ADURA, ìyọkúrò jẹ́ ṣíṣe ní ìkẹyìn.
+A factor is a number that divides another number without a remainder.	Ìpínṣe jẹ́ òòkà tí ó pín òòkà mìíràn láìsí ìyókù.
+A multiple is the product of a number and an integer.	Ìɓólópọ̀ jẹ́ èso òòkà kan àti òǹkà odidi.
+A prime number has exactly two factors: one and itself.	òòkà aláìpín ní ìpínṣe méjì pàtó: ọ̀kan àti òun fúnra rẹ̀.
+A composite number has more than two factors.	òòkà àdàpọ̀ ní ìpínṣe tí ó ju méjì lọ.
+The greatest common factor is the largest factor shared by two or more numbers.	Ìpínṣe àjọpọ̀ tí ó tóbi jùlọ jẹ́ ìpínṣe tí ó tóbi jùlọ tí a pín pẹ̀lú òòkà méjì tàbí jù bẹ́ẹ̀ lọ.
+The least common multiple is the smallest positive number that is a multiple of two or more numbers.	Ìɓólópọ̀ àjọpọ̀ tí ó kéré jùlọ jẹ́ òòkà dáradára tí ó kéré jùlọ tí í ṣe ìɓólópọ̀ òòkà méjì tàbí jù bẹ́ẹ̀ lọ.
+The additive inverse of a number is the number with the same absolute value but opposite sign.	Ìlòdì ìrópọ̀ òòkà jẹ́ òòkà pẹ̀lú iye mutumùtù kànnáà ṣùgbọ́n àmì òdìkejì.
+The multiplicative inverse of a number is one divided by that number.	Ìlòdì ìsọdipúpọ̀ òòkà jẹ́ ọ̀kan pín pẹ̀lú òòkà náà.
+A rational number can be expressed as a fraction of two integers.	òòkà déédéé lè jẹ́ àfihàn bí ìdá méjì òǹkà odidi.
+An irrational number cannot be expressed as a fraction of two integers.	òòkà àìdéédéé kò lè jẹ́ àfihàn bí ìdá méjì òǹkà odidi.
+A sequence is an ordered list of numbers that follow a pattern.	Ìtẹ̀lé jẹ́ àkójọ òòkà tí a tò tí ó tẹ̀lé àpẹẹrẹ.
+An arithmetic sequence has a constant difference between consecutive terms.	Ìtẹ̀lé òǹkà ní ìyàtọ̀ tí kò yí padà láàrín àwọn ọ̀rọ̀ tí ó tẹ̀lé ara wọn.
+A geometric sequence has a constant ratio between consecutive terms.	Ìtẹ̀lé onígíga ní ìjọra tí kò yí padà láàrín àwọn ọ̀rọ̀ tí ó tẹ̀lé ara wọn.
+The acute angle in a right triangle is always less than 90 degrees.	Igun mímú nínú ààdó onígun ọtún jẹ́ kéré ju ẹsán-ìdí àléfà lọ nígbà gbogbo.
+The hypotenuse is the longest side in a right triangle.	Ìlà ìríwá jẹ́ ìhà tí ó gùn jùlọ nínú ààdó onígun ọtún.
+To calculate the perimeter of a triangle, add the lengths of all three sides.	Láti ṣe ìṣirò ààyíká ààdó, fi gígùn gbogbo àwọn ìhà mẹ́tẹẹta pọ̀.
+In a right triangle, the Pythagoras theorem states that a squared plus b squared equals c squared.	Nínú ààdó onígun ọtún, ìmọran Pìtágórà sọ pé a eledi-méjì pẹ̀lú b eledi-méjì dọ́gba pẹ̀lú c eledi-méjì.
+Geometry is the branch of mathematics that deals with shapes and their properties.	Ìmọ̀ onígíga jẹ́ ẹ̀ka ìṣirò tí ó dá pẹ̀lú àwọn ìgbélọ́ àti àwọn ìní wọn.
+Algebra is the branch of mathematics that uses symbols to represent quantities.	Ìṣirò onísanra jẹ́ ẹ̀ka ìṣirò tí ó lo àwọn àmì láti dúró fún àwọn iye.
+Trigonometry is the branch of mathematics that studies the relationships between the sides and angles of triangles.	Ìṣirò onígun jẹ́ ẹ̀ka ìṣirò tí ó kọ́ nípa àwọn ìbáṣepọ̀ láàrín àwọn ìhà àti àwọn igun ààdó.
+Calculus is the branch of mathematics that deals with rates of change and accumulation.	Ìṣirò ìdíwọ̀n jẹ́ ẹ̀ka ìṣirò tí ó dá pẹ̀lú àwọn ìdíwọ̀n ìyípadà àti ìkójọpọ̀.
+Statistics is the branch of mathematics that deals with collecting, analyzing, and interpreting data.	Ìṣirò ìwọ̀n jẹ́ ẹ̀ka ìṣirò tí ó dá pẹ̀lú kíkójọ, títúpalẹ̀, àti títúmọ̀ dátà.
+A set is a collection of distinct objects.	Ìṣeto jẹ́ àkójọpọ̀ àwọn ohun tí ó yàtọ̀.
+The intersection of two sets contains elements that belong to both sets.	Ìkórajọpọ̀ àwọn ìṣeto méjì ní àwọn ẹ̀yà tí ó jẹ́ ti àwọn ìṣeto méjèèjì.
+The union of two sets contains elements that belong to either set.	Ìsopọ̀ àwọn ìṣeto méjì ní àwọn ẹ̀yà tí ó jẹ́ ti bóyá ìṣeto.
+A proof is a logical argument that establishes the truth of a statement.	Ẹ̀rí jẹ́ àríyanjiyan ológbọ́n tí ó fi ídí òtítọ́ ọ̀rọ̀ kan múlẹ̀.
+Induction is a method of proof that establishes the truth of an infinite sequence of statements.	Àdàwọlé jẹ́ ọ̀nà ẹ̀rí tí ó fi ídí òtítọ́ ìtẹ̀lé àìlópin ti àwọn ọ̀rọ̀ múlẹ̀.
+A theorem is a statement that has been proven based on previously established statements.	Ìmọran jẹ́ ọ̀rọ̀ tí a ti fìdí rẹ̀ múlẹ̀ dá lórí àwọn ọ̀rọ̀ tí a ti fi ídí múlẹ̀ tẹ́lẹ̀.
+An axiom is a statement that is accepted without proof.	Ẹ̀kọ́ fàyàfì jẹ́ ọ̀rọ̀ tí a gba láìsí ẹ̀rí.
+A postulate is a statement assumed to be true without proof.	Ìgbàgbọ́ jẹ́ ọ̀rọ̀ tí a gbà pé ó jẹ́ òtítọ́ láìsí ẹ̀rí.
+The sine of an angle is the ratio of the opposite side to the hypotenuse.	Sáìnì igun jẹ́ ìjọra ìhà ìríwá sí ìlà ìríwá.
+The cosine of an angle is the ratio of the adjacent side to the hypotenuse.	Kósáìnì igun jẹ́ ìjọra ìhà ẹgbẹ́ sí ìlà ìríwá.
+The tangent of an angle is the ratio of the opposite side to the adjacent side.	Tánẹ́ńtì igun jẹ́ ìjọra ìhà ìríwá sí ìhà ẹgbẹ́.
+A matrix is a rectangular array of numbers arranged in rows and columns.	Mátríkì jẹ́ ètò ẹlẹ́gbẹ̀ òòkà tí a tò ní àwọn ìlà àti àwọn ọ̀wọ́n.
+A determinant is a value calculated from a square matrix.	Alápinná jẹ́ iye tí a ṣe ìṣirò láti mátríkì olórígun.
+A vector is a quantity that has both magnitude and direction.	Òṣùwọ̀n jẹ́ iye tí ó ní bí iwọ̀n ṣe tóbi tó àti ìtọ́kasí.
+A scalar is a quantity that has only magnitude.	Alárọ̀mọ jẹ́ iye tí ó ní bí iwọ̀n ṣe tóbi tó nìkan.
+An equation expresses the equality of two expressions.	Ìṣirò fihàn ìdọ́gba méjì ìfihàn.
+An inequality expresses the relationship between two expressions that are not equal.	Àìdọ́gba fihàn ìbáṣepọ̀ láàrín ìfihàn méjì tí kò dọ́gba.
+A system of equations consists of two or more equations with the same variables.	Ètò ìṣirò jẹ́ méjì tàbí jù bẹ́ẹ̀ lọ ìṣirò pẹ̀lú àwọn onírúurú kànnáà.
+The solution to a system of equations satisfies all equations in the system.	Ojútùú sí ètò ìṣirò tẹ́ gbogbo àwọn ìṣirò nínú ètò lọ́rùn.
+A polynomial is an expression consisting of variables and coefficients.	Onípọ̀-púpọ̀ jẹ́ ìfihàn tí ó jẹ́ àwọn onírúurú àti àwọn afisódipúpọ̀.
+A monomial is a polynomial with one term.	Onípọ̀-ọ̀kan jẹ́ onípọ̀-púpọ̀ pẹ̀lú ọ̀rọ̀ kan.
+A binomial is a polynomial with two terms.	Onípọ̀-méjì jẹ́ onípọ̀-púpọ̀ pẹ̀lú àwọn ọ̀rọ̀ méjì.
+A trinomial is a polynomial with three terms.	Onípọ̀-mẹ́ta jẹ́ onípọ̀-púpọ̀ pẹ̀lú àwọn ọ̀rọ̀ mẹ́ta.
+The degree of a polynomial is the highest power of the variable in the polynomial.	Ìpele onípọ̀-púpọ̀ jẹ́ agbára gíga jùlọ onírúurú nínú onípọ̀-púpọ̀.
+A polynomial function is a function defined by a polynomial expression.	Ìṣe onípọ̀-púpọ̀ jẹ́ ìṣe tí a ṣàlàyé nípa ìfihàn onípọ̀-púpọ̀.
+The zeros of a polynomial function are the values of the variable that make the function equal to zero.	Àwọn òdo ìṣe onípọ̀-púpọ̀ jẹ́ àwọn iye onírúurú tí ó mú kí ìṣe dọ́gba pẹ̀lú òdo.
+The Fundamental Theorem of Algebra states that every polynomial equation has at least one complex solution.	Ìmọran Ìpìlẹ̀ṣẹ̀ Ìṣirò onísanra sọ pé gbogbo ìṣirò onípọ̀-púpọ̀ ní ó kéré jù ojútùú ìṣàkápọ̀ kan.
+A complex number has a real part and an imaginary part.	òòkà ìṣàkápọ̀ ní apá gidi àti apá àlásope.
+The imaginary unit is the square root of negative one.	Ẹ̀ka àlásope jẹ́ gbòǹgbò ṣelédimejì òkan àdàkọ̀.
+A logarithm is the power to which a base must be raised to produce a given number.	Áláfojúrí jẹ́ agbára tí a gbọ́dọ̀ gbé ìpìlẹ̀ sókè láti pèsè òòkà tí a fún.
+The natural logarithm has base e, an irrational number approximately equal to 2.71828.	Áláfojúrí adáyàn ní ìpìlẹ̀ e, òòkà àìdéédéé tí ó fẹ́rẹ̀ dọ́gba pẹ̀lú 2.71828.
+The common logarithm has base 10.	Áláfojúrí ajọgbà ní ìpìlẹ̀ 10.
+An exponential function has a variable in the exponent.	Ìṣe elédí ní onírúurú nínú agbára.
+A factorial is the product of all positive integers less than or equal to a given number.	Alákòósọ jẹ́ èso gbogbo àwọn òǹkà odidi dáradára tí ó kéré ju tàbí dọ́gba pẹ̀lú òòkà tí a fún.
+A permutation is an arrangement of objects in a specific order.	Ìpínyísọ̀rí jẹ́ ètò àwọn ohun ní ètò pàtó.
+A combination is a selection of objects without regard to order.	Àdàpọ̀ jẹ́ ìyànsípò àwọn ohun láìsí èrò sí ètò.
+The probability of an event is a number between zero and one that expresses the likelihood of the event occurring.	Ìṣeṣí ìṣẹ̀lẹ̀ jẹ́ òòkà láàrín òdo àti ọ̀kan tí ó fihàn ìṣeése ìṣẹ̀lẹ̀ náà tí ó ṣẹlẹ̀.
+The conditional probability of an event is the probability of the event occurring given that another event has already occurred.	Ìṣeṣí àmúlò ìṣẹ̀lẹ̀ jẹ́ ìṣeṣí ìṣẹ̀lẹ̀ náà tí ó ṣẹlẹ̀ fún pé ìṣẹ̀lẹ̀ mìíràn ti ṣẹlẹ̀ tẹ́lẹ̀.
+A random variable is a variable whose value is determined by the outcome of a random process.	Onírúurú àtiwáyé jẹ́ onírúurú tí iye rẹ̀ jẹ́ ìpinnu nípa àbọ̀ ìlànà àtiwáyé.
+The expected value of a random variable is the weighted average of all possible values.	Iye àlérò onírúurú àtiwáyé jẹ́ àpapajọ ìwọ̀n gbogbo àwọn iye tí ó ṣe é ṣe.
+The variance of a random variable measures how far the values are spread from the expected value.	Iyàtọ̀ onírúurú àtiwáyé wọ̀n bi àwọn iye ti tàn jìnnà sí iye àlérò.
+The standard deviation is the square root of the variance.	Ìyapa àfọwọ́dá jẹ́ gbòǹgbò iyàtọ̀.
+A normal distribution is a probability distribution that is symmetric and bell-shaped.	Pínpín déédéé jẹ́ pínpín ìṣeṣí tí ó dọ́gba tí ó sì jẹ́ àgọ́-dídá.
+The Binomial distribution describes the number of successes in a fixed number of independent trials.	Pínpín méjì-ònkà ṣàlàyé iye àwọn àṣeyọrí nínú iye tí ó dúró ṣinṣin ti àwọn ìdánwò ominira.
+The Poisson distribution describes the number of events occurring in a fixed interval of time or space.	Pínpín Poisson ṣàlàyé iye àwọn ìṣẹ̀lẹ̀ tí ó ṣẹlẹ̀ nínú àlàfo àkókò tàbí àyè tí ó dúró ṣinṣin.
+A hypothesis test is a statistical method used to make decisions based on data.	Ìdánwò ìgbàgbọ́ jẹ́ ọ̀nà ìṣirò ìwọ̀n tí a lò láti ṣe ìpinnu dá lórí dátà.
+The null hypothesis is the assumption that there is no effect or no difference.	Ìgbàgbọ́ òfo jẹ́ èrò pé kò sí ipa tàbí ìyàtọ̀.
+The alternative hypothesis is the assumption that there is an effect or a difference.	Ìgbàgbọ́ míràn jẹ́ èrò pé ipa tàbí ìyàtọ̀ wà.
+A confidence interval is a range of values that is likely to contain the true value of a parameter.	Àlàfo ìgbẹ́kẹ̀lé jẹ́ ìbáwọn àwọn iye tí ó ṣe é ṣe láti ní iye òtítọ́ ti pàrámítà.
+A correlation measures the strength and direction of a relationship between two variables.	Ìbáṣepọ̀ wọ̀n okun àti ìtọ́kasí ìbáṣepọ̀ láàrín àwọn onírúurú méjì.
+The correlation coefficient is a value between -1 and 1 that indicates the strength of the correlation.	Afisódipúpọ̀ ìbáṣepọ̀ jẹ́ iye láàrín -1 àti 1 tí ó tọ́ka okun ìbáṣepọ̀.
+A positive correlation indicates that as one variable increases, the other also increases.	Ìbáṣepọ̀ dáradára tọ́ka pé bí onírúurú kan ṣe ń pọ̀ sí, òmíràn náà ń pọ̀ sí.
+A negative correlation indicates that as one variable increases, the other decreases.	Ìbáṣepọ̀ àdàkọ̀ tọ́ka pé bí onírúurú kan ṣe ń pọ̀ sí, òmíràn ń dínkù.
+A regression analysis studies the relationship between a dependent variable and one or more independent variables.	Ìtúpalẹ̀ àpadàsẹ́yìn kọ́ ìbáṣepọ̀ láàrín onírúurú tí ó gbékèlé àti ọ̀kan tàbí jù bẹ́ẹ̀ lọ àwọn onírúurú ominira.
+A simple linear regression involves one independent variable.	Àpadàsẹ́yìn òdíwọ̀n rọrùn kan ní onírúurú ominira kan.
+A multiple linear regression involves two or more independent variables.	Àpadàsẹ́yìn òdíwọ̀n oníẹ̀ẹ́mejì ní onírúurú ominira méjì tàbí jù bẹ́ẹ̀ lọ.
+A parallelogram is a quadrilateral with opposite sides parallel and equal.	Ẹlẹ́gbẹ̀-adọ́gbà jẹ́ onígun-mẹ́rin pẹ̀lú àwọn ìhà ìdojúkọ tí ó jẹ́ aṣọ̀rìn tí wọ́n sì dọ́gba.
+A rectangle is a parallelogram with four right angles.	Èèyà onígunmẹrin gígún jẹ́ ẹlẹ́gbẹ̀-adọ́gbà pẹ̀lú igun ọtún mẹ́rin.
+A square is a rectangle with all sides equal.	Àkòdì jẹ́ èèyà onígunmẹrin gígún pẹ̀lú gbogbo àwọn ìhà dọ́gba.
+A rhombus is a parallelogram with all sides equal.	Adọ́gbà-ẹlẹ́gbẹ̀ jẹ́ ẹlẹ́gbẹ̀-adọ́gbà pẹ̀lú gbogbo àwọn ìhà dọ́gba.
+A trapezoid is a quadrilateral with exactly one pair of parallel sides.	Adọ́gbà-aláìṣọ̀rìn jẹ́ onígun-mẹ́rin pẹ̀lú ẹyọ kan pàtó ti àwọn ìhà aṣọ̀rìn.
+A regular polygon has all sides equal and all angles equal.	Onígun-púpọ̀ déédéé ní gbogbo àwọn ìhà dọ́gba àti gbogbo àwọn igun dọ́gba.
+A pentagon is a polygon with five sides.	Onígun-márùn jẹ́ onígun-púpọ̀ pẹ̀lú ìhà márùn-ún.
+A hexagon is a polygon with six sides.	Onígun-mẹ́fà jẹ́ onígun-púpọ̀ pẹ̀lú ìhà mẹ́fà.
+An octagon is a polygon with eight sides.	Onígun-mẹ́jọ jẹ́ onígun-púpọ̀ pẹ̀lú ìhà mẹ́jọ.
+A circle is the set of all points in a plane that are at a fixed distance from a fixed point.	Òbìríòbí jẹ́ ìṣeto gbogbo àwọn ìpele nínú pabala tí ó wà ní jìnnà tí ó dúró ṣinṣin láti ìpele tí ó dúró ṣinṣin.
+The circumference of a circle is the distance around the circle.	Àyíká òbìríòbí jẹ́ jìnnà yí òbìríòbí ká.
+The radius of a circle is the distance from the center to any point on the circle.	Ààlà òbìríòbí jẹ́ jìnnà láti àárín sí ìpele kankan lórí òbìríòbí.
+The diameter of a circle is twice the radius.	Ìbú òbìríòbí jẹ́ ìgbà méjì ààlà.
+A tangent to a circle is a line that touches the circle at exactly one point.	Tánẹ́ńtì sí òbìríòbí jẹ́ ìlà tí ó fi ọwọ́ kan òbìríòbí ní ìpele kan pàtó.
+A chord of a circle is a line segment whose endpoints lie on the circle.	Okùn òbìríòbí jẹ́ ìlà abala tí àwọn ìpele òpin rẹ̀ wà lórí òbìríòbí.
+A sector of a circle is a region bounded by two radii and an arc.	Àdìmú òbìríòbí jẹ́ agbègbè tí a fi àwọn ààlà méjì àti àrọ́wọ́tọ́ ṣe ààlà rẹ̀.
+A segment of a circle is a region bounded by a chord and an arc.	Àdìmú kékeré òbìríòbí jẹ́ agbègbè tí a fi okùn àti àrọ́wọ́tọ́ ṣe ààlà rẹ̀.
+A sphere is the set of all points in three-dimensional space that are at a fixed distance from a fixed point.	Kókó jẹ́ ìṣeto gbogbo àwọn ìpele nínú àyè oníìwọ̀n-mẹ́ta tí ó wà ní jìnnà tí ó dúró ṣinṣin láti ìpele tí ó dúró ṣinṣin.
+The volume of a sphere is four-thirds times pi times the cube of the radius.	Ìwọ̀n àyè kókó jẹ́ ẹ̀ẹ́rin-ìdá-mẹ́ta ìgbà pi ìgbà kúbù ààlà.
+The surface area of a sphere is four times pi times the square of the radius.	Ìgbòrò ojú kókó jẹ́ ìgbà mẹ́rin pi ìgbà ìgbòrò àkòdì ààlà.
+A cube is a three-dimensional solid with six square faces.	Kùbù jẹ́ líle oníìwọ̀n-mẹ́ta pẹ̀lú ojú àkòdì mẹ́fà.
+The volume of a cube is the cube of the length of one edge.	Ìwọ̀n àyè kùbù jẹ́ kúbù gígùn eti kan.
+The surface area of a cube is six times the square of the length of one edge.	Ìgbòrò ojú kùbù jẹ́ ìgbà mẹ́fà ìgbòrò àkòdì gígùn eti kan.
+A rectangular prism is a three-dimensional solid with six rectangular faces.	Ọlọ́pọ̀ onígun-mẹ́rin gígún jẹ́ líle oníìwọ̀n-mẹ́ta pẹ̀lú ojú èèyà onígunmẹrin gígún mẹ́fà.
+The volume of a rectangular prism is the product of the length, width, and height.	Ìwọ̀n àyè ọlọ́pọ̀ onígun-mẹ́rin gígún jẹ́ èso gígùn, fífẹ̀, àti gíga.
+The surface area of a rectangular prism is twice the sum of the products of the pairs of dimensions.	Ìgbòrò ojú ọlọ́pọ̀ onígun-mẹ́rin gígún jẹ́ ìgbà méjì àpapọ àwọn èso ọdọ̀ àwọn ìwọ̀n.
+A cylinder is a three-dimensional solid with two circular bases and a curved lateral surface.	Sílíndà jẹ́ líle oníìwọ̀n-mẹ́ta pẹ̀lú àwọn ìpìlẹ̀ òbìríòbí méjì àti ojú ẹ̀gbẹ́ tí ó wọ́.
+The volume of a cylinder is pi times the square of the radius times the height.	Ìwọ̀n àyè sílíndà jẹ́ pi ìgbà ìgbòrò àkòdì ààlà ìgbà gíga.
+The curved surface area of a cylinder is two times pi times the radius times the height.	Ìgbòrò ojú tí ó wọ́ sílíndà jẹ́ ìgbà méjì pi ìgbà ààlà ìgbà gíga.
+A cone is a three-dimensional solid with a circular base and a vertex.	Kónu jẹ́ líle oníìwọ̀n-mẹ́ta pẹ̀lú ìpìlẹ̀ òbìríòbí àti tẹntẹ.
+The volume of a cone is one-third times pi times the square of the radius times the height.	Ìwọ̀n àyè kónu jẹ́ ìdá-kan-nínú-mẹ́ta ìgbà pi ìgbà ìgbòrò àkòdì ààlà ìgbà gíga.
+The curved surface area of a cone is pi times the radius times the slant height.	Ìgbòrò ojú tí ó wọ́ kónu jẹ́ pi ìgbà ààlà ìgbà gíga ìgbọ̀nsẹ̀.
+A pyramid is a three-dimensional solid with a polygonal base and triangular faces that meet at a vertex.	Píràmídì jẹ́ líle oníìwọ̀n-mẹ́ta pẹ̀lú ìpìlẹ̀ onígun-púpọ̀ àti àwọn ojú ààdó tí ó pàdé ní tẹntẹ.
+The volume of a pyramid is one-third times the area of the base times the height.	Ìwọ̀n àyè píràmídì jẹ́ ìdá-kan-nínú-mẹ́ta ìgbà ìgbòrò ìpìlẹ̀ ìgbà gíga.
+A prism is a three-dimensional solid with two congruent and parallel faces, and all other faces are parallelograms.	Ọlọ́pọ̀ jẹ́ líle oníìwọ̀n-mẹ́ta pẹ̀lú ojú méjì tí ó báramu tí ó sì jẹ́ aṣọ̀rìn, àti gbogbo àwọn ojú mìíràn jẹ́ ẹlẹ́gbẹ̀-adọ́gbà.
+The volume of a prism is the area of the base times the height.	Ìwọ̀n àyè ọlọ́pọ̀ jẹ́ ìgbòrò ìpìlẹ̀ ìgbà gíga.
+A tetrahedron is a pyramid with a triangular base.	Tẹ́trádírọ̀n jẹ́ píràmídì pẹ̀lú ìpìlẹ̀ ààdó.
+A regular tetrahedron has four congruent equilateral triangular faces.	Tẹ́trádírọ̀n déédéé ní ojú ààdó ààrò mẹ́rin tí ó báramu.
+A right triangle has one angle that is 90 degrees.	Ààdó onígun ọtún ní igun kan tí í ṣe ẹsán-ìdí àléfà.
+An isosceles triangle has two sides of equal length.	Ààdó ayakàtà ní ìhà méjì tí ó dọ́gba ní gígùn.
+An equilateral triangle has all three sides of equal length.	Ààdó ààrò ní gbogbo àwọn ìhà mẹ́ta dọ́gba ní gígùn.
+The sum of the interior angles of a triangle is 180 degrees.	Àpapọ àwọn igun inú ààdó jẹ́ ọgọ́fà le ọgọ́rin ẹsán-ìdí àléfà.
+The Pythagorean identity states that sine squared plus cosine squared equals one.	Ìdánimọ̀ Pìtágórà sọ pé sáìnì eledi-méjì pẹ̀lú kósáìnì eledi-méjì dọ́gba pẹ̀lú ọ̀kan.
+The quadratic formula is used to solve quadratic equations.	Àpẹẹrẹ eledi-méjì jẹ́ lílò láti ṣojútùú àwọn ìṣirò eledi-méjì.
+A logarithmic function is the inverse of an exponential function.	Ìṣe áláfojúrí jẹ́ ìlòdì ìṣe elédí.
+An arithmetic sequence has a common difference between consecutive terms.	Ìtẹ̀lé òǹkà ní ìyàtọ̀ ajọgbà láàrín àwọn ọ̀rọ̀ tí ó tẹ̀lé ara wọn.
+A geometric sequence has a common ratio between consecutive terms.	Ìtẹ̀lé onígíga ní ìjọra ajọgbà láàrín àwọn ọ̀rọ̀ tí ó tẹ̀lé ara wọn.
+The Fibonacci sequence is a sequence where each number is the sum of the two preceding ones.	Ìtẹ̀lé Fibonacci jẹ́ ìtẹ̀lé níbi tí òòkà kọ̀ọ̀kan jẹ́ àpapọ méjì tí ó ṣáájú.
+The golden ratio is an irrational number approximately equal to 1.618.	Ìjọra wúrà jẹ́ òòkà àìdéédéé tí ó fẹ́rẹ̀ dọ́gba pẹ̀lú 1.618.
+The unit circle is a circle with radius one centered at the origin.	Òbìríòbí ẹ̀ka jẹ́ òbìríòbí pẹ̀lú ààlà ọ̀kan tí a gbé sí àárín ní ìbẹ̀rẹ̀.
+The discriminant of a quadratic equation determines the nature of its roots.	Ìyàtọ̀ ìṣirò eledi-méjì pinnu àbùdá àwọn gbòǹgbò rẹ̀.
+A positive discriminant indicates two distinct real roots.	Ìyàtọ̀ dáradára tọ́ka àwọn gbòǹgbò gidi méjì tí ó yàtọ̀.
+A zero discriminant indicates one repeated real root.	Ìyàtọ̀ òdo tọ́ka gbòǹgbò gidi kan tí a tún ṣe.
+A negative discriminant indicates two complex conjugate roots.	Ìyàtọ̀ àdàkọ̀ tọ́ka àwọn gbòǹgbò ìbáṣepọ̀ ìṣàkápọ̀ méjì.
+A coordinate system consists of two or more axes.	Ètò ìfiwọ̀nsí jẹ́ méjì tàbí jù bẹ́ẹ̀ lọ àwọn àyè-ìgbéró.
+The Cartesian coordinate system has two perpendicular number lines.	Ètò ìfiwọ̀nsí Cartesian ní àwọn ìlà òòkà onígùn ọtún méjì.
+The polar coordinate system represents points using distance and angle.	Ètò ìfiwọ̀nsí pólà dúró fún àwọn ìpele lílò jìnnà àti igun.
+The Cylindrical coordinate system extends polar coordinates by adding a height.	Ètò ìfiwọ̀nsí sílíndà fẹ̀ àwọn ìfiwọ̀nsí pólà nípa fífi gíga kún.
+The Spherical coordinate system represents points using distance and two angles.	Ètò ìfiwọ̀nsí kókó dúró fún àwọn ìpele lílò jìnnà àti àwọn igun méjì.
+Expenses are money spent.	Ìnáwó jẹ́ owó tí a lò.
+Discount is a reduction in price.	Ẹdínwó jẹ́ ìdínkù nínú iye.
+Commission is a payment for services rendered.	Làádà jẹ́ ìsanwó fún iṣẹ́ tí a ṣe.
+Factorial of a number is the product of all positive integers less than or equal to that number.	Ìfẹsúnlọ́po òòkà jẹ́ ẹsún gbogbo òǹkà odidi dáradára tí ó kéré ju tàbí dọ́gba pẹ̀lú òòkà náà.
+Summation is the operation of adding a sequence of numbers.	Ìkópọ̀ jẹ́ ọṣẹ fífi ìtẹ̀lé àwọn òòkà pọ̀.
+A mathematical expression consists of numbers and operations.	Ìfihàn ìṣirò jẹ́ àwọn òòkà àti àwọn ọṣẹ.
+An area model helps visualize multiplication of numbers.	Àpẹẹrẹ ìgbòrò ran ni lọ́wọ́ láti fojú inú rí ìsọdipúpọ̀ àwọn òòkà.
+A number line is a visual representation of numbers arranged in order.	Ìlà òòkà jẹ́ àfihàn ojú àwọn òòkà tí a tò ní ètò.
+A bar graph displays categorical data with rectangular bars.	Ìfàsóhùn pẹpẹ fi dátà alásopọ̀ hàn pẹ̀lú àwọn pẹpẹ yíká.
+A pie chart displays data as slices of a circle.	Ìfàsóhùn àkàṣù fi dátà hàn bí àwọn àkàṣù ẹká.
+A line graph shows trends over time.	Ìfàsóhùn ìlà fi àwọn ìhùwàsí hàn lórí àkókò.
+A dot plot shows the frequency of data values.	Ìfàsóhùn àpẹẹrẹ fi ìlọ́po àwọn iye dátà hàn.
+A scatter plot shows the relationship between two variables.	Ìfàsóhùn títúka fi ìbáṣepọ̀ láàrín àwọn onírúurú méjì hàn.
+A Venn diagram shows relationships between sets.	Àwòrán Venn fi àwọn ìbáṣepọ̀ láàrín àwọn ẹgbẹ́ hàn.
+A stem and leaf plot organizes data for easier analysis.	Ìfàsóhùn igi-àtiẹwé ṣe àtò dátà fún ìtúpalẹ̀ tí ó rọrùn.
+A box plot displays the distribution of data based on quartiles.	Ìfàsóhùn àpótí fi pínpín dátà hàn dá lórí àwọn ìdámẹ́rin.
+The range of a function is the set of all possible output values.	Ìbáwọn ìfà jẹ́ ìṣeto gbogbo àwọn iye àbọ̀ tí ó ṣe é ṣe.
+The domain of a function is the set of all possible input values.	Àdàkọ ìfà jẹ́ ìṣeto gbogbo àwọn iye ìwọlé tí ó ṣe é ṣe.
+A mapping shows relationships between elements of two sets.	Àwọràn fi àwọn ìbáṣepọ̀ láàrín àwọn ẹ̀yà ìṣeto méjì hàn.
+An axis is a reference line for measurement in a coordinate system.	Òpó jẹ́ ìlà ìtọ́kasí fún ìwọ̀n nínú ètò àmìn-ipò.
+The x-axis is the horizontal axis in a Cartesian coordinate system.	Òpó ìbú jẹ́ òpó gbangba nínú ètò àmìn-ipò Dèkát.
+The y-axis is the vertical axis in a Cartesian coordinate system.	Òpó ìríwá jẹ́ òpó òkè-ìsàlẹ̀ nínú ètò àmìn-ipò Dèkát.
+A coordinate plane has an x-axis and a y-axis.	Pẹpẹ àmìn-ipò ní òpó ìbú àti òpó ìríwá.
+A linear function produces a straight line when graphed.	Ìfà òdíwọ̀n ṣe ìlà títọ́ nígbà tí a bá ṣe àfàsóhùn rẹ̀.
+A quadratic function produces a parabola when graphed.	Ìfà elédimeji ṣe jígí nígbà tí a bá ṣe àfàsóhùn rẹ̀.
+The slope of a line measures its steepness.	Onígòńgó ìlà wọn bí ó ṣe gòńgò tó.
+The intercept is where a line crosses an axis.	Ìkọlulẹ̀ jẹ́ ibi tí ìlà kọja òpó.
+A proportion shows that two ratios are equal.	Ìbáṣekan fi hàn pé àwọn ìbùpín méjì jẹ́ dogba.
+A direct proportion means that one quantity increases as another increases.	Ìbáṣekan tààrà túmọ̀ sí pé iye kan ń pọ̀ bí òmíràn ṣe ń pọ̀.
+An inverse proportion means that one quantity increases as another decreases.	Ìbáṣekan àdàkejì túmọ̀ sí pé iye kan ń pọ̀ bí òmíràn ṣe ń dínkù.
+A pattern is a sequence that follows a rule.	Àpẹẹrẹ jẹ́ ìtẹ̀lé tí ó tẹ̀lé òfin.
+A sequence is an ordered list of numbers.	Ìtẹ̀lé jẹ́ àkọjọ àwọn òòkà tí a tò.
+An arithmetic sequence has a constant difference between consecutive terms.	Ìtẹ̀lé òǹkà ní ìyàtọ̀ tí kò yí padà láàrín àwọn ọ̀rọ̀ tí ó tẹ̀lé ara wọn.
+A geometric sequence has a constant ratio between consecutive terms.	Ìtẹ̀lé onígíga ní ìjọra tí kò yí padà láàrín àwọn ọ̀rọ̀ tí ó tẹ̀lé ara wọn.
+A tessellation is a pattern of shapes that fit together without gaps.	Ìpààrọ̀ jẹ́ àpẹẹrẹ àwọn ìrísí tí ó bára wọn mu láìsí àlàfo.
+A transformation changes the position, size, or shape of a figure.	Ìyípadà yí ipò, ìwọ̀n, tàbí ìrísí èèyà padà.
+A translation moves a figure without changing its size or shape.	Ìyísípò sún èèyà láìyí ìwọ̀n tàbí ìrísí rẹ̀ padà.
+A rotation turns a figure around a point.	Ìyíkákiri yí èèyà yíká àpẹẹrẹ.
+A reflection flips a figure across a line.	Ìfojúdìde yí èèyà kọjá ìlà.
+A dilation stretches or shrinks a figure.	Ìfàfẹ̀ na tàbí fá èèyà.
+Symmetry occurs when a figure can be divided into parts that are mirror images.	Ìgúnrégé ṣẹlẹ̀ nígbà tí a lè pín èèyà sí àwọn ẹ̀yà tí ó jẹ́ àwòrán dídìde.
+Congruent figures have the same size and shape.	Àwọn èèyà abámu ní ìwọ̀n àti ìrísí kan náà.
+Similar figures have the same shape but different sizes.	Àwọn èèyà tí ó jọra ní ìrísí kan náà ṣùgbọ́n ìwọ̀n tí ó yàtọ̀.
+A number sentence uses numbers and operation symbols.	Gbólóhùn òòkà lo àwọn òòkà àti àwọn àmì ọṣẹ.
+An inequality compares two quantities that are not equal.	Àìdọ́gba ṣe àfiwè àwọn iye méjì tí kò bára wọn mu.
+A variable is a symbol that represents an unknown value.	Onírúurú jẹ́ àmì tí ó dúró fún iye àìmọ̀.
+A constant is a value that does not change.	Àìyẹ jẹ́ iye tí kò yí padà.
+Exponents indicate how many times a number is multiplied by itself.	Àwọn edi-òòkà tọ́ka bí òòkà ṣe ṣe ìsọdipúpọ̀ pẹ̀lú ara rẹ̀ tó.
+A power is a number raised to an exponent.	Agbára jẹ́ òòkà tí a gbé sókè sí edi-òòkà.
+A square root is a number that, when multiplied by itself, equals a given number.	Irìnkejì jẹ́ òòkà tí, nígbà tí a bá ṣe ìsọdipúpọ̀ rẹ̀ pẹ̀lú ara rẹ̀, dọ́gba pẹ̀lú òòkà tí a fún.
+A cube root is a number that, when multiplied by itself three times, equals a given number.	Irìnkẹta jẹ́ òòkà tí, nígbà tí a bá ṣe ìsọdipúpọ̀ rẹ̀ pẹ̀lú ara rẹ̀ lẹ́ẹ̀mẹta, dọ́gba pẹ̀lú òòkà tí a fún.
+The absolute value of a number is its distance from zero on a number line.	Iye mutumùtù òòkà jẹ́ jìnnà rẹ̀ láti òdo lórí ìlà òòkà.
+Rounding is approximating a number to a certain place value.	Kíkókù jẹ́ ṣíṣe ìfojúwọn òòkà sí iye nípa ipò kan.
+Estimating is making an educated guess about a quantity.	Ìfojúwọn jẹ́ ṣíṣe àgbéyẹ̀wò ẹ̀kọ́ nípa iye.
+Mental math is calculating in your head without writing.	Ìṣirò ọkàn jẹ́ ṣíṣe ìṣírò ní orí rẹ láìṣe àkọsílẹ̀.
+A number pattern is a sequence of numbers that follows a rule.	Àpẹẹrẹ òòkà jẹ́ ìtẹ̀lé àwọn òòkà tí ó tẹ̀lé òfin.
+A function table shows pairs of input and output values for a function.	Tábìlì ìfà fi àwọn ọdọ̀ iye ìwọlé àti iye àbọ̀ fún ìfà hàn.
+A graph of a function is a visual representation of its input-output pairs.	Àfàsóhùn ìfà jẹ́ àfihàn ojú àwọn ọdọ̀ ìwọlé-àbọ̀ rẹ̀.
+An integer is a whole number that can be positive, negative, or zero.	Òǹkà odidi jẹ́ òòkà odindi tí ó lè jẹ́ dáradára, àdàkọ̀, tàbí òdo.
+A negative number is less than zero.	Òòkà àdàkọ̀ kéré ju òdo lọ.
+A positive number is greater than zero.	Òòkà dáradára tóbi ju òdo lọ.
+A rational number can be expressed as a fraction with integer numerator and non-zero denominator.	Òòkà déédéé lè jẹ́ àfihàn bí ìdásíwẹ́wẹ́ pẹ̀lú òǹkà odidi bí èpín àti òǹkà odidi tí kì í ṣe òdo bí ìfipín.
+An irrational number cannot be expressed as a fraction of integers.	Òòkà àìdéédéé kò lè jẹ́ àfihàn bí ìdásíwẹ́wẹ́ àwọn òǹkà odidi.
+The complex number system includes real and imaginary numbers.	Ètò òòkà ìṣàkápọ̀ ní àwọn òòkà gidi àti àwọn òòkà àlásope.
+The real number system includes rational and irrational numbers.	Ètò òòkà gidi ní àwọn òòkà déédéé àti àwọn òòkà àìdéédéé.
+The base of a logarithm determines its system.	Ìpìlẹ̀ áláfojúrí pinnu ètò rẹ̀.
+The natural logarithm uses the irrational number e as its base.	Áláfojúrí adáyàn lo òòkà àìdéédéé e bí ìpìlẹ̀ rẹ̀.
+The common logarithm uses the number ten as its base.	Áláfojúrí ajọgbà lo òòkà mẹ́wàá bí ìpìlẹ̀ rẹ̀.
+The binary number system uses only the digits zero and one.	Ètò òòkà méjì lo àwọn ẹyọ-ònkà òdo àti ọ̀kan nìkan.
+The decimal number system uses digits from zero to nine.	Ètò òòkà ẹsẹ lo àwọn ẹyọ-ònkà láti òdo dé mẹ́sàn-án.
+A prime factorization expresses a number as a product of its prime factors.	Ìfisọdipúpọ̀ àìnífipín sọ òòkà di ẹsún àwọn òòkà àìnífipín rẹ̀.
+A composite number has factors other than one and itself.	Òòkà àdàpọ̀ ní àwọn ìfipín mìíràn ju ọ̀kan àti òun fúnra rẹ̀ lọ.
+To find the greatest common factor, list all factors of each number and identify the largest common factor.	Láti wá ìfipín nlá àjọní, ṣe àtòjọ gbogbo àwọn ìfipín òòkà kọ̀ọ̀kan kí o sì tọ́ka ìfipín àjọní tí ó tóbi jùlọ.
+To find the least common multiple, list the multiples of each number and identify the smallest common multiple.	Láti wá ìlọ́po kékeré àjọní, ṣe àtòjọ àwọn ìlọ́po òòkà kọ̀ọ̀kan kí o sì tọ́ka ìlọ́po àjọní tí ó kéré jùlọ.
+To simplify a fraction, divide the numerator and denominator by their greatest common factor.	Láti sọ ìdásíwẹ́wẹ́ di rírọ, pín èpín àti ìfipín pẹ̀lú ìfipín nlá àjọní wọn.
+To add fractions with like denominators, add the numerators and keep the denominator.	Láti ṣàròpọ̀ àwọn ìdásíwẹ́wẹ́ pẹ̀lú àwọn ìfipín bákannáà, ṣàròpọ̀ àwọn èpín kí o sì fi ìfipín sí ipò.
+To add fractions with unlike denominators, find a common denominator first.	Láti ṣàròpọ̀ àwọn ìdásíwẹ́wẹ́ pẹ̀lú àwọn ìfipín tí kò jọra, wá ìfipín àjọní ṣáájú.
+To multiply fractions, multiply the numerators and multiply the denominators.	Láti ṣèsọdipúpọ̀ àwọn ìdásíwẹ́wẹ́, ṣèsọdipúpọ̀ àwọn èpín kí o sì ṣèsọdipúpọ̀ àwọn ìfipín.
+To divide fractions, multiply by the reciprocal of the divisor.	Láti pín àwọn ìdásíwẹ́wẹ́, ṣèsọdipúpọ̀ pẹ̀lú ìdàpadà ìfipín.
+To convert a fraction to a decimal, divide the numerator by the denominator.	Láti yí ìdásíwẹ́wẹ́ sí ẹsẹ, pín èpín pẹ̀lú ìfipín.
+To convert a decimal to a fraction, use place value to determine the denominator.	Láti yí ẹsẹ sí ìdásíwẹ́wẹ́, lo iye nípa ipò láti pinnu ìfipín.
+To find the percentage of a number, multiply the number by the percentage in decimal form.	Láti wá ìdá-ọrún òòkà, ṣèsọdipúpọ̀ òòkà pẹ̀lú ìdá-ọrún ní irú ẹsẹ.
+To find what percent one number is of another, divide the first number by the second and multiply by one hundred.	Láti wá ìdá-ọrún mélòó ni òòkà kan jẹ́ ti òmíràn, pín òòkà àkọ́kọ́ pẹ̀lú èkejì kí o sì ṣèsọdipúpọ̀ pẹ̀lú ọgọ́rùn-ún.
+The formula for the area of a triangle is one-half times the base times the height.	Àpẹẹrẹ fún ìgbòrò ààdó jẹ́ ìdajì ìgbà ìdí ìgbà gíga.
+The formula for the area of a circle is pi times the square of the radius.	Àpẹẹrẹ fún ìgbòrò ẹká jẹ́ pi ìgbà ìgbòrò àkòdì igbo.
+The formula for the circumference of a circle is pi times the diameter.	Àpẹẹrẹ fún odi-ẹká jẹ́ pi ìgbà àlàjá.
+The formula for the volume of a sphere is four-thirds times pi times the cube of the radius.	Àpẹẹrẹ fún ìwọ̀n àyè òṣùṣù jẹ́ ìdámẹ́rin-nínú-mẹ́ta ìgbà pi ìgbà kúbù igbo.
+The formula for the surface area of a sphere is four times pi times the square of the radius.	Àpẹẹrẹ fún ìgbòrò ojú òṣùṣù jẹ́ ìgbà mẹ́rin pi ìgbà ìgbòrò àkòdì igbo.
+The formula for the volume of a cylinder is pi times the square of the radius times the height.	Àpẹẹrẹ fún ìwọ̀n àyè agolo jẹ́ pi ìgbà ìgbòrò àkòdì igbo ìgbà gíga.
+The formula for the surface area of a cylinder is two times pi times the radius times the sum of the radius and height.	Àpẹẹrẹ fún ìgbòrò ojú agolo jẹ́ ìgbà méjì pi ìgbà igbo ìgbà àròpọ igbo àti gíga.
+The formula for the volume of a cone is one-third times pi times the square of the radius times the height.	Àpẹẹrẹ fún ìwọ̀n àyè kónu jẹ́ ìdákan-nínú-mẹ́ta ìgbà pi ìgbà ìgbòrò àkòdì igbo ìgbà gíga.
+The formula for simple interest is principal times rate times time.	Àpẹẹrẹ fún èlé jẹ́ ẹyáwó ìgbà òṣùwọ̀n ìgbà àkókò.
+The formula for compound interest is principal times one plus rate raised to the power of time.	Àpẹẹrẹ fún èlé-èlé jẹ́ ẹyáwó ìgbà ọ̀kan púpọ̀ òṣùwọ̀n gbígbé sókè sí agbára àkókò.
+The formula for profit is selling price minus cost price.	Àpẹẹrẹ fún èrè jẹ́ iye ìtà dín iye ìná.
+The formula for loss is cost price minus selling price.	Àpẹẹrẹ fún àdànù jẹ́ iye ìná dín iye ìtà.
+The formula for profit percentage is profit divided by cost price times one hundred.	Àpẹẹrẹ fún ìdá-ọrún èrè jẹ́ èrè pín pẹ̀lú iye ìná ìgbà ọgọ́rùn-ún.
+The formula for loss percentage is loss divided by cost price times one hundred.	Àpẹẹrẹ fún ìdá-ọrún àdànù jẹ́ àdànù pín pẹ̀lú iye ìná ìgbà ọgọ́rùn-ún.
+The formula for discount amount is marked price times discount rate.	Àpẹẹrẹ fún iye ẹdínwó jẹ́ iye tí a fàmì ìgbà òṣùwọ̀n ẹdínwó.
+The formula for selling price after discount is marked price minus discount amount.	Àpẹẹrẹ fún iye ìtà lẹ́yìn ẹdínwó jẹ́ iye tí a fàmì dín iye ẹdínwó.
+The formula for commission is sales amount times commission rate.	Àpẹẹrẹ fún làádà jẹ́ iye ìtà ìgbà òṣùwọ̀n làádà.
+The formula for ratio is the relationship between two quantities expressed as a quotient.	Àpẹẹrẹ fún ìbùpín jẹ́ ìbáṣepọ̀ láàrín àwọn iye méjì tí a fi hàn bí ìpín.
+The formula for proportion is the equality of two ratios.	Àpẹẹrẹ fún ìbáṣekan jẹ́ ìdọ́gba àwọn ìbùpín méjì.
+The formula for average speed is total distance divided by total time.	Àpẹẹrẹ fún àròpín eré jẹ́ àpapọ jìnnà pín pẹ̀lú àpapọ àkókò.
+The formula for average is the sum of values divided by the number of values.	Àpẹẹrẹ fún àròpín jẹ́ àpapọ àwọn iye pín pẹ̀lú iye àwọn iye.
+The formula for factorial of n is n times factorial of n minus one.	Àpẹẹrẹ fún ìfẹsúnlọ́po n jẹ́ n ìgbà ìfẹsúnlọ́po n dín ọ̀kan.
+The formula for distance is speed times time.	Àpẹẹrẹ fún jìnnà jẹ́ eré ìgbà àkókò.
+The formula for time is distance divided by speed.	Àpẹẹrẹ fún àkókò jẹ́ jìnnà pín pẹ̀lú eré.
+The formula for speed is distance divided by time.	Àpẹẹrẹ fún eré jẹ́ jìnnà pín pẹ̀lú àkókò.
+The formula for acceleration is change in speed divided by time.	Àpẹẹrẹ fún ìdà-eré jẹ́ ìyípadà nínú eré pín pẹ̀lú àkókò.
+The formula for force is mass times acceleration.	Àpẹẹrẹ fún okun jẹ́ ìṣòro ìgbà ìdà-eré.
+The formula for pressure is force divided by area.	Àpẹẹrẹ fún ìtẹ̀nílẹ̀ jẹ́ okun pín pẹ̀lú ìgbòrò.
+The formula for work is force times distance.	Àpẹẹrẹ fún iṣẹ́ jẹ́ okun ìgbà jìnnà.
+The formula for power is work divided by time.	Àpẹẹrẹ fún agbára jẹ́ iṣẹ́ pín pẹ̀lú àkókò.
+The formula for energy is mass times velocity squared divided by two.	Àpẹẹrẹ fún iná jẹ́ ìṣòro ìgbà ìyáseédà elédimejì pín pẹ̀lú méjì.
+The formula for density is mass divided by volume.	Àpẹẹrẹ fún nípọn jẹ́ ìṣòro pín pẹ̀lú ìwọ̀n àyè.
+The formula for temperature conversion from Celsius to Fahrenheit is Celsius times nine-fifths plus thirty-two.	Àpẹẹrẹ fún ìyípadà ìgbónà láti Celsius sí Fahrenheit jẹ́ Celsius ìgbà mẹ́sàn-án-ìdámárùn-ún púpọ̀ méjìlélọgbọ̀n.
+The formula for temperature conversion from Fahrenheit to Celsius is Fahrenheit minus thirty-two times five-ninths.	Àpẹẹrẹ fún ìyípadà ìgbónà láti Fahrenheit sí Celsius jẹ́ Fahrenheit dín méjìlélọgbọ̀n ìgbà márùn-ún-ìdámẹ́sàn-án.
+The formula for the area of a trapezoid is one-half times the sum of the parallel sides times the height.	Àpẹẹrẹ fún ìgbòrò ẹlẹgbẹmẹrin adágún jẹ́ ìdájì ìgbà àpapọ àwọn ìhà aṣọ̀rìn ìgbà gíga.
+The formula for the area of a regular polygon is one-half times the perimeter times the apothem.	Àpẹẹrẹ fún ìgbòrò onígun-púpọ̀ déédéé jẹ́ ìdájì ìgbà odi ìgbà jìnnà láti àárín sí ààrín ìhà.
+The formula for the area of a rhombus is one-half times the product of the diagonals.	Àpẹẹrẹ fún ìgbòrò adọ́gbà-ẹlẹ́gbẹ̀ jẹ́ ìdájì ìgbà ẹsún àwọn ìbú gbangba.
+The formula for the area of a parallelogram is base times height.	Àpẹẹrẹ fún ìgbòrò ẹlẹgbẹmẹrin-gígún jẹ́ ìdí ìgbà gíga.
+The formula for the area of a sector of a circle is one-half times the radius squared times the angle in radians.	Àpẹẹrẹ fún ìgbòrò àdìmú ẹká jẹ́ ìdájì ìgbà igbo elédimeji ìgbà igun ní radians.
+The formula for the arc length of a sector is the radius times the angle in radians.	Àpẹẹrẹ fún gígùn àrọ́wọ́tọ́ àdìmú jẹ́ igbo ìgbà igun ní radians.
+The formula for the volume of a rectangular prism is length times width times height.	Àpẹẹrẹ fún ìwọ̀n àyè ọlọ́pọ̀ onígun-mẹ́rin gígún jẹ́ gígùn ìgbà fífẹ̀ ìgbà gíga.
+The formula for the surface area of a rectangular prism is two times the sum of length times width, length times height, and width times height.	Àpẹẹrẹ fún ìgbòrò ojú ọlọ́pọ̀ onígun-mẹ́rin gígún jẹ́ ìgbà méjì àpapọ gígùn ìgbà fífẹ̀, gígùn ìgbà gíga, àti fífẹ̀ ìgbà gíga.
+The formula for the volume of a pyramid is one-third times the area of the base times the height.	Àpẹẹrẹ fún ìwọ̀n àyè pírámìdì jẹ́ ìdákan-nínú-mẹ́ta ìgbà ìgbòrò ìdí ìgbà gíga.
+The formula for the volume of a prism is the area of the base times the height.	Àpẹẹrẹ fún ìwọ̀n àyè ọlọ́pọ̀ jẹ́ ìgbòrò ìdí ìgbà gíga.
+The formula for the distance between two points in a plane is the square root of the sum of the squares of the differences of the coordinates.	Àpẹẹrẹ fún jìnnà láàrín àwọn àpẹẹrẹ méjì ní pẹpẹ jẹ́ irìnkejì àpapọ àwọn ìgbòrò àkòdì ìyàtọ̀ àwọn àmìn-ipò.
+The formula for the midpoint between two points is the average of the x-coordinates and the average of the y-coordinates.	Àpẹẹrẹ fún àpẹẹrẹ àárín láàrín àwọn àpẹẹrẹ méjì jẹ́ àròpín àwọn àmìn-ipò-x àti àròpín àwọn àmìn-ipò-y.
+The formula for the slope of a line is the change in y divided by the change in x.	Àpẹẹrẹ fún onígòńgó ìlà jẹ́ ìyípadà nínú y pín pẹ̀lú ìyípadà nínú x.
+The formula for the equation of a line in slope-intercept form is y equals mx plus b, where m is the slope and b is the y-intercept.	Àpẹẹrẹ fún ọ̀mì ìlà ní irú onígòńgó-ìkọlulẹ̀ jẹ́ y jẹyekan pẹ̀lú mx púpọ̀ b, níbi tí m jẹ́ onígòńgó àti b jẹ́ ìkọlulẹ̀-y.
+The formula for the equation of a line in point-slope form is y minus y1 equals m times x minus x1, where m is the slope and (x1, y1) is a point on the line.	Àpẹẹrẹ fún ọ̀mì ìlà ní irú àpẹẹrẹ-onígòńgó jẹ́ y dín y1 jẹyekan pẹ̀lú m ìgbà x dín x1, níbi tí m jẹ́ onígòńgó àti (x1, y1) jẹ́ àpẹẹrẹ lórí ìlà.
+The formula for the standard form of a quadratic function is y equals ax squared plus bx plus c, where a, b, and c are constants and a is not zero.	Àpẹẹrẹ fún irú àpẹẹrẹ ìfà elédimeji jẹ́ y jẹyekan pẹ̀lú ax elédimeji púpọ̀ bx púpọ̀ c, níbi tí a, b, àti c jẹ́ àwọn àìyẹ àti a kì í ṣe òdo.
+The formula for the vertex form of a quadratic function is y equals a times the square of x minus h plus k, where (h, k) is the vertex.	Àpẹẹrẹ fún irú tẹntẹ ìfà elédimeji jẹ́ y jẹyekan pẹ̀lú a ìgbà ìgbòrò àkòdì x dín h púpọ̀ k, níbi tí (h, k) jẹ́ tẹntẹ.
+The formula for the factored form of a quadratic function is y equals a times x minus r1 times x minus r2, where r1 and r2 are the roots.	Àpẹẹrẹ fún irú ìfipín ìfà elédimeji jẹ́ y jẹyekan pẹ̀lú a ìgbà x dín r1 ìgbà x dín r2, níbi tí r1 àti r2 jẹ́ àwọn irìn.
+The formula for the discriminant of a quadratic equation is b squared minus four times a times c.	Àpẹẹrẹ fún ìyàtọ̀ ọ̀mì elédimeji jẹ́ b elédimeji dín mẹ́rin ìgbà a ìgbà c.
+The formula for the quadratic formula is x equals negative b plus or minus the square root of b squared minus four times a times c, all divided by two times a.	Àpẹẹrẹ fún ọ̀mì elédimeji jẹ́ x jẹyekan pẹ̀lú àdàkọ̀ b púpọ̀ tàbí dín irìnkejì b elédimeji dín mẹ́rin ìgbà a ìgbà c, gbogbo pín pẹ̀lú méjì ìgbà a.
+The Pythagorean theorem states that in a right triangle, the square of the length of the hypotenuse equals the sum of the squares of the lengths of the other two sides.	Ìmọran Pìtágórà sọ pé ní ààdó onígun ọtún, ìgbòrò àkòdì gígùn ìlà ìríwá jẹyekan pẹ̀lú àpapọ ìgbòrò àkòdì gígùn àwọn ìhà méjì tókù.
+The formula for the area of any triangle using the sine function is one-half times the product of two sides
+The formula for the area of any triangle using the sine function is one-half times the product of two sides times the sine of the included angle.	Àpẹẹrẹ fún ìgbòrò ààdó kankan lílò ìṣe sáìnì jẹ́ ìdájì ìgbà ẹsún ìhà méjì ìgbà sáìnì igun tí a ṣàmúlò.
+The formula for the law of sines states that the ratio of the sine of an angle to the length of the opposite side is the same for all three angles of a triangle.	Àpẹẹrẹ fún òfin àwọn sáìnì sọ pé ìbùpín sáìnì igun sí gígùn ìhà ìdojúkọ jẹ́ bákan náà fún gbogbo àwọn igun mẹ́ta ààdó.
+The formula for the law of cosines states that the square of the length of any side of a triangle equals the sum of the squares of the lengths of the other two sides minus twice the product of those sides times the cosine of the included angle.	Àpẹẹrẹ fún òfin àwọn kósáìnì sọ pé ìgbòrò àkòdì gígùn ìhà ààdó kankan jẹyekan pẹ̀lú àpapọ ìgbòrò àkòdì gígùn àwọn ìhà méjì tókù dín ìgbà méjì ẹsún àwọn ìhà méjì ìgbà kósáìnì igun tí a ṣàmúlò.
+The formula for the tangent function is the sine of an angle divided by the cosine of the angle.	Àpẹẹrẹ fún ìṣe tánẹ́ńtì jẹ́ sáìnì igun pín pẹ̀lú kósáìnì igun.
+The formula for the cotangent function is the cosine of an angle divided by the sine of the angle.	Àpẹẹrẹ fún ìṣe kótánẹ́ńtì jẹ́ kósáìnì igun pín pẹ̀lú sáìnì igun.
+The formula for the secant function is one divided by the cosine of the angle.	Àpẹẹrẹ fún ìṣe sẹ́kántì jẹ́ ọ̀kan pín pẹ̀lú kósáìnì igun.
+The formula for the cosecant function is one divided by the sine of the angle.	Àpẹẹrẹ fún ìṣe kósẹ́kántì jẹ́ ọ̀kan pín pẹ̀lú sáìnì igun.
+The Pythagorean identity states that the sine squared of an angle plus the cosine squared of the angle equals one.	Ìdánimọ̀ Pìtágórà sọ pé sáìnì elédimeji igun púpọ̀ kósáìnì elédimeji igun jẹyekan pẹ̀lú ọ̀kan.
+The formula for the double angle formula for sine is sine of twice the angle equals twice the sine of the angle times the cosine of the angle.	Àpẹẹrẹ fún ọ̀mì ìgbà méjì igun fún sáìnì jẹ́ sáìnì ìgbà méjì igun jẹyekan pẹ̀lú ìgbà méjì sáìnì igun ìgbà kósáìnì igun.
+The formula for the double angle formula for cosine is cosine of twice the angle equals cosine squared of the angle minus sine squared of the angle.	Àpẹẹrẹ fún ọ̀mì ìgbà méjì igun fún kósáìnì jẹ́ kósáìnì ìgbà méjì igun jẹyekan pẹ̀lú kósáìnì elédimeji igun dín sáìnì elédimeji igun.
+The chain rule states that the derivative of a composite function equals the derivative of the outer function evaluated at the inner function times the derivative of the inner function.	Òfin ẹ̀wọ̀n sọ pé àdáyọ ìṣe àdàpọ̀ jẹyekan pẹ̀lú àdáyọ ìṣe òde ṣàmúlò ní ìṣe inú ìgbà àdáyọ ìṣe inú.
+The product rule states that the derivative of the product of two functions equals the first function times the derivative of the second function plus the second function times the derivative of the first function.	Òfin ẹsún sọ pé àdáyọ ẹsún àwọn ìṣe méjì jẹyekan pẹ̀lú ìṣe àkọ́kọ́ ìgbà àdáyọ ìṣe kejì púpọ̀ ìṣe kejì ìgbà àdáyọ ìṣe àkọ́kọ́.
+The quotient rule states that the derivative of the quotient of two functions equals the denominator times the derivative of the numerator minus the numerator times the derivative of the denominator, all divided by the square of the denominator.	Òfin ìpín sọ pé àdáyọ ìpín àwọn ìṣe méjì jẹyekan pẹ̀lú ìfipín ìgbà àdáyọ èpín dín èpín ìgbà àdáyọ ìfipín, gbogbo pín pẹ̀lú elédimeji ìfipín.
+The power rule states that the derivative of a variable raised to a power equals the power times the variable raised to the power minus one.	Òfin agbára sọ pé àdáyọ onírúurú gbígbé sókè sí agbára jẹyekan pẹ̀lú agbára ìgbà onírúurú gbígbé sókè sí agbára dín ọ̀kan.
+The formula for the derivative of the sine function is the cosine function.	Àpẹẹrẹ fún àdáyọ ìṣe sáìnì jẹ́ ìṣe kósáìnì.
+The formula for the derivative of the cosine function is the negative of the sine function.	Àpẹẹrẹ fún àdáyọ ìṣe kósáìnì jẹ́ àdàkọ̀ ìṣe sáìnì.
+The formula for the derivative of the tangent function is the secant function squared.	Àpẹẹrẹ fún àdáyọ ìṣe tánẹ́ńtì jẹ́ ìṣe sẹ́kántì elédimeji.
+The formula for the derivative of the natural logarithm function is one divided by the input variable.	Àpẹẹrẹ fún àdáyọ ìṣe áláfojúrí adáyàn jẹ́ ọ̀kan pín pẹ̀lú onírúurú ìwọlé.
+The formula for the derivative of the exponential function is the exponential function itself.	Àpẹẹrẹ fún àdáyọ ìṣe elédí jẹ́ ìṣe elédí fúnra rẹ̀.
+The fundamental theorem of calculus relates differentiation to integration.	Ìmọran ìpìlẹ̀ṣẹ̀ ìṣirò ìdíwọ̀n ṣe ìbáṣepọ̀ ìṣe ìyàtọ̀ sí ìsopọ̀.
+The formula for the definite integral is the difference of the antiderivative evaluated at the upper and lower limits.	Àpẹẹrẹ fún àpapọ̀pọ̀ péníté jẹ́ ìyàtọ̀ àdáyọ-àdàkejì ṣàmúlò ní àwọn ààlà òkè àti ìsàlẹ̀.
+The formula for the area under a curve is the definite integral of the function over the given interval.	Àpẹẹrẹ fún ìgbòrò lábẹ́ ìkáwọ́ jẹ́ àpapọ̀pọ̀ péníté ìṣe lórí àlàfo tí a fún.
+The formula for the volume of a solid of revolution is the definite integral of the area of the cross-section over the given interval.	Àpẹẹrẹ fún ìwọ̀n àyè líle ìyíkákiri jẹ́ àpapọ̀pọ̀ péníté ìgbòrò ìdàkejà lórí àlàfo tí a fún.
+The formula for the arc length of a curve is the definite integral of the square root of one plus the square of the derivative over the given interval.	Àpẹẹrẹ fún gígùn àrọ́wọ́tọ́ ìkáwọ́ jẹ́ àpapọ̀pọ̀ péníté irìnkejì ọ̀kan púpọ̀ ìgbòrò àkòdì àdáyọ lórí àlàfo tí a fún.
+The formula for the surface area of a solid of revolution is the definite integral of the circumference of the cross-section times the element of arc length over the given interval.	Àpẹẹrẹ fún ìgbòrò ojú líle ìyíkákiri jẹ́ àpapọ̀pọ̀ péníté odi-ẹká ìdàkejà ìgbà ẹ̀yà gígùn àrọ́wọ́tọ́ lórí àlàfo tí a fún.
+The formula for the integration by parts is the first function times the integral of the second function minus the integral of the derivative of the first function times the second function.	Àpẹẹrẹ fún ìsopọ̀ nípa ẹ̀yà jẹ́ ìṣe àkọ́kọ́ ìgbà àpapọ̀pọ̀ ìṣe kejì dín àpapọ̀pọ̀ àdáyọ ìṣe àkọ́kọ́ ìgbà ìṣe kejì.
+The formula for the integration by substitution is the integral of the composite function times the derivative of the inner function with respect to the variable of integration.	Àpẹẹrẹ fún ìsopọ̀ nípa ìrọpò jẹ́ àpapọ̀pọ̀ ìṣe àdàpọ̀ ìgbà àdáyọ ìṣe inú pẹ̀lú ẹ̀kúnrẹ́rẹ́ sí onírúurú ìsopọ̀.
+The formula for the mean value theorem of calculus states that if a function is continuous on a closed interval and differentiable on the open interval, then there exists at least one point in the open interval where the derivative equals the average rate of change over the entire interval.	Àpẹẹrẹ fún ìmọran iye àròpín ìṣirò ìdíwọ̀n sọ pé bí ìṣe bá jẹ́ aláìlàsíkùn lórí àlàfo tí a tì àti lérí àdáyọ lórí àlàfo tí a ṣí, nígbà náà ó wà ó kéré jù àpẹẹrẹ kan nínú àlàfo tí a ṣí níbi tí àdáyọ jẹyekan pẹ̀lú òṣùwọ̀n àròpín ìyípadà lórí gbogbo àlàfo.
+The formula for the Rolle's theorem states that if a function is continuous on a closed interval and differentiable on the open interval, and if the function values at the endpoints of the interval are equal, then there exists at least one point in the open interval where the derivative equals zero.	Àpẹẹrẹ fún ìmọran Rolle sọ pé bí ìṣe bá jẹ́ aláìlàsíkùn lórí àlàfo tí a tì àti lérí àdáyọ lórí àlàfo tí a ṣí, àti bí àwọn iye ìṣe ní àwọn òpin àlàfo bá jẹ́ ìjẹyekan, nígbà náà ó wà ó kéré jù àpẹẹrẹ kan nínú àlàfo tí a ṣí níbi tí àdáyọ jẹyekan pẹ̀lú òdo.
+The formula for the Taylor series of a function around a point is the sum of the derivatives of the function at the point times the power of the difference between the variable and the point, divided by the factorial of the power, for all non-negative integer powers.	Àpẹẹrẹ fún ìtẹ̀lé Taylor ìṣe yí àpẹẹrẹ kan jẹ́ àpapọ àwọn àdáyọ ìṣe ní àpẹẹrẹ ìgbà agbára ìyàtọ̀ láàrín onírúurú àti àpẹẹrẹ, pín pẹ̀lú ìfẹsúnlọ́po agbára, fún gbogbo àwọn agbára òǹkà odidi aláìdàkọ̀.
+The formula for the Maclaurin series of a function is the Taylor series around the point zero.	Àpẹẹrẹ fún ìtẹ̀lé Maclaurin ìṣe jẹ́ ìtẹ̀lé Taylor yí àpẹẹrẹ òdo.
+The formula for the binomial theorem states that the expansion of a binomial raised to a positive integer power is the sum of terms involving binomial coefficients and powers of the individual terms of the binomial.	Àpẹẹrẹ fún ìmọran onípọ̀-méjì sọ pé ìfẹ̀ onípọ̀-méjì gbígbé sókè sí agbára òǹkà odidi dáradára jẹ́ àpapọ àwọn ọ̀rọ̀ tí ó ní àwọn afisọdipúpọ̀ onípọ̀-méjì àti àwọn agbára ọ̀rọ̀ kọ̀ọ̀kan onípọ̀-méjì.
+The formula for the binomial coefficient is the factorial of the upper index divided by the product of the factorials of the lower index and the difference between the upper and lower indices.	Àpẹẹrẹ fún afisọdipúpọ̀ onípọ̀-méjì jẹ́ ìfẹsúnlọ́po àtọ́ka òkè pín pẹ̀lú ẹsún ìfẹsúnlọ́po àtọ́ka ìsàlẹ̀ àti ìyàtọ̀ láàrín àwọn àtọ́ka òkè àti ìsàlẹ̀.
+The formula for the Fibonacci sequence is that each term is the sum of the two preceding terms, starting with zero and one.	Àpẹẹrẹ fún ìtẹ̀lé Fibonacci jẹ́ pé ọ̀rọ̀ kọ̀ọ̀kan jẹ́ àpapọ àwọn ọ̀rọ̀ méjì tí ó ṣáájú, bíbẹ̀rẹ̀ pẹ̀lú òdo àti ọ̀kan.
+The formula for the arithmetic sequence is that each term equals the first term plus the common difference times one less than the position of the term.	Àpẹẹrẹ fún ìtẹ̀lé òǹkà jẹ́ pé ọ̀rọ̀ kọ̀ọ̀kan jẹyekan pẹ̀lú ọ̀rọ̀ àkọ́kọ́ púpọ̀ ìyàtọ̀ ajọgbà ìgbà ọ̀kan dín ju ipò ọ̀rọ̀ lọ.
+The formula for the geometric sequence is that each term equals the first term times the common ratio raised to the power of one less than the position of the term.	Àpẹẹrẹ fún ìtẹ̀lé onígíga jẹ́ pé ọ̀rọ̀ kọ̀ọ̀kan jẹyekan pẹ̀lú ọ̀rọ̀ àkọ́kọ́ ìgbà ìjọra ajọgbà gbígbé sókè sí agbára ọ̀kan dín ju ipò ọ̀rọ̀ lọ.
+The formula for the sum of an arithmetic sequence is the number of terms times the average of the first and last terms.	Àpẹẹrẹ fún àpapọ ìtẹ̀lé òǹkà jẹ́ iye àwọn ọ̀rọ̀ ìgbà àròpín ọ̀rọ̀ àkọ́kọ́ àti ọ̀rọ̀ ìkẹyìn.
+The formula for the sum of a geometric sequence is the first term times the quantity one minus the common ratio raised to the power of the number of terms, divided by one minus the common ratio, when the common ratio is not equal to one.	Àpẹẹrẹ fún àpapọ ìtẹ̀lé onígíga jẹ́ ọ̀rọ̀ àkọ́kọ́ ìgbà iye ọ̀kan dín ìjọra ajọgbà gbígbé sókè sí agbára iye àwọn ọ̀rọ̀, pín pẹ̀lú ọ̀kan dín ìjọra ajọgbà, nígbà tí ìjọra ajọgbà kò jẹyekan pẹ̀lú ọ̀kan.
+The formula for the sum of an infinite geometric sequence with common ratio less than one in absolute value is the first term divided by one minus the common ratio.	Àpẹẹrẹ fún àpapọ ìtẹ̀lé onígíga aláìlópin pẹ̀lú ìjọra ajọgbà tí ó kéré ju ọ̀kan lọ ní iye mutumùtù jẹ́ ọ̀rọ̀ àkọ́kọ́ pín pẹ̀lú ọ̀kan dín ìjọra ajọgbà.
+The formula for the arithmetic mean of a set of numbers is the sum of the numbers divided by the count of numbers.	Àpẹẹrẹ fún ìjẹyekan òǹkà ìṣeto àwọn òòkà jẹ́ àpapọ àwọn òòkà pín pẹ̀lú iye àwọn òòkà.
+The formula for the geometric mean of a set of positive numbers is the nth root of the product of the numbers, where n is the count of numbers.	Àpẹẹrẹ fún ìjẹyekan onígíga ìṣeto àwọn òòkà dáradára jẹ́ irìn n ẹsún àwọn òòkà, níbi tí n jẹ́ iye àwọn òòkà.
+The formula for the harmonic mean of a set of numbers is the count of numbers divided by the sum of the reciprocals of the numbers.	Àpẹẹrẹ fún ìjẹyekan ìfèsí ìṣeto àwọn òòkà jẹ́ iye àwọn òòkà pín pẹ̀lú àpapọ àwọn ìdàpadà àwọn òòkà.
+The formula for the root mean square of a set of numbers is the square root of the arithmetic mean of the squares of the numbers.	Àpẹẹrẹ fún irìn ìjẹyekan sìkúérì ìṣeto àwọn òòkà jẹ́ irìnkejì ìjẹyekan òǹkà àwọn ìgbòrò àkòdì àwọn òòkà.
+The formula for the weighted mean of a set of numbers with corresponding weights is the sum of the products of each number and its weight, divided by the sum of the weights.	Àpẹẹrẹ fún ìjẹyekan àṣeowó ìṣeto àwọn òòkà pẹ̀lú àwọn ìwúwo ìbáṣepọ̀ jẹ́ àpapọ àwọn ẹsún òòkà kọ̀ọ̀kan àti ìwúwo rẹ̀, pín pẹ̀lú àpapọ àwọn ìwúwo.
+The formula for the median of a set of numbers is the middle value when the numbers are arranged in order, or the average of the two middle values if there is an even count of numbers.	Àpẹẹrẹ fún iye t'àárín ìṣeto àwọn òòkà jẹ́ iye àárín nígbà tí a bá tò àwọn òòkà ní ètò, tàbí àròpín àwọn iye àárín méjì bí iye àwọn òòkà bá jẹ́ ìlajì.
+The formula for the mode of a set of numbers is the value that appears most frequently.	Àpẹẹrẹ fún iye àpọjù ìṣeto àwọn òòkà jẹ́ iye tí ó farahàn lọ́pọ̀lọpọ̀ jùlọ.
+The formula for the range of a set of numbers is the difference between the maximum and minimum values.	Àpẹẹrẹ fún ìgbọn ìṣeto àwọn òòkà jẹ́ ìyàtọ̀ láàrín àwọn iye púpọ̀jùlọ àti kéréjùlọ.
+The formula for the variance of a set of numbers is the arithmetic mean of the squares of the deviations from the arithmetic mean.	Àpẹẹrẹ fún iyàtọ̀ ìṣeto àwọn òòkà jẹ́ ìjẹyekan òǹkà àwọn ìgbòrò àkòdì àwọn ìyapa láti ìjẹyekan òǹkà.
+The formula for the standard deviation of a set of numbers is the square root of the variance.	Àpẹẹrẹ fún ìyapa àfọwọ́dá ìṣeto àwọn òòkà jẹ́ irìnkejì iyàtọ̀.
+The formula for the z-score of a value in a set is the difference between the value and the mean, divided by the standard deviation.	Àpẹẹrẹ fún àmì-z iye nínú ìṣeto jẹ́ ìyàtọ̀ láàrín iye àti ìjẹyekan, pín pẹ̀lú ìyapa àfọwọ́dá.
+The formula for the probability of an event is the number of favorable outcomes divided by the total number of possible outcomes, assuming all outcomes are equally likely.	Àpẹẹrẹ fún ìwọn-ìṣeéṣe ìṣẹ̀lẹ̀ jẹ́ iye àwọn àbọ̀ dáradára pín pẹ̀lú àpapọ iye àwọn àbọ̀ tí ó ṣe é ṣe, gbígbà pé gbogbo àwọn àbọ̀ jẹ́ bákan náà ní ìṣeése.
+The formula for the conditional probability of event A given event B is the probability of the intersection of A and B divided by the probability of B.	Àpẹẹrẹ fún ìwọn-ìṣeéṣe àmúlò ìṣẹ̀lẹ̀ A fún ìṣẹ̀lẹ̀ B jẹ́ ìwọn-ìṣeéṣe ìkórajọpọ̀ A àti B pín pẹ̀lú ìwọn-ìṣeéṣe B.
+The formula for the probability of the union of events A and B is the sum of the probabilities of A and B minus the probability of their intersection.	Àpẹẹrẹ fún ìwọn-ìṣeéṣe ìsopọ̀ àwọn ìṣẹ̀lẹ̀ A àti B jẹ́ àpapọ àwọn ìwọn-ìṣeéṣe A àti B dín ìwọn-ìṣeéṣe ìkórajọpọ̀ wọn.
+The formula for the expected value of a discrete random variable is the sum of the products of each possible value and its probability.	Àpẹẹrẹ fún iye àlérò onírúurú àtiwáyé alápín jẹ́ àpapọ àwọn ẹsún iye tí ó ṣe é ṣe kọ̀ọ̀kan àti ìwọn-ìṣeéṣe rẹ̀.
+The formula for the variance of a discrete random variable is the expected value of the square of the difference between the variable and its expected value.	Àpẹẹrẹ fún iyàtọ̀ onírúurú àtiwáyé alápín jẹ́ iye àlérò ìgbòrò àkòdì ìyàtọ̀ láàrín onírúurú àti iye àlérò rẹ̀.
+The formula for the binomial probability mass function gives the probability of exactly k successes in n independent trials with probability of success p in each trial.	Àpẹẹrẹ fún ìṣe ìwọn-ìṣeéṣe èyà onípọ̀-méjì fún ìwọn-ìṣeéṣe gan-an k àṣeyọrí nínú n àwọn ìdánwò ominira pẹ̀lú ìwọn-ìṣeéṣe àṣeyọrí p nínú ìdánwò kọ̀ọ̀kan.
+The formula for the Poisson probability mass function gives the probability of exactly k occurrences of an event in a fixed interval, given that the occurrences are independent and the average rate is known.	Àpẹẹrẹ fún ìṣe ìwọn-ìṣeéṣe èyà Poisson fún ìwọn-ìṣeéṣe gan-an k àwọn ìbá ìṣẹ̀lẹ̀ kan nínú àlàfo tí a fi sí, fún pé àwọn ìbá jẹ́ ominira àti pé òṣùwọ̀n àròpín jẹ́ mímọ̀.

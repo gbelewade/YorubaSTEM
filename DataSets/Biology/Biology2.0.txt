@@ -1,0 +1,603 @@
+Biology is the study of living things.	Èkó̩ èdá-oníyè jé̩ èkó̩ ìmò̩-jinlè̩ nípa àwọn èdá gbogbo tó ní ìyè.
+Living things need air, food and water to stay alive.	Àwọn èdá oníyè nílò atég̣ùn, onjẹ àti omi láti wà láàyè.
+A living thing is something that is alive.	Èdá oníyè jé̩ nkan tó wà l'áàyè.
+Animals are living things that can move around.	Àwọn ẹran jé̩ èda oníyè tó ní agbára láti rìn̩ kiri.
+Plants make their own food through photosynthesis.	Àwọn ògbin a máa lo ìtànná láti ṣe ìjẹ.
+Cells are the fundamental structural units of plants and animals.	Pádi jé̩ ìpilèṣ̩è̩ ẹyọ ètò-inú àwọn ògbìn àti ẹran.
+Evolution is the process by which species change over time.	Itiranya jé̩ ìlànà tí àwọn èdá fi ń yàtọ̀ láti ìran kan dé èkejì.
+All living things excrete waste products.	Gbogbo èdá oníyè ni wó̩n nṣe ìkégbin ara wọn.
+Living things reproduce to create new individuals of the same kind.	Gbogbo àwọn èdá oníyè ló ní agbára láti ṣèdá irúfé̩ wọn.
+Respiration is the process by which living things obtain energy from food.	Ìpòyìdà jé̩ ìlànà tí àwọn èdá oníyè fi ń gba agbára láti inú onjẹ.
+Growth is seen in all living things.	Ìdàgbàsókè jẹ́ ohun tí a ń rí nínú gbogbo èdá oníyè.
+All living things respond to stimuli in their environment.	Gbogbo àwọn èdá oníyè ló ní agbára láti fura àti láti náání àwọn ìṣesí àgbèègbè wọn.
+The cell is the basic unit of life.	Pádi ni ìpilèṣè̩ gbogbo èdá.
+Unicellular organisms have only one cell.	Àwọn èdá onípádi kan ní ẹyọ pádi kan ṣoṣo.
+Multicellular organisms have many cells.	Àwọn èdá onípádipúpò̩ ní ọ̀pọ̀lọpọ̀ àwọn pádi.
+Taxonomy is the classification of living things.	Èkó̩ ìkàsí jé̩ ìpínsípò àwọn èdá oníyè.
+The plant kingdom is a major group of living things.	Ìjọ òg̣bìn jé̩ ẹ̀yà pàtàkì nínú àwọn èdá oníyè.
+Mitosis is the process of cell division.	Pínpín àgọ́-pádi jé̩ ètò pínpín léṣẹléṣẹ àgọ-pádi ti àwọn onípádi gidi.
+Metamorphosis is a change in form during development.	Ìpààrídà jé̩ ìyàtò̩ nínú è̩yà ara àti ìṣesí àwọn ẹranko ní ìgbà tí wó̩n bá ndàgbàsókè.
+Reproduction can be sexual or asexual.	Bíbí lè jé̩ ti lákọlábo tàbí ti ògbo.
+The animal kingdom is divided into many phyla.	A pín ìjọ ẹran sí ọ̀pọ̀lọpọ̀ agbo-èy̩à.
+A species is a group of organisms that can interbreed.	Òw̩ó̩ jé̩ àjọpín àwọn èdá tí wó̩n lè jọ darapò̩ láti bí ọmọ.
+Mammals feed their young with milk.	Onírunlára nbó̩ àwọn ọmọ wọn pẹ̀lú wàrà wọn.
+Birds have feathers and lay eggs.	Àwọn ẹyẹ ní ìyẹ́ wọn sì máa ń yẹ́ ẹyin.
+Reptiles have scales covering their bodies.	Àwọn afàyàfà ní ìpé́ tí ó bo ara wọn.
+The five senses include sight, hearing, smell, taste, and touch.	Àwọn èyà-iyè márààrún ni ìríran, ìgbóṛò̩, ìgbóorun, ìtówò, àti ìfọwókan̩.
+Photosynthesis is how plants make food using sunlight.	Ìṣeé̩dà onjẹ pẹ̀lú ìtànná jé̩ bí àwọn ògbìn ṣe ń ṣe onjẹ wọn.
+Ecosystems consist of living and non-living components.	Ètò àyíká pè̩lú àwọn èdá oníyè àti àwọn èdá àìníyè.
+The nucleus contains the genetic material of the cell.	Àgó̩-pádi ní àwọn èyy atiradiran tí a tò gég̣éḅí okùn-ìran.
+The heart pumps blood throughout the body.	Ọkàn ń pọ̀n èjẹ̀ yí ara ká.
+The lungs are organs of respiration.	Èdòfóró̩ jé̩ èyà-ara fún ìpòyìdà.
+The kidneys filter waste from the blood.	Àwọn iwe a máa ṣèdá ìtò̩ láti inú èjẹ̀.
+The digestive system breaks down food into nutrients.	Ètò èdà-onjẹ ara ló nṣe àyípadà onjẹ sí àwọn èròjà.
+The nervous system coordinates responses to stimuli.	Ètò Èṣọ Ara ní àwọn pádi kan tó njé̩ ki èdá-oníyè ní ìfura sí àgbèègbè rè̩.
+The immune system protects against diseases.	Ètò òkí-ara nṣe ìdáàbò bo ara lówó̩ àwọn àrùn.
+The skeletal system provides support for the body.	Ètò àjọ-eegun ara nṣe àgbéró fún ara ẹran.
+The integumentary system includes the skin and its appendages.	Ètò Awọ-ara ní awọ ara pẹ̀lú àwọn ìsògbè mìran bí àwọn irun, èékán àti àwọn ẹṣé̩ òógùn.
+The circulatory system transports blood around the body.	Ètò ìṣòw-èjè̩ ̣nṣe ìfiránṣé̩ èjẹ̀ yí ara ká.
+The lymphatic system helps fight infections.	Ètò omi-ara nṣe ìdáàbò bo ara ló̩wó̩ àwọn àìsàn.
+Hormones are chemical messengers in the body.	Àwọn ojera jé̩ àwọn ẹlà tí a túsílè̩ láti àwọn ẹṣé̩-àìlópo sínú òpó èjè̩.̣
+The pituitary gland is known as the master gland.	Ẹṣé̩ ìdí-ọpọlọ jé̩ olórí àwọn ẹṣé̩ ojera.
+The reproductive system enables organisms to produce offspring.	Ètò bíbí ara jé̩ ètò àwọn èyà kan nínú àwọn èdá-oníyè tí wó̩n nbá ara ṣiṣé̩ fún bíbí.
+The pancreas produces insulin to regulate blood sugar.	Èdò̩-òrónro nṣèdá ìnísúlìn tí ó ń ṣe àtóṣónà oníjẹ̀ inú èjẹ̀.
+Muscles work by contracting and relaxing.	Àwọn iṣan ń ṣiṣé̩ nípa fífàsí àti títún ara sílẹ̀.
+Bones provide structure and protection for internal organs.	Eegun nṣe ìtójú àti ìdáàbò bo àwọn èyà inú ara.
+The brain controls all body functions.	Ọpọlọ jé̩ olùdarí gbogbo àwọn iṣé̩ ara.
+Arteries carry oxygenated blood away from the heart.	Àwọn ìṣòw-èjè̩ ̣àlọ gbé èjẹ̀ olóyi-iná kúrò láti ọkàn.
+Veins return deoxygenated blood to the heart.	Àwọn ìṣòn-èjè̩ ̣àbò̩ ̣nṣe ìdápadà èjẹ̀ alòyì-iná lọ sí ọkàn.
+The liver detoxifies harmful substances in the blood.	Èdò̩ ̣nṣe ìwẹ̀nùmọ́ àwọn ohun olóró inú èjẹ̀.
+The excretory system removes waste products from the body.	Ètò ìkégbin ara nṣe ìmúkúrò àwọn ègbin tí àwọn pádi ara ti ṣèdá.
+Enzymes are biological catalysts that speed up chemical reactions.	Àwọn ẹnísáìmù jé̩ àwọn aṣètúnṣe tí ó ń mú kí àwọn àṣe ẹlà ṣẹlẹ̀ níṣàrà.
+Genetics is the study of heredity and variation.	Èkó̩ ìtàn-ìran jé̩ ìwádìí ìjọsípò àti ìyàtò̩ nínú àwọn èdá.
+DNA carries the genetic instructions for development and functioning.	DNA ni ó ń gbé àwọn àṣẹ ìtàn-ìran fún ìdàgbàsókè àti ìṣiṣé̩ àwọn èdá.
+Chromosomes are structures that contain DNA.	Àwọn okùn-ìran jé̩ àwọn ètò tí ó ní DNA.
+Genes are segments of DNA that determine specific traits.	Àwọn ẹyọ-ìran jé̩ àwọn èka DNA tí ó ń pinnu àwọn àbùdá pàtó.
+Adaptation allows organisms to survive in their environment.	Ìmórạ jé̩ ohun tí ó ń jé̩ kí àwọn èdá lè gbé ààyè ní àgbègbè wọn.
+Mutations are changes in genetic material.	Ìtipádiyà jé̩ àwọn ìyípàdà nínú àwọn ohun ìtàn-ìran.
+Natural selection is the process by which organisms evolve.	Àṣàyàn àdáyébá jé̩ ìlànà tí àwọn èdá fi ń ṣe ìtìranyà.
+Homeostasis is the maintenance of stable internal conditions.	Ìfẹsẹ̀múlẹ̀ jé̩ ìṣètọ́jú ètò inú ara ní ìdúró déédé.
+Symbiosis is a close relationship between different species.	Àjọṣe jé̩ ìbáṣepọ̀ tímọ́tímọ́ láàrín àwọn òwó̩ tó yàtọ̀ síra.
+Carnivores are animals that eat other animals.	Ajẹran jé̩ àwọn ẹranko tí ó ń jẹ àwọn ẹranko mìíràn.
+Herbivores are animals that eat plants.	Ajẹèwé jé̩ àwọn ẹranko tí ó ń jẹ àwọn ògbìn.
+Omnivores eat both plants and animals.	Ajẹméjì jé̩ àwọn ẹranko tí ó ń jẹ àwọn ògbìn àti ẹran.
+Decomposers break down dead organisms.	Awọn adọ̀ngbẹ̀ ń ṣe ìdàgbàṣókè lára àwọn èdá tí ó kú.
+Predators hunt and kill other animals for food.	Adigunjalè ń dènà pa àwọn ẹranko mìíràn jẹ.
+A food chain shows how energy passes from one organism to another.	Ìṣẹ̀lẹ̀ oúnjẹ ń fihàn bí agbára ṣe ń gba lára èdá kan sí òmíràn.
+The water cycle describes the movement of water in the biosphere.	Ètò àyíká omi ní àlàyé nípa ìgbàlódè omi ní ayé.
+Photosynthesis converts light energy to chemical energy.	Ìṣeé̩dà onjẹ pẹ̀lú ìtànná ń ṣe àyípàdà agbára ìmọ́lẹ̀ sí agbára ẹ̀lá.
+Cellular respiration releases energy from food.	Ìpòyìdà pádi ń tú agbára sílẹ̀ láti inú oúnjẹ.
+The nucleus is the control center of the cell.	Àgọ́-pádi jé̩ ilé iṣẹ́ olùdarí fún pádi.
+The cytoplasm is the cellular material outside the nucleus.	Ohun-inú pádi ni ohun tó wà nínú pádi ṣùgbọ́n tó wà ní ẹ̀yìn àgọ́-pádi.
+The cell membrane controls what enters and leaves the cell.	Ìwọ̀ ohun-inú pádi ń darí ohun tó wọlé àti tó jáde lára pádi.
+Mitochondria are the powerhouses of the cell.	Eya jé̩ ilé agbára nínú pádi.
+Chloroplasts are where photosynthesis occurs in plant cells.	Èyàtúwà jé̩ ibi tí ìṣeé̩dà onjẹ pẹ̀lú ìtànná ti ń ṣẹlẹ̀ nínú àwọn pádi ògbìn.
+The cell wall gives plant cells their rigid structure.	Àmọ̀ pádi ń fún àwọn pádi ògbìn ní ètò líle wọn.
+Ribosomes are where proteins are made in the cell.	Àwọn àgọ́-ìfẹ́fẹ́ jé̩ ibi tí a ti ń ṣèdá àwọn òjẹ̀ nínú pádi.
+Vacuoles store materials in the cell.	Àwọn àpò-àsètò ń tọ́jú àwọn ohun inú pádi.
+The nervous system is divided into the central and peripheral systems.	A pín ètò èṣọ-ara sí ònà méjì, ètò èṣọ t'ògangan̩ àti ètò èṣọ t'àgbèègbè.
+The brain and spinal cord make up the central nervous system.	Ẹṣọ òp̣á-èhìn àti ọpọlọ ló jé̩ àpapò̩ èṣọ t'ògangan̩.
+Neurons are the basic functional units of the nervous system.	Pádi èṣọ jé̩ ìpilẹ̀ṣẹ̀ ẹyọ iṣẹ́ ti ètò èṣọ.
+Sensory neurons carry information from sensory organs to the brain.	Àwọn pádi èṣọ-iyè ń gbé ìròyìn láti àwọn èyà-ara ìyè lọ sọ́dọ̀ ọpọlọ.
+Motor neurons carry commands from the brain to muscles.	Àwọn pádi èṣọ-ìmira ń gbé àṣẹ láti ọpọlọ lọ si àwọn iṣan.
+The human brain has three main parts: cerebrum, cerebellum, and brainstem.	Ọpọlọ ọmọ ènìyàn ní apá ẹlẹgbẹ̀ẹ̀ mẹ́ta: apá ìjọbá, apá ìṣeré, àti apá ipilẹ̀.
+The respiratory system includes the lungs and air passages.	Ètò èy̩à-ìpòyìdà ara ni àwọn èdòfóró̩ àti àwọn ọ̀nà afẹ́.
+Inhaled air contains oxygen needed by cells.	Afẹ́ ìmísí ní òyì-iná tí àwọn pádi nílò.
+Exhaled air contains carbon dioxide produced by cells.	Afẹ́ ìmíjáde ní òyì-èédú tí àwọn pádi ti ṣèdá.
+The diaphragm is the main muscle of respiration.	Iṣan-agbede jé̩ iṣan pàtàkì fún ìpòyìdà.
+The alveoli are tiny air sacs where gas exchange occurs.	Àwọn àpò afẹ́ kékèké jé̩ ibi tí pàṣípààrò̩ òyì ti ń ṣẹlẹ̀.
+Blood carries oxygen to tissues and carbon dioxide away from tissues.	Èjẹ̀ ń gbé òyì-iná lọ sí àwọn ìṣù ara, ó sì ń mú òyì-èédú kúrò lára àwọn ìṣù.
+The heart has four chambers: two atria and two ventricles.	Ọkàn ní yàrá mẹ́rin: yàrá òkè méjì àti yàrá ìsàlẹ̀ méjì.
+The digestive system begins at the mouth and ends at the anus.	Ètò èdà-onjẹ ara bẹ̀rẹ̀ láti ẹnu, ó sì parí sí ihò-ìdí.
+The stomach contains acid that helps break down food.	Ikùn ní èdà kikoro tí ó ń ran àwọn oúnjẹ lọ́wọ́ láti fọ́.
+The small intestine is where most nutrient absorption occurs.	Ìfun kékeré jé̩ ibi tí ìfàmun èròjà ti ń ṣẹlẹ̀ jùlọ.
+The large intestine absorbs water and forms feces.	Ìfun nlá ń fa omi mú, ó sì ń ṣèdá ìgbọnsẹ̀.
+The liver produces bile to aid in fat digestion.	Èdọ̀ ̣nṣèdá òrónro láti ran àdàonjẹ òṛá lọ́wọ́.
+The pancreas produces enzymes for digestion.	Èdò̩-òrónro nṣèdá àwọn ẹnísáìmù fún àdàonjẹ.
+The urinary system filters waste from the blood.	Ètò èyà títò̩ ara ń ṣe àsẹ èjẹ̀ kúrò nínú èjẹ̀.
+The kidneys filter blood to produce urine.	Àwọn iwe ń ṣe àsẹ èjẹ̀ láti mú ìtò̩ jáde.
+The bladder stores urine until it is excreted.	Àpòòtò̩ ̣ń tọ́jú ìtò̩ títí tí a ó fi pọ̀ ọ́ jáde.
+The reproductive system in males produces sperm.	Ètò bíbí ara tí ọkùnrin ń ṣèdá àtọ̀.
+The reproductive system in females produces eggs.	Ètò bíbí ara tí obìnrin ń ṣèdá ẹyin.
+Fertilization occurs when sperm meets egg.	Ìgbàrin ṣẹlẹ̀ nígbà tí àtọ̀ bá pàdé ẹyin.
+Pregnancy begins when a fertilized egg implants in the uterus.	Oyún bẹ̀rẹ̀ nígbà tí ọlẹ̀ bá gbin ara rẹ̀ sínú ilé ọmọ'nú.
+Menstruation is the shedding of the uterine lining.	Nkan oṣù jé̩ ìdànù ìwọ̀ ilé-ọmọ.
+The skeletal system is made up of bones, cartilage, and ligaments.	Ètò àjọ-eegun ara dá lórí àwọn egungun, òkèrékèré, àti àwọn ìṣù aparapọ̀.
+The skull protects the brain.	Agbárí ń dáàbò bo ọpọlọ.
+The ribcage protects the heart and lungs.	Àgbà ìhà ń dáàbò bo ọkàn àti àwọn èdòfóró̩.
+The vertebral column protects the spinal cord.	Òp̣á èhìn ń dáàbò bo èṣọ òp̣á-èhìn.
+Joints are where two or more bones meet.	Oríke jé̩ ibi tí egungun méjì tàbí jù bẹ́ẹ̀ lọ pàdé.
+The muscular system is made up of three types of muscles.	Ètò iṣan ara dá lórí oríṣi iṣan mẹ́ta.
+Skeletal muscles are attached to bones and allow voluntary movement.	Àwọn iṣan eegun so mọ́ àwọn egungun, wọ́n sì ń fàyè gba ìmira àfẹ́só.
+Smooth muscles control involuntary movements like digestion.	Àwọn iṣan ara ń darí àwọn ìmira àìfẹ́só bí àdàonjẹ.
+Cardiac muscle is found only in the heart.	Iṣan ọkàn wà nínú ọkàn nìkan.
+The endocrine system produces hormones that regulate body functions.	Ètò ẹṣé̩ àìlópo nṣèdá àwọn ojera tí ó ń ṣe àtóṣónà àwọn iṣẹ́ ara.
+The thyroid gland regulates metabolism.	Ẹṣé̩ ìdí-ìkòkò òfun̩ ń ṣe àtóṣónà àsè ìjẹ ara.
+The adrenal glands produce adrenaline in response to stress.	Àwọn ẹṣé̩ orí-iwe ń ṣèdá àwọn ojera fún ìdáhùn sí ìnira.
+The immune system defends the body against pathogens.	Ètò òkí-ara nṣe ìdáàbò bo ara lówó̩ àwọn èyàwuuru afàìsàn.
+White blood cells are part of the immune system.	Àwọn pádi-èjẹ̀ funfun jé̩ apá kan nínú ètò òkí-ara.
+Antibodies are proteins that help fight infection.	Àwọn òjẹ̀-ara apèy̩àwuuru jé̩ àwọn òjẹ̀ tí ó ń ran ìjàkadì àrùn lọ́wọ́.
+Vaccination introduces antigens to stimulate immunity.	Àjẹsára ń mú àwọn àjèjì wọlé láti rú òkí-ara sókè.
+The skin is the largest organ of the body.	Awọ ara jé̩ èyà-ara tí ó tóbi jù nínú ara.
+The skin has three main layers: epidermis, dermis, and hypodermis.	Awọ ara ní àwọn ìpele mẹ́ta: àwọ̀ òde, inú awọ-ara, àti ìpèlé abẹ́-awọ.
+Sweat glands help regulate body temperature.	Àwọn ẹṣé̩-òógùn ń ran ìfẹsẹ̀múlẹ̀ ìgbóná ara lọ́wọ́.
+Hair and nails are made of a protein called keratin.	Irun àti èékán ní òjẹ̀ tí a ń pè ní kẹ́rátìn.
+The integumentary system protects against infection and water loss.	Ètò awọ-ara ń dáàbò bo ara lọ́wọ́ àrùn àti àdánù omi.
+Ecology is the study of the relationships between organisms and their environment.	Èkó̩ àyíká jé̩ ìwádìí àwọn ìbáṣepọ̀ láàrín àwọn èdá oníyè àti àyíká wọn.
+A habitat is where an organism lives.	Ibùgbé jé̩ ibi tí èdá oníyè ń gbé.
+A niche is an organism's role in an ecosystem.	Ipò-iṣẹ́ jé̩ iṣẹ́ tí èdá oníyè ń ṣe nínú ètò àyíká.
+A population is all the members of a species in a particular area.	Àkójọpọ̀ jé̩ gbogbo àwọn ọmọ òwó̩ kan ní àgbègbè kan páàtó.
+A community is all the populations of different species in an area.	Ìlú jé̩ gbogbo àwọn àkójọpọ̀ òwó̩ onírúurú ní àgbègbè kan.
+An ecosystem includes all the organisms and their physical environment.	Ètò àyíká pẹ̀lú gbogbo àwọn èdá oníyè àti àyíká afọjúrí wọn.
+Biodiversity is the variety of life in an area.	Onírúurú-ìyè jé̩ oríṣiríṣi ìyè ní àgbègbè kan.
+A food web shows the complex feeding relationships in an ecosystem.	Àwọ̀n oúnjẹ ń fihàn àwọn ìbáṣepọ̀ oúnjẹ tí ó ṣòro nínú ètò àyíká.
+Energy flows through an ecosystem from producers to consumers.	Agbára ń ṣàn lọ nínú ètò àyíká láti ọ̀dọ̀ àwọn olùṣèdá sí àwọn olùmúlò.
+Producers make their own food through photosynthesis.	Àwọn olùṣèdá ń ṣe oúnjẹ wọn fúnra wọn nípa ìṣeé̩dà onjẹ pẹ̀lú ìtànná.
+Primary consumers eat producers.	Àwọn olùmúlò àkọ́kọ́ jẹ àwọn olùṣèdá.
+Secondary consumers eat primary consumers.	Àwọn olùmúlò èkejì jẹ àwọn olùmúlò àkọ́kọ́.
+Tertiary consumers eat secondary consumers.	Àwọn olùmúlò ẹ̀kẹta jẹ àwọn olùmúlò èkejì.
+The endoplasmic reticulum is a transport network in cells.	Àwọ̀n-inú-pádi jẹ́ ètò ọ̀nà fún gbígbé ohun nínú pádi.
+The Golgi apparatus processes and packages proteins.	Ètò Golgi ṣe àtúnṣe àti dídé àwọn òjẹ̀.
+Lysosomes contain digestive enzymes.	Àwọn aláṣẹ-pádi ní àwọn ẹnísáìmù àdàonjẹ.
+Prokaryotic cells do not have a membrane-bound nucleus.	Àwọn pádi aláìní-àgọ́ kò ní àgọ́-pádi tí a di ní egbìrín.
+Eukaryotic cells have a membrane-bound nucleus.	Àwọn pádi onípádi-gidi ní àgọ́-pádi tí a di ní egbìrín.
+Animal cells do not have a cell wall.	Àwọn pádi ẹranko kò ní àmọ̀ pádi.
+Plant cells have a cell wall made of cellulose.	Àwọn pádi ògbìn ní àmọ̀ pádi tí a ṣe pẹ̀lú sẹ́lúlósì.
+Fungi are decomposers that break down dead organic material.	Àwọn alára-osun jẹ́ adọ̀ngbẹ̀ tí wọ́n ń fọ́ àwọn ohun oníyè tí kú.
+Bacteria are unicellular prokaryotes.	Alámọ̀ jẹ́ ẹ̀dá onípádikan aláìní-àgọ́.
+Viruses are not considered living organisms.	A kò ka àwọn ọlọ́jẹ̀ sí ẹ̀dá oníyè.
+The structure of DNA is a double helix.	Ètò DNA jẹ́ àfikò ìkarọ méjì.
+RNA carries genetic information from DNA to ribosomes.	RNA ń gbé ìfitónilétí ìran láti DNA sí àwọn àgọ́-ìfẹ́fẹ́.
+Genes are the basic unit of heredity.	Àwọn ẹyọ-ìran jẹ́ ìpìlẹ̀ ẹyọ ìtàn-ìran.
+Phenotype is the physical expression of genes.	Àbùdá-àfojúrí jẹ́ ìfihàn ìran tí a lè rí.
+Genotype is the genetic makeup of an organism.	Àbùdá-ìní jẹ́ àpapọ̀ ìran èdá oníyè.
+Dominant genes mask the expression of recessive genes.	Àwọn ìran aṣẹ́gun ń bo ìfihàn àwọn ìran aṣẹ́fà mọ́lẹ̀.
+Recessive genes are only expressed when dominant genes are absent.	Àwọn ìran aṣẹ́fà jẹ́ fífihàn nígbà tí àwọn ìran aṣẹ́gun kò sí.
+Meiosis is a type of cell division that produces gametes.	Pínpín-pádi-ìdínwó jẹ́ irú pínpín pádi tí ó ń ṣèdá àwọn pádi ìnrin.
+Sexual reproduction involves the fusion of gametes.	Bíbí ti lákọlábo jẹ́ àpapọ̀ àwọn pádi ìnrin.
+Asexual reproduction does not involve the fusion of gametes.	Bíbí àìgbakọ kò ní àpapọ̀ àwọn pádi ìnrin.
+Cloning is a form of asexual reproduction.	Ṣíṣe-àwòkọ jẹ́ irú bíbí àìgbakọ.
+The human digestive system breaks down food into nutrients.	Ètò ẹ̀dà-onjẹ ara ọmọ ènìyàn ń fọ́ oúnjẹ sí èròjà.
+The human respiratory system exchanges gases with the environment.	Ètò ìpòyìdà ara ọmọ ènìyàn ń ṣe pàṣípààrọ̀ òyì pẹ̀lú àyíká.
+The human circulatory system transports substances around the body.	Ètò ìṣọ̀n-ẹ̀jẹ̀ ara ọmọ ènìyàn ń gbé àwọn nkan yí ara ká.
+The human nervous system coordinates responses to stimuli.	Ètò ẹ̀ṣọ ara ọmọ ènìyàn ń ṣe ìbáṣepọ̀ àwọn ìdáhùn sí àwọn ìfura.
+The human immune system defends against pathogens.	Ètò òkí-ara ọmọ ènìyàn ń dáàbò bo ara lọ́wọ́ àwọn ẹ̀yàwuuru afàìsàn.
+The human reproductive system produces gametes for reproduction.	Ètò bíbí ara ọmọ ènìyàn ń ṣèdá àwọn pádi ìnrin fún bíbí.
+The human muscular system enables movement.	Ètò iṣan ara ọmọ ènìyàn ń fàyè gba ìmira.
+The human skeletal system provides support and protection.	Ètò àjọ-eegun ara ọmọ ènìyàn ń pèsè ìtọ́jú àti ààbò.
+The human integumentary system protects the body from the environment.	Ètò awọ-ara ọmọ ènìyàn ń dáàbò bo ara lọ́wọ́ àyíká.
+The human endocrine system regulates body functions through hormones.	Ètò ẹṣẹ́ àìlópo ọmọ ènìyàn ń ṣe àtóṣónà àwọn iṣẹ́ ara nípa àwọn ojera.
+The human excretory system removes waste from the body.	Ètò ìkẹ́gbin ara ọmọ ènìyàn ń mú ègbin kúrò nínú ara.
+Ecosystems include both living and non-living components.	Àwọn ètò àyíká ní àwọn èdá oníyè àti àwọn èdá àìníyè.
+The biosphere is the part of Earth where life exists.	Àyíká-ìyè jẹ́ apá ilẹ̀ ayé níbi tí ìyè wà.
+The hydrosphere includes all water on Earth.	Àyíká-omi pẹ̀lú gbogbo omi lórí ilẹ̀ ayé.
+The atmosphere is the layer of gases surrounding Earth.	Àyíká-afẹ́ jẹ́ ìpele òyì tí ó yí ilẹ̀ ayé ká.
+The lithosphere is the solid outer layer of Earth.	Àyíká-ilẹ̀ jẹ́ ìpele líle òde ilẹ̀ ayé.
+Natural selection leads to adaptation of species.	Àṣàyàn àdáyébá ń yọrí sí ìmórạ àwọn ọ̀wọ́.
+Evolution is the process of biological change over time.	Ìtìranyà jẹ́ ìlànà ìyípàdà ìyè lórí ìgbà.
+Biodiversity refers to the variety of life in an area.	Onírúurú-ìyè tọ́ka sí oríṣiríṣi ìyè ní àgbègbè kan.
+Conservation is the protection of biodiversity.	Ìtọ́jú jẹ́ ààbò onírúurú-ìyè.
+The theory of evolution explains how species change over time.	Ìlànà ìtìranyà ń ṣàlàyé bí àwọn ọ̀wọ́ ṣe ń yipada lórí ìgbà.
+The cell theory states that all organisms are composed of cells.	Ìlànà pádi sọ pé gbogbo àwọn èdá oníyè ni a ṣe pẹ̀lú àwọn pádi.
+The germ theory states that diseases are caused by microorganisms.	Ìlànà àjàkálẹ̀-àrùn sọ pé àwọn àìsàn ní a fa nípa àwọn èyàwuru kékèké.
+Organisms with similar characteristics are grouped together in taxonomy.	Àwọn èdá oníyè tí ó ní àbùdá ìjọra ni a kó jọ pọ̀ nínú ìkàsí.
+The binomial nomenclature system is used to name species.	Ètò ìsọdorúkọ-ìbejì ni a ń lò láti sọ àwọn ọ̀wọ́ ní orúkọ.
+Linnaeus developed the modern system of taxonomy.	Linnaeus ṣe àgbékalẹ̀ ètò òde-òní fún ìkàsí.
+Kingdom is the highest taxonomic rank.	Ìjọ jẹ́ ipò ìkàsí tí ó ga jùlọ.
+Species is the lowest taxonomic rank.	Ọ̀wọ́ jẹ́ ipò ìkàsí tí ó kéré jùlọ.
+Phylogeny is the evolutionary history of a species.	Ìtàn-ìran jẹ́ ìtàn ìtìranyà ọ̀wọ́ kan.
+Mutations are changes in genetic material.	Àwọn ìtipádiyà jẹ́ àwọn ìyípàdà nínú ohun ìtàn-ìran.
+Natural selection acts on phenotypic variation.	Àṣàyàn àdáyébá ń ṣiṣẹ́ lórí ìyàtọ̀ àbùdá-àfojúrí.
+Genetic drift is a change in allele frequency due to chance.	Ìfàsẹ́yìn ìran jẹ́ ìyípàdà ní ìṣirò ìran nítorí àṣesóótọ́.
+Gene flow is the transfer of genes between populations.	Ìṣàn ìran jẹ́ ìgbéyọ ìran láàrín àwọn àkójọpọ̀.
+Speciation is the formation of new species.	Ìṣeṣẹ̀dá-ọ̀wọ́ jẹ́ ìdásílẹ̀ àwọn ọ̀wọ́ tuntun.
+Homologous structures share a common ancestry but may have different functions.	Àwọn ètò ìjọsípọ̀ ní ìdílé ajọpọ̀ ṣùgbọ́n lè ní àwọn iṣẹ́ tí ó yàtọ̀.
+Analogous structures have similar functions but different evolutionary origins.	Àwọn ètò aláfaní ní àwọn iṣẹ́ tí ó jọra ṣùgbọ́n ní àwọn ìbẹ̀rẹ̀ ìtìranyà tí ó yàtọ̀.
+Vestigial structures are remnants of structures that had functions in ancestors.	Àwọn ètò ìyókù jẹ́ àwọn èyí tí ó kù nínú àwọn ètò tí ó ní iṣẹ́ ní àwọn baba ńlá.
+Human and chimpanzee DNA are about 98% identical.	DNA ọmọ ènìyàn àti ìnọ́kí jẹ́ bí 98% bákan náà.
+Humans share a common ancestor with great apes.	Ọmọ ènìyàn pín baba ńlá ajọpọ̀ pẹ̀lú àwọn ẹranko ńlá.
+Humans are classified as primates.	A ṣe ìkàsí ọmọ ènìyàn gẹ́gẹ́ bí olórí-ẹranko.
+Humans are mammals that belong to the order Primates.	Ọmọ ènìyàn jẹ́ onírunlára tí ó jẹ́ ti agboolé olórí-ẹranko.
+The scientific name for humans is Homo sapiens.	Orúkọ ìmọ̀-jìnlẹ̀ fún ọmọ ènìyàn jẹ́ Homo sapiens.
+The human genome contains about 20,000-25,000 genes.	Àkójọpọ̀ ìran ọmọ ènìyàn ní bí ẹgbẹ̀rún ogún sí ẹgbẹ̀rún méẹ̀ẹ́dọ́gbọ̀n àwọn ìran.
+Humans are vertebrates with a backbone.	Ọmọ ènìyàn jẹ́ ẹlẹ́sọ̀lẹ́hìn pẹ̀lú ẹ̀hin eegun.
+Humans have a four-chambered heart.	Ọmọ ènìyàn ní ọkàn onípele mẹ́rin.
+Humans are endotherms, maintaining a constant body temperature.	Ọmọ ènìyàn jẹ́ onígbóná-inú, tí ó ń ṣe àtọ́jú ìgbóná ara déédé.
+Humans have binocular vision, allowing depth perception.	Ọmọ ènìyàn ní ìríran ojú méjì, tí ó ń fàyè gba ìdámọ̀ jíjìn.
+Humans have opposable thumbs.	Ọmọ ènìyàn ní àwọn àtànpàkò tó lòdì síra wọn.
+Humans are omnivores, eating both plant and animal material.	Ọmọ ènìyàn jẹ́ ajẹméjì, tí ó ń jẹ èròjà ògbìn àti ẹran.
+The human life cycle includes infancy, childhood, adolescence, adulthood, and old age.	Àyíká ìgbésí ayé ọmọ ènìyàn pẹ̀lú ìgbà ọmọ ọwọ́, ìgbà èwe, ìgbà bàlágà, ìgbà àgbà, àti ìgbà arúgbó.
+Human embryonic development begins with fertilization.	Ìdàgbàsókè ọlẹ̀ ọmọ ènìyàn bẹ̀rẹ̀ pẹ̀lú ìgbàrin.
+The menstrual cycle is a series of changes in the female reproductive system.	Àyíká oṣù jẹ́ ẹ̀ka ìyípàdà nínú ètò bíbí ara obìnrin.
+Pregnancy in humans typically lasts about 40 weeks.	Oyún ní ọmọ ènìyàn jẹ́ ní gbogbo ọ̀sẹ̀ ogójì.
+Puberty is when sexual maturation occurs.	Ìbàlágà jẹ́ nígbà tí ìdàgbà ìbálòpọ̀ ṣẹlẹ̀.
+The stages of mitosis are prophase, metaphase, anaphase, and telophase.	Àwọn ìpele pínpín àgọ́-pádi jẹ́ ìbẹ̀rẹ̀, àárín, ìparí, àti ìparí pátápátá.
+Interphase is the period between cell divisions.	Àárín-ìpele jẹ́ àkókò láàrín àwọn pínpín pádi.
+The stages of meiosis include two divisions.	Àwọn ìpele pínpín-pádi-ìdínwó pẹ̀lú pínpín méjì.
+Crossing over occurs during meiosis.	Kọ́rọ́ṣíngì ṣẹlẹ̀ lákokò pínpín-pádi-ìdínwó.
+Independent assortment of chromosomes increases genetic diversity.	Ìpínkiri ọ̀tọ̀ọ̀tọ̀ àwọn okùn-ìran ń mú onírúurú ìran pọ̀ sí i.
+DNA replication occurs during the S phase of interphase.	Àtúnṣe DNA ṣẹlẹ̀ lákokò ìpele S ti àárín-ìpele.
+Translation is the process of making proteins from mRNA.	Ìtumọ̀ jẹ́ ìlànà ṣíṣe àwọn òjẹ̀ láti mRNA.
+Transcription is the process of making RNA from DNA.	Ìkọ̀wé jẹ́ ìlànà ṣíṣe RNA láti DNA.
+Proteins are made up of amino acids.	Àwọn òjẹ̀ ni a ṣe pẹ̀lú àwọn ásídì àmínò.
+Photosynthesis occurs in chloroplasts in plant cells.	Ìṣeé̩dà onjẹ pẹ̀lú ìtànná ṣẹlẹ̀ nínú àwọn èyàtúwà nínú àwọn pádi ògbìn.
+The light-dependent reactions of photosynthesis produce ATP and NADPH.	Àwọn àṣe tí ó dá lórí ìmọ́lẹ̀ ti ìṣeé̩dà onjẹ pẹ̀lú ìtànná ń ṣèdá ATP àti NADPH.
+The Calvin cycle uses ATP and NADPH to produce glucose.	Àyíka Calvin ń lo ATP àti NADPH láti ṣèdá gúlúkósì.
+Cellular respiration releases energy from glucose.	Ìpòyìdà pádi ń tú agbára sílẹ̀ láti inú gúlúkósì.
+Glycolysis is the first stage of cellular respiration.	Ìfọ́-oníjẹ jẹ́ ìpele àkọ́kọ́ ti ìpòyìdà pádi.
+The citric acid cycle occurs in the mitochondrial matrix.	Àyíka ásídì sítríkì ṣẹlẹ̀ nínú inú eya pádi.
+The electron transport chain generates most of the ATP in cellular respiration.	Okùn ìgbé ẹlẹ́ktrọ́nù ń ṣèdá púpọ̀ jùlọ ti ATP nínú ìpòyìdà pádi.
+Fermentation occurs in the absence of oxygen.	Ìdíbà ṣẹlẹ̀ ní àìsí òyì-iná.
+Lactic acid fermentation occurs in muscle cells during intense exercise.	Ìdíbà ásídì láktíkì ṣẹlẹ̀ nínú àwọn pádi iṣan lákokò eré ìdárayá líle.
+Alcoholic fermentation produces ethanol and carbon dioxide.	Ìdíbà ọtí ń ṣèdá ẹ́tánọ́lù àti òyì-èédú.
+The water cycle includes evaporation, condensation, and precipitation.	Àyíká omi pẹ̀lú ìgbóná-ojú-omi, ìdí-omi, àti òjò.
+The carbon cycle describes the movement of carbon through ecosystems.	Àyíká kábọ́nì ṣàlàyé ìgbàlódè kábọ́nì láàrín àwọn ètò àyíká.
+The nitrogen cycle involves the conversion of nitrogen into forms that plants can use.	Àyíká náítírójìn jẹ́ àyípàdà náítírójìn sí àwọn irú tí àwọn ògbìn lè lò.
+The phosphorus cycle describes the movement of phosphorus through ecosystems.	Àyíká fọ́sfọ́rọ̀sì ṣàlàyé ìgbàlódè fọ́sfọ́rọ̀sì láàrín àwọn ètò àyíká.
+Ecological succession is the process of change in community structure over time.	Ìṣẹ̀dálẹ̀kọ̀ ẹ̀kọ́lọ́jì jẹ́ ìlànà ìyípàdà ní ètò ìlú lórí ìgbà.
+Primary succession occurs in areas where no soil exists.	Ìṣẹ̀dálẹ̀kọ̀ àkọ́kọ́ ṣẹlẹ̀ ní àwọn àgbègbè níbi tí ilẹ̀ kò sí.
+Secondary succession occurs in areas where soil exists but the community has been disturbed.	Ìṣẹ̀dálẹ̀kọ̀ èkejì ṣẹlẹ̀ ní àwọn àgbègbè níbi tí ilẹ̀ wà ṣùgbọ́n tí ìlú ti dàrú.
+A biome is a large community of plants and animals that occupies a distinct region.	Àgbègbè-ìyè jẹ́ ìlú ńlá ti àwọn ògbìn àti ẹranko tí ó ń gbé àgbègbè tí ó yàtọ̀.
+The tundra is a cold, treeless biome.	Ilẹ̀-tútù jẹ́ àgbègbè-ìyè tútù, aláìlégí.
+The taiga is a coniferous forest biome.	Ilẹ̀-igijẹjẹ jẹ́ àgbègbè-ìyè igbó oní àrọ.
+The temperate deciduous forest is a biome with trees that lose their leaves seasonally.	Igbó awọ́wẹ́ onítẹ́ẹ́dẹ́ jẹ́ àgbègbè-ìyè pẹ̀lú igi tí ó ń pá ewé wọn dànù ní ìgbà àkókò.
+The tropical rainforest is a warm, wet biome with high biodiversity.	Igbó-ojo ilẹ̀-gbígbóná jẹ́ àgbègbè-ìyè gbígbóná, tútù pẹ̀lú onírúurú-ìyè gíga.
+The savanna is a grassland biome with scattered trees.	Pápá jẹ́ àgbègbè-ìyè pápá koríko pẹ̀lú àwọn igi tí ó fọ́nká.
+The desert is a dry biome with low precipitation.	Ilẹ̀-gbígbẹ jẹ́ àgbègbè-ìyè gbígbẹ pẹ̀lú òjò kékeré.
+The marine biome includes oceans, coral reefs, and estuaries.	Àgbègbè-ìyè òkun pẹ̀lú àwọn òkun, àwọn ọ̀pá-òkun, àti àwọn ẹnu-odò.
+The freshwater biome includes lakes, rivers, and wetlands.	Àgbègbè-ìyè omi-dídára pẹ̀lú àwọn adágún, àwọn odò, àti àwọn ilẹ̀-omi.
+Carrying capacity is the maximum population size that an environment can sustain.	Agbára-gbígbà jẹ́ títóbi àkójọpọ̀ tí ó pọ̀jù tí àyíká kan lè gbé.
+Population growth is influenced by birth rates, death rates, immigration, and emigration.	Ìdàgbàsókè àkójọpọ̀ jẹ́ nípa ìṣirò ìbí, ìṣirò ikú, ìwọlé-ilẹ̀, àti ìkúrò-ilẹ̀.
+Exponential growth occurs when resources are abundant.	Ìdàgbà àfikún ṣẹlẹ̀ nígbà tí àwọn ohun-ìní pọ̀.
+Logistic growth occurs when resources become limited.	Ìdàgbà onípínlẹ̀ ṣẹlẹ̀ nígbà tí àwọn ohun-ìní di ìpínlẹ̀.
+Competition occurs when organisms vie for the same resources.	Ìdíje ṣẹlẹ̀ nígbà tí àwọn èdá oníyè bá n jà fún àwọn ohun-ìní kan náà.
+Predation is when one organism kills and eats another.	Ìdẹ-ẹran jẹ́ nígbà tí èdá oníyè kan bá pa èdá oníyè mìíràn jẹ.
+Parasitism is a relationship where one organism benefits at the expense of another.	Ajẹtìmọlẹ̀ jẹ́ ìbáṣepọ̀ níbi tí èdá oníyè kan ń jẹ àǹfààní ní ìdojútini èdá oníyè mìíràn.
+Mutualism is a relationship where both organisms benefit.	Asejọwọ́pọ̀ jẹ́ ìbáṣepọ̀ níbi tí àwọn èdá oníyè méjèèjì ń jẹ àǹfààní.
+Commensalism is a relationship where one organism benefits and the other is unaffected.	Aṣejọwọ́pọ̀kan jẹ́ ìbáṣepọ̀ níbi tí èdá oníyè kan ń jẹ àǹfààní ṣùgbọ́n tí òmíràn kò ní ipa.
+Symbiosis is a close, long-term interaction between different species.	Ìgbétímọ́ra jẹ́ ìbáṣepọ̀ tímọ́tímọ́, ìgbà-pípẹ́ láàrín àwọn ọ̀wọ́ tí ó yàtọ̀.
+Camouflage is an adaptation that helps organisms blend with their environment.	Ìbáradé jẹ́ ìmóra tí ó ń ran àwọn èdá oníyè lọ́wọ́ láti dàpọ̀ mọ́ àyíká wọn.
+Mimicry is when one organism resembles another for protection.	Àfarawé jẹ́ nígbà tí èdá oníyè kan bá jọ òmíràn fún ìdáàbòbò.
+Warning coloration is bright coloration that signals danger.	Àwọ̀-ìkìlọ̀ jẹ́ àwọ̀ dídán tí ó ń fi àmì ewu hàn.
+Behavioral adaptations are behaviors that help organisms survive.	Àwọn ìmóra ìhùwàsí jẹ́ àwọn ìhùwàsí tí ó ń ran àwọn èdá oníyè lọ́wọ́ láti yè.
+Physiological adaptations are changes in body functions.	Àwọn ìmóra ara jẹ́ àwọn ìyípàdà nínú àwọn iṣẹ́ ara.
+Structural adaptations are physical features that help organisms survive.	Àwọn ìmóra ètò jẹ́ àwọn àbùdá afojúrí tí ó ń ran àwọn èdá oníyè lọ́wọ́ láti yè.
+Migration is the seasonal movement of animals.	Ìsipò jẹ́ ìgbàlódè àkókò àwọn ẹranko.
+Hibernation is a state of inactivity during winter.	Ojúṣùúrù-òtútù jẹ́ ipò àìṣíṣẹ́ ní àkókò òtútù.
+Estivation is a state of inactivity during hot, dry periods.	Ojúṣùúrù-gbígbóná jẹ́ ipò àìṣíṣẹ́ ní àkókò gbígbóná, gbígbẹ.
+Homeostasis is the maintenance of a stable internal environment.	Ìfẹsẹ̀múlẹ̀ jẹ́ ìṣètọ́jú àyíká inú déédé.
+Thermoregulation is the maintenance of body temperature.	Ìṣètọ́jú-ìgbóná jẹ́ ìṣètọ́jú ìgbóná ara.
+Osmoregulation is the control of water balance in organisms.	Ìṣètọ́jú-omi jẹ́ ìdarí ìwọ̀ntúnwọ̀nsì omi nínú àwọn èdá oníyè.
+Excretion is the removal of metabolic waste from the body.	Ìkẹ́gbin jẹ́ ìmúkúrò àwọn ègbin àsè ìjẹ láti inú ara.
+Metabolism is the sum of all chemical reactions in an organism.	Àsè-ìjẹ ara jẹ́ àpapọ̀ gbogbo àwọn àṣe ẹ̀lá nínú èdá oníyè.
+Anabolism is the building up of complex molecules from simpler ones.	Àkójọ-èdá jẹ́ kíkọ́ àwọn mọ́lìkúù ìṣòro láti àwọn tí ó rọrùn.
+Catabolism is the breaking down of complex molecules into simpler ones.	Àfọ́-èdá jẹ́ fífọ́ àwọn mọ́lìkúù ìṣòro sí àwọn tí ó rọrùn.
+Enzymes are biological catalysts that speed up chemical reactions.	Àwọn ẹnísáìmù jẹ́ àwọn aṣètúnṣe ìyè tí ó ń mú àwọn àṣe ẹ̀lá yára.
+Substrates are molecules that enzymes act upon.	Àwọn ohun-iṣẹ́ jẹ́ àwọn mọ́lìkúù tí àwọn ẹnísáìmù ń ṣiṣẹ́ lé lórí.
+Active sites are regions on enzymes where substrates bind.	Àwọn ibi-iṣẹ́ jẹ́ àwọn agbègbè lórí àwọn ẹnísáìmù níbi tí àwọn ohun-iṣẹ́ ń so mọ́.
+Inhibitors are substances that reduce enzyme activity.	Àwọn adínkù jẹ́ àwọn ohun tí ó ń dín iṣẹ́ ẹnísáìmù kù.
+Competitive inhibitors bind to the active site of an enzyme.	Àwọn adínkù adíje ń so mọ́ ibi-iṣẹ́ ẹnísáìmù.
+Noncompetitive inhibitors bind to a site other than the active site.	Àwọn adínkù àìdíje ń so mọ́ ibi mìíràn yàtọ̀ sí ibi-iṣẹ́.
+Hormones are chemical messengers that regulate body functions.	Àwọn ojera jẹ́ àwọn ìránṣẹ́ ẹ̀lá tí ó ń ṣe àtóṣónà àwọn iṣẹ́ ara.
+Endocrine glands secrete hormones directly into the bloodstream.	Àwọn ẹṣẹ́ àìlópo ń sun àwọn ojera tààrà sínú ìṣọ̀n ẹ̀jẹ̀.
+Exocrine glands secrete substances through ducts.	Àwọn ẹṣẹ́ olópo ń sun àwọn ohun láti inú òpó.
+The pituitary gland is called the master gland because it controls other glands.	Ẹṣẹ́ ìdí-ọpọlọ jẹ́ pípè ní ẹṣẹ́ olórí nítorí ó ń darí àwọn ẹṣẹ́ mìíràn.
+The thyroid gland regulates metabolism.	Ẹṣẹ́ ìdí-ìkòkò ọ̀fun ń ṣe àtóṣónà àsè-ìjẹ ara.
+The adrenal glands produce adrenaline in response to stress.	Àwọn ẹṣẹ́ orí-iwe ń ṣèdá àdrẹ́nálínì ní ìdáhùn sí ìnira.
+The pancreas produces insulin to regulate blood sugar.	Èdọ̀-òrónro ń ṣèdá ìnísúlìnì láti ṣe àtóṣónà oníjẹ̀ ẹ̀jẹ̀.
+The ovaries produce estrogen and progesterone.	Àwọn ibú-ẹyin ń ṣèdá ẹ́sítírójẹ̀n àti pírójẹ́sítẹ́rónì.
+The testes produce testosterone.	Àwọn ikóropọ̀n ń ṣèdá tẹ́sítósítẹ́rónì.
+Insulin lowers blood glucose levels.	Ìnísúlìnì ń dín àwọn ipò gúlúkósì ẹ̀jẹ̀ kù.
+Glucagon raises blood glucose levels.	Gúlúkágọ̀n ń gbé àwọn ipò gúlúkósì ẹ̀jẹ̀ sókè.
+Diabetes is a disease characterized by high blood glucose levels.	Ìtọ̀súgà jẹ́ àìsàn tí a ṣe àfihàn nípa àwọn ipò gúlúkósì ẹ̀jẹ̀ gíga.
+Type 1 diabetes is caused by the immune system attacking insulin-producing cells.	Ìtọ̀súgà 1 ni a fa nípa ètò òkí-ara kọlu àwọn pádi tí ó ń ṣèdá ìnísúlìnì.
+Type 2 diabetes is characterized by insulin resistance.	Ìtọ̀súgà 2 jẹ́ àfihàn nípa ìṣòdì-ìnísúlìnì.
+The human genome consists of about 3 billion base pairs.	Àkójọpọ̀ ìran ọmọ ènìyàn jẹ́ nípa bílíọ̀nù mẹ́ta àwọn ẹ̀ka báásì.
+A genome is the complete set of genetic material in an organism.	Àkójọpọ̀ ìran jẹ́ ẹ̀kúnrẹ́rẹ́ ohun ìtàn-ìran nínú èdá oníyè.
+Chromosomes are structures that contain DNA.	Àwọn okùn-ìran jẹ́ àwọn ètò tí ó ní DNA.
+Humans have 46 chromosomes in 23 pairs.	Ọmọ ènìyàn ní okùn-ìran mẹ́rìndínláàádọ́ta ní ẹ̀ka mẹ́tàlélógún.
+Genes are segments of DNA that code for proteins.	Àwọn ìran jẹ́ àwọn èka DNA tí ó ń ṣe àmì fún àwọn òjẹ̀.
+Alleles are alternative forms of the same gene.	Àwọn ọmọ-ìran jẹ́ àwọn irú míran ti ìran kan náà.
+Genotype is the genetic makeup of an organism.	Àbùdá-ìní jẹ́ àpapọ̀ ìran èdá oníyè.
+Phenotype is the observable traits of an organism.	Àbùdá-àfojúrí jẹ́ àwọn àbùdá tí a lè rí ti èdá oníyè.
+Homozygous means having identical alleles for a particular gene.	Alákeejọ túmọ̀ sí níní àwọn ọmọ-ìran bakannáà fún ìran kan pàtó.
+Heterozygous means having different alleles for a particular gene.	Alákeeyàtọ̀ túmọ̀ sí níní àwọn ọmọ-ìran tí ó yàtọ̀ fún ìran kan pàtó.
+Dominant alleles are expressed when present in either homozygous or heterozygous states.	Àwọn ọmọ-ìran aṣẹ́gun jẹ́ fífihàn nígbà tí ó bá wà ní ipò alákeejọ tàbí alákeeyàtọ̀.
+Recessive alleles are only expressed in the homozygous state.	Àwọn ọmọ-ìran aṣẹ́fà jẹ́ fífihàn ní ipò alákeejọ nìkan.
+Incomplete dominance is when the heterozygous phenotype is intermediate between the two homozygous phenotypes.	Àṣẹ́gun àìpé jẹ́ nígbà tí àbùdá-àfojúrí alákeeyàtọ̀ bá wà láàrín àwọn àbùdá-àfojúrí alákeejọ méjì.
+Codominance is when both alleles are expressed in the heterozygous state.	Àjọ-ṣẹ́gun jẹ́ nígbà tí àwọn ọmọ-ìran méjèèjì bá jẹ́ fífihàn ní ipò alákeeyàtọ̀.
+Multiple alleles means a gene has more than two possible alleles.	Àwọn ọmọ-ìran púpọ̀ túmọ̀ sí ìran kan ní ju ọmọ-ìran méjì tí ó ṣeéṣe lọ.
+Polygenic inheritance is when a trait is controlled by multiple genes.	Jogún oníran-púpọ̀ jẹ́ nígbà tí a bá darí àbùdá nípa àwọn ìran púpọ̀.
+Pleiotropy is when one gene affects multiple traits.	Àbùdá-púpọ̀ jẹ́ nígbà tí ìran kan bá ní ipa lórí àwọn àbùdá púpọ̀.
+Sex-linked genes are located on the sex chromosomes.	Àwọn ìran ìnrin-ìsopọ̀ wà lórí àwọn okùn-ìran ìnrin.
+X-linked recessive disorders are more common in males.	Àwọn àìsàn X-ìsopọ̀ aṣẹ́fà wọ́pọ̀ ní ọkùnrin.
+Pedigrees are diagrams that show the inheritance of traits in families.	Àwọn ìtànṣe jẹ́ àwọn àwòrán tí ó ń fi jogún àwọn àbùdá nínú àwọn ìdílé hàn.
+The Hardy-Weinberg principle describes allele frequencies in populations.	Ìlànà Hardy-Weinberg ṣàlàyé àwọn ìṣirò ọmọ-ìran nínú àwọn àkójọpọ̀.
+Genetic drift is a change in allele frequency due to chance.	Ìfàsẹ́yìn ìran jẹ́ ìyípàdà ní ìṣirò ọmọ-ìran nítorí àṣesóótọ́.
+Genetic bottlenecks occur when a population is drastically reduced in size.	Àwọn ìkórù ìran ṣẹlẹ̀ nígbà tí a bá dín àkójọpọ̀ kù ní títóbi gbigbogbo.
+The founder effect occurs when a new population is established by a small number of individuals.	Ipa aṣẹ̀dá ṣẹlẹ̀ nígbà tí àkójọpọ̀ tuntun bá jẹ́ dídásílẹ̀ nípa iye kékeré àwọn ẹnìkọ̀ọ̀kan.
+Mutation is a change in the genetic material of an organism.	Ìtipádiyà jẹ́ ìyípàdà nínú ohun ìtàn-ìran ti èdá oníyè.
+Point mutations affect a single nucleotide.	Àwọn ìtipádiyà àmì ní ipa lórí èkun-ẹ̀yọ́ kan.
+Frameshift mutations involve the insertion or deletion of nucleotides.	Àwọn ìtipádiyà ìyípò jẹ́ àfikún tàbí ìyọkúrò àwọn èkun-ẹ̀yọ́.
+Gene flow is the transfer of alleles from one population to another.	Ìṣàn ìran jẹ́ ìgbéyọ àwọn ọmọ-ìran láti ọ̀dọ̀ àkójọpọ̀ kan sí òmíràn.
+Natural selection is the process by which organisms better adapted to their environment survive and reproduce.	Àṣàyàn àdáyébá jẹ́ ìlànà nípa èyí tí àwọn èdá oníyè tí ó dára ní ìmóra sí àyíká wọn yè tí wọ́n sì ń ṣèdá.
+Artificial selection is selection by humans for breeding of desirable traits.	Àṣàyàn àbájáde jẹ́ àṣàyàn ọmọ ènìyàn fún ìbísí àwọn àbùdá tí ó wù.
+Directional selection favors one extreme of a trait.	Àṣàyàn ìtọ́sọ́nà fẹ́ràn òpin kan ti àbùdá.
+Stabilizing selection favors the average form of a trait.	Àṣàyàn ìdúróṣinṣin fẹ́ràn irú apapọ̀ ti àbùdá.
+Disruptive selection favors both extremes of a trait.	Àṣàyàn ìyapa fẹ́ràn àwọn òpin méjèèjì ti àbùdá.
+Sexual selection is selection for traits that increase mating success.	Àṣàyàn ìbálòpọ̀ jẹ́ àṣàyàn fún àwọn àbùdá tí ó ń mú àṣeyọrí ìbálòpọ̀ pọ̀ sí i.
+Speciation is the formation of new species.	Ìṣèṣẹ̀dá-ọ̀wọ́ jẹ́ ìdásílẹ̀ àwọn ọ̀wọ́ tuntun.
+Allopatric speciation occurs when populations are geographically isolated.	Ìṣèṣẹ̀dá-ọ̀wọ́ ìpinya-ayé ṣẹlẹ̀ nígbà tí àwọn àkójọpọ̀ bá jẹ́ pínyà ní jíografi.
+Sympatric speciation occurs within a single geographical area.	Ìṣèṣẹ̀dá-ọ̀wọ́ ìpapọ̀-ayé ṣẹlẹ̀ láàrín agbègbè jíografi kan.
+Reproductive isolation prevents interbreeding between species.	Ìpinya ìbísí dínà ìbísí láàrín àwọn ọ̀wọ́.
+Pre-zygotic barriers prevent fertilization.	Àwọn ìdínà ṣíwájú-ọlẹ̀ dínà ìgbàrin.
+Post-zygotic barriers prevent the development of viable offspring.	Àwọn ìdínà ẹ̀yìn-ọlẹ̀ dínà ìdàgbàsókè ọmọ tó dára.
+Convergent evolution is when unrelated species evolve similar traits.	Ìtìranyà ìpàdé jẹ́ nígbà tí àwọn ọ̀wọ́ aláìjọra bá ṣe ìtìranyà àwọn àbùdá tí ó jọra.
+Divergent evolution is when related species evolve different traits.	Ìtìranyà ìpinya jẹ́ nígbà tí àwọn ọ̀wọ́ ajọra bá ṣe ìtìranyà àwọn àbùdá tí ó yàtọ̀.
+Coevolution is when species evolve in response to each other.	Àjọ-tìranyà jẹ́ nígbà tí àwọn ọ̀wọ́ bá ṣe ìtìranyà ní ìdáhùn sí ara wọn.
+Adaptive radiation is the rapid diversification of a group of organisms.	Ìtànjáde ìmóra jẹ́ yíyara onírúurú ẹgbẹ́ àwọn èdá oníyè.
+Phylogeny is the evolutionary history of a group of organisms.	Ìtàn-ìran jẹ́ ìtàn ìtìranyà ẹgbẹ́ àwọn èdá oníyè.
+A phylogenetic tree shows evolutionary relationships.	Igi ìtàn-ìran ń fi àwọn ìbáṣepọ̀ ìtìranyà hàn.
+Cladistics is a method of classification based on shared derived traits.	Ìkàsí-ẹ̀ka jẹ́ ọ̀nà ìkàsí tí ó dá lórí àwọn àbùdá tí a pín tí a mú wá.
+Homologous structures share a common ancestry.	Àwọn ètò ìjọsípọ̀ pín ìdílé ajọpọ̀.
+Analogous structures have similar functions but different evolutionary origins.	Àwọn ètò aláfaní ní àwọn iṣẹ́ tí ó jọra ṣùgbọ́n ní àwọn ìbẹ̀rẹ̀ ìtìranyà tí ó yàtọ̀.
+Vestigial structures are remnants of structures that had functions in ancestors.	Àwọn ètò ìyókù jẹ́ àwọn èyí tí ó kù nínú àwọn ètò tí ó ní iṣẹ́ ní àwọn baba ńlá.
+Embryological evidence shows similarities in early development stages of related organisms.	Ẹ̀rí ọlẹ̀-ìmọ̀ ń fi àwọn ìjọra hàn ní àwọn ìpele ìdàgbàsókè tí ó kọ́kọ́ ti àwọn èdá oníyè ajọra.
+Molecular evidence includes similarities in DNA and proteins of related organisms.	Ẹ̀rí mọ́lìkúù pẹ̀lú àwọn ìjọra nínú DNA àti àwọn òjẹ̀ ti àwọn èdá oníyè ajọra.
+Fossils are preserved remains or traces of ancient organisms.	Àwọn egungun-àtijọ́ jẹ́ àwọn èyí tí a tọ́jú tàbí àwọn àmì ti àwọn èdá oníyè àtijọ́.
+The fossil record provides evidence of evolutionary history.	Àkọsílẹ̀ egungun-àtijọ́ ń pèsè ẹ̀rí ti ìtàn ìtìranyà.
+Radiometric dating is used to determine the age of fossils.	Ìdáyelé rédíòmẹ́tíríkì ni a ń lò láti pinnu ọjọ́ orí àwọn egungun-àtijọ́.
+The geologic time scale divides Earth's history into eras, periods, and epochs.	Ìwọ̀n àkókò jẹ́ọ́lọ́jì pín ìtàn Ilẹ̀ Ayé sí àwọn ìgbà, àwọn ìpele, àti àwọn àkókò.
+The Precambrian era covers about 88% of Earth's history.	Ìgbà ṣíwájú-Kámbríánì bo nípa 88% ti ìtàn Ilẹ̀ Ayé.
+The Paleozoic era was characterized by the diversification of marine invertebrates.	Ìgbà Pálẹ́ósóíkì jẹ́ àfihàn nípa onírúurú àwọn ẹranko okun aláìlẹ́hin eegun.
+The Mesozoic era is known as the Age of Reptiles.	Ìgbà Mẹ́sósóíkì jẹ́ mímọ̀ gẹ́gẹ́ bí Ọjọ́ Orí Afàyàfà.
+The Cenozoic era is known as the Age of Mammals.	Ìgbà Sẹ́nósóíkì jẹ́ mímọ̀ gẹ́gẹ́ bí Ọjọ́ Orí Onírunlára.
+Taxonomy is the science of classifying organisms.	Ìkàsí jẹ́ ìmọ̀ ṣíṣe ìkàsí àwọn èdá oníyè.
+Binomial nomenclature uses genus and species names.	Ìsọdorúkọ-ìbejì ń lo àwọn orúkọ ìran àti ọ̀wọ́.
+The taxonomic hierarchy includes kingdom, phylum, class, order, family, genus, and species.	Ẹ̀sẹ̀-ẹ̀sẹ̀ ìkàsí pẹ̀lú ìjọ, agbo-ẹ̀yà, ẹ̀yà, agboolé, ìdílé, ìran, àti ọ̀wọ́.
+The five kingdom classification system includes Monera, Protista, Fungi, Plantae, and Animalia.	Ètò ìkàsí ìjọ márùn-ún pẹ̀lú Ìjọ-pádi aláìní-àgọ́, Ìjọ pádi Onípádigidi, Ìjọ Alára-osun, Ìjọ Ọ̀gbìn, àti Ìjọ Ẹran.
+The three-domain system includes Archaea, Bacteria, and Eukarya.	Ètò agbègbè-mẹ́ta pẹ̀lú Archaea, Bacteria, àti Eukarya.
+Bacteria are prokaryotic, unicellular organisms.	Alámọ̀ jẹ́ àìní-àgọ́, èdá oníyè onípádikan.
+Archaeans are prokaryotic organisms that live in extreme environments.	Àkíánù jẹ́ àwọn èdá oníyè àìní-àgọ́ tí ó ń gbé ní àwọn àyíká líle.
+Protists are eukaryotic, mostly unicellular organisms.	Àwọn prọ́tístì jẹ́ onípádi-gidi, púpọ̀ àwọn èdá oníyè onípádikan.
+Fungi are eukaryotic, heterotrophic organisms.	Àwọn alára-osun jẹ́ onípádi-gidi, àwọn èdá oníyè ajẹ-oníyè.
+Plants are eukaryotic, photosynthetic organisms.	Àwọn ògbìn jẹ́ onípádi-gidi, àwọn èdá oníyè ìṣeé̩dà onjẹ pẹ̀lú ìtànná.
+Animals are eukaryotic, heterotrophic, multicellular organisms.	Àwọn ẹran jẹ́ onípádi-gidi, ajẹ-oníyè, àwọn èdá oníyè onípádipúpọ̀.
+Viruses are acellular, obligate intracellular parasites.	Àwọn ọlọ́jẹ̀ jẹ́ aláìpádi, àwọn ajẹtìmọlẹ̀ inú-pádi dandan.
+Bacteria have a cell wall containing peptidoglycan.	Àwọn alámọ̀ ní àmọ̀ pádi tí ó ní pẹ́ptídòglàìkán.
+Eukaryotic cells have membrane-bound organelles.	Àwọn pádi onípádi-gidi ní àwọn eyawere inu padi mẹ́mbíréénì-ìdè.
+The endosymbiotic theory explains the origin of mitochondria and chloroplasts.	Ìlànà ìgbétímọ́ra-inú ṣàlàyé ìbẹ̀rẹ̀ àwọn eya àti àwọn èyàtúwà.
+Biodiversity is the variety of life on Earth.	Onírúurú-ìyè jẹ́ oríṣiríṣi ìyè lórí Ilẹ̀ Ayé.
+Biodiversity includes genetic diversity, species diversity, and ecosystem diversity.	Onírúurú-ìyè pẹ̀lú onírúurú ìran, onírúurú ọ̀wọ́, àti onírúurú ètò àyíká.
+Conservation biology aims to protect biodiversity.	Ìmọ̀-jìnlẹ̀ ìtọ́jú ń gbìyànjú láti dá onírúurú-ìyè bò.
+Habitat destruction is a major threat to biodiversity.	Ìparun ibùgbé jẹ́ ewu pàtàkì sí onírúurú-ìyè.
+An organ system is a group of anatomical structures that work together to perform a specific function or task.	Èto ẹya-ara jẹ akojọpọ awọn oriṣi iṣu-ara ti nwọn nbaraṣiṣẹ pọ fun aṣeyọri ọya kan ninu ara.
+The failure of even one organ system could lead to severe disability or even death.	Ikuna ikan ninu wọn si le e mu ki aiṣedede ba ara tabi ki ẹda tilẹ ku.
+An organ or structure that is included in one system may also be included in another.	Eya-ara kan ti a ba ka mọ ikan ninu eto yi si le tun jẹyọ ninu eto miran.
+The Respiratory System includes the nose, trachea, and lungs.	Ètò èyà-ìpòyìdà ara ni ihò imú, òpó-mímí, àti ẹdọforó.
+The Digestive System includes the mouth, esophagus, stomach, and intestines.	Ètò èyà-ẹdà-onjẹ ara ni ẹnu, òòfà-ọfun, ikùn, àti ìfun.
+Arthropods are a large group of invertebrates, which means they do not have backbones.	Awọn kòkòrò jẹ agbo-ẹyà nla kan lara awọn ẹranko alailọpa-ẹhin, ti o tumọ si pe wọn ko ni ọpa-ẹhin.
+Arthropods have jointed feet, a segmented body, and an exoskeleton.	Awọn kòkòrò ní awọn ẹsẹ to papọ, ara to ní awẹ, nwọn si ní nkan to le bi eegun ni ode ara wọn.
+Insects are the most diverse organisms in the history of life.	Awọn ẹlẹsẹmẹfa lo jẹ awọn ẹda-oniyẹ to ni oriṣiriṣi ju lati ọjọ ti alaye ti da aye.
+Arachnids are distinguished from insects by the fact they do not have antennae or wings.	Awọn ẹlẹsẹmẹjọ yatọ si awọn ẹlẹsẹmẹfa ni ti pe wọn ko ni mọgala, ko si si ninu wọn to ni iye-apa.
+All arachnids have eight legs.	Gbogbo wọn lo ni ẹsẹ mẹjọ.
+The bodies of arachnids are divided into two sections.	Ara awọn ẹlẹsẹmẹjọ pin si meji: ori-oun-aya lapapọ ni iwaju ati ikun lẹhin.
+The digestive system processes food that we eat.	Ètò ẹdà-onjẹ ara ló nṣe àyípadà onjẹ tí a jẹ.
+It is made up of multiple organs and glands that digest the food.	Àwọn èyà-inú àti ẹṣé-̣oje inú rẹ pé oríṣiríṣi tí wọn nlọ onjẹ yi.
+The digestive system consists of the buccal cavity, esophagus, stomach, small intestine, large intestine.	Ètò ẹdà-onjẹ ara ní àwọn nkan wọnyí: ihò ẹnu, òòfà-ọfun, ikùn, ìfun kékeré, agbẹdu.
+The alimentary canal is also called the digestive tract.	Àpapọ gbogbo àwọn yi ni a npè ní ìfun onjẹ.
+The liver is part of the digestive system.	Èdọ, ẹdọki jẹ apá kan ninu ètò ẹdà-onjẹ ara.
+The pancreas produces digestive enzymes.	Èdọ-òrónro npèsè àwọn ẹyàwuuru tó nran lọwọ láti da onjẹ.
+The Circulatory system passes nutrients, gases, hormones, and blood cells to and from cells in the body.	Ètò ìṣòṇ-èjè ̣nṣe ìfiránṣẹ àwọn èròjà, òyì, oje-ara, pádi èjè ̣láti àti lọ sí àwọn pádi ara.
+Blood Vessels are tubes that carry blood as it circulates.	Àwọn Ìṣòṇ èjè ̣jé ̣àwọn inú òpó tí èjè ̣tí nṣọn yí ara kaakiri.
+Arteries bring oxygenated blood from the heart and lungs.	Àwọn ìṣòṇ-èjè ̣àlọ ngbé èjè ̣olóyi-iná láti ọkàn àti ẹdọforó.
+Veins return oxygen-depleted blood back to the heart and lungs.	Àwọn ìṣòṇ-èjè ̣àbọ nṣe ìdápadà èjè ̣alòyì-iná lọ sí ọkàn àti ẹdọforó.
+Capillaries are very thin, fragile blood vessels.	Àwọn òpó-èjè ̣jé ̣àwọn òpó tinrin-tinrin tí wọn ngba èjè.̣
+Plasma helps transport vital substances around the body.	Oje-èjè ̣ran lọ́wọ́ fún àgbéká àwọn èròjà kòṣeémáni yí ara ka.
+The immune system protects against disease by identifying and killing pathogens and tumor cells.	Eya òkí-ara jé ̣àwọn ètò àti ìlànà nínú èdá-oníyè tó nṣe ìdáàbò bo ara lọwọ àwọn àrùn nípa ṣiṣe àfihàn àti pípa àwọn èyàwuuru afàìsàn àti àwọn pádi tó nfa lẹẹrẹ àti jẹjẹrẹ.
+It detects a wide variety of agents, from viruses to parasitic worms.	Ó nṣe àfarahàn ọpọlọpọ àwọn àlejò ara, bẹrẹ láti àwọn ọlọjẹ títídé àwọn aràn ajọfẹ.
+Immunodeficiencies occur when one or more of the components of the immune system are inactive.	Òkí-ara àìtó má nṣẹlẹ nígbàtí ìkan tàbí púpọ nínú àwọn nkan-inú ètò òkí-ara yi bá wà ní àìṣedéédé.
+All the cells of the immune system are initially derived from the bone marrow.	Gbogbo àwọn pádi ti ètò òkí-ara tó ṣẹ láti imùdùnmúdùn èjè.̣
+The spleen is an immunologic filter of the blood.	Àmọ jé ̣asẹ fún èjè ̣tó njé ̣kí òkí-ara ṣe déédé.
+Malnutrition affects the immune system.	Ìkúdùn àìdára-ìjẹ nṣe ìdílówọ́fún èyà òkí-ara.
+Estimates of the number of arthropod species account for over 80% of all known living animal species.	Bi a bá fi oju-inu wo awọn òwọ́ awọn kòkòrò to wà, a oo ri i pe nwọn kópa to ida-ọrun ọgọrin ninu gbogbo ìdílé ẹranko aiye gbogbo.
+They range in size from microscopic plankton up to several meters across.	Nipa titobi, a ri ninu wọn to kere to jẹ wipe a fẹrẹ ma le fi oju ri wọn; bẹẹ gẹgẹ ni a si ri awọn ti o to ọpọ mita ni gigun.
+Arthropods are mainly terrestrial in their habitat but are found throughout marine and freshwater environments.	Awọn kòkòrò jẹ ẹranko ti wọn saba ma ngbe lori ilẹ ṣugbọn a ri ninu wọn ti wọn nfi inu omi amu se ibugbe.
+Insects have a chitinous exoskeleton, a three-part body, three pairs of jointed legs, and compound eyes.	Nwọn ni abarajọ-eegun ni ode ara wọn, nwọn si ni ara to pin si ọna meta: ori, aya, at'ikun. Nwọn ni ẹsẹ mẹfa to parapọ ni mejimeji. Oju wọn si wa ni ominira ara won.
+Crustaceans form a very large group of arthropods.	Awọn onigbalẹhin tun jẹ idilẹ nla kan laarin awọn kokoro.
+Crustaceans have a hard exoskeleton, jointed legs, and a segmented body that is bilaterally symmetrical.	Nwọn ni abarajọ-eegun lode ara to le pupọ. Nwọn si ni awọn ẹsẹ to parapọ, ati ara to ni ọpọlọpọ awẹ sugbọn ti tọtun-tosi wọn baradọgba.
+The digestive system extracts energy and nutrients from food.	Ètò ẹdà-onjẹ ara nfa okun àti èròjà yọ láti inú onjẹ.
+It later expels the waste by-products.	Lẹhìn náà wọn a sì ṣe ìmúkúrò ẹgbin tó ṣẹkù.
+Mastication is the process of chewing food.	Láti rún onjẹ ni ìṣe dídá onjẹ kékèké lẹnu.
+The mouth contains different types of teeth for different functions.	Ẹnu ni àwọn oriṣiriṣi ehín fún oríṣiríṣi iṣẹ.
+Incisors are the front teeth used for cutting food.	Ẹwà-ehin ni àwọn ehín iwájú tí a fi nge onjẹ.
+Molars are the back teeth used for grinding food.	Èrìkì àgbà ni àwọn ehín ẹhìn tí a fi nlọ́ onjẹ.
+The small intestine absorbs nutrients from digested food.	Ìfun kékeré nfa èròjà láti inú onjẹ tí a ti dà.
+The circulatory system helps fight diseases and stabilize body temperature.	Ètò ìṣòṇ-èjè ̣nṣe ikoju ija sí àwọn àrùn àti láti jé ̣kí ìgbóná ara wà ní ìfẹsèṃúlẹ.
+Arteries are muscular blood vessels that carry oxygenated blood away from the heart.	Àwọn Ìṣòṇ-èjè ̣àlọ jé ̣òpó alágbara tó ngbé èjè ̣olóyi-iná kúrò láti ọkàn.
+Capillaries exchange oxygen and carbon dioxide.	Àwọn òpó-èjè ̣a ṣe pàṣípààrọ òyì-iná pèlú òyì-èédú.
+Veins deliver waste-rich blood to the heart.	Àwọn ìṣòṇ-èjè ̣àbọ a ṣe ìfiránṣẹ èjè ̣tó kún fún ẹgbin sí ọkàn.
+Red blood cells transport oxygen and carbon dioxide.	Pádi-èjè ̣pupa nṣe àgbéká òyì-iná àti òyì-eedu.
+White blood cells defend the body by fighting diseases.	Pádi-èjè ̣funfun ṣe ìgbèjà ara nípa bíbá àwọn èdá-afàìsàn jà.
+Pathogens can evolve rapidly and adapt to avoid the immune system.	Àwọn èyàwuuru afàìsàn yi má nparadà ní kíákíá láti farapamọ fún àwọn òkí-ara yi.
+The immune system detects a wide variety of agents.	Ètò òkí-ara nṣe àfarahàn ọpọlọpọ àwọn àlejò ara.
+Benign tumors are non-cancerous growths in the body.	Léẹ́ṛé ̣ni àwọn ikókó inú ara tí wọn kì í fa jẹjẹrẹ.
+Malignant tumors are cancerous growths that can spread to other parts of the body.	Jẹjẹrẹ ni àwọn ikókó inú ara tí ó lè tànkálẹ̀ sí àwọn ibi mhìíràn nínú ara.
+The lymph nodes function as an immunologic filter for the bodily fluid known as lymph.	Àwọn asé ̣omi-ara nṣiṣé ̣gég̣éḅí asé ̣nípa mímú òkí-ara fún omi-ara.
+Alcohol abuse affects the immune system.	Ìmukúmu nṣe ìdílówọ́fún èyà òkí-ara.
+Lack of exercise can weaken the immune system.	Àìṣe eré ìdárayá lè mú kí òkí-ara di aláìlera.
+These are additional entries for the English to Yoruba biology dataset, maintaining all diacritics and using authentic Yoruba terminology from the documents.RetryJGContinueEditI'll continue creating more entries for the English to Yoruba biology dataset using terms and sentences from the documents.
+The body could not function without the cooperation of all of its organ systems.	Ara ẹda ko si lee gbeṣẹ lai si ifọwọsowọpọ awọn eto awọn ẹya-ara yi.
+Each organ system has a distinct entity.	Ikankan ninu eto awọn ẹya-ara li a da lati gbajumọ iṣẹ kan gboogi ninu ara.
+The functions of the body's organ systems overlap considerably.	Wọn ki i ṣe lai ran ara wọn lọwọ ni ọpọ igba.
+The Endocrine system consists of glands.	Ètò èyà-ẹṣé ̣àìlópo ni àwọn ẹṣẹ́ oje-ara.
+The Excretory system removes waste from the body.	Ètò èyà-ìkẹgbin ara má ń mú ẹ̀gbin jáde nínú ara.
+The Integumentary System protects the body.	Ètò èyà-awọ-ara ndáàbò bo ara.
+The Lymphatic System helps maintain fluid balance.	Ètò èyà-ìṣòṇ omi-ara nṣe ìrànlọ́wọ́ fún ìṣeétò omi inú ara.
+Myriapods are a group of arthropods that includes millipedes and centipedes.	Awọn ẹlẹsẹwuuru jẹ ẹya kòkòrò kan. Lara wọn ni awọn ọkun, onigba-ẹsẹ, ati awọn òwọ́ kekeke miran.
+Myriapod species are all terrestrial.	Eranko ori ilẹ si ni gbogbo wọn.
+Centipedes and millipedes look similar to each other.	Awọn onigba-ẹsẹ ati awọn ọkun jọ ara wọn.
+Myriapods have a segmented body with paired appendages.	Gbogbo awọn ẹlẹsẹwuuru lo ni ara to ni ọpọlọpọ awẹ, awẹ kọọkan si ni ẹsẹ mejimeji to parapọ.
+Crustaceans include crabs, lobsters, crayfish, and shrimp.	Ninu awọn onigbalẹhin ni awọn ẹranko bi alakan, alakaṣa, akọ-ede, ati ede.
+Crustaceans have two pairs of sensory antennae.	Nwọn ni mọgala meji-meji, ijagbọn meji, ati eegun-ẹrẹkẹ meji.
+The alimentary canal is the passage through which food passes.	Ìfun onjẹ ni ọ̀nà tí onjẹ ngbà kọjá nínú ara.
+The salivary glands produce saliva to aid digestion.	Àwọn ẹṣé-̣itọ npese itọ láti ran ìsẹ́ dídà onjẹ lọ́wọ́.
+The liver produces bile which helps in digestion.	Èdọ npese òrónro tí ó nran lọ́wọ́ fún ìsẹ́ dídà onjẹ.
+The gallbladder stores bile produced by the liver.	Òrónro, Òróòro ngba òrónro tí èdọ npese sílẹ̀.
+The pancreas produces pancreatic juice.	Èdọ-òrónro npese oje èdọ-òrónro.
+The rectum is the final part of the large intestine.	Abọọdí, Abọ-ìdí ni apá ìkẹyìn ìfun nlá.
+The esophagus is the food pipe that connects the mouth to the stomach.	Òòfà-ọfun ni ọ̀nà tí onjẹ gbà láti ẹnu lọ sí ikùn.
+The heart pumps blood throughout the body.	Ọkàn ngbé èjè ̣jáde kiri gbogbo ara.
+During systole, the heart contracts.	Ní ìgbà ìsọkì, ọkàn a fara pamọ́.
+During diastole, the heart relaxes.	Ní ìgbà ifera, ọkàn a tu sílẹ̀.
+Blood circulation is the movement of blood around the body.	Ìṣòṇyíká èjè ̣ni ìrìn èjè ̣yí ara kákìrí.
+Blood coagulation is the process of blood clotting.	Èjẹ dídì ni ìṣẹ̀lẹ̀ èjẹ dí di èépá.
+Platelets help in blood clotting and wound healing.	Adèépá èjè ̣ran lọ́wọ́ fún dída èépá àti láti máa mú egbò sán.
+Plasma is the fluid part of blood.	Oje-èjè ̣ni apá oje nínú èjè.̣
+The immune system distinguishes pathogens from the organism's own healthy cells.	Ètò òkí-ara ṣe ìdáyàtọ láarín àwọn èyàwuuru afàìsàn àti àwọn pádi ara fúnraarẹ tó dára.
+The bone marrow is where all immune cells are initially derived.	Ìmùdùnmúdùn èjè ̣ni ibi tí gbogbo àwọn pádi òkí-ara ti bẹ̀rẹ̀.
+The spleen filters the blood for immunological purposes.	Àmọ nṣe asẹ èjè ̣fún òkí-ara láti ṣe déédé.
+Viral diseases can affect the immune system.	Àwọn àìsàn ọlọjẹ le ní ipa lórí ètò òkí-ara.
+Age is a factor that affects the immune system.	Ogbó jẹ́ òkùnfà tí ó nṣe ìdílówọ́fún èyà òkí-ara.
+Depression can affect immune function.	Ìbànújé ̣le ní ipa lórí bí òkí-ara ṣe nṣiṣẹ́.
+Environmental toxins can damage the immune system.	Àwọn nkan olóró tó wà nínú àyíká lè bà òkí-ara jẹ́.
+The nervous system coordinates the body's responses.	Ètò èyà-èṣọ-ara nṣe àkójọpọ̀ àwọn ìdáhùn ara.
+The respiratory system exchanges oxygen and carbon dioxide.	Ètò èyà-ìpòyìdà ara nṣe pàṣípààrọ òyì-iná pèllú òyì-èédú.
+The urinary system removes liquid waste from the body.	Ètò èyà-títọ ara nyọ ẹ̀gbin omi jáde nínú ara.
+Cells are the building blocks of all living organisms.	Àwọn pádi ni àwọn pilẹ̀ kọ́kọ́rọ́ gbogbo àwọn ẹ̀dá alààyè.
+Tissues are groups of similar cells that work together.	Àwọn ìṣù jẹ́ àkójọpọ̀ àwọn pádi tí ó jọra tí wọ́n sì nṣiṣẹ́ pọ̀.
+Parasites live on or in another organism and benefit at its expense.	Àwọn ajọfẹ́ ngbé lára tàbí nínú ẹ̀dá mìíràn, wọ́n sì nṣe àwọn ohun tí yóò ran àwọn fúnrarẹ̀ lọ́wọ́ ṣùgbọ́n tí kò dára fún ẹ̀dá náà.
+Bacteria are microscopic single-celled organisms.	Àwọn bátéríà jẹ́ àwọn ẹ̀dá kékeré tí a kò lè fi ojú rí tí wọ́n sì jẹ́ pádi kan.
+I've continued to expand the English to Yoruba biology dataset with more entries from all five documents, maintaining diacritics and using authentic Yoruba terminology throughout.RetryJGContinueEditI'll continue creating more entries for the English to Yoruba biology dataset, focusing on additional terms and sentences from the documents.
+The body functions as an integrated unit of organ systems.	Ara ṣiṣẹ́ bí àpapọ̀ àwọn ètò èyà-ara.
+Each system relies on the others for proper functioning.	Ètò kọ̀ọ̀kan gbẹ́kẹ̀lé àwọn ìyókù fún ìṣiṣẹ́ tí ó tọ́.
+Organs can be part of multiple systems at once.	Àwọn èyà-ara lè jẹ́ apá kan nínú àwọn ètò púpọ̀ lẹ́ẹ̀kan.
+The integration of systems is necessary for health.	Ìfọwọ́sowọ́pọ̀ àwọn ètò jẹ́ ohun pàtàkì fún ìlera.
+The reproductive system ensures the continuation of the species.	Ètò èyà-bíbí èdá-oníyè ndá àbò bò ìtẹ̀síwájú àwọn ẹ̀dá.
+The immune system defends the body against foreign invaders.	Ètò èyà-òkí-ara ndáàbò bo ara lòdì sí àwọn àlejò-ara aláìnípẹ̀.
+The skeletal system provides structure and support.	Ètò èyà-eegun ara npese àgbékalẹ̀ àti àtìlẹ̀yìn.
+Arthropods have a hard exoskeleton made of chitin.	Àwọn kòkòrò ní abarajọ-eegun lóde ara tí ó le tí a ṣe pẹ̀lú kítínì.
+Exoskeletons provide protection and support for arthropods.	Abarajọ-eegun nfún àwọn kòkòrò ní àbò àti àtìlẹ̀yìn.
+Spiders produce silk from special glands.	Àwọn alántakùn npèsè ìṣẹ́ láti inú àwọn ẹṣẹ́ pàtàkì.
+Insects undergo metamorphosis during development.	Àwọn ẹlẹsẹmẹfa má n lo ìyípadà-àwòrán nígbà ìdàgbàsókè.
+Many crustaceans have specialized mouth parts for feeding.	Ọ̀pọ̀lọpọ̀ àwọn onígbálẹ̀hìn ní àwọn ẹ̀yà ẹnu pàtàkì fún jíjẹun.
+Insects have one pair of antennae while crustaceans have two.	Àwọn ẹlẹsẹmẹfa ní mọ̀gálá méjì-méjì nígbàtí àwọn onígbálẹ̀hìn ní mẹ́rin-mẹ́rin.
+Arthropods molt their exoskeletons as they grow.	Àwọn kòkòrò má n bọ́ abarajọ-eegun wọn bí wọ́n ṣe ndàgbà.
+Digestion begins in the mouth with mechanical breakdown.	Ẹ̀dà-onjẹ bẹ̀rẹ̀ nínú ẹnu pẹ̀lú ìrúmọ́.
+Saliva contains enzymes that begin breaking down carbohydrates.	Itọ ní àwọn ẹyàwuuru tí ó bẹ̀rẹ̀ ìdálẹ̀ àwọn ìjẹ-àgbàlagbà.
+The stomach produces acid to help break down proteins.	Ikùn npèse ìfunná láti ran ìdálẹ̀ àwọn ẹyà-ara lọ́wọ́.
+The small intestine is the primary site of nutrient absorption.	Ìfun kékeré ni ibi pàtàkì fún ìfàmúná àwọn èròjà.
+Bile emulsifies fats to aid in digestion.	Òrónro nṣe ìdápọ̀ àwọn ọ̀rá láti ran ẹ̀dà-onjẹ lọ́wọ́.
+The large intestine absorbs water from indigestible food matter.	Ìfun nlá nfa omi yọ láti inú àwọn onjẹ tí a kò lè dà.l
+Peristalsis is the wave-like muscle contractions that move food.	Ìsọ̀n-jíjìnà ni ìfara-pamọ́ iṣan bí irú-omi tí ó nṣí onjẹ lọ.
+The circulatory system helps maintain homeostasis.	Ètò ìṣòṇ-èjè ̣nran lọ́wọ́ láti ṣàgbékalẹ̀ ìdọ̀gba-ara.
+Hemoglobin in red blood cells binds to oxygen.	Aṣọ-ẹ̀jẹ̀ nínú àwọn pádi-èjè ̣pupa so mọ́ òyì-iná.
+White blood cells come in several types with different functions.	Pádi-èjè ̣funfun wá ní oríṣiríṣi pẹ̀lú iṣẹ́ ọ̀tọ̀ọ̀tọ̀.
+Blood pH is carefully regulated to maintain health.	A ṣàkóso ìpẹ̀kan èjè ̣pẹ̀lú ìtọ́júu láti fi ṣàgbékalẹ̀ ìlera.
+The pulse is the rhythmic expansion of an artery.	Ìlù-ẹ̀jẹ̀ ni ìgbòòrò àti ìfẹ̀ lẹ́ẹ̀kọ̀ọ̀kan ìṣòṇ-èjè ̣àlọ.
+Blood pressure is the force exerted by blood against vessel walls.	Agbára-ẹ̀jẹ̀ ni ipá tí èjè ̣fi le ògiri àwọn ìṣòṇ èjè.̣
+The heart has four chambers: two atria and two ventricles.	Ọkàn ní yàrá mẹ́rin: ilé-ìgbà méjì àti ilé-ìgbàsẹ́ méjì.
+The immune system has innate and adaptive responses.	Ètò òkí-ara ní ìdáhùn adálẹ́mọ́ àti aláfihànyípadà.
+Antibodies are proteins that recognize specific pathogens.	Àwọn sójà-ara jẹ́ àwọn ẹyà-ara tí ó mọ àwọn èyàwuuru afàìsàn pàtàkì.
+Inflammation is a protective response to injury or infection.	Wíwú ni ìdáhùn àbò sí ọgbẹ́ tàbí ìkóràn.
+Vaccination strengthens the immune system against specific diseases.	Àjẹsára nmú kí ètò òkí-ara le kọjú ija sí àwọn àìsàn pàtàkì.
+Fevers help the body fight infection by raising its temperature.	Ibà nran ara lọ́wọ́ láti bá ìkóràn jà nípa gbígbé ìgbóná-ara sókè.
+The immune system develops memory for pathogens it has encountered.	Ètò òkí-ara npèsè ìrántí fún àwọn èyàwuuru afàìsàn tí ó ti pàdé.
+Stress hormones can suppress immune function.	Àwọn oje-ara àníyàn lè tẹ iṣẹ́ òkí-ara ba.
+Cell division allows organisms to grow and reproduce.	Pínpín pádi nfún àwọn ẹ̀dá láàyè láti dàgbà àti bí.
+Respiration is the process of gas exchange in living organisms.	Mímí ni ìlànà ìpààrọ̀ òyì nínú àwọn ẹ̀dá alààyè.
+Metabolism includes all chemical reactions in living organisms.	Ìṣeàyíká-oje ní gbogbo àwọn ìdárapọ̀ kẹ́míkà nínú àwọn ẹ̀dá alààyè.
+Photosynthesis is how plants make their food using sunlight.	Ìṣepèsè-òogùn ni bí àwọn ewé ṣe npèsè oúnjẹ wọn nípa lílo ìmọ́lẹ̀ òòrùn.
+Species adapt to their environments over generations.	Àwọn òwọ́ nyípadà sí àyíká wọn ní ìran dé ìran.
+Genetics is the study of heredity and variation in organisms.	Ìmọ̀-ogidi-ẹ̀dá ni ẹ̀kọ́ nípa ìjogún àti ìyàtọ̀ nínú àwọn ẹ̀dá.
+Ecology studies the relationships between organisms and their environment.	Ìmọ̀-ìbágbépọ̀-ẹ̀dá nṣe ìwádìí àwọn ìbáṣepọ̀ láàrin àwọn ẹ̀dá àti àyíká wọn.
+Healthcare science is the applied science dealing with the application of science, technology, engineering or mathematics to the delivery of healthcare.	Èḳọ́ nípa Ìlera jẹ́ èḳọ́ ìmọ̀-jìnlẹ̀ tó nlò ọgbóṇ òun òye ìmọ̀-jìnlẹ̀, ìmọ̀-èṛọ, iṣẹ́-èṛọ àti ìṣirò fún ìjíṣẹ́ ètò ìlera.
+Healthcare scientists diagnose and treat diseases.	Àwọn onímòṇ-jìnlẹ̀ èḳọ́ ìlera nṣe ìwádi-àìsàn àti ìwòsàn fún àwọn aláìsàn.
+The doctor provides care and support for patients.	Dókítà npèsè ìṣètójụ́ àti àtìléhìǹ fún àwọn aláìsàn.
+Healthcare science incorporates biology, genetics, physiology, and physics.	Èḳọ́ nípa ìlera jẹ́ kòkárí àwọn ojúlówó èḳọ́ ìmọ̀-jìnlẹ̀ bí èḳọ́ èḍá-oníyè, èḳọ́ nípa ìran, èḳọ́ nípa ìwúlò èỵà-ara, àti èḳọ́ èḍá.
+Some healthcare programs focus on improving patient health.	Àwọn ètò-èḳọ́ míran dá lé ìtóḳásí àwọn nkan tó le ṣe ìlera fún aláìsàn.
+Vitamins are essential for good health.	Ajíra jẹ́ pàtàkì fún ìlera pípé.
+A balanced diet provides adequate nutrition.	Ìjẹèṃun pípé npèsè àwọn ọ̀jẹ̀ tótọ́.
+Maintaining cleanliness prevents many diseases.	Ṣíṣe ìmótótọ́ ndáàbò bò fún àìsàn púpọ̀.
+Proteins are necessary for muscle development.	Òj̣ẹ̀ jẹ́ pàtàkì fún ìdàgbàsókè iṣan.
+Carbohydrates provide energy for the body.	Èlạ̀-okun npèsè okun fún ara.
+Mineral salts help maintain proper body function.	Iyọ̀ afáralókun nṣe ìrànlọ́wọ́ fún ìṣiṣẹ́ ara tó tọ́.
+HIV causes AIDS by weakening the immune system.	Ọlój̣ẹ̀ afàìgbéṣẹ́ òkí-ara ló nfa Àìsàn Àìgbéṣẹ́ òkí-ara nípa mímú kí òkí-ara má ṣiṣẹ́.
+Malaria is a common tropical disease.	Ibà jẹ́ àìsàn tó wọ́pọ̀ ní àwọn àgbègbè tí ojú-ọjọ́ gbóná.
+Leprosy affects the skin and nerves.	Èṭẹ̀ ní ipa lórí awọ àti èṣọ́ ara.
+Tuberculosis is a disease of the lungs.	Jèḍòj̣èḍọ̀ jẹ́ àìsàn èḍòf̣oró.
+Typhoid fever is transmitted through contaminated food.	Jèfunj̣èfuṇ ní àrùn tí ńgbá onjẹ elegbin wọ ara.
+Tuberculosis spreads through the air when infected people cough.	Jèḍòj̣èḍọ̀ nránni nígbà tí aláìsàn bá nwúkọ́.
+Cholera causes severe diarrhea and vomiting.	Onígbáméjì nfa ìgbẹ́ gbuuru àti èébì.
+Hookworm enters the body through the skin.	Jàgbàyà wọ ara láti ìhà awọ.
+Whooping cough is highly contagious through droplets in the air.	Ikọ́ líle ọmọdé nránni látinú kèḷèḅẹ́ tí ńfò ní ojúfò.
+Gonorrhea is a sexually transmitted infection.	Àtòṣí jẹ́ àìsàn tí ńránni nígbà ìbálòpọ̀.
+Smallpox causes a distinctive skin rash.	Ṣòp̣òná nfa àwọn èy̩ụ́n pàtàkì lára.
+Leprosy symptoms develop slowly over many years.	Àwọn àmì Èṭẹ̀ njáde jẹ́ẹ́jẹ́ lórí ọ̀pọ̀lọpọ̀ ọdún.
+Vitamin A helps prevent night blindness.	Ajíra A nṣe ìdíwọ́ fún àìlè ríran dáradára ní òru.
+Vitamin B1 helps the body use food for energy.	Ajíra B1 nfún ara ní làákàyè láti jẹ́ onjẹ déédé.
+Vitamin B2 helps maintain healthy skin and eyes.	Ajíra B2 nṣe ìrànlọ́wọ́ fún awọ àti ojú tótọ́.
+Vitamin C prevents scurvy and strengthens the immune system.	Ajíra C nṣe ìdíwọ́ àrùn ekúru àti mímú òkí-ara lágbára.
+Vitamin D is important for bone health.	Ajíra D jẹ́ pàtàkì fún ìlera egungun.
+Vitamin E helps protect cells from damage.	Ajíra E nṣe ìdáàbòbò àwọn hóró ara.
+Vitamin K helps blood to clot properly.	Ajíra K nṣe ìrànlọ́wọ́ fún kí èj̣ẹ̀ di èépá bí ó ṣe yẹ.
+Citrus fruits are good sources of Vitamin C.	Àwọn ọsàn jẹ́ orísun tó dára fún Ajíra C.
+Eggs and meat provide Vitamin A.	Ẹyin àti ẹran npèsè Ajíra A.
+Green vegetables contain Vitamin K.	Àwọn èfọ́ tútù ní Ajíra K nínú.
+The patient has a high fever.	Aláìsàn náà ní ibà gbígbóná.
+She is experiencing severe headache.	Ó ní orí fífọ́ púpọ̀.
+The doctor prescribed medication for tuberculosis.	Dókítà fún un ní òògùn fún jèḍòj̣èḍọ̀.
+Regular handwashing prevents many infectious diseases.	Fífọ ọwọ́ déédé ndènà ọ̀pọ̀lọpọ̀ àwọn àrùn arọnni.
+The baby received vaccines against measles.	Ọmọ ọwọ́ náà gba abẹ́rẹ́ àjẹsára fún kitipi.
+Malaria symptoms include fever and body aches.	Àwọn àmì ibà pẹ̀lú ara ríro jẹ́ àmì ibàá-gbóná
+Diabetes requires careful monitoring of blood sugar.	Àtògbẹ nílò ìṣọ́ sí ìwọ̀n súgà inú ẹ̀jẹ̀.
+The epidemic spread rapidly through the community.	Àjàkálẹ̀-àrùn tànkálẹ̀ kíákíá ní àdúgbò.
+The dentist treated the dental caries.	Dókítà ehín ṣe ìtọ́jú ehín kíkẹ̀.
+Genetic diseases are passed from parents to children.	Àwọn àrùn àfijogún ńlọ láti òbí sí ọmọ.
+The laboratory scientist analyzed the blood sample.	Onímọ̀-jìnlẹ̀ ilé-iṣẹ́ àyẹ̀wò ṣe ìtúpalẹ̀ àwọn àyẹ̀wò ẹ̀jẹ̀.
+The nutritionist recommended a balanced diet.	Onímọ̀ nípa ìjẹun dámọ̀ràn ìjẹẹ̀mun pípé.
+Medical research helps develop new treatments.	Ìwádìí nípa ìṣègùn nṣe ìrànlọ́wọ́ fún ìdàgbàsókè àwọn ìtọ́jú tuntun.
+The nurse administered the injection carefully.	Nọ́ọ̀sì fún un ní abẹ́rẹ́ pẹ̀lú ìṣọ́ra.
+Regular exercise improves cardiovascular health.	Ìṣeré-iṣẹ́ déédé nṣe ìtọ́jú ìlera ọkàn àti ìṣàn ẹ̀jẹ̀.
+Preventive healthcare reduces the risk of serious illness.	Ètò ìlera àbojútó ndín ewu àìsàn lílé kù.
+Mental health is as important as physical health.	Ìlera ọpọlọ ṣe pàtàkì bí ìlera ara.
+The physiotherapist helped with the rehabilitation exercises.	Onímọ̀ nípa ìdá-ara-padà ṣe ìrànlọ́wọ́ pẹ̀lú àwọn iṣẹ́-ẹ̀rìn ìmúdára-padà.
+The medical team collaborated on the complex case.	Àwọn ẹgbẹ́ ìṣègùn ṣiṣẹ́ papọ̀ lórí ọ̀rọ̀ líle náà.
+The healthcare system aims to improve public health.	Ètò ìlera ní àfojúsùn láti mú ìlera àwùjọ dára si.
+Jaundice causes yellowing of the skin and eyes.	Iba ponju-ponju nfa àwọ̀ pupa sí ara àti ojú.
+Measles presents with a characteristic rash and fever.	Kitipi máa ńfarahàn pẹ̀lú àwọn èyí pàtàkì àti ibà.
+Meningitis is an inflammation of the membranes covering the brain.	Ibà-orí jẹ́ wíwú àwọn ìlà tó bo ọpọlọ.
+Cancer requires early diagnosis for effective treatment.	Jẹjẹrẹ nílò ìdámọ̀ kíákíá fún ìtọ́jú tó ṣiṣẹ́.
+Pneumonia affects the lungs and breathing.	Àrùn èḍọ̀foró ní ipa lórí èḍọ̀foró àti mímí.
+Polio can cause permanent paralysis.	Àìsàn rọpárọsẹ̀ le fa àìlè rìn láéláé.
+Rabies is transmitted through animal bites.	Àrùn dìgbòlugi ńgbàkálẹ̀ nípasẹ̀ ṣíṣan ẹranko.
+Ringworm is a fungal infection of the skin.	Ekùsá jẹ́ ààrùn èṣo-funfun lára awọ.
+Scabies causes intense itching of the skin.	Èékú nfa hinahina ara tó lágbára.
+Stomach ulcer causes abdominal pain.	Ọgbẹ́-inú nfa ìrora inú.
+Stroke affects brain function suddenly.	Àrùn ẹ̀gbà ní ipa lórí iṣẹ́ ọpọlọ lójijì.
+Tooth decay is caused by poor dental hygiene.	Ehín kíkẹ̀ jẹ́ àbájáde àìtọ́jú ehín dáadáa.
+Yellow fever is transmitted by mosquitoes.	Ibà pupa ńgbàkálẹ̀ nípasẹ̀ ẹ̀fọn.
+Epilepsy causes seizures and convulsions.	Wárápá nfa ìṣẹ̀lẹ̀ gígbọn àti mímì.
+Heart attack requires immediate medical attention.	Ìkọlù ọkàn nílò ìtọ́jú ìṣègùn lẹ́sẹ̀kẹsẹ̀.
+High blood pressure increases the risk of stroke.	Ẹ̀jẹ̀ ríru nṣe àfikún ewu àrùn ẹ̀gbà.
+Typhoid fever spreads through contaminated food and water.	Jẹfunjẹfun tànkálẹ̀ nípasẹ̀ onjẹ àti omi elegbin.
+Tuberculosis is transmitted through the air when infected people cough.	Jẹ̀dọ̀jẹ̀dọ̀ ńgbàkálẹ̀ láti ojú-ọ̀fúrufú nígbà tí aláìsàn bá wúkọ́.
+Cholera causes severe diarrhea and dehydration.	Onígbáméjì nfa ìgbẹ́ gbuuru àti àìní omi lára.
+Whooping cough is characterized by severe coughing fits.	Ikọ́ líle ọmọdé ní àmì pàtàkì ikọ́ líle.
+Gonorrhea affects the genitourinary system.	Àtọṣí ní ipa lórí ètò ìtọ̀ àti ìbísí.
+Smallpox spreads through direct contact and respiratory droplets.	Ṣọ̀pọ̀ná tànkálẹ̀ nípasẹ̀ fífi ara kan aláìsàn àti kèḷèḅẹ́ ọ̀nà ọ̀fúrufú.
+Leprosy transmission occurs through prolonged contact with infected persons.	Ìgbàkálẹ̀ Ẹ̀tẹ̀ ṣẹlẹ̀ nípasẹ̀ ìbára-ẹni-fínra pẹ̀lú àwọn aláìsàn fún ìgbà pípẹ́.
+Dengue fever is spread by mosquitoes.	Ibà inú eegun ńgbàkálẹ̀ nípasẹ̀ ẹ̀fọn.
+Vitamin A is essential for good vision.	Ajíra A jẹ́ pàtàkì fún ìríran dáradára.
+Vitamin B1 deficiency can cause beriberi.	Àìtó Ajíra B1 lè fa àìsàn ẹ̀ṣọ ara wíwú.
+Vitamin B2 helps maintain healthy skin and eyes.	Ajíra B2 nṣe ìrànlọ́wọ́ fún awọ àti ojú tí ó tọ́.
+Vitamin C prevents scurvy and aids in wound healing.	Ajíra C nṣe ìdíwọ́ àrùn ekúru àti ìrànlọ́wọ́ fún ìwosan egbò.
+Vitamin D helps the body absorb calcium for strong bones.	Ajíra D nṣe ìrànlọ́wọ́ fún ara láti gba káláṣíọ́mù fún egungun lágbára.
+Vitamin E protects cells from damage.	Ajíra E ndáàbòbò àwọn hóró ara kúrò nínú ìpalára.
+Vitamin K is needed for blood clotting.	Ajíra K jẹ́ pàtàkì fún dídì ẹ̀jẹ̀ ní èépá.
+A balanced diet contains all necessary nutrients.	Ìjẹẹ̀mun pípé ní gbogbo àwọn oúnjẹ afara-lókun tó yẹ nínú.
+Proteins are the building blocks of the body.	Òj̣ẹ̀ ni àkọ́lé ilé ara.
+Carbohydrates provide energy for daily activities.	Ẹ̀là-okun npèsè okun fún àwọn iṣẹ́ òòjọ́.
+Fats and oils help in the absorption of fat-soluble vitamins.	Òṛá àti epo nṣe ìrànlọ́wọ́ fún ìgbàmú àwọn ajíra afara-lòrá.
+Mineral salts maintain the body's electrolyte balance.	Iyọ̀-afáralókun nmú ìdọ́gba iná-ara dúró.
+Harmful foods increase the risk of diseases.	Àwọn onjẹ eléwu nṣe àfikún ewu àìsàn.
