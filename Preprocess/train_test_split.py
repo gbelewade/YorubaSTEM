@@ -44,9 +44,9 @@ def create_json_datasets(csv_path, source_col, target_col, output_dir, train_rat
 # Example Usage
 if __name__ == "__main__":
     # Replace these with your CSV path and column names
-    csv_file_path = "english_yoruba.csv"  # Path to your CSV file
+    csv_file_path = "./Preprocess/STEMsmall.csv"  # Path to your CSV file
     source_language_column = "source"  # Source language column name
     target_language_column = "target"  # Target language column name
-    output_directory = "split2.0"  # Directory to save JSON files
+    output_directory = "./Preprocess/splits/SmallSplit"  # Directory to save JSON files
 
     create_json_datasets(csv_file_path, source_language_column, target_language_column, output_directory)

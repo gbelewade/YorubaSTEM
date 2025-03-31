@@ -1,0 +1,251 @@
+{"translation": {"source": "The fundamental theorem of calculus relates differentiation and integration.", "target": "Àkàwé ìpilẹ̀ kálkúlọ̀sì ṣe àlàyé ìbáṣepọ̀ ìyàsọ́tọ̀ àti ìtẹ́gùn."}}
+{"translation": {"source": "The determinant of a square matrix can be used to determine if the matrix has an inverse.", "target": "A lè lo détẹ́miná mátríìsì aláriwọ́ láti pinnu bóyá mátríìsì náà ní ìdojúkọ."}}
+{"translation": {"source": "An obtuse angle is greater than 90 degrees but less than 180 degrees.", "target": "Igun fífẹ̀ tóbi ju àléfà mẹ́sàn-án (90) lọ ṣùgbọ́n ó kéré ju àléfà ọgọ́jọ (180) lọ."}}
+{"translation": {"source": "The circumference of a circle is given by 2πr.", "target": "Odi-ẹ̀ká jẹ́ 2πr."}}
+{"translation": {"source": "An even function satisfies f(-x) = f(x) for all x in its domain.", "target": "Ìfà onídàají gba f(-x) = f(x) fún gbogbo x nínú àbújá rẹ̀."}}
+{"translation": {"source": "The indefinite integral of a function is a family of functions.", "target": "Ìbúpa aláìlápinpé ìfà kan jẹ́ ẹbí àwọn ìfà."}}
+{"translation": {"source": "A bipartite graph can have its vertices divided into two disjoint sets such that every edge connects a vertex in one set to a vertex in the other set.", "target": "Àwòrán ìpínméjì le ní àwọn tẹ́tẹ́ rẹ̀ pínpín sí àwọn ìtò méjì alájẹsọ tó bẹ́ẹ̀ tí gbogbo etí sọ tẹ́tẹ́ nínú ìtò kan pọ̀ mọ́ tẹ́tẹ́ nínú ìtò mìíràn."}}
+{"translation": {"source": "An even function satisfies f(-x) = f(x) for all x in its domain.", "target": "Ìfà onírúurú mú f(-x) = f(x) ṣẹ fún gbogbo x nínú àdúgbò rẹ̀."}}
+{"translation": {"source": "A differential equation is an equation involving derivatives of a function.", "target": "Ọ̀mì-ìyàtọ̀sọ́tọ̀ jẹ́ ọ̀mì tí ó ní àwọn dérífátífù ìfà."}}
+{"translation": {"source": "An irrational number cannot be expressed as the quotient of two integers.", "target": "Òòkà àìdéédé kò le jẹ́ àfihàn gẹ́gẹ́ bí ìpín méjì òòkà odidi."}}
+{"translation": {"source": "The equation of a circle with center (h, k) and radius r is (x - h)² + (y - k)² = r².", "target": "Ọ̀mì ẹ̀ká pẹ̀lú àárín (h, k) àti igbó r jẹ́ (x - h)² + (y - k)² = r²."}}
+{"translation": {"source": "The derivative of x^n is n × x^(n-1).", "target": "Déríféétífù x^n jẹ́ n × x^(n-1)."}}
+{"translation": {"source": "A strategy is a complete plan of action in game theory.", "target": "Ìlànà-ẹ̀rí jẹ́ ètò pípé ìgbéṣẹ̀ nínú ẹ̀kọ́ ere."}}
+{"translation": {"source": "Division by zero is undefined.", "target": "Pípín pẹ̀lú òdo kò ní ìtumọ̀."}}
+{"translation": {"source": "Perpendicular lines have slopes that are negative reciprocals of each other.", "target": "Àwọn ìlà ìdúró jí ní àwọn gẹ̀rẹ́ tí jẹ́ ìdàpadà òdiwọ̀n ara wọn."}}
+{"translation": {"source": "Calculate the area of this rectangle.", "target": "Ṣèṣirò òrò àkòdì yìí."}}
+{"translation": {"source": "A Fibonacci sequence is defined by F₀ = 0, F₁ = 1, and Fₙ = Fₙ₋₁ + Fₙ₋₂ for n > 1.", "target": "Ìtẹ̀lé Fíbónáṣì ni a ṣàlàyé bíi F₀ = 0, F₁ = 1, àti Fₙ = Fₙ₋₁ + Fₙ₋₂ fún n > 1."}}
+{"translation": {"source": "Calculate the perimeter of a square with side length 5 cm.", "target": "Ṣèṣirò àyíká eéyà aláríwọ́ pẹ̀lú ìgùn 5 cm."}}
+{"translation": {"source": "A cube has six faces, eight vertices, and twelve edges.", "target": "Ìgọ̀n ní ẹ̀gbẹ́ mẹ́fà, igun mẹ́jọ, àti etí méjìlá."}}
+{"translation": {"source": "The complement of a set A, denoted A', contains all elements in the universal set that are not in A.", "target": "Àkúnlé ìtò A, tí a fì àmì hàn A', ní gbogbo àwọn èròjà nínú ìtò àkáríayé tí kò sí nínú A."}}
+{"translation": {"source": "Area is measured in square units.", "target": "A wọn òrò ní àwọn ìdíwọ̀n aláriwọ́."}}
+{"translation": {"source": "The derivative of a constant is zero.", "target": "Déríféétífù óǹkà díẹ̀ jẹ́ òdo."}}
+{"translation": {"source": "The probability of an impossible event is 0.", "target": "Ìṣeéṣe ìṣẹ̀lẹ̀ àìṣeéṣe jẹ́ 0."}}
+{"translation": {"source": "The factorial of a non-negative integer n, denoted n!, is the product of all positive integers less than or equal to n.", "target": "Ìṣesí òòkà odidi aláìdọ́wọ́lé n, tí a fì àmì hàn n!, jẹ́ ìsọdipúpọ̀ gbogbo àwọn òòkà odidi dáradára tí ó kéré ju tàbí dọ́gba pẹ̀lú n."}}
+{"translation": {"source": "Probability is a measure of the likelihood that an event will occur.", "target": "Ìṣeéṣe jẹ́ ìwọ̀n ìṣeéṣe pé ìṣẹ̀lẹ̀ kan yóò ṣẹlẹ̀."}}
+{"translation": {"source": "A directed graph has edges with a specific direction.", "target": "Àwòrán atọ́sọ́nà ní àwọn etí pẹ̀lú ìhà pàtó."}}
+{"translation": {"source": "The quadratic formula is used to solve quadratic equations.", "target": "Ìlànà-onírìnméjì ni a ńlo láti yanjú àwọn ọ̀mì-onírìnméjì."}}
+{"translation": {"source": "The area of a circle is π multiplied by the square of the radius.", "target": "Òrò ẹ̀ká jẹ́ π lọ́nà ìsọdipúpọ̀ pẹ̀lú onírìnméjì igbó."}}
+{"translation": {"source": "The discriminant of a quadratic equation ax² + bx + c = 0 is b² - 4ac.", "target": "Ìdánilọ́tọ̀ ọ̀mì-onírìnméjì ax² + bx + c = 0 jẹ́ b² - 4ac."}}
+{"translation": {"source": "A cycle in a graph is a path that starts and ends at the same vertex.", "target": "Àyídà nínú àwòrán jẹ́ ọ̀nà tí ó bẹ̀rẹ̀ tí ó sì parí ní tẹ́tẹ́ kannáà."}}
+{"translation": {"source": "A chromatic number of a graph is the minimum number of colors needed to color its vertices such that no adjacent vertices have the same color.", "target": "Òòkà àwọ̀jíjà àwòrán jẹ́ iye kéréjùlọ àwọn àwọ̀ tí a nílò láti kun àwọn tẹ́tẹ́ rẹ̀ tó bẹ́ẹ̀ tí kò sí àwọn tẹ́tẹ́ tímọ́ tí ó ní àwọ̀ kannáà."}}
+{"translation": {"source": "A scalene triangle has no equal sides.", "target": "Anígunmẹ́ta aláìdọ́gba kò ní ẹ̀gbẹ́ kan tó dọ́gba."}}
+{"translation": {"source": "Division is sharing a number into equal parts.", "target": "Pínpín jẹ́ pípin òòkà kan sí àwọn ìpín dọ́gba."}}
+{"translation": {"source": "Parallel lines never intersect.", "target": "Àwọn ilà ọgbà kò ní í pàdé láéláé."}}
+{"translation": {"source": "A Hamilton circuit is a path that visits each vertex of a graph exactly once and returns to the starting vertex.", "target": "Àyíká Hámíltọ́nù jẹ́ ọ̀nà tí ó bẹ tẹ́tẹ́ kọ̀ọ̀kan àwòrán wò ẹ̀ẹ̀kan pàtó tí ó sì padà sí tẹ́tẹ́ ìbẹ̀rẹ̀."}}
+{"translation": {"source": "In a geometric sequence, each term is found by multiplying the previous term by a constant.", "target": "Nínú ìṣísẹ̀lẹ̀ onírísí-ìsirò, a rí ìpín kọ̀ọ̀kan nípa sísọdipúpọ̀ ìpín tí ó ṣáájú pẹ̀lú óǹkà díẹ̀."}}
+{"translation": {"source": "The sum of two odds is always even.", "target": "Àpapọ̀ òǹkà èèkà méjì jẹ́ onídàají nígbà gbogbo."}}
+{"translation": {"source": "A limit is the value that a function approaches as the input approaches some value.", "target": "Òdíwọ̀n jẹ́ iye tí ìfà kan ṣúnmọ́ bí ìwọlé ṣe ńṣúnmọ́ iye kan."}}
+{"translation": {"source": "The gradient of a curve at a point is the slope of the tangent to the curve at that point.", "target": "Àdáni kọ́ńfù ní ojúami kan jẹ́ gẹ̀rẹ̀gẹ̀rẹ̀ dotun sí kọ́ńfù náà ní ojúami náà."}}
+{"translation": {"source": "The supplement of an angle is 180 degrees minus the angle.", "target": "Àkúnlétò igun jẹ́ ọgọ́ọ̀rùn-ún ó lé ọgọ́tin àléfà dín igun."}}
+{"translation": {"source": "A local minimum is a point where the function value is less than at nearby points.", "target": "Àkéréjùlọ abẹ́lé jẹ́ ojú níbi tí iye ìfà kéré ju ti àwọn ojú tímọ́."}}
+{"translation": {"source": "A rhombus is a quadrilateral with all sides equal.", "target": "Àkòdì-títẹ̀ jẹ́ onímẹ́rin tí gbogbo ẹgbẹ́ rẹ̀ dọ́gba."}}
+{"translation": {"source": "The area of a rhombus is half the product of its diagonals.", "target": "Òrò àkòdì-títẹ̀ jẹ́ ìdajì ẹ̀sún àwọn eyítẹlẹ rẹ̀."}}
+{"translation": {"source": "Variance is the square of the standard deviation.", "target": "Ìyàtọ̀tọ̀ jẹ́ aláriwọ́ àgbátẹnu-kúrò déédéé."}}
+{"translation": {"source": "Zero is neither positive nor negative.", "target": "Òdo kì í ṣe àpọnlé tàbí àdínà."}}
+{"translation": {"source": "In a triangle, the sum of all angles is 180 degrees.", "target": "Nínú anígunmẹ́ta, àpapọ̀ gbogbo igun jẹ́ àléfà ọgọ́ọ̀rún ó lé ọgọ́rin."}}
+{"translation": {"source": "The derivative of xⁿ is n·xⁿ⁻¹.", "target": "Dérífátífù xⁿ jẹ́ n·xⁿ⁻¹."}}
+{"translation": {"source": "The total surface area of a cube is 6a², where a is the length of an edge.", "target": "Àtọ̀wọ́dà òrò ìgọ̀n jẹ́ 6a², níbi tí a jẹ́ gígùn etí kan."}}
+{"translation": {"source": "A vector has both magnitude and direction.", "target": "Fẹ́ktọ̀ ní ìwọ̀n àti ìkọ́ méjèèjì."}}
+{"translation": {"source": "A point has no dimensions.", "target": "Ojúami kò ní àwọn ìwọ̀n."}}
+{"translation": {"source": "An asymptote is a line that a curve approaches but never touches.", "target": "Àfọsẹ̀ jẹ́ ìlà tí kọ́fù kan ṣúnmọ́ ṣùgbọ́n kò lè fọwọ́kan."}}
+{"translation": {"source": "The product of any number and zero is zero.", "target": "Ẹ̀sún èyíkéyìí nọ́mbà àti òdo jẹ́ òdo."}}
+{"translation": {"source": "The absolute value of a number is its distance from zero.", "target": "Iye àṣemáṣekí òǹkà kan jẹ́ ìjìnnà rẹ̀ láti òdo."}}
+{"translation": {"source": "A decimal number can be expressed as a fraction.", "target": "Nọ́mbà ẹsẹ le jẹ́ ìfihàn gẹ́gẹ́ bí ìdàsíwẹ́wẹ́."}}
+{"translation": {"source": "A permutation is an arrangement of a set of objects in a specific order.", "target": "Àtòsípo jẹ́ ìtò ìtò àwọn nkan ní ṣíṣe pàtó."}}
+{"translation": {"source": "A first-order differential equation involves only the first derivative of the function.", "target": "Ọ̀mì-ìyàtọ̀sọ́tọ̀ ìpele-àkọ́kọ́ ní dérífátífù àkọ́kọ́ ìfà náà nìkan."}}
+{"translation": {"source": "To simplify a fraction, divide the numerator and denominator by their greatest common factor.", "target": "Láti sọ ìdàsíwẹ́wẹ́ di rírọ̀, pín ètò-òkè àti ètò-ìsàlẹ̀ pẹ̀lú ìfipín nlá àjọní wọn."}}
+{"translation": {"source": "A function is decreasing if its derivative is negative.", "target": "Ìfà jẹ́ àdínkù tí déríféétífù rẹ̀ bá jẹ́ àdínà."}}
+{"translation": {"source": "The absolute value of a number is its distance from zero on the number line.", "target": "Iye ajukájú òòkà kan jẹ́ ìjìnnà rẹ̀ láti òdo lórí ìlà-òòkà."}}
+{"translation": {"source": "The hypotenuse is the longest side of a right-angled triangle.", "target": "Hypotenuse jẹ́ ẹ̀gbẹ́ tó gùn jù nínú anígunmẹ́ta onígun-ọ̀tún."}}
+{"translation": {"source": "An equilateral triangle has three equal sides.", "target": "Anígunmẹ́ta dọ́gba ní ẹ̀gbẹ́ mẹ́ta dọ́gba."}}
+{"translation": {"source": "A graph in graph theory consists of vertices and edges.", "target": "Àwòrán nínú ẹ̀kọ́ àwòrán jẹ́ àkójọ àwọn tẹ́tẹ́ àti etí."}}
+{"translation": {"source": "Parallel lines have the same slope.", "target": "Àwọn ìlà ọgbà ní gẹ̀rẹ́ kannáà."}}
+{"translation": {"source": "A local maximum is a point where the function value is greater than at nearby points.", "target": "Àgbàjùlọ abẹ́lé jẹ́ ojú níbi tí iye ìfà tóbi ju ti àwọn ojú tímọ́."}}
+{"translation": {"source": "A function is a relation that assigns exactly one output to each input.", "target": "Ìfà jẹ́ ìbátan tí ó yán tìkojá kan pàtó fún ìwọlé kọ̀ọ̀kan."}}
+{"translation": {"source": "Zero is represented by the symbol \"0\".", "target": "Òdo tàbí òfo ni a fi àmì \"0\" ṣe àfihàn."}}
+{"translation": {"source": "The volume of a cylinder is the area of the base multiplied by the height.", "target": "Àyè agolo jẹ́ òrò ìsàlẹ̀ lọ́nà ìsọdipúpọ̀ pẹ̀lú gíga."}}
+{"translation": {"source": "Two triangles are similar if their corresponding angles are equal.", "target": "Anígunmẹ́ta méjì jẹ́ ìbáràjọ tí àwọn igun ìbámu wọn bá dọ́gba."}}
+{"translation": {"source": "A conic section is a curve obtained as the intersection of a plane and a double-napped cone.", "target": "Abala kọ́nìkì jẹ́ kọ́fù tí a rí gẹ́gẹ́ bí ìpàdé pẹpẹ kan àti abala-méjì kọ́nù."}}
+{"translation": {"source": "The diameter of a circle is a line segment that passes through the center and connects two points on the boundary.", "target": "Àlàjá ẹ̀ká jẹ́ àyè-ìlà tí ó la àárín kọjá tí ó sì so àwọn ojú méjì lára ìgbàtí pọ̀."}}
+{"translation": {"source": "The intersection of two sets A and B, denoted A ∩ B, contains all elements that are in both A and B.", "target": "Ìpàdé àwọn ìtò méjì A àti B, tí a fì àmì hàn A ∩ B, ní gbogbo àwọn èròjà tí ó wà nínú A àti B."}}
+{"translation": {"source": "A path in a graph is a sequence of vertices such that each adjacent pair is connected by an edge.", "target": "Ọ̀nà nínú àwòrán jẹ́ ìtẹ̀lé àwọn tẹ́tẹ́ tó bẹ́ẹ̀ tí ìwọ̀n tímọ́ kọ̀ọ̀kan jẹ́ sísopọ̀ nípa etí."}}
+{"translation": {"source": "The sum of an infinite geometric series with |r| < 1 is S = a₁/(1 - r), where a₁ is the first term and r is the common ratio.", "target": "Àpapọ̀ ìtẹ̀lé àjé aláìlópin pẹ̀lú |r| < 1 jẹ́ S = a₁/(1 - r), níbi tí a₁ jẹ́ ẹ̀yà àkọ́kọ́ àti r jẹ́ ìbùpín àjọṣe."}}
+{"translation": {"source": "Derivatives measure the rate of change of a function with respect to its variable.", "target": "Àwọn dérífátífù wọ́n ìyàsí ìyípadà ìfà pẹ̀lú ìfẹ̀sẹ̀ sí onídìmọ̀ rẹ̀."}}
+{"translation": {"source": "A weighted graph has a value associated with each edge.", "target": "Àwòrán alániwọ̀n ní iye tí a ṣe àbáṣepọ̀ pẹ̀lú etí kọ̀ọ̀kan."}}
+{"translation": {"source": "A rectangle has four right angles and two pairs of equal, parallel sides.", "target": "Àkòdi ní igun-ọ̀tún mẹ́rin àti àwọn ẹgbẹ́ dọ́gba, ọgbà méjì."}}
+{"translation": {"source": "The probability of a certain event is 1.", "target": "Ìṣeéṣe ìṣẹ̀lẹ̀ dájúdájú jẹ́ 1."}}
+{"translation": {"source": "The denominator is the number below the line in a fraction.", "target": "Ìfipín ni òòkà tó wà lábẹ́ ìlà nínú ìdá-ẹsẹ."}}
+{"translation": {"source": "Two complementary angles add up to 90 degrees.", "target": "Àwọn igun àfikún méjì ṣe àròpọ̀ sí àádọ́rùn-ún àléfà."}}
+{"translation": {"source": "The area of a triangle can also be calculated using the formula A = √(s(s-a)(s-b)(s-c)), where s = (a+b+c)/2 and a, b, and c are the lengths of the sides.", "target": "Òrò onímẹ́ta tún le jẹ́ ṣíṣírò nípa lílo ìlànà A = √(s(s-a)(s-b)(s-c)), níbi tí s = (a+b+c)/2 àti a, b, àti c jẹ́ gígùn àwọn ẹgbẹ́."}}
+{"translation": {"source": "The laws of logarithms help simplify logarithmic expressions.", "target": "Àwọn òfin ìdásí-tẹnbẹlú ńṣe ìrànlọ́wọ́ láti sọ àwọn àfihàn ìdásí-tẹnbẹlú di rírọ̀."}}
+{"translation": {"source": "Pi (π) is an irrational number that represents the ratio of a circle's circumference to its diameter.", "target": "Pi (π) jẹ́ òòkà àìdéédé tí ó dúró fún ìbùpín odi-ẹ̀ká sí àlàjá rẹ̀."}}
+{"translation": {"source": "The quotient rule is used to find the derivative of the quotient of two functions.", "target": "A lo òfin ìpín láti wá déríféétífù ìpín ìfà méjì."}}
+{"translation": {"source": "Logarithms are the inverse of exponential functions.", "target": "Àwọn ìdásí-tẹnbẹlú jẹ́ ìdàpadà àwọn ìfà agbára."}}
+{"translation": {"source": "A function is increasing if its derivative is positive.", "target": "Ìfà jẹ́ àlékún tí déríféétífù rẹ̀ bá jẹ́ àpọnlé."}}
+{"translation": {"source": "Optimization is the process of finding the maximum or minimum value of a function.", "target": "Ìdára jẹ́ ìlànà wíwá iye púpọ̀jùlọ tàbí kéréjùlọ ìfà."}}
+{"translation": {"source": "A second-order differential equation involves the second derivative of the function.", "target": "Ọ̀mì-ìyàtọ̀sọ́tọ̀ ìpele-kejì ní dérífátífù kejì ìfà náà."}}
+{"translation": {"source": "A Venn diagram is a graphical representation of sets.", "target": "Àwòrán Vẹ́nù jẹ́ àfihàn àwọrán àwọn ìtò."}}
+{"translation": {"source": "Matrix multiplication is more complex than regular multiplication.", "target": "Ìsọdipúpọ̀ ìtẹ́dúbùlè jẹ́ èyí tí ó ṣòro ju ìsọdipúpọ̀ déédé lọ."}}
+{"translation": {"source": "The inverse of a matrix A is denoted A⁻¹ and satisfies AA⁻¹ = A⁻¹A = I, where I is the identity matrix.", "target": "Ìdàpadà ìtẹ́dúbùlè A ni a fì àmì hàn A⁻¹ tí ó sì mú AA⁻¹ = A⁻¹A = I ṣẹ, níbi tí I jẹ́ ìtẹ́dúbùlè ìṣedé."}}
+{"translation": {"source": "Subtraction is the process of finding the difference between two numbers.", "target": "Ìyọkúrò jẹ́ ìgbésẹ̀ wíwá ìyàtọ̀ láàrín nọ́mbà méjì."}}
+{"translation": {"source": "A local maximum occurs at a critical point where the second derivative is negative.", "target": "Àpọjù àbínibí ṣẹlẹ̀ ní ojúami pàtàkì níbi tí déríféétífù kejì jẹ́ àdínà."}}
+{"translation": {"source": "A cylinder has two parallel circular bases connected by a curved surface.", "target": "Agolo ní àwọn ìsàlẹ̀ àyíká ọgbà méjì tí a so pọ̀ pẹ̀lú ojú títẹ̀."}}
+{"translation": {"source": "The determinant of a square matrix is a value that can be calculated from its elements.", "target": "Olùdámọ̀ ìtẹ́dúbùlè alákòdì jẹ́ iye tí a le ṣírò láti àwọn èròjà rẹ̀."}}
+{"translation": {"source": "The indefinite integral of a function is a family of functions whose derivatives equal the original function.", "target": "Ìtẹ́gùn àìpàtó ìfà jẹ́ ẹbí àwọn ìfà tí àwọn déríféétífù wọn dọ́gba ìfà àkọ́kọ́."}}
+{"translation": {"source": "Integrals are the antiderivatives of functions.", "target": "Àwọn ìbúpa jẹ́ àntìdérífátífù àwọn ìfà."}}
+{"translation": {"source": "The range of a relation is the set of all second components of its ordered pairs.", "target": "Àyè-kàn ìbátan jẹ́ ìtò gbogbo àwọn èròjà kejì àwọn ìwọ̀n tí a tò rẹ̀."}}
+{"translation": {"source": "The sum of two numbers is their total when added together.", "target": "Àròpọ̀ àwọn òòkà méjì ni àpapọ̀ wọn nígbà tí a bá ṣe ìròpọ̀ wọn."}}
+{"translation": {"source": "The average speed is the total distance divided by the total time.", "target": "Àròpín eré jẹ́ àpapọ̀ ìjìnnà pín pẹ̀lú àpapọ̀ àkókò."}}
+{"translation": {"source": "The least common multiple of 4 and 6 is 12.", "target": "Ẹ̀sún kékeré àjọní 4 àti 6 jẹ́ 12."}}
+{"translation": {"source": "The inverse of a function reverses the input-output relationship.", "target": "Ìdojúkọ ìfà yí ìbáṣepọ̀ àbáwọlé-àbájade padà."}}
+{"translation": {"source": "The binomial theorem gives the expansion of (a + b)ⁿ.", "target": "Òfin ìdálẹ́jì fún wa ní ìgbóróṣẹ (a + b)ⁿ."}}
+{"translation": {"source": "A complex number has the form a + bi, where i is the square root of -1.", "target": "Nọ́mbà àdàpọ̀ ní àwòṣe a + bi, níbi tí i jẹ́ irìn kejì -1."}}
+{"translation": {"source": "The midpoint of a line segment with endpoints (x₁, y₁) and (x₂, y₂) is ((x₁ + x₂)/2, (y₁ + y₂)/2).", "target": "Àárínbá àyè-ìlà pẹ̀lú àwọn òpin (x₁, y₁) àti (x₂, y₂) jẹ́ ((x₁ + x₂)/2, (y₁ + y₂)/2)."}}
+{"translation": {"source": "The vertex of a parabola is the point where the parabola changes direction.", "target": "Tẹ́tẹ́ kọ́nú-fífà jẹ́ ojú níbi tí kọ́nú-fífà ńyí ìhà padà."}}
+{"translation": {"source": "A ray extends infinitely in one direction from a point.", "target": "Ìtanná fẹ̀ láìlópin ní ìhà kan láti ojú kan."}}
+{"translation": {"source": "The standard deviation is the square root of the variance.", "target": "Ìyàsọ́tọ̀ déédé jẹ́ gbòǹgbò onírìnméjì ìṣẹ̀lójà."}}
+{"translation": {"source": "A prime number is a natural number greater than 1 that cannot be formed by multiplying two smaller natural numbers.", "target": "Òòkà àkọ́kọ́ jẹ́ òòkà ṣáà tí ó tóbi ju 1 lọ tí a kò lè ṣẹ̀dá nípa ìsọdipúpọ̀ àwọn òòkà ṣáà méjì tí ó kéré."}}
+{"translation": {"source": "A mathematical model is a description of a system using mathematical concepts and language.", "target": "Àwòṣe ìṣirò jẹ́ àpèjúwe ètò nípa lílo àwọn èrò àti èdè ìṣirò."}}
+{"translation": {"source": "An isosceles triangle has two equal sides.", "target": "Anígunmẹ́ta oníṣọ̀kan ní ẹ̀gbẹ́ méjì dọ́gba."}}
+{"translation": {"source": "A recursively defined sequence has each term defined in terms of one or more previous terms.", "target": "Ìtẹ̀lé aṣàfihàn atẹyìnpadà ní ẹ̀yà kọ̀ọ̀kan tí a ṣàlàyé ní ọ̀nà ẹ̀yà kan tàbí jù bẹ́ẹ̀ lọ tẹ́lẹ̀."}}
+{"translation": {"source": "The range of a function is the set of all possible output values.", "target": "Àbála ìfà jẹ́ àpapọ̀ gbogbo àwọn iye àbájade tó ṣeéṣe."}}
+{"translation": {"source": "The fundamental theorem of calculus connects differentiation and integration.", "target": "Òfin ìpìlẹ̀ ìṣirò-ìyípadà so ìyàtọ̀sọ́tọ̀ àti ìbúlesẹ̀ pọ̀."}}
+{"translation": {"source": "A cone has a circular base connected to a point by a curved surface.", "target": "Àkóńù ní ìsàlẹ̀ àyíká tí a so mọ́ ojú kan pẹ̀lú ojú títẹ̀."}}
+{"translation": {"source": "A line segment has two endpoints.", "target": "Àájà ilà ní àwọn ojú-ìparí méjì."}}
+{"translation": {"source": "A hexagon has six sides.", "target": "Oníhàmẹ́fà ní ẹ̀gbẹ́ mẹ́fà."}}
+{"translation": {"source": "Three multiplied by four equals twelve.", "target": "Mẹ́ta lọ́nà mẹ́rin dọ́gba mẹ́jìlá."}}
+{"translation": {"source": "The range of a function is the set of all possible output values.", "target": "Àyè-kàn ìfà jẹ́ ìtò gbogbo àwọn iye tìkojá tí ó ṣeéṣe."}}
+{"translation": {"source": "The circumference of a circle is the distance around it.", "target": "Odi-ẹ̀ká jẹ́ ìjìnnà yíká ẹ̀ká náà."}}
+{"translation": {"source": "A normal distribution is a continuous probability distribution that is symmetric about its mean.", "target": "Pínpín déédé jẹ́ pínpín ìṣeéṣe tíṣu tí ó jẹ́ bájẹ̀pẹ̀ nípa àròpín rẹ̀."}}
+{"translation": {"source": "The product of any number and zero is zero.", "target": "Ẹ̀sún ìsọdipúpọ̀ òòkà kankan pẹ̀lú òdo jẹ́ òdo."}}
+{"translation": {"source": "Trigonometry is the study of relationships between the angles and sides of triangles.", "target": "Ẹ̀kọ́ ìfidámẹ́ta jẹ́ ẹ̀kọ́ àwọn ìbáṣepọ̀ láàrín àwọn igun àti ẹgbẹ́ àwọn onímẹ́ta."}}
+{"translation": {"source": "Two lines are perpendicular if their slopes multiply to give -1.", "target": "Ilà méjì jẹ́ ògìdo tí gẹ̀rẹ̀gẹ̀rẹ̀ wọn bá sọdi -1 nígbà tí a bá sọ wọ́n di púpọ̀."}}
+{"translation": {"source": "The standard deviation measures the amount of variation in a set of values.", "target": "Àgbátẹnu-kúrò déédéé wọn iye ìyàtọ̀ nínú àpapọ̀ àwọn iye."}}
+{"translation": {"source": "The derivative of a constant is zero.", "target": "Dérífátífù òòkà àìyẹ̀ jẹ́ òdo."}}
+{"translation": {"source": "A polynomial is an expression consisting of variables and coefficients using only addition, subtraction, and multiplication.", "target": "Òṣùwọ̀npúpọ̀ jẹ́ àfihàn tí ó ní àwọn onídìmọ̀ àti àwọn ònkàwé tí ó ńlo àròpọ̀, àyọkúrò, àti ìsọdipúpọ̀ nìkan."}}
+{"translation": {"source": "A system of linear equations is a set of two or more linear equations.", "target": "Ètò àwọn ọ̀mì-dogbá jẹ́ ìtò àwọn ọ̀mì-dogbá méjì tàbí jù bẹ́ẹ̀ lọ."}}
+{"translation": {"source": "A ratio compares two quantities.", "target": "Ìbùpín ṣe àfiwé iye méjì."}}
+{"translation": {"source": "The tangent of an angle in a right triangle is the ratio of the opposite side to the adjacent side.", "target": "Tangent igun nínú anígunmẹ́ta onígun-ọ̀tún jẹ́ ìbùpín ẹ̀gbẹ́ ìdojúkọ sí ẹ̀gbẹ́ ìbákan."}}
+{"translation": {"source": "Modular arithmetic is arithmetic for integers, where numbers \"wrap around\" when reaching a certain value.", "target": "Ìṣirò akanúnrín jẹ́ ìṣirò fún àwọn òòkà odidi, níbi tí àwọn òòkà \"yí padà\" nígbà tí wọ́n bá dé iye kan."}}
+{"translation": {"source": "An acute angle is less than 90 degrees.", "target": "Igun mímú kéré ju àléfà mẹ́sàn-án (90) lọ."}}
+{"translation": {"source": "The difference between 8 and 3 is 5.", "target": "Ìyàtọ̀ láàrín mẹ́jọ àti mẹ́ta jẹ́ márùn-ún."}}
+{"translation": {"source": "The degree of a vertex is the number of edges connected to it.", "target": "Ìpele tẹ́tẹ́ jẹ́ iye àwọn etí tí a sọpọ̀ mọ́ ọ."}}
+{"translation": {"source": "The radius of a circle is the distance from the center to any point on the boundary.", "target": "Igbó ẹ̀ká jẹ́ ìjìnnà láti àárín dé ojúkọ́jọ́ lára ìgbàtí."}}
+{"translation": {"source": "The sum of the exterior angles of any polygon is 360 degrees.", "target": "Àpapọ̀ àwọn igun òde oníhàpúpọ̀ jẹ́ àléfà ọ̀ọ́dúnrún àti ọgọ́ta (360)."}}
+{"translation": {"source": "Mathematics is the study of numbers, shapes, and patterns.", "target": "Ìṣirò jẹ́ ẹ̀kọ́ nípa òǹkà, àwọn àwòṣe, àti àwọn ìlànà."}}
+{"translation": {"source": "A hyperbola is a conic section formed when a plane intersects both halves of a double-napped cone.", "target": "Háípábólà jẹ́ abala kọ́nìkì tí a ṣẹ̀dá nígbà tí pẹpẹ bá da àwọn ààbọ̀ méjèèjì abala-méjì kọ́nù."}}
+{"translation": {"source": "A linear differential equation has the dependent variable and all its derivatives occurring with power 1.", "target": "Ọ̀mì-ìyàtọ̀sọ́tọ̀ dogbá ní onídìmọ̀ aláṣeégbé àti gbogbo àwọn dérífátífù rẹ̀ tí ó farahàn pẹ̀lú agbára 1."}}
+{"translation": {"source": "A matrix is a rectangular array of numbers.", "target": "Mátríìsì jẹ́ ẹgbẹ́ oláriwọ́ àwọn nọ́mbà."}}
+{"translation": {"source": "Matrix addition is performed by adding corresponding elements.", "target": "Àròpọ̀ ìtẹ́dúbùlè ni a ṣe nípa fífi àwọn èròjà tí ó bára mu kún ara wọn."}}
+{"translation": {"source": "A relation is a set of ordered pairs.", "target": "Ìbátan jẹ́ ìtò àwọn ìwọ̀n tí a tò."}}
+{"translation": {"source": "The Fibonacci sequence starts with 0 and 1, and each subsequent number is the sum of the two preceding ones.", "target": "Ìṣísẹ̀lẹ̀ Fibonacci bẹ̀rẹ̀ pẹ̀lú 0 àti 1, àti pé ọ̀kọ̀ọ̀kan nọ́mbà tó tẹ̀le jẹ́ àpapọ̀ méjì tí ó ṣáájú."}}
+{"translation": {"source": "A linear function can be written in the form f(x) = mx + b.", "target": "Ìfà-dogbá le jẹ́ kíkọ ní ọ̀nà f(x) = mx + b."}}
+{"translation": {"source": "The scalar product of two vectors gives a scalar value.", "target": "Ìpo onískalà méjì fún iye onískalà."}}
+{"translation": {"source": "Probability is expressed as a value between 0 and 1.", "target": "Ìwọ̀n Iṣe-éṣe jẹ́ ìfihàn gẹ́gẹ́ bí iye láàrín 0 àti 1."}}
+{"translation": {"source": "The sum of the interior angles of a polygon with n sides is (n-2) × 180 degrees.", "target": "Àpapọ̀ àwọn igun inú oníhàkìíhà pẹ̀lú ẹ̀gbẹ́ n jẹ́ (n-2) × 180 àléfà."}}
+{"translation": {"source": "The perimeter of a shape is the distance around it.", "target": "Àyíká eeyà jẹ́ ìjìnnà yíká rẹ̀."}}
+{"translation": {"source": "The Pythagorean identity states that sin²θ + cos²θ = 1.", "target": "Ìdánimọ̀ Pythagoras sọ pé sin²θ + cos²θ = 1."}}
+{"translation": {"source": "The total surface area of a rectangular prism is 2(lw + lh + wh), where l is the length, w is the width, and h is the height.", "target": "Àtọ̀wọ́dà òrò àkòdì-ìdẹ̀ jẹ́ 2(lw + lh + wh), níbi tí l jẹ́ gígùn, w jẹ́ ìbú, àti h jẹ́ gíga."}}
+{"translation": {"source": "An arithmetic sequence has a common difference between consecutive terms.", "target": "Ìtẹ̀lé ìṣirò ní ìyàtọ̀ àjọṣe láàrín àwọn ẹ̀yà tó tẹ̀lé ara wọn."}}
+{"translation": {"source": "The value of pi is approximately 3.14159.", "target": "Iye pi jẹ́ nípérédé 3.14159."}}
+{"translation": {"source": "A planar graph can be drawn on a plane without any edges crossing.", "target": "Àwòrán apẹpẹ lè jẹ́ yíya lórí pẹpẹ láìsí àwọn etí dídà."}}
+{"translation": {"source": "The probability of the union of two events is P(A ∪ B) = P(A) + P(B) - P(A ∩ B).", "target": "Ìṣeéṣe àpapọ̀ àwọn ìṣẹ̀lẹ̀ méjì jẹ́ P(A ∪ B) = P(A) + P(B) - P(A ∩ B)."}}
+{"translation": {"source": "A parabola is a conic section formed when a plane intersects a cone parallel to a line on the cone.", "target": "Kọ́nú-fífà jẹ́ abala kọ́nìkì tí a ṣẹ̀dá nígbà tí pẹpẹ bá da kọ́nù ní ọgbà sí ìlà lórí kọ́nù náà."}}
+{"translation": {"source": "A fraction has a numerator and a denominator.", "target": "Ìdàsíwẹ́wẹ́ ní ètò-òkè àti ètò-ìsàlẹ̀."}}
+{"translation": {"source": "The least common multiple (LCM) of two integers is the smallest positive integer that is divisible by both.", "target": "Pínpín àjọṣe kéréjùlọ (LCM) àwọn òòkà odidi méjì jẹ́ òòkà odidi dáradára kéréjùlọ tí ó lè jẹ́ pínpín nípa méjèèjì."}}
+{"translation": {"source": "Division is the process of sharing a quantity into equal parts.", "target": "Pínpín jẹ́ ìgbésẹ̀ pínpín iye kan sí àwọn ìpín dọ́gba."}}
+{"translation": {"source": "Subtraction is removing a number from another to find the difference.", "target": "Àyọkúrò jẹ́ ìmúkúrò òòkà kan láti inú èkejì láti rí ìyàtọ̀ wọn."}}
+{"translation": {"source": "A rhombus has four equal sides.", "target": "Àkòdì-títẹ̀ ní ẹ̀gbẹ́ mẹ́rin dọ́gba."}}
+{"translation": {"source": "The sum of a finite arithmetic series is S = n(a₁ + aₙ)/2, where n is the number of terms, a₁ is the first term, and aₙ is the last term.", "target": "Àpapọ̀ ìtẹ̀lé ìṣirò tó ní òpin jẹ́ S = n(a₁ + aₙ)/2, níbi tí n jẹ́ iye àwọn ẹ̀yà, a₁ jẹ́ ẹ̀yà àkọ́kọ́, àti aₙ jẹ́ ẹ̀yà tó gbẹ̀yìn."}}
+{"translation": {"source": "The equation of a line can be written in the form y = mx + b.", "target": "Ọ̀mì ìlà le jẹ́ kíkọ ní ọ̀nà y = mx + b."}}
+{"translation": {"source": "The chain rule is used to find the derivative of a composite function.", "target": "Òfin ẹ̀wọ́n ni a ńlo láti wá dérífátífù ìfà àdàpọ̀."}}
+{"translation": {"source": "The empty set, denoted ∅, contains no elements.", "target": "Ìtò òfìfo, tí a fì àmì hàn ∅, kò ní èròjà kankan."}}
+{"translation": {"source": "A straight angle measures exactly 180 degrees.", "target": "Igun tíṣàn jẹ́ àléfà ọgọ́jọ (180)."}}
+{"translation": {"source": "The limit of a function describes its behavior as the input approaches a particular value.", "target": "Òpin ìfà ṣàpèjúwe ìwà rẹ̀ bí àbáwọlé ṣe ń súnmọ́ iye kan pàtó."}}
+{"translation": {"source": "The volume of a sphere is V = (4/3)πr³, where r is the radius.", "target": "Àyè òṣùṣù jẹ́ V = (4/3)πr³, níbi tí r jẹ́ igbó."}}
+{"translation": {"source": "A right angle measures exactly 90 degrees.", "target": "Igun-ọ̀tún jẹ́ àléfà mẹ́sàn-án (90)."}}
+{"translation": {"source": "In a fraction, the numerator is the number above the line.", "target": "Nínú ìdá-ẹsẹ, ẹ̀sún ni òòkà tó wà lókè ìlà náà."}}
+{"translation": {"source": "A connected graph has a path between every pair of vertices.", "target": "Àwòrán asọpọ̀ ní ọ̀nà láàrín ìwọ̀n tẹ́tẹ́ kọ̀ọ̀kan."}}
+{"translation": {"source": "The square root of nine is three.", "target": "Irìn kejì mẹ́sàn-án jẹ́ mẹ́ta."}}
+{"translation": {"source": "The graph of a linear equation is a straight line.", "target": "Gíráàfù òfin onírín-kan jẹ́ ilà tààrà."}}
+{"translation": {"source": "A Nash equilibrium is a stable state in a game where no player can gain by unilaterally changing their strategy.", "target": "Ìdógba Nási jẹ́ ipò ìdúró nínú ere níbi tí kò sí ẹlẹ́rẹ tí ó lè jèrè nípa yíyi ìlànà-ẹ̀rí wọn padà lẹ́kansoso."}}
+{"translation": {"source": "Compound interest includes interest on the accumulated interest.", "target": "Èlélé ní àfikún èlé lórí èlé tí a ti kójọ."}}
+{"translation": {"source": "Solve for x in the equation 2x + 5 = 13.", "target": "Ṣe ojútùú fún x nínú òfin 2x + 5 = 13."}}
+{"translation": {"source": "The Pythagorean theorem relates the sides of a right-angled triangle.", "target": "Àkàwé Pythagoras ṣe àlàyé ìbáṣepọ̀ àwọn ẹ̀gbẹ́ anígunmẹ́ta onígun-ọ̀tún."}}
+{"translation": {"source": "The volume of a sphere is (4/3)π multiplied by the cube of the radius.", "target": "Àyè òṣùṣù jẹ́ (4/3)π lọ́nà ìsọdipúpọ̀ pẹ̀lú onírìnmẹ́ta igbó."}}
+{"translation": {"source": "Calculate the area of a triangle with base 6 cm and height 4 cm.", "target": "Ṣèṣirò òrò anígunmẹ́ta pẹ̀lú ìpìlẹ̀ 6 cm àti ìga 4 cm."}}
+{"translation": {"source": "A global minimum is the lowest point on the entire function.", "target": "Àkéréjùlọ akáríayé jẹ́ ojú kéré jùlọ lórí gbogbo ìfà náà."}}
+{"translation": {"source": "Multiplication means adding a number to itself a specific number of times.", "target": "Ìsọdipúpọ̀ túmọ̀ sí fífi òòkà kan kún ara rẹ̀ ní iye ìgbà kan pàtó."}}
+{"translation": {"source": "An initial value problem is a differential equation together with a set of initial conditions.", "target": "Ìyọnu iye-ìbẹ̀rẹ̀ jẹ́ ọ̀mì-ìyàtọ̀sọ́tọ̀ pẹ̀lú ìtò àwọn ipò ìbẹ̀rẹ̀."}}
+{"translation": {"source": "The sum of the interior angles of a triangle is 180 degrees.", "target": "Àpapọ̀ àwọn igun inú onímẹ́ta jẹ́ àléfà ọgọ́jọ (180)."}}
+{"translation": {"source": "A cube is a three-dimensional shape with six equal square faces.", "target": "Ìgọ̀n jẹ́ èèyà olópomẹ́ta pẹ̀lú ojú àkòdì mẹ́fà dọ́gba."}}
+{"translation": {"source": "What is the highest common factor of 12 and 18?", "target": "Kí ni ìfipín nlá àjọní fún méjìlá àti méjìdínlógún?"}}
+{"translation": {"source": "A function is a relation where each element in the domain corresponds to exactly one element in the range.", "target": "Ìfà jẹ́ ìbátan níbi tí èròjà kọ̀ọ̀kan nínú àdúgbò bá ẹ̀yà kan pàtó nínú àyè-kàn mu."}}
+{"translation": {"source": "The chain rule is used to find the derivative of a composite function.", "target": "A lo òfin ẹ̀wọ̀n láti wá déríféétífù ìfà àdàpọ̀."}}
+{"translation": {"source": "In a proportion, the product of the means equals the product of the extremes.", "target": "Nínú ìbámu, ẹ̀sún àwọn aarin dọ́gba ẹ̀sún àwọn òpin."}}
+{"translation": {"source": "The cross product of two vectors is a vector.", "target": "Ìsọdipúpọ̀ àgbéjáde àwọn ògún méjì jẹ́ ògún."}}
+{"translation": {"source": "The variance of a set of numbers measures how spread out the values are.", "target": "Ìṣẹ̀lójà ìtò òòkà kan wọn bí àwọn iye ṣe tànká sí."}}
+{"translation": {"source": "The area of a triangle can be calculated using the formula A = (1/2)bh, where b is the base and h is the height.", "target": "Òrò onímẹ́ta le jẹ́ ṣíṣírò nípa lílo ìlànà A = (1/2)bh, níbi tí b jẹ́ ìsàlẹ̀ àti h jẹ́ gíga."}}
+{"translation": {"source": "The formula for the volume of a cube is side length cubed.", "target": "Òfin fún àyè ìgọ̀n jẹ́ ìgùn lẹ́ẹ̀mẹ́ta."}}
+{"translation": {"source": "A partial differential equation involves partial derivatives of a function of several variables.", "target": "Ọ̀mì-ìyàtọ̀sọ́tọ̀ abẹ́lé ní àwọn dérífátífù abẹ́lé ìfà àwọn onídìmọ̀ púpọ̀."}}
+{"translation": {"source": "A global maximum is the highest point on the entire function.", "target": "Àgbàjùlọ akáríayé jẹ́ ojú gíga jùlọ lórí gbogbo ìfà náà."}}
+{"translation": {"source": "An odd function satisfies f(-x) = -f(x) for all x in its domain.", "target": "Ìfà òrìtú mú f(-x) = -f(x) ṣẹ fún gbogbo x nínú àdúgbò rẹ̀."}}
+{"translation": {"source": "A complete graph has an edge between every pair of vertices.", "target": "Àwòrán pípé ní etí láàrín ìwọ̀n tẹ́tẹ́ kọ̀ọ̀kan."}}
+{"translation": {"source": "The probability of the intersection of two independent events is P(A ∩ B) = P(A) × P(B).", "target": "Ìṣeéṣe ìpàdé àwọn ìṣẹ̀lẹ̀ olómìnira méjì jẹ́ P(A ∩ B) = P(A) × P(B)."}}
+{"translation": {"source": "A prism is a polyhedron with two parallel, congruent faces.", "target": "Ìdẹ̀ jẹ́ olójúpúpọ̀ pẹ̀lú ojú ọgbà, bájẹ̀pẹ̀ méjì."}}
+{"translation": {"source": "The exterior angles of a polygon sum to 360 degrees.", "target": "Àwọn igun òde oníhàkìíhà ṣe àròpọ̀ sí àádọ́rin àléfà."}}
+{"translation": {"source": "The sum of the interior angles of a quadrilateral is 360 degrees.", "target": "Àpapọ̀ àwọn igun inú onímẹ́rin jẹ́ àléfà ọ̀ọ́dúnrún àti ọgọ́ta (360)."}}
+{"translation": {"source": "The Pythagorean theorem states that in a right triangle, the square of the hypotenuse equals the sum of the squares of the other two sides.", "target": "Òfin Pítágórà sọ pé nínú igun-ọ̀tún onímẹ́ta, onírìnméjì ẹgbẹ́ gígajùlọ dọ́gba pẹ̀lú àpapọ̀ àwọn onírìnméjì méjì ẹgbẹ́ yòókù."}}
+{"translation": {"source": "A geometric sequence has a common ratio between consecutive terms.", "target": "Ìtẹ̀lé àjé ní ìbùpín àjọṣe láàrín àwọn ẹ̀yà tó tẹ̀lé ara wọn."}}
+{"translation": {"source": "In an arithmetic sequence, each term is found by adding a constant to the previous term.", "target": "Nínú ìṣísẹ̀lẹ̀ oníṣirò, a rí ìpín kọ̀ọ̀kan nípa fífi óǹkà dịẹ̀ kún ìpín tí ó ṣáájú."}}
+{"translation": {"source": "Two events are independent if the occurrence of one does not affect the probability of the other.", "target": "Ìṣẹ̀lẹ̀ méjì jẹ́ alálàáwọ̀ tí ìṣẹlẹ̀ ọ̀kan kò bá ní ipa lórí ìwọ̀n iṣe-éṣe èkejì."}}
+{"translation": {"source": "The sum of two numbers is called addition.", "target": "Àròpọ̀ òǹkà méjì ni a pè ní ìṣesípọ̀."}}
+{"translation": {"source": "In statistics, the median is the middle value of a data set.", "target": "Nínú ẹ̀kọ́ òǹkàdẹ̀rí, aarin jẹ́ iye àárín àpapọ̀ dátà."}}
+{"translation": {"source": "The distance formula between two points (x₁,y₁) and (x₂,y₂) is √[(x₂-x₁)² + (y₂-y₁)²].", "target": "Òfin ìjìnnà láàrín ojúami méjì (x₁,y₁) àti (x₂,y₂) jẹ́ √[(x₂-x₁)² + (y₂-y₁)²]."}}
+{"translation": {"source": "The mode of a set of numbers is the value that appears most frequently.", "target": "Ìgbàjù ìtò òòkà kan jẹ́ iye tí ó farahàn lọ́pọ̀lọpọ̀ jùlọ."}}
+{"translation": {"source": "A pentagon has five sides.", "target": "Oníhàmárùn ní ẹ̀gbẹ́ márùn-ún."}}
+{"translation": {"source": "A set is a collection of distinct objects.", "target": "Ìtò jẹ́ àkójọ àwọn nkan ọ̀tọ̀ọ̀tọ̀."}}
+{"translation": {"source": "A function is continuous at a point if its limit exists at that point and equals the function value.", "target": "Ìfà jẹ́ ìkànsímúlẹ̀ ní ojúami kan tí òpin rẹ̀ bá wà ní ojúami náà tí ó sì dọ́gba iye ìfà náà."}}
+{"translation": {"source": "The modulus of a complex number is its distance from the origin.", "target": "Módúlù nọ́mbà àdàpọ̀ jẹ́ ìjìnnà rẹ̀ láti ìbẹ̀rẹ̀."}}
+{"translation": {"source": "The union of two sets A and B, denoted A ∪ B, contains all elements that are in A or B or both.", "target": "Àpapọ̀ àwọn ìtò méjì A àti B, tí a fì àmì hàn A ∪ B, ní gbogbo àwọn èròjà tí ó wà nínú A tàbí B tàbí méjèèjì."}}
+{"translation": {"source": "The prime factorization of a number is the product of its prime factors.", "target": "Ìsọdipúpọ̀ àkọ́kọ́ òòkà kan jẹ́ ìsọdipúpọ̀ àwọn àkọkọ ìpín rẹ̀."}}
+{"translation": {"source": "A whole number is called an integer.", "target": "Nọ́mbà odidi ni a ń pè ní integer."}}
+{"translation": {"source": "The cosine of an angle in a right triangle is the ratio of the adjacent side to the hypotenuse.", "target": "Cosine igun nínú anígunmẹ́ta onígun-ọ̀tún jẹ́ ìbùpín ẹ̀gbẹ́ ìbákan sí hypotenuse."}}
+{"translation": {"source": "A linear equation in two variables has the form ax + by = c.", "target": "Ọ̀mì-dogbá nínú àwọn onídìmọ̀ méjì ní ọ̀nà ax + by = c."}}
+{"translation": {"source": "The distance between two points (x₁, y₁) and (x₂, y₂) is given by the formula √[(x₂ - x₁)² + (y₂ - y₁)²].", "target": "Ìjìnnà láàrín àwọn ojú méjì (x₁, y₁) àti (x₂, y₂) ni a fún nípa ìlànà √[(x₂ - x₁)² + (y₂ - y₁)²]."}}
+{"translation": {"source": "A Euler circuit is a path that traverses each edge of a graph exactly once and returns to the starting vertex.", "target": "Àyíká Yúlà jẹ́ ọ̀nà tí ó la etí kọ̀ọ̀kan àwòrán kọjá ẹ̀ẹ̀kan pàtó tí ó sì padà sí tẹ́tẹ́ ìbẹ̀rẹ̀."}}
+{"translation": {"source": "An angle is formed by two rays with a common endpoint.", "target": "Igun jẹ́ ohun tí a ṣẹ̀dá láti ìtanná méjì pẹ̀lú ojú ìbẹ̀rẹ̀ kan."}}
+{"translation": {"source": "A spanning tree is a tree that includes all vertices of a graph.", "target": "Igi afáralọ́lá jẹ́ igi tí ó ní gbogbo àwọn tẹ́tẹ́ àwòrán."}}
+{"translation": {"source": "A function is differentiable at a point if its derivative exists at that point.", "target": "Ìfà jẹ́ aláyàtọ̀sọ́tọ̀ ní ojú kan bí dérífátífù rẹ̀ bá wà ní ojú náà."}}
+{"translation": {"source": "In a straight line, all adjacent angles sum to 180 degrees.", "target": "Ní ilà tààrà, gbogbo àwọn igun aládùúgbò ṣe àròpọ̀ sí ọgọ́ọ̀rùn-ún ó lé ọgọ́tin àléfà."}}
+{"translation": {"source": "A prime number is divisible only by 1 and itself.", "target": "Nọ́mbà àkọ́kọ́ pín nípasẹ̀ 1 àti ara rẹ̀ nìkan."}}
+{"translation": {"source": "The axis of symmetry of a parabola is the vertical line that passes through the vertex.", "target": "Ọ̀pọ̀n ìjọra kọ́nú-fífà jẹ́ ìlà tíṣàn tí ó la tẹ́tẹ́ kọjá."}}
+{"translation": {"source": "The tangent of an angle in a right triangle is the ratio of the opposite side to the adjacent side.", "target": "Tánijẹ́ntì igun kan nínú igun-ọ̀tún onímẹ́ta jẹ́ ìbùpín ẹgbẹ́ kejì sí ẹgbẹ́ tímọ́."}}
+{"translation": {"source": "A mathematical proof is a rigorous argument that establishes the truth of a statement.", "target": "Ìdánilójú ìṣirò jẹ́ àríyànjiyàn lílágbára tí ó fi òtítọ́ gbólóhùn múlẹ̀."}}
+{"translation": {"source": "The sine of an angle in a right triangle is the ratio of the opposite side to the hypotenuse.", "target": "Sáínù igun kan nínú igun-ọ̀tún onímẹ́ta jẹ́ ìbùpín ẹgbẹ́ kejì sí ẹgbẹ́ gígajùlọ."}}
+{"translation": {"source": "The domain of a function is the set of all possible input values.", "target": "Àdúgbò ìfà jẹ́ ìtò gbogbo àwọn iye ìwọlé tí ó ṣeéṣe."}}
+{"translation": {"source": "Zero divided by any non-zero number is zero.", "target": "Òdo pín pẹ̀lú èyíkéyìí nọ́mbà àìòdo jẹ́ òdo."}}
+{"translation": {"source": "Logarithms are the inverse of exponents.", "target": "Lógarítímù jẹ́ ìdojúkọ àwọn òṣónídìí."}}
+{"translation": {"source": "The dot product of two vectors is a scalar.", "target": "Ìsọdipúpọ̀ àyè-tó àwọn ògún méjì jẹ́ òṣùwọ̀n."}}
+{"translation": {"source": "A complex number has the form a + bi, where a and b are real numbers and i is the imaginary unit.", "target": "Òòkà àdàpọ̀ ní ọ̀nà a + bi, níbi tí a àti b jẹ́ àwọn òòkà gidi àti i jẹ́ ẹ̀yà àfojúró."}}
+{"translation": {"source": "The formula for the area of a circle is pi times radius squared.", "target": "Òfin fún òrò ẹ̀ká jẹ́ pi fún igbó ẹ̀ká lẹ́ẹ̀méjì."}}
+{"translation": {"source": "The volume of a cone is one-third the area of the base multiplied by the height.", "target": "Àyè àkóńù jẹ́ ìdá-mẹ́ta òrò ìsàlẹ̀ lọ́nà ìsọdipúpọ̀ pẹ̀lú gíga."}}
+{"translation": {"source": "Gaussian elimination is a method for solving systems of linear equations.", "target": "Ìmúkúrò Gáúsiánù jẹ́ ọ̀nà fún yíyanǹjú àwọn ètò ọ̀mì-dogbá."}}
+{"translation": {"source": "Matrices are rectangular arrays of numbers arranged in rows and columns.", "target": "Àwọn ìtẹ́dúbùlè jẹ́ àkójọ òṣùwọ̀n àwọn nọ́mbà tí a to ní àwọn ìlà àti àwọn ọ̀wọ́n."}}
+{"translation": {"source": "Game theory is the study of mathematical models of strategic interaction between rational decision-makers.", "target": "Ẹ̀kọ́ ere jẹ́ ẹ̀kọ́ àwọn àwòṣe ìṣirò ìbáṣepọ̀ àdájọ láàrín àwọn olùpinnu aláròjinlẹ̀."}}
+{"translation": {"source": "A sequence is an ordered list of numbers.", "target": "Ìtẹ̀lé jẹ́ àkọjọ àwọn òòkà tí a tò."}}
+{"translation": {"source": "A trapezoid is a quadrilateral with exactly one pair of parallel sides.", "target": "Amúgàga jẹ́ onímẹ́rin tí ó ní ẹgbẹ́ ọgbà bájẹ̀pẹ̀ ìkan."}}
+{"translation": {"source": "When we divide by zero, the result is undefined.", "target": "Nígbà tí a bá pín pẹ̀lú òdo, èsì kò ní ìtumọ̀."}}
+{"translation": {"source": "The area of a rectangle is length multiplied by width.", "target": "Òrò àkòdi jẹ́ gígùn lọ́nà ìsọdipúpọ̀ pẹ̀lú ìbú."}}
+{"translation": {"source": "The cross product of two vectors gives another vector.", "target": "Ìpo ẹ̀yọ méjì fún fẹ́ktọ̀ mìíràn."}}
+{"translation": {"source": "The sine of an angle in a right triangle is the ratio of the opposite side to the hypotenuse.", "target": "Sine igun nínú anígunmẹ́ta onígun-ọ̀tún jẹ́ ìbùpín ẹ̀gbẹ́ ìdojúkọ sí hypotenuse."}}
+{"translation": {"source": "The volume of a rectangular prism is V = lwh, where l is the length, w is the width, and h is the height.", "target": "Àyè àkòdì-ìdẹ̀ jẹ́ V = lwh, níbi tí l jẹ́ gígùn, w jẹ́ ìbú, àti h jẹ́ gíga."}}
+{"translation": {"source": "Addition is one of the four basic operations of arithmetic.", "target": "Àròpọ̀ jẹ́ ọ̀kan lára àwọn ọṣẹ́ ìpilẹ̀ mẹ́rin ti ìṣirò."}}
+{"translation": {"source": "A theorem is a statement that has been proven on the basis of previously established statements.", "target": "Òfin jẹ́ gbólóhùn tí a ti ṣe ìdánilójú lórí ìpìlẹ̀ à"}}
+{"translation": {"source": "To find the mean, add all values and divide by the number of values.", "target": "Láti wá àròpín, ṣe àpapọ̀ gbogbo àwọn iye kí o sì pín pẹ̀lú iye àwọn nọ́mbà náà."}}
+{"translation": {"source": "The cosine of an angle in a right triangle is the ratio of the adjacent side to the hypotenuse.", "target": "Kósáìnù igun kan nínú igun-ọ̀tún onímẹ́ta jẹ́ ìbùpín ẹgbẹ́ tímọ́ sí ẹgbẹ́ gígajùlọ."}}
+{"translation": {"source": "The tangent to a circle touches the circle at exactly one point.", "target": "Dotun-ẹ̀ká kan fọwọ́ kan ẹ̀ká náà ní ojúami kan péré."}}
+{"translation": {"source": "The binomial theorem gives the expansion of (a + b)^n.", "target": "Àkàwé báìnómíà fún ìgbórí (a + b)^n."}}
+{"translation": {"source": "The domain of a relation is the set of all first components of its ordered pairs.", "target": "Àdúgbò ìbátan jẹ́ ìtò gbogbo àwọn èròjà àkọ́kọ́ àwọn ìwọ̀n tí a tò rẹ̀."}}
+{"translation": {"source": "Euler's formula states that e^(iπ) + 1 = 0.", "target": "Òfin Euler sọ pé e^(iπ) + 1 = 0."}}

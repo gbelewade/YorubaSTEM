@@ -19,6 +19,6 @@ def convert_txt_to_csv(input_file, output_file):
         print(f"Error: {e}")
 
 # Example usage
-input_txt = "Dataset 2.0.txt"  # Change to your input file name
-output_csv = "english_yoruba.csv"  # Output file name
+input_txt = "./DataSets/Math/Math1.0.txt"  # Change to your input file name
+output_csv = "./Preprocess/STEMsmall.csv"  # Output file name
 convert_txt_to_csv(input_txt, output_csv)
