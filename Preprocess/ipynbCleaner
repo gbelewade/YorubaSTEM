@@ -1,0 +1,17 @@
+import nbformat
+
+notebook_path = './YorubaSTEMT5.ipynb'
+
+# Load the notebook
+with open(notebook_path, 'r', encoding='utf-8') as f:
+    nb = nbformat.read(f, as_version=nbformat.NO_CONVERT)
+
+# Remove widgets metadata if it exists
+if 'widgets' in nb['metadata']:
+    del nb['metadata']['widgets']
+
+# Save the cleaned notebook
+with open(notebook_path, 'w', encoding='utf-8') as f:
+    nbformat.write(nb, f)
+
+print("✅ Fixed notebook saved.")
